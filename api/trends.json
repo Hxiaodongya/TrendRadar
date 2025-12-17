@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T04:13:50.305717+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-12-18T05:11:46.575493+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 97,
+      "match_count": 112,
       "titles": [
         {
           "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
         },
         {
           "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
         },
         {
           "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
@@ -38,8 +38,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
+          "url": "https://www.zhihu.com/question/1984546043069760250",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "美国同意提供安全保障，欧洲多方欢迎“重大进展”，美乌“和平计划”将提交俄方",
+          "url": "https://wallstreetcn.com/articles/3761522",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
         },
         {
           "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
@@ -55,40 +81,15 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
-          "title": "美国同意提供安全保障，欧洲多方欢迎“重大进展”，美乌“和平计划”将提交俄方",
-          "url": "https://wallstreetcn.com/articles/3761522",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
-          "url": "https://www.zhihu.com/question/1984546043069760250",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "美国参议院一致通过立法，在致命坠机事故后强化军用直升机安全要求。",
-          "url": "https://flash.jin10.com/detail/20251218034008746800",
+          "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
+          "url": "https://flash.jin10.com/detail/20251218043431580800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时11分"
         },
         {
           "title": "美国原油期货收盘反弹1.2%",
@@ -97,9 +98,82 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
+          "url": "https://wallstreetcn.com/livenews/3022602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "马岛战争的陆地决战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
+          "url": "https://www.zhihu.com/question/1984441162011022805",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "台军：福建舰入列后首过台湾海峡",
+          "url": "https://www.douyin.com/hot/2338848",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "高市早苗又表态台湾问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "福建舰入列后首度过航台海",
+          "url": "https://www.toutiao.com/trending/7583989863396655110/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
         },
         {
           "title": "美国参议院通过超9000亿美元国防授权法案",
@@ -113,77 +187,61 @@
           "time_info": "02时18分"
         },
         {
-          "title": "美国交通部与Beta Technologies及行业伙伴合作制定国家先进空中机动性战略。",
-          "url": "https://flash.jin10.com/detail/20251218033813955800",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，原油投机者将WTI原油净空头头寸减少2,312手，至50,928手。",
+          "url": "https://flash.jin10.com/detail/20251218043241837800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时11分"
         },
         {
-          "title": "马岛战争的陆地决战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX黄金投机者将净多头头寸增加11,832手，至119,808手。",
+          "url": "https://flash.jin10.com/detail/20251218043056017800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            23,
-            19,
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
-          "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
-          "url": "https://www.zhihu.com/question/1984441162011022805",
-          "source": "知乎",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX白银投机者将净多头头寸增加1,127手，至21,254手。",
+          "url": "https://flash.jin10.com/detail/20251218043047902800",
+          "source": "金十数据",
           "ranks": [
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
-          "title": "台军：福建舰入列后首过台湾海峡",
-          "url": "https://www.douyin.com/hot/2338848",
-          "source": "抖音",
+          "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX铜投机者将净多头头寸增加5,708手，至64,204手。",
+          "url": "https://flash.jin10.com/detail/20251218043016498800",
+          "source": "金十数据",
           "ranks": [
-            13
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
-          "title": "高市早苗又表态台湾问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "报道：波音供应商Doncasters已为美国IPO计划选定投行",
+          "url": "https://wallstreetcn.com/livenews/3022572",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            17,
-            20,
-            16
+            1,
+            11,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "福建舰入列后首度过航台海",
-          "url": "https://www.toutiao.com/trending/7583989863396655110/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：GDP增速稳固，预计将在2026年继续如此。",
@@ -199,16 +257,16 @@
           "time_info": "[02时18分 ~ 04时13分]"
         },
         {
-          "title": "报道：波音供应商Doncasters已为美国IPO计划选定投行",
-          "url": "https://wallstreetcn.com/livenews/3022572",
-          "source": "华尔街见闻-快讯",
+          "title": "美国参议院一致通过立法，在致命坠机事故后强化军用直升机安全要求。",
+          "url": "https://flash.jin10.com/detail/20251218034008746800",
+          "source": "金十数据",
           "ranks": [
             1,
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 05时11分]"
         },
         {
           "title": "甲骨文信用风险指标恐创2009年以来收盘新高，媒体此前报道称，Blue Owl不再支持该公司位于美国密西根的100亿美元规模的数据中心交易。 甲骨文五年期信用违约掉期（CDS）达到155.27个基点——恐创2009年1月份（全球金融危机全面发酵）以来收盘新高，涨幅大约3.8个基点。",
@@ -234,6 +292,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "美国交通部与Beta Technologies及行业伙伴合作制定国家先进空中机动性战略。",
+          "url": "https://flash.jin10.com/detail/20251218033813955800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
         },
         {
           "title": "西班牙电信：将启动美国存托凭证（ADS）退市程序。预计这一决定不会对在美国的客户、合作伙伴或商业布局产生任何影响。",
@@ -284,6 +354,19 @@
           "time_info": "[01时16分 ~ 02时18分]"
         },
         {
+          "title": "美国参议院通过9010亿美元国防授权法案",
+          "url": "https://wallstreetcn.com/livenews/3022564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时11分]"
+        },
+        {
           "title": "汪苏泷方辟谣“在美国有孩子”传闻",
           "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%AD%A9%E5%AD%90%E2%80%9D%E4%BC%A0%E9%97%BB",
           "source": "百度热搜",
@@ -307,18 +390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时18分]"
-        },
-        {
-          "title": "美国参议院通过9010亿美元国防授权法案",
-          "url": "https://wallstreetcn.com/livenews/3022564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时13分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -345,6 +416,18 @@
           "time_info": "[03时13分 ~ 04时13分]"
         },
         {
+          "title": "据华尔街日报：美国民主党参议员就美国联邦调查局（FBI）未能调查爱泼斯坦的律师和会计师一事施压，要求司法部解释，为何在调查爱泼斯坦性交易计划时，FBI从未传唤其长期律师或内部会计师接受问询。",
+          "url": "https://flash.jin10.com/detail/20251218031307488800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
           "title": "美国国会助手透露，参议员们已接近达成协议，以推动一项旨在加强军用直升机安全要求的立法获得通过，此动议源于一起致命坠机事故。",
           "url": "https://flash.jin10.com/detail/20251218022204572800",
           "source": "金十数据",
@@ -355,6 +438,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时13分]"
+        },
+        {
+          "title": "美国向厄瓜多尔派遣军队开展“打击贩毒”行动",
+          "url": "https://flash.jin10.com/detail/20251218030954202800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
         },
         {
           "title": "玻利维亚押注锂矿和美国以帮助结束经济衰退",
@@ -549,6 +644,18 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
+          "title": "财团在日本经济中有多重要",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B4%A2%E5%9B%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E4%B8%AD%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
           "title": "美国12月12日当周EIA原油库存变动 -127.4万桶，预期 -205万桶，前值 -181.2万桶。",
           "url": "https://wallstreetcn.com/livenews/3022507",
           "source": "华尔街见闻-快讯",
@@ -570,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "市场消息：美国电动飞行器开发公司Archer Aviation正根据白宫行政命令，推进在美国各大城市启动空中出租车试运行。",
+          "url": "https://flash.jin10.com/detail/20251218042933231800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "美国至12月12日当周原油出口量为2025年9月12日当周以来最高。",
@@ -616,15 +734,15 @@
           "time_info": "02时18分"
         },
         {
-          "title": "据华尔街日报：美国民主党参议员就美国联邦调查局（FBI）未能调查爱泼斯坦的律师和会计师一事施压，要求司法部解释，为何在调查爱泼斯坦性交易计划时，FBI从未传唤其长期律师或内部会计师接受问询。",
-          "url": "https://flash.jin10.com/detail/20251218031307488800",
+          "title": "美国参议院以67票赞成、30票反对的投票结果，批准亿万富翁、私人宇航员Jared Isaacman出任第15任美国国家航空航天局局长。",
+          "url": "https://flash.jin10.com/detail/20251218042021663800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时11分"
         },
         {
           "title": "美国至12月12日当周EIA蒸馏燃油产量引伸需求数据 522.64万桶/日，前值525.46万桶/日。",
@@ -649,15 +767,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美国向厄瓜多尔派遣军队开展“打击贩毒”行动",
-          "url": "https://flash.jin10.com/detail/20251218030954202800",
-          "source": "金十数据",
+          "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
+          "url": "https://wallstreetcn.com/livenews/3022593",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时11分"
         },
         {
           "title": "美国至12月12日当周EIA车用汽油总产量引伸需求数据 1006.94万桶/日，前值954.13万桶/日。",
@@ -680,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国密歇根州法官禁止该州封锁Enbridge输油管道",
+          "url": "https://wallstreetcn.com/livenews/3022592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "美国至12月12日当周EIA原油产量引伸需求数据 2055万桶/日，前值2070.1万桶/日。",
@@ -726,6 +855,28 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国天然气期货在结算后交易中延续涨势，上涨5%，因流向液化天然气出口设施的气流接近历史高位，且预计下周需求将进一步增加。",
+          "url": "https://flash.jin10.com/detail/20251218035256642800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美国2025年CLO销售达到2015亿美元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3022589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
           "title": "美国至12月12日当周EIA汽油产量 3.3万桶/日，前值-17.8万桶/日。",
           "url": "https://flash.jin10.com/detail/20251217233005775800",
           "source": "金十数据",
@@ -748,6 +899,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国和俄罗斯本周将在迈阿密会谈。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3022588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
           "title": "美国至12月12日当周EIA精炼油产量 -22.8万桶/日，前值38万桶/日。",
           "url": "https://flash.jin10.com/detail/20251217233005774800",
           "source": "金十数据",
@@ -757,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美国原油期货收盘反弹1.2%，纽约天然气涨超3.5%",
+          "url": "https://wallstreetcn.com/livenews/3022586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "美国至12月12日当周EIA俄克拉荷马州库欣原油库存 -74.2万桶，前值30.8万桶。",
@@ -1040,9 +1213,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国为何要对委内瑞拉采取行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "美国财长贝森特：20个州正考虑进一步为统特朗普账户注资。",
@@ -1100,17 +1284,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "财团在日本经济中有多重要",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B4%A2%E5%9B%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E4%B8%AD%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
           "title": "美国至12月12日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251217232000000800",
           "source": "金十数据",
@@ -1125,7 +1298,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -1147,8 +1320,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时11分]"
+        },
+        {
+          "title": "马斯克：xAI可能会看到AGI在2026年超越人类智慧。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3022597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -1185,6 +1369,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "据Business Insider：马斯克称，xAI可能在2026年展现出超越人类智能的通用人工智能。",
+          "url": "https://flash.jin10.com/detail/20251218042922594800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         },
         {
           "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
