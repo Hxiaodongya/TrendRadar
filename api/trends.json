@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T10:03:48.194891+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2025-12-17T15:41:47.600656+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -76,6 +76,28 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
           "url": "https://flash.jin10.com/detail/20251217031120622800",
           "source": "金十数据",
@@ -93,7 +115,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -107,17 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普周三晚的讲话将着重介绍政绩。",
@@ -153,17 +164,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将谈论未来展望，或许会预告新年政策。",
           "url": "https://flash.jin10.com/detail/20251217030552131800",
           "source": "金十数据",
@@ -186,19 +186,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 05时27分]"
-        },
-        {
-          "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
-          "url": "https://wallstreetcn.com/livenews/3021857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时32分]"
         },
         {
           "title": "周二（12月16日），降息赢家指数跌0.36%，“特朗普关税输家”指数跌0.46%，散户抱团概念股指数/迷因股（meme stock）指数涨4.26%。",
@@ -296,16 +283,26 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
-          "url": "https://wallstreetcn.com/livenews/3021803",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            29
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "据英国金融时报：特朗普政府在关键会议前抨击世贸组织。",
@@ -319,13 +316,24 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "评论员：特朗普越来越像拜登",
           "url": "https://www.toutiao.com/trending/7584323902441000490/",
           "source": "今日头条",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -336,7 +344,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -380,7 +388,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -391,7 +399,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -446,7 +454,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -457,15 +465,240 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         }
       ]
     },
     {
+      "keyword_group": "ai AI ai IDE 编辑器",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 10时03分]"
+        },
+        {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 07时26分]"
+        },
+        {
+          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
+          "url": "https://flash.jin10.com/detail/20251217021028425800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
+          "url": "https://flash.jin10.com/detail/20251217010715480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
+          "url": "https://wallstreetcn.com/livenews/3021857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 04时32分]"
+        },
+        {
+          "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3021924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
+          "url": "https://www.cls.cn/detail/2231043",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
+          "url": "https://wallstreetcn.com/livenews/3021861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 04时32分]"
+        },
+        {
+          "title": "Doordash在美国旧金山和纽约市测试基于AI的、用于发现餐厅的APP。",
+          "url": "https://wallstreetcn.com/livenews/3021846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时25分]"
+        },
+        {
+          "title": "即梦AI上新，支持声音、画面同步生成",
+          "url": "https://wallstreetcn.com/livenews/3021804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
+          "url": "https://wallstreetcn.com/livenews/3021803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时31分]"
+        },
+        {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：推出SAM Audio，一款用于声音分割的AI模型。",
+          "url": "https://flash.jin10.com/detail/20251217000241230800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
+          "url": "https://flash.jin10.com/detail/20251217015359218800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "成都 35 所中小学试点 AI 批改作业，准确率达 95%，如何评价这种批改形式？会全国推广吗？",
+          "url": "https://www.zhihu.com/question/1984358783053422759",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "成都35所中小学试点AI批改作业",
+          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
+          "url": "https://flash.jin10.com/detail/20251217041047149800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "百度升级发布文心健康管家 推原子计划开放AI能力",
+          "url": "https://wallstreetcn.com/livenews/3022229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
+          "url": "https://flash.jin10.com/detail/20251217013746986800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 12,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -490,18 +723,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 10时03分]"
-        },
-        {
-          "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
-          "url": "https://wallstreetcn.com/livenews/3021924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -621,81 +842,102 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "keyword_group": "战争 台湾",
+      "match_count": 8,
       "titles": [
         {
-          "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
-          "url": "https://flash.jin10.com/detail/20251217021028425800",
-          "source": "金十数据",
+          "title": "国台办回应高市早苗妄称台湾问题应通过对话和平解决",
+          "url": "https://news.ifeng.com/c/8p9cDh2KPNu",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "15时41分"
         },
         {
-          "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
-          "url": "https://flash.jin10.com/detail/20251217010715480800",
+          "title": "高市妄称对话解决台湾问题 国台办驳斥",
+          "url": "https://www.toutiao.com/trending/7583598453100675126/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "福建舰入列后首次通过台湾海峡",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E5%90%8E%E9%A6%96%E6%AC%A1%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
+          "url": "https://www.zhihu.com/question/1984584537397797386",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193902",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "王毅：坚决反对日本现职领导人在台湾问题上干涉中国内政",
+          "url": "https://flash.jin10.com/detail/20251217004415579800",
           "source": "金十数据",
           "ranks": [
-            3
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         },
         {
-          "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
-          "url": "https://wallstreetcn.com/livenews/3021861",
+          "title": "学者：泰柬全面战争打不起来",
+          "url": "https://www.toutiao.com/trending/7584599462811536939/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "台湾证交所加权股价指数高开0.2%报27,596.18点。",
+          "url": "https://wallstreetcn.com/livenews/3022008",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时32分]"
-        },
-        {
-          "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
-          "url": "https://flash.jin10.com/detail/20251217015359218800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
-          "url": "https://flash.jin10.com/detail/20251217041047149800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
-          "url": "https://flash.jin10.com/detail/20251217013746986800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数16日下跌",
@@ -719,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "印尼央行行长：美元指数仍偏高，限制资本向新兴市场流动。",
+          "url": "https://flash.jin10.com/detail/20251217150955842800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     },
@@ -751,7 +1004,7 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "文生图 Generate image from text gemini sora",
       "match_count": 1,
       "titles": [
         {
@@ -764,6 +1017,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中国经济",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025中国经济印记",
+          "url": "https://www.douyin.com/hot/2338915",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     },
