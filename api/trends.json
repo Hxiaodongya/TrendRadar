@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T18:47:45.500364+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-12-17T19:12:57.061150+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 160,
+      "match_count": 166,
       "titles": [
         {
           "title": "美国就业继续降温：11月非农小幅回升，但失业率创四年新高，交易员估明年降息两次",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时38分 ~ 18时47分]"
+          "appearance_count": 20,
+          "time_info": "[00时38分 ~ 19时12分]"
         },
         {
           "title": "学者：高市的错误言论，也折射出美国撤离的信号",
@@ -54,6 +54,20 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
+          "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
+          "url": "https://www.zhihu.com/question/1984584537397797386",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 19时12分]"
+        },
+        {
           "title": "美国11月非农录得6.4万人 失业率为四年来新高 劳动力市场面临不确定性",
           "url": "https://www.cls.cn/detail/2231468",
           "source": "财联社热门",
@@ -67,18 +81,44 @@
           "time_info": "[00时38分 ~ 10时03分]"
         },
         {
-          "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
-          "url": "https://www.zhihu.com/question/1984584537397797386",
-          "source": "知乎",
+          "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193902",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            4,
-            8,
-            5
+            11,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 19时12分]"
+        },
+        {
+          "title": "最后两只旅日大熊猫即将回国，日本议员盯上台湾的大熊猫",
+          "url": "https://news.ifeng.com/c/8p9v3lxegq9",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[15时41分 ~ 18时47分]"
+          "time_info": "[16时18分 ~ 19时12分]"
+        },
+        {
+          "title": "东京上野龙凤胎大熊猫明年 1 月归还中国，归还后日本国内饲养大熊猫数量将为零，这对当地旅游业有何影响？",
+          "url": "https://www.zhihu.com/question/1983826948108087313",
+          "source": "知乎",
+          "ranks": [
+            5,
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 19时12分]"
         },
         {
           "title": "高市妄称对话解决台湾问题 国台办驳斥",
@@ -107,30 +147,16 @@
           "time_info": "[16时18分 ~ 17时47分]"
         },
         {
-          "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193902",
-          "source": "澎湃新闻",
+          "title": "美国同意提供安全保障，欧洲多方欢迎“重大进展”，美乌“和平计划”将提交俄方",
+          "url": "https://wallstreetcn.com/articles/3761522",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
             7,
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 18时47分]"
-        },
-        {
-          "title": "最后两只旅日大熊猫即将回国，日本议员盯上台湾的大熊猫",
-          "url": "https://news.ifeng.com/c/8p9v3lxegq9",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 18时47分]"
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 19时12分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -148,18 +174,33 @@
           "time_info": "[00时38分 ~ 10时03分]"
         },
         {
-          "title": "东京上野龙凤胎大熊猫明年 1 月归还中国，归还后日本国内饲养大熊猫数量将为零，这对当地旅游业有何影响？",
-          "url": "https://www.zhihu.com/question/1983826948108087313",
-          "source": "知乎",
+          "title": "日本议员盯上中国台湾地区的大熊猫",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%AE%E5%91%98%E7%9B%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB",
+          "source": "百度热搜",
           "ranks": [
+            14,
             5,
-            11,
-            12,
-            16
+            4,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 18时47分]"
+          "appearance_count": 8,
+          "time_info": "[16时51分 ~ 19时12分]"
+        },
+        {
+          "title": "福建舰入列后首度过航台海",
+          "url": "https://www.toutiao.com/trending/7583989863396655110/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 19时12分]"
         },
         {
           "title": "许亚军被曝在美国",
@@ -186,6 +227,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 10时03分]"
+        },
+        {
+          "title": "日本遗孤：从小恨自己为何是日本人",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%97%E5%AD%A4%EF%BC%9A%E4%BB%8E%E5%B0%8F%E6%81%A8%E8%87%AA%E5%B7%B1%E4%B8%BA%E4%BD%95%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15,
+            17,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时41分 ~ 19时12分]"
         },
         {
           "title": "中方召见东南亚国家大使并批评日本？外交部回应",
@@ -215,59 +271,18 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
-          "title": "美国同意提供安全保障，欧洲多方欢迎“重大进展”，美乌“和平计划”将提交俄方",
-          "url": "https://wallstreetcn.com/articles/3761522",
-          "source": "华尔街见闻",
+          "title": "日议员提议去台湾换大熊猫",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E8%AE%AE%E5%91%98%E6%8F%90%E8%AE%AE%E5%8E%BB%E5%8F%B0%E6%B9%BE%E6%8D%A2%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 18时47分]"
-        },
-        {
-          "title": "日本议员盯上中国台湾地区的大熊猫",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AE%AE%E5%91%98%E7%9B%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            14,
+            20,
             5,
-            4,
-            7
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时51分 ~ 18时47分]"
-        },
-        {
-          "title": "福建舰入列后首度过航台海",
-          "url": "https://www.toutiao.com/trending/7583989863396655110/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 18时47分]"
-        },
-        {
-          "title": "日本遗孤：从小恨自己为何是日本人",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%97%E5%AD%A4%EF%BC%9A%E4%BB%8E%E5%B0%8F%E6%81%A8%E8%87%AA%E5%B7%B1%E4%B8%BA%E4%BD%95%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15,
-            17,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时41分 ~ 18时47分]"
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 19时12分]"
         },
         {
           "title": "美军报告曝光：介入台海恐吃败仗",
@@ -298,20 +313,6 @@
           "time_info": "[16时18分 ~ 18时14分]"
         },
         {
-          "title": "日议员提议去台湾换大熊猫",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E8%AE%AE%E5%91%98%E6%8F%90%E8%AE%AE%E5%8E%BB%E5%8F%B0%E6%B9%BE%E6%8D%A2%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时18分 ~ 18时47分]"
-        },
-        {
           "title": "日本民众告别大熊猫只能看1分钟",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%91%8A%E5%88%AB%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8F%AA%E8%83%BD%E7%9C%8B1%E5%88%86%E9%92%9F",
           "source": "百度热搜",
@@ -325,6 +326,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时41分 ~ 18时14分]"
+        },
+        {
+          "title": "中方召见东南亚国家大使并批评日本？外交部：日方混淆视听",
+          "url": "https://news.ifeng.com/c/8p9xTAFdjvh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
+          "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
+          "url": "https://v.ifeng.com/c/8pA0LK8hlbK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
         },
         {
           "title": "中国驻美国使领馆：提醒在美公民进行“海外公民登记”",
@@ -353,17 +376,6 @@
           "time_info": "[10时03分 ~ 15时41分]"
         },
         {
-          "title": "中方召见东南亚国家大使并批评日本？外交部：日方混淆视听",
-          "url": "https://news.ifeng.com/c/8p9xTAFdjvh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时47分]"
-        },
-        {
           "title": "国台办回应高市早苗妄称台湾问题应通过对话和平解决",
           "url": "https://news.ifeng.com/c/8p9cDh2KPNu",
           "source": "凤凰网",
@@ -374,17 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 16时18分]"
-        },
-        {
-          "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
-          "url": "https://v.ifeng.com/c/8pA0LK8hlbK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时47分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -407,6 +408,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "中国贸促会会长任鸿斌会见美国超威半导体公司和宝洁公司负责人",
+          "url": "https://wallstreetcn.com/livenews/3022369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "高市早苗又表态台湾问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            27,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时18分 ~ 19时12分]"
+        },
+        {
+          "title": "马岛战争的陆地决战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "日本执政党拟放宽武器出口限制引发广泛批评",
@@ -486,6 +523,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "意大利总理梅洛尼：美国和欧盟应共同努力以实现乌克兰和平。",
+          "url": "https://wallstreetcn.com/livenews/3022364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "日本民众排队送别大熊猫",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%8E%92%E9%98%9F%E9%80%81%E5%88%AB%E5%A4%A7%E7%86%8A%E7%8C%AB",
           "source": "百度热搜",
@@ -536,7 +584,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -552,18 +600,18 @@
           "time_info": "07时26分"
         },
         {
-          "title": "高市早苗又表态台湾问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "美国为何要对委内瑞拉采取行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            24,
-            27,
             23,
-            25
+            17,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时18分 ~ 18时47分]"
+          "time_info": "[16时18分 ~ 19时12分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
@@ -701,19 +749,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时52分 ~ 18时14分]"
-        },
-        {
-          "title": "美国为何要对委内瑞拉采取行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时47分]"
         },
         {
           "title": "美国务院批准1亿美元对日军售",
@@ -1079,6 +1114,18 @@
           "time_info": "[02时41分 ~ 03时25分]"
         },
         {
+          "title": "日议员提议去台湾换大熊猫",
+          "url": "https://www.toutiao.com/trending/7584028279468752938/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时12分]"
+        },
+        {
           "title": "美国至12月12日当周API原油库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251217052000001800",
           "source": "金十数据",
@@ -1160,6 +1207,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "Billboard2025美国单曲年榜",
+          "url": "https://search.bilibili.com/all?keyword=Billboard2025%E7%BE%8E%E5%9B%BD%E5%8D%95%E6%9B%B2%E5%B9%B4%E6%A6%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美国11月非农就业报告发布日，标普500指数初步收跌0.2%，能源板块跌2.8%，保健板块跌1.2%，科技板块涨0.5%。 纳斯达克100指数初步收涨0.3%，成分股中，康卡斯特初步收涨5.5%，Strategy涨3.7%，特斯拉涨3.4%，Palantir涨2.6%，核电股Constellation Energy涨2.6%，Arm控股则跌2.5%，Diamondback Energy跌2.9%，美国油服贝克休斯跌3.9%。",
           "url": "https://wallstreetcn.com/livenews/3021901",
           "source": "华尔街见闻-快讯",
@@ -1180,6 +1238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "俄罗斯总统普京：我们寻求与美国和欧洲国家互利合作。",
+          "url": "https://flash.jin10.com/detail/20251217185917290800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国批准1亿美元对日军售",
@@ -1347,17 +1416,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "日议员提议去台湾换大熊猫",
-          "url": "https://www.toutiao.com/trending/7584028279468752938/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
-        },
-        {
           "title": "美国至12月16日6周国债竞拍-投标倍数 2.73，前值2.89。",
           "url": "https://flash.jin10.com/detail/20251217003421341800",
           "source": "金十数据",
@@ -1496,7 +1554,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
@@ -1708,6 +1766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "意大利总理梅洛尼：美国和欧盟应携手努力，实现乌克兰和平。",
+          "url": "https://flash.jin10.com/detail/20251217184058507800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "日本在冲绳圈地为部署雷达做准备",
@@ -2038,6 +2107,18 @@
           "time_info": "[16时18分 ~ 16时52分]"
         },
         {
+          "title": "协创数据：拟在广州开发区，投资光芯片、光模块研发和生产建设项目,主要从事利用自主芯片研发超低功耗光模块，适配AI算力中心、超算中心等高端场景业务。",
+          "url": "https://wallstreetcn.com/livenews/3022345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时12分]"
+        },
+        {
           "title": "OpenAI：面向所有用户在ChatGPT中推出全新图像模型及功能。 同时，在API端以GPT Image 1.5的形式上线。",
           "url": "https://wallstreetcn.com/livenews/3021861",
           "source": "华尔街见闻-快讯",
@@ -2118,17 +2199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "协创数据：拟在广州开发区，投资光芯片、光模块研发和生产建设项目,主要从事利用自主芯片研发超低功耗光模块，适配AI算力中心、超算中心等高端场景业务。",
-          "url": "https://wallstreetcn.com/livenews/3022345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
         },
         {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
@@ -2221,8 +2291,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
         },
         {
           "title": "从11月份数据看中国经济增长点",
@@ -2231,9 +2301,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 19时12分]"
         }
       ]
     }
