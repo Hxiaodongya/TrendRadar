@@ -1,25 +1,11 @@
-DeepSeek
-梁文锋
-
-谷歌
-google
+ai
+AI
+ai IDE
+文生图
+Generate image from text
 gemini
-
-chatgpt
-openai
-
-金价
-
-黄金
-+价格
-
-美债
-
-美股
-
-美元
-+指数
-
-特朗普
-
-伊朗
+sora
+cursor
+trae
+战争
+台湾
