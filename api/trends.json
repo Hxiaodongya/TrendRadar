@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T01:16:52.639253+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-12-18T02:18:28.337516+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 63,
+      "match_count": 73,
       "titles": [
         {
           "title": "台军通报福建舰入列后首次通过台湾海峡，有哪些信号和象征意义？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "高市早苗妄称台湾问题应通过对话和平解决，国台办答澎湃",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "日本H3火箭发射紧急停止，网上直播满屏问号",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
           "title": "日本女议员怒批高市早苗：生孩子不是为了送上战场",
@@ -48,63 +48,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
         },
         {
-          "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
-          "url": "https://flash.jin10.com/detail/20251218004201233800",
+          "title": "美国参议院通过超9000亿美元国防授权法案",
+          "url": "https://flash.jin10.com/detail/20251218014139449800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "02时18分"
         },
         {
-          "title": "西班牙电信：将启动美国存托凭证（ADS）退市程序。预计这一决定不会对在美国的客户、合作伙伴或商业布局产生任何影响。",
-          "url": "https://flash.jin10.com/detail/20251218004039843800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：呼吁各伙伴批准政治和财政决议。布鲁塞尔峰会应表明，俄罗斯继续战争毫无意义，因为乌克兰将拥有财政手段来保卫自己。",
-          "url": "https://flash.jin10.com/detail/20251218003915900800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国表示俄罗斯希望结束战争，但莫斯科发出了相反的信号。",
-          "url": "https://flash.jin10.com/detail/20251218003751832800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.540%，投标倍数3.27。",
-          "url": "https://wallstreetcn.com/livenews/3022535",
+          "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：GDP增速稳固，预计将在2026年继续如此。",
+          "url": "https://wallstreetcn.com/livenews/3022554",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "02时18分"
         },
         {
           "title": "美国同意提供安全保障，欧洲多方欢迎“重大进展”，美乌“和平计划”将提交俄方",
@@ -115,8 +82,79 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "甲骨文信用风险指标恐创2009年以来收盘新高，媒体此前报道称，Blue Owl不再支持该公司位于美国密西根的100亿美元规模的数据中心交易。 甲骨文五年期信用违约掉期（CDS）达到155.27个基点——恐创2009年1月份（全球金融危机全面发酵）以来收盘新高，涨幅大约3.8个基点。",
+          "url": "https://wallstreetcn.com/livenews/3022552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
+          "url": "https://flash.jin10.com/detail/20251218004201233800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "西班牙电信：将启动美国存托凭证（ADS）退市程序。预计这一决定不会对在美国的客户、合作伙伴或商业布局产生任何影响。",
+          "url": "https://flash.jin10.com/detail/20251218004039843800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：呼吁各伙伴批准政治和财政决议。布鲁塞尔峰会应表明，俄罗斯继续战争毫无意义，因为乌克兰将拥有财政手段来保卫自己。",
+          "url": "https://flash.jin10.com/detail/20251218003915900800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国表示俄罗斯希望结束战争，但莫斯科发出了相反的信号。",
+          "url": "https://flash.jin10.com/detail/20251218003751832800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.540%，投标倍数3.27。",
+          "url": "https://wallstreetcn.com/livenews/3022535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时18分]"
         },
         {
           "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
@@ -126,8 +164,77 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
+          "url": "https://www.zhihu.com/question/1984441162011022805",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "台军：福建舰入列后首过台湾海峡",
+          "url": "https://www.douyin.com/hot/2338848",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "马岛战争的陆地决战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "高市早苗又表态台湾问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "福建舰入列后首度过航台海",
+          "url": "https://www.toutiao.com/trending/7583989863396655110/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯将破坏结束战争的外交努力。",
+          "url": "https://flash.jin10.com/detail/20251218003638939800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "time_info": "[01时16分 ~ 02时18分]"
         },
         {
           "title": "美国加州核能初创公司Radiant Industries Inc.筹集超过3亿美元，用于将其小型反应堆设计商业化。 本轮D轮融资由Draper Associates和Boost VC领投，公司估值超过18亿美金。 Radiant正在研发一种1兆瓦级（1MW）微型反应堆，可由单个集装箱运输。目前，该公司已签署协议，向某美国军事基地及Equinix Inc.数据中心提供该技术。",
@@ -142,15 +249,16 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
-          "title": "美国核物理学家 Nuno Loureiro 15 日被枪杀，事件情况如何，对美国的聚变研究会有什么影响？",
-          "url": "https://www.zhihu.com/question/1984441162011022805",
-          "source": "知乎",
+          "title": "美国财长贝森特：猜测瑞达利欧将对Trump Accounts出资大约1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3022528",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "time_info": "[01时16分 ~ 02时18分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降127万桶，彭博用户预计减少310万桶、分析师预期下降242.617万桶，之前一周减少181.2万桶。 美国上周原油和燃料出口创历史新高。",
@@ -165,6 +273,18 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
+          "title": "美国财长贝森特：“哈塞特（可能会）担任美联储主席”的任何顾虑都是“荒诞的”。 哈塞特绝对有资格出任美联储主席，他（对FOMC货币政策立场）有自己的看法。",
+          "url": "https://wallstreetcn.com/livenews/3022527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
           "title": "美国12月12日当周EIA汽油库存变动 480.8万桶，预期 195万桶，前值 639.7万桶。",
           "url": "https://wallstreetcn.com/livenews/3022510",
           "source": "华尔街见闻-快讯",
@@ -177,35 +297,12 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
-          "title": "台军：福建舰入列后首过台湾海峡",
-          "url": "https://www.douyin.com/hot/2338848",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
-        },
-        {
           "title": "美国12月12日当周EIA库欣地区原油库存变动 -74.2万桶，前值 30.8万桶。",
           "url": "https://wallstreetcn.com/livenews/3022511",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
-        },
-        {
-          "title": "马岛战争的陆地决战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -248,37 +345,15 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
-          "title": "高市早苗又表态台湾问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E8%A1%A8%E6%80%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
-        },
-        {
-          "title": "福建舰入列后首度过航台海",
-          "url": "https://www.toutiao.com/trending/7583989863396655110/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯将破坏结束战争的外交努力。",
-          "url": "https://flash.jin10.com/detail/20251218003638939800",
+          "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
+          "url": "https://flash.jin10.com/detail/20251218012702878800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "02时18分"
         },
         {
           "title": "美国至12月12日当周原油出口量为2025年9月12日当周以来最高。",
@@ -298,9 +373,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
+          "url": "https://wallstreetcn.com/livenews/3022547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "金十数据整理：美国当周EIA库存数据看点一览",
@@ -312,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
+          "url": "https://flash.jin10.com/detail/20251218012504616800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "美国至12月12日当周EIA蒸馏燃油产量引伸需求数据 522.64万桶/日，前值525.46万桶/日。",
@@ -331,7 +428,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -353,7 +450,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -375,18 +472,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "美国财长贝森特：猜测瑞达利欧将对Trump Accounts出资大约1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3022528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -400,17 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "美国财长贝森特：“哈塞特（可能会）担任美联储主席”的任何顾虑都是“荒诞的”。 哈塞特绝对有资格出任美联储主席，他（对FOMC货币政策立场）有自己的看法。",
-          "url": "https://wallstreetcn.com/livenews/3022527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
         },
         {
           "title": "美国至12月12日当周EIA战略石油储备库存 24.9万桶，前值24.8万桶。",
@@ -441,7 +516,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -468,6 +543,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "联合国秘书长古特雷斯呼吁美国与委内瑞拉保持克制，并立即缓和局势。",
+          "url": "https://flash.jin10.com/detail/20251218011442464800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
           "title": "美国至12月12日当周EIA成品油进口 42.7万桶/日，前值6.7万桶/日。",
           "url": "https://flash.jin10.com/detail/20251217233004295801",
           "source": "金十数据",
@@ -477,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "法院文件显示，美国内政部正在审查是否有必要重新考虑批准多米尼恩能源公司位于弗吉尼亚州的海上风电项目。",
+          "url": "https://flash.jin10.com/detail/20251218011016052800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "美国至12月12日当周EIA投产原油量 12.8万桶/日，前值-1.6万桶/日。",
@@ -490,13 +587,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国参议院多数议员支持9010亿美元的年度国防政策法案，投票仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20251218010740016800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
           "title": "甲骨文跌幅扩大至6%，该公司证实，Blue Owl不参与其在美国密歇根州的数据中心项目，强调自家谈判进展顺利。",
           "url": "https://wallstreetcn.com/livenews/3022521",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -529,7 +637,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -562,7 +670,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -589,6 +697,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "汪苏泷方辟谣“在美国有孩子”传闻",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%96%B9%E8%BE%9F%E8%B0%A3%E2%80%9C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9C%89%E5%AD%A9%E5%AD%90%E2%80%9D%E4%BC%A0%E9%97%BB",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
           "title": "美国至12月12日当周EIA汽油库存 480.8万桶，预期206.2万桶，前值639.7万桶。",
           "url": "https://flash.jin10.com/detail/20251217233003451800",
           "source": "金十数据",
@@ -606,7 +725,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -639,7 +758,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -694,7 +813,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -713,7 +832,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -731,11 +850,35 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
+          "url": "https://wallstreetcn.com/livenews/3022526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时16分]"
+          "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
+          "url": "https://wallstreetcn.com/livenews/3022549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
@@ -744,20 +887,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
         {
-          "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
-          "url": "https://wallstreetcn.com/livenews/3022526",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊(AMZN.O)：Peter Desantis将领导一个新组织，负责推动我们最具扩展性的AI模型、硅研发和量子计算。",
+          "url": "https://flash.jin10.com/detail/20251218011901705800",
+          "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218010322438800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
+          "url": "https://flash.jin10.com/detail/20251218010152851800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "ThaiSweet樱花舞MV",
+          "url": "https://s.weibo.com/weibo?q=%23ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "OpenAI、Anthropic、谷歌公司与其他公司（含生物科技公司）讨论数据交易。 这三家公司一直在寻找专门的数据来训练他们的AI模型，并讨论与初创企业和上市公司合作，授权基因组学等主题的数据集。（The Information）",
