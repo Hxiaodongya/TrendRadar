@@ -1,44 +1,25 @@
 ai
 AI
-ai IDE
+IDE
 编辑器
 
 文生图
-Generate image from text
-gemini
-sora
+文字生成图片
+generate image from text
+AI作画
 
-cursor
-trae
-windsurf
+Cursor
+Trae
+Windsurf
 
 战争
+军事冲突
 台湾
+台海
+!游戏
 
 中国经济
-
-DeepSeek
-梁文锋
-
-谷歌
-google
-gemini
-
-chatgpt
-openai
-
-金价
-
-黄金
-+价格
-
-美债
-
-美股
-
-美元
-+指数
-
-特朗普
-
-伊朗
+大陆经济
+宏观经济
++数据
+!股票推荐
