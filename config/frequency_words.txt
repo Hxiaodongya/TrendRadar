@@ -1,11 +1,16 @@
 ai
 AI
 ai IDE
+编辑器
+
 文生图
 Generate image from text
 gemini
 sora
+
 cursor
 trae
+windsurf
+
 战争
 台湾
