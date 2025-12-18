@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T06:11:58.856173+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-12-19T07:12:26.652926+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 126,
+      "match_count": 130,
       "titles": [
         {
           "title": "外交部回应日本拟在冲绳部署雷达监视中方航母",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
@@ -27,19 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
-        },
-        {
-          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2233937",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "中国游客跑光,日本政客还在赢",
@@ -49,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "美国UP主在中国给老外演短剧",
@@ -61,11 +50,24 @@
             10,
             8,
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2233937",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "日本拟在冲绳部署雷达监视中方航母、飞机，外交部回应",
@@ -74,11 +76,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待",
@@ -89,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "本田中国及日本工厂将暂停生产或减产",
@@ -104,8 +107,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
@@ -116,22 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
-        },
-        {
-          "title": "台退将称日本只能来台湾换柴犬",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%80%E5%B0%86%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%8F%AA%E8%83%BD%E6%9D%A5%E5%8F%B0%E6%B9%BE%E6%8D%A2%E6%9F%B4%E7%8A%AC%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            18,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "美挑动“二虎竞食”、日本右翼欲“驱虎吞狼”，中国应固本待时",
@@ -143,8 +132,23 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "台退将称日本只能来台湾换柴犬",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%80%E5%B0%86%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%8F%AA%E8%83%BD%E6%9D%A5%E5%8F%B0%E6%B9%BE%E6%8D%A2%E6%9F%B4%E7%8A%AC%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            18,
+            12,
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "time_info": "[01时16分 ~ 07时12分]"
         },
         {
           "title": "财晓得｜为什么这次美国要跟委内瑞拉死磕到底？",
@@ -155,8 +159,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "“删号跑路”！日本副外相国光文乃，被要求引咎辞职",
@@ -166,8 +170,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "日议员盯上中国台湾大熊猫，帅化民怒呛：当我们“藩属国”？",
@@ -177,19 +181,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
-          "url": "https://wallstreetcn.com/livenews/3023366",
-          "source": "华尔街见闻-快讯",
+          "title": "“三巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "美国12月堪萨斯联储制造业产出指数 -3，前值18。",
@@ -234,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国国防部表示，美国国务院已批准向北约支持与采购局出售“毒刺”导弹的零部件及相关设备，预计价值1.361亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219063748060800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -294,6 +309,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时12分]"
+        },
+        {
+          "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
+          "url": "https://wallstreetcn.com/livenews/3023366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "经济学家：感恩节销售+特朗普政府关门都可能造成美国CPI数据失真",
@@ -454,6 +481,18 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
+          "title": "黄金在美国CPI通胀数据发布日冲高回落，一度逼近10月所创历史最高位",
+          "url": "https://wallstreetcn.com/livenews/3023362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
           "title": "美国10月国际资本净流入 -373亿美元，前值由1901亿美元修正为1843亿美元。",
           "url": "https://flash.jin10.com/detail/20251219050002430800",
           "source": "金十数据",
@@ -524,6 +563,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "美国10月外资净买入美国公债 -612亿美元，前值由255亿美元修正为251亿美元。",
@@ -658,6 +708,30 @@
           "time_info": "[00时16分 ~ 01时16分]"
         },
         {
+          "title": "美国至12月12日当周外国央行持有美国国债 -102.13亿美元，前值54.29亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219053036822800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
+          "url": "https://flash.jin10.com/detail/20251219051647002800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
           "title": "美联储数据显示，截至12月17日当周，美国未季调商业票据余额增加180亿美元，季调后商业票据余额增加112亿美元。未季调外国金融机构商业票据未偿余额增加11亿美元。",
           "url": "https://flash.jin10.com/detail/20251219020203855800",
           "source": "金十数据",
@@ -667,17 +741,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "黄金在美国CPI通胀数据发布日冲高回落，一度逼近10月所创历史最高位",
-          "url": "https://wallstreetcn.com/livenews/3023362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
         },
         {
           "title": "美国12月堪萨斯联储制造业综合指数 1，预期6，前值8。",
@@ -779,17 +842,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
           "title": "巴西总统卢拉：我在这里是为了帮助美国和委内瑞拉达成和平解决方案的。",
           "url": "https://flash.jin10.com/detail/20251218235152863800",
           "source": "金十数据",
@@ -821,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3023371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美国众议院委员会通过法案，以避免政府停摆期间出现航空中断。",
@@ -889,17 +952,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "美国至12月12日当周外国央行持有美国国债 -102.13亿美元，前值54.29亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219053036822800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
           "title": "美国12月12日当周EIA天然气库存变动 -1670亿立方英尺，预期 -1760亿立方英尺，前值 -1770亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3023241",
           "source": "华尔街见闻-快讯",
@@ -931,17 +983,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
-          "url": "https://flash.jin10.com/detail/20251219051647002800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
         },
         {
           "title": "美国总统特朗普回应关于自己对沃勒的看法，称：我觉得美联储理事沃勒很棒。 正与3名、或4名美联储主席候选人交谈，他们都不错。 很快将决定由谁担任美联储主席。 将在未来几周内公布。",
@@ -1049,7 +1090,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -1324,7 +1365,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -1448,12 +1489,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "日本增持美债至2022年7月以来新高，加拿大锐减约570亿美元",
+          "url": "https://wallstreetcn.com/livenews/3023349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1463,8 +1515,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -1474,8 +1526,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -1485,11 +1537,12 @@
             4,
             11,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -1500,8 +1553,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
@@ -1517,8 +1570,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时12分]"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -1527,7 +1580,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -1604,6 +1657,17 @@
           "time_info": "[02时17分 ~ 03时12分]"
         },
         {
+          "title": "机构密集调研AI眼镜产业链公司",
+          "url": "https://wallstreetcn.com/livenews/3023377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
           "url": "https://flash.jin10.com/detail/20251219032029402800",
           "source": "金十数据",
@@ -1635,6 +1699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3023367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
