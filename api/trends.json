@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T20:21:18.409522+08:00",
-  "total_titles_processed": 2035,
+  "generated_at": "2025-12-19T21:27:39.475704+08:00",
+  "total_titles_processed": 2133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 357,
+      "match_count": 363,
       "titles": [
         {
           "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 20时21分]"
+          "appearance_count": 14,
+          "time_info": "[08时53分 ~ 21时27分]"
         },
         {
           "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 20时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 21时27分]"
         },
         {
           "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时53分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时53分 ~ 21时27分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -56,6 +56,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 10时48分]"
+        },
+        {
+          "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
+          "url": "https://wallstreetcn.com/articles/3761698",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时26分 ~ 21时27分]"
         },
         {
           "title": "符合预期！日本央行宣布加息 基准利率达到三十年来高位",
@@ -126,21 +141,6 @@
           "time_info": "[00时16分 ~ 15时15分]"
         },
         {
-          "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
-          "url": "https://wallstreetcn.com/articles/3761698",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 20时21分]"
-        },
-        {
           "title": "中国游客跑光,日本政客还在赢",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348113&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%B7%91%E5%85%89%2C%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E8%BF%98%E5%9C%A8%E8%B5%A2",
           "source": "贴吧",
@@ -156,8 +156,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时16分 ~ 20时21分]"
+          "appearance_count": 21,
+          "time_info": "[01时16分 ~ 21时27分]"
         },
         {
           "title": "美国UP主在中国给老外演短剧",
@@ -178,6 +178,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 13时14分]"
+        },
+        {
+          "title": "美殖入脑!抖友神发言:美国才是家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 21时27分]"
         },
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
@@ -221,19 +234,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时16分 ~ 15时15分]"
-        },
-        {
-          "title": "美殖入脑!抖友神发言:美国才是家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 20时21分]"
         },
         {
           "title": "“删号跑路”！日本副外相国光文乃，被要求引咎辞职",
@@ -339,6 +339,17 @@
           "time_info": "[14时18分 ~ 19时11分]"
         },
         {
+          "title": "日媒：日本请求派代表团访华",
+          "url": "https://www.douyin.com/hot/2341378",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时27分]"
+        },
+        {
           "title": "日本自卫队滋扰辽宁舰训练 细节公布",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%BB%8B%E6%89%B0%E8%BE%BD%E5%AE%81%E8%88%B0%E8%AE%AD%E7%BB%83+%E7%BB%86%E8%8A%82%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
@@ -416,7 +427,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -432,15 +443,32 @@
           "time_info": "12时26分"
         },
         {
-          "title": "日媒：日本请求派代表团访华",
-          "url": "https://www.douyin.com/hot/2341378",
+          "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 21时27分]"
+        },
+        {
+          "title": "美国一小飞机坠毁致多人死亡",
+          "url": "https://www.douyin.com/hot/2340876",
           "source": "抖音",
           "ranks": [
-            1
+            17,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 21时27分]"
         },
         {
           "title": "日本急了 战机又被照射了",
@@ -695,9 +723,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "美国司法部副部长：预计我们将在今天之后公布更多爱泼斯坦案档案。",
+          "url": "https://flash.jin10.com/detail/20251219204216008800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "瑞穗：日本央行鸽派加息可能推动美元/日元迈向158关口",
@@ -733,31 +772,43 @@
           "time_info": "15时15分"
         },
         {
-          "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
-          "source": "澎湃新闻",
+          "title": "美国贸易代表Greer：关税计划进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3023986",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            16,
-            15,
-            14,
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 20时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
-          "title": "美国一小飞机坠毁致多人死亡",
-          "url": "https://www.douyin.com/hot/2340876",
-          "source": "抖音",
+          "title": "中方回应“日本官员称应拥有核武器”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E7%A7%B0%E5%BA%94%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            18
+            19,
+            14,
+            8,
+            24
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时16分 ~ 20时21分]"
+          "time_info": "[17时15分 ~ 21时27分]"
+        },
+        {
+          "title": "太罕见!国产剧被曝洗白日本侵略",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时27分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -1012,19 +1063,6 @@
           "time_info": "[12时26分 ~ 13时14分]"
         },
         {
-          "title": "中方回应“日本官员称应拥有核武器”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E7%A7%B0%E5%BA%94%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时21分]"
-        },
-        {
           "title": "武装台湾将面临严重后果",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE%E5%B0%86%E9%9D%A2%E4%B8%B4%E4%B8%A5%E9%87%8D%E5%90%8E%E6%9E%9C%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1065,18 +1103,17 @@
           "time_info": "[10时47分 ~ 12时26分]"
         },
         {
-          "title": "太罕见!国产剧被曝洗白日本侵略",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348139&amp;topic_name=%E5%A4%AA%E7%BD%95%E8%A7%81%21%E5%9B%BD%E4%BA%A7%E5%89%A7%E8%A2%AB%E6%9B%9D%E6%B4%97%E7%99%BD%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5",
-          "source": "贴吧",
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
           "ranks": [
-            29,
-            14,
             16,
-            17
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时21分]"
+          "time_info": "[18时13分 ~ 21时27分]"
         },
         {
           "title": "日本战机又被激光照射",
@@ -1142,19 +1179,6 @@
           "time_info": "[06时11分 ~ 08时53分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 20时21分]"
-        },
-        {
           "title": "美国上市的中国科技ETF为何全线吸金",
           "url": "https://www.toutiao.com/trending/7585451434351529526/",
           "source": "今日头条",
@@ -1166,6 +1190,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时16分 ~ 18时13分]"
+        },
+        {
+          "title": "日本请求派代表团访华 未获中方回复",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AF%B7%E6%B1%82%E6%B4%BE%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E+%E6%9C%AA%E8%8E%B7%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%A4%8D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时27分]"
         },
         {
           "title": "日本地震风险评估：最高可致1.8万死",
@@ -1731,6 +1767,18 @@
           "time_info": "[11时53分 ~ 12时26分]"
         },
         {
+          "title": "中方：日本应停止在国际上狡辩游说",
+          "url": "https://www.toutiao.com/trending/7584613413385469998/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时27分]"
+        },
+        {
           "title": "日本考虑取消针对美国制造汽车的额外测试。（NHK）",
           "url": "https://wallstreetcn.com/livenews/3023526",
           "source": "华尔街见闻-快讯",
@@ -1741,18 +1789,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时26分]"
-        },
-        {
-          "title": "日本请求派代表团访华 未获中方回复",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AF%B7%E6%B1%82%E6%B4%BE%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%8E+%E6%9C%AA%E8%8E%B7%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%A4%8D",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时21分]"
         },
         {
           "title": "美媒：美国应放弃“战胜中国”想法",
@@ -1895,7 +1931,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -2085,6 +2121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "市场消息：美国参议员怀登就美墨间与卡特尔有关联的海上燃油走私问题致函七家油轮公司。",
+          "url": "https://flash.jin10.com/detail/20251219202551452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "日本央行行长植田和男：不会对长期利率变动直接发表评论，因为这是由市场决定的。",
@@ -2626,6 +2673,17 @@
           "time_info": "16时16分"
         },
         {
+          "title": "商务部部长王文涛会见美国超威半导体公司董事会主席兼首席执行官苏姿丰",
+          "url": "https://wallstreetcn.com/livenews/3023974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "巴西总统卢拉：相信我们能与美国达成协议。",
           "url": "https://flash.jin10.com/detail/20251218234817991800",
           "source": "金十数据",
@@ -3072,18 +3130,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "中方：日本应停止在国际上狡辩游说",
-          "url": "https://www.toutiao.com/trending/7584613413385469998/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -3152,6 +3199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
+        },
+        {
+          "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
+          "url": "https://flash.jin10.com/detail/20251219200442362800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "10年期日本国债收益率上行4.0个基点至2.005%。 5年期日本国债收益率上行4.0个基点至1.470%，创2008年6月来新高。",
@@ -3341,6 +3399,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "据CNBC：美联储理事沃勒与美国总统特朗普进行了“一次强有力的美联储主席面试”。",
+          "url": "https://flash.jin10.com/detail/20251219200400455800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "日本11月CPI(除生鲜食品)同比 3%，预期 3%，前值 3%。",
           "url": "https://wallstreetcn.com/livenews/3023391",
           "source": "华尔街见闻-快讯",
@@ -3457,7 +3526,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -3776,7 +3845,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -4114,7 +4183,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -4563,6 +4632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
