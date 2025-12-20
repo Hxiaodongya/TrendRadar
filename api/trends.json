@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T21:21:33.429614+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2025-12-20T22:10:34.622245+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 159,
+      "match_count": 164,
       "titles": [
         {
           "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
@@ -68,6 +68,18 @@
           "time_info": "[08时49分 ~ 19时09分]"
         },
         {
+          "title": "敏感时刻，小泉进次郎登上美国核动力潜艇",
+          "url": "https://news.ifeng.com/c/8pEvzPTuXW1",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
           "url": "https://www.zhihu.com/question/1985224796552844512",
           "source": "知乎",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "敏感时刻，小泉进次郎登上美国核动力潜艇",
-          "url": "https://news.ifeng.com/c/8pEvzPTuXW1",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时11分 ~ 21时21分]"
         },
         {
           "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
@@ -115,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时12分 ~ 21时21分]"
+          "appearance_count": 12,
+          "time_info": "[13时12分 ~ 22时10分]"
         },
         {
           "title": "美殖入脑!抖友神发言:美国才是家",
@@ -133,11 +133,12 @@
             16,
             17,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时14分 ~ 21时21分]"
+          "appearance_count": 29,
+          "time_info": "[00时14分 ~ 22时10分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX铜投机者将净多头头寸增加6,879手，至71,083手。",
@@ -197,8 +198,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时28分 ~ 21时21分]"
+          "appearance_count": 16,
+          "time_info": "[10时28分 ~ 22时10分]"
         },
         {
           "title": "日本央行加息25个基点",
@@ -264,6 +265,34 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时14分 ~ 19时09分]"
+        },
+        {
+          "title": "剑指委内瑞拉是美国“国仇”？不，可能只是鲁比奥的“家恨”",
+          "url": "https://news.ifeng.com/c/8pF2xmEf5ls",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时09分 ~ 22时10分]"
+        },
+        {
+          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
+          "url": "https://www.zhihu.com/question/1985109237156815522",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            20,
+            13,
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时10分 ~ 22时10分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，股票基金经理将标普500芝商所（CME）净多头仓位增加17,972手合约，至958,734手。股票基金投机者将标普500芝商所（CME）净空头头寸增加7,057手合约，至448,341手。",
@@ -361,17 +390,6 @@
           "time_info": "[11时44分 ~ 19时09分]"
         },
         {
-          "title": "剑指委内瑞拉是美国“国仇”？不，可能只是鲁比奥的“家恨”",
-          "url": "https://news.ifeng.com/c/8pF2xmEf5ls",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 21时21分]"
-        },
-        {
           "title": "消息人士：美国银行(BAC.N)将向顶级交易撮合者发放约20%的奖金增幅作为奖励。",
           "url": "https://flash.jin10.com/detail/20251220040811718800",
           "source": "金十数据",
@@ -396,22 +414,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时13分 ~ 08时49分]"
-        },
-        {
-          "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
-          "url": "https://www.zhihu.com/question/1985109237156815522",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            20,
-            13,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时10分 ~ 21时21分]"
         },
         {
           "title": "消息人士：今年美国银行(BAC.N)投资银行家的奖金将大幅上涨。",
@@ -496,6 +498,22 @@
           "time_info": "[07时11分 ~ 12时17分]"
         },
         {
+          "title": "日本鸣门海峡附近一船只倾覆",
+          "url": "https://flash.jin10.com/detail/20251220160354214800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            7,
+            12,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
           "title": "美国白宫表示，备忘录指示立即开展规划工作，以迁移使用7.125- 7.4吉赫兹频段频谱的联邦系统，以便该频段能被清理出来用于商业6G用途，联邦现任官员有12个月时间提交搬迁计划。",
           "url": "https://flash.jin10.com/detail/20251220105158782800",
           "source": "金十数据",
@@ -526,19 +544,15 @@
           "time_info": "[04时13分 ~ 08时49分]"
         },
         {
-          "title": "日本鸣门海峡附近一船只倾覆",
-          "url": "https://flash.jin10.com/detail/20251220160354214800",
+          "title": "泽连斯基：美国提议与乌克兰、俄罗斯代表举行三方会谈",
+          "url": "https://flash.jin10.com/detail/20251220212922239800",
           "source": "金十数据",
           "ranks": [
-            1,
-            6,
-            7,
-            12,
-            23
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时11分 ~ 21时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国总统特朗普：保险公司需要降价以继续留在系统中。 将在未来几周召开保险公司会议。",
@@ -575,17 +589,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "日本根室半岛近海海域发生5.2级地震",
-          "url": "https://wallstreetcn.com/livenews/3024293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
           "title": "美国财政部：美国对委内瑞拉实施新一轮制裁。",
           "url": "https://flash.jin10.com/detail/20251220030310406800",
           "source": "金十数据",
@@ -597,15 +600,18 @@
           "time_info": "03时10分"
         },
         {
-          "title": "乌克兰总统泽连斯基：乌克兰正与美国合作，以达成稳定的和平协议，而非关于“领土和资源划分”的协议。",
-          "url": "https://flash.jin10.com/detail/20251220210858436800",
+          "title": "美国务院称日本主导核不扩散 或制衡首相官邸人士拥核论",
+          "url": "https://flash.jin10.com/detail/20251220181439511800",
           "source": "金十数据",
           "ranks": [
-            4
+            1,
+            6,
+            17,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时10分]"
         },
         {
           "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
@@ -689,19 +695,6 @@
           "time_info": "[04时13分 ~ 08时49分]"
         },
         {
-          "title": "美国务院称日本主导核不扩散 或制衡首相官邸人士拥核论",
-          "url": "https://flash.jin10.com/detail/20251220181439511800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时21分]"
-        },
-        {
           "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3024182",
           "source": "华尔街见闻-快讯",
@@ -741,6 +734,31 @@
           "time_info": "[05时11分 ~ 07时12分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰正与美国合作，以达成稳定的和平协议，而非关于“领土和资源划分”的协议。",
+          "url": "https://flash.jin10.com/detail/20251220210858436800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时10分]"
+        },
+        {
+          "title": "招商银行：日本重启加息 或对全球金融条件形成压制",
+          "url": "https://flash.jin10.com/detail/20251220191557631800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 22时10分]"
+        },
+        {
           "title": "世贸成员授权欧盟反制美国",
           "url": "https://wallstreetcn.com/livenews/3024181",
           "source": "华尔街见闻-快讯",
@@ -752,6 +770,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时12分 ~ 08时49分]"
+        },
+        {
+          "title": "市场消息：政府电子邮件显示，美国联邦住房金融署（FHFA）的高管受到保守派新闻媒体的启发，推动对民主党国会议员进行抵押贷款欺诈调查。",
+          "url": "https://flash.jin10.com/detail/20251220190053580800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 22时10分]"
         },
         {
           "title": "美国12月19日当周石油钻井数 406，前值 414。",
@@ -780,6 +811,19 @@
           "time_info": "[06时12分 ~ 08时49分]"
         },
         {
+          "title": "据约旦国家电视台：约旦军方表示，其参与了美国对叙利亚境内“伊斯兰国”目标发动的空袭。",
+          "url": "https://flash.jin10.com/detail/20251220185522689800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 22时10分]"
+        },
+        {
           "title": "美国12月19日当周天然气钻井数 127，前值 127。",
           "url": "https://wallstreetcn.com/livenews/3024113",
           "source": "华尔街见闻-快讯",
@@ -805,16 +849,16 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
-          "title": "招商银行：日本重启加息 或对全球金融条件形成压制",
-          "url": "https://flash.jin10.com/detail/20251220191557631800",
-          "source": "金十数据",
+          "title": "日本根室半岛近海海域发生5.2级地震",
+          "url": "https://wallstreetcn.com/livenews/3024293",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时21分]"
+          "time_info": "[21时21分 ~ 22时10分]"
         },
         {
           "title": "美国12月19日当周总钻井数 542，前值 548。",
@@ -854,18 +898,6 @@
           "time_info": "[08时49分 ~ 10时28分]"
         },
         {
-          "title": "市场消息：政府电子邮件显示，美国联邦住房金融署（FHFA）的高管受到保守派新闻媒体的启发，推动对民主党国会议员进行抵押贷款欺诈调查。",
-          "url": "https://flash.jin10.com/detail/20251220190053580800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时21分]"
-        },
-        {
           "title": "乌克兰官员Umerov：乌方今天开始与美国进行新一轮磋商。",
           "url": "https://wallstreetcn.com/livenews/3024070",
           "source": "华尔街见闻-快讯",
@@ -900,18 +932,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 10时28分]"
-        },
-        {
-          "title": "据约旦国家电视台：约旦军方表示，其参与了美国对叙利亚境内“伊斯兰国”目标发动的空袭。",
-          "url": "https://flash.jin10.com/detail/20251220185522689800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时21分]"
         },
         {
           "title": "美国商务部长卢特尼克：强生将在（圣诞节）假期过后来（白宫）谈判。",
@@ -950,6 +970,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时49分 ~ 12时17分]"
+        },
+        {
+          "title": "俄总统特别代表称正前往美国迈阿密",
+          "url": "https://wallstreetcn.com/livenews/3024271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            10,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时10分]"
         },
         {
           "title": "高盛小幅下调2026年10月底美国天然气库存水平的预期，基于当前远期价格曲线，将预测值下调450亿立方英尺，至3,544亿立方英尺。",
@@ -1088,19 +1122,6 @@
           "time_info": "[06时12分 ~ 08时49分]"
         },
         {
-          "title": "俄总统特别代表称正前往美国迈阿密",
-          "url": "https://wallstreetcn.com/livenews/3024271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时21分]"
-        },
-        {
           "title": "匈牙利总理：欧盟援乌贷款为“战争贷款”",
           "url": "https://wallstreetcn.com/livenews/3024198",
           "source": "华尔街见闻-快讯",
@@ -1233,6 +1254,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "日本根室半岛近海海域发生5.2级地震",
+          "url": "https://flash.jin10.com/detail/20251220204845696800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时10分]"
         },
         {
           "title": "美国防部连续第八年未通过财务审计",
@@ -1443,6 +1476,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提议，举行美国、俄罗斯、乌克兰三方会谈。",
+          "url": "https://wallstreetcn.com/livenews/3024295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "美国至12月19日当周总钻井总数 542口，前值548口。",
           "url": "https://flash.jin10.com/detail/20251220020115911800",
           "source": "金十数据",
@@ -1476,15 +1520,15 @@
           "time_info": "02时17分"
         },
         {
-          "title": "日本根室半岛近海海域发生5.2级地震",
-          "url": "https://flash.jin10.com/detail/20251220204845696800",
-          "source": "金十数据",
+          "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
+          "url": "https://www.zhihu.com/question/1985384534406103406",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "22时10分"
         },
         {
           "title": "美国国务卿鲁比奥：如果哈马斯将来处于可以威胁或攻击以色列的地位，就别想有和平。",
@@ -1861,6 +1905,17 @@
           "time_info": "08时49分"
         },
         {
+          "title": "日本官员叫嚣“拥核” 俄方表态",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E5%8F%AB%E5%9A%A3%E2%80%9C%E6%8B%A5%E6%A0%B8%E2%80%9D+%E4%BF%84%E6%96%B9%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "美国11月成屋销售温和增长",
           "url": "https://flash.jin10.com/detail/20251219230447644800",
           "source": "金十数据",
@@ -1925,6 +1980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "台海基会董事长换人 赖清德有何图谋",
+          "url": "https://www.toutiao.com/trending/7585349050910425124/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国国务卿鲁比奥：我们并没有试图强迫乌克兰接受任何协议。",
@@ -2003,6 +2069,21 @@
           "time_info": "[06时12分 ~ 17时11分]"
         },
         {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时10分 ~ 22时10分]"
+        },
+        {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
           "url": "https://wallstreetcn.com/articles/3761690",
           "source": "华尔街见闻",
@@ -2018,21 +2099,6 @@
           "time_info": "[01时11分 ~ 11时44分]"
         },
         {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时10分 ~ 21时21分]"
-        },
-        {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
           "source": "澎湃新闻",
@@ -2045,6 +2111,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时14分 ~ 12时17分]"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时14分 ~ 22时10分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
@@ -2095,17 +2174,17 @@
           "time_info": "[07时11分 ~ 12时17分]"
         },
         {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             9,
-            7,
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时14分 ~ 21时21分]"
+          "time_info": "[17时11分 ~ 22时10分]"
         },
         {
           "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
@@ -2139,19 +2218,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时44分 ~ 17时11分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时11分 ~ 21时21分]"
         },
         {
           "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
@@ -2256,6 +2322,21 @@
           "time_info": "[13时12分 ~ 17时11分]"
         },
         {
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            16,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 22时10分]"
+        },
+        {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
           "url": "https://wallstreetcn.com/livenews/3024206",
           "source": "华尔街见闻-快讯",
@@ -2283,18 +2364,31 @@
           "time_info": "[07时12分 ~ 10时28分]"
         },
         {
-          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
-          "url": "https://wallstreetcn.com/livenews/3024264",
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15,
-            16,
-            21
+            7,
+            12,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时11分 ~ 21时21分]"
+          "time_info": "[19时09分 ~ 22时10分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 22时10分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
@@ -2309,6 +2403,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时11分 ~ 21时21分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 22时10分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
@@ -2337,43 +2443,6 @@
           "time_info": "[01时11分 ~ 02时17分]"
         },
         {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时21分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时21分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 21时21分]"
-        },
-        {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
           "url": "https://wallstreetcn.com/livenews/3024138",
           "source": "华尔街见闻-快讯",
@@ -2384,6 +2453,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时10分]"
         },
         {
           "title": "UP主AI制作科学家传记电影",
@@ -2398,26 +2479,16 @@
           "time_info": "[17时11分 ~ 21时21分]"
         },
         {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
-        },
-        {
           "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时21分 ~ 22时10分]"
         },
         {
           "title": "AI大神：AI大模型正演变成新型智能",
