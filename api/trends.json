@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T01:10:04.099756+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2025-12-22T02:16:08.761710+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "32页PPT曝光！美国对加沙蠢蠢欲动",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美国隐形斩杀线:残酷清除底层人",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时16分]"
         },
         {
           "title": "紧张局势加剧之际 美国据悉将扣押第三艘委内瑞拉油轮",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "市场消息：在紧张局势升级之际，美国据悉正准备扣押第三艘委内瑞拉的油轮。",
@@ -48,19 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
-          "url": "https://wallstreetcn.com/livenews/3024442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -70,19 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
-          "url": "https://wallstreetcn.com/livenews/3024440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "朝中社刊文：必须遏制日本拥核野心",
@@ -90,11 +68,36 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "北平锋：冬至已至，台湾的“坚冰”也快被打破了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32224777",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "3500亿美元交易额创纪录，推升对日本并购市场前景的乐观情绪",
+          "url": "https://wallstreetcn.com/livenews/3024452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "日本官员叫嚣“拥核”，石破茂表态",
@@ -104,20 +107,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
-          "title": "北平锋：冬至已至，台湾的“坚冰”也快被打破了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32224777",
-          "source": "澎湃新闻",
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
+          "url": "https://wallstreetcn.com/livenews/3024442",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
+            4,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
+          "url": "https://wallstreetcn.com/livenews/3024440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -128,8 +143,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "日本一河道涌入鱼群 覆盖整个河面",
@@ -137,11 +152,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            14
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美国司法部公布部分爱泼斯坦文件，此举可能有哪些影响？",
@@ -152,8 +168,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "日本成为全球“最老龄化”国家",
@@ -161,11 +177,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国一年期LPR、美国GDP数据将公布；全球多市场因圣诞假期密集休市",
@@ -175,19 +192,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "日本大阪河道现大量鱼群居民担忧地震",
+          "url": "https://www.toutiao.com/trending/7586287017421029418/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
           "url": "https://wallstreetcn.com/livenews/3024435",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -197,30 +227,44 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：对通胀保持警惕，倾向于在春季前将利率维持不变。",
           "url": "https://wallstreetcn.com/livenews/3024431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "日本横滨市疑发生工厂火灾",
           "url": "https://wallstreetcn.com/livenews/3024423",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "鲁比奥：美国必须跟中国保持交往",
+          "url": "https://www.toutiao.com/trending/7585795778493382697/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与欧洲伙伴在更广泛范围内的磋商应在近期美国会谈之后进行。",
@@ -230,8 +274,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "日本在野党高层集体谴责执政党为武器出口“松绑”",
@@ -241,19 +285,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
-        },
-        {
-          "title": "日本在野党高层集体谴责执政党为武器出口“松绑”",
-          "url": "https://wallstreetcn.com/livenews/3024411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "日本自民党官员称有必要就“无核三原则”的定位展开讨论",
@@ -261,6 +294,28 @@
           "source": "金十数据",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "航拍美国旧金山大停电 车灯凝成长龙",
+          "url": "https://www.baidu.com/s?wd=%E8%88%AA%E6%8B%8D%E7%BE%8E%E5%9B%BD%E6%97%A7%E9%87%91%E5%B1%B1%E5%A4%A7%E5%81%9C%E7%94%B5+%E8%BD%A6%E7%81%AF%E5%87%9D%E6%88%90%E9%95%BF%E9%BE%99",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 02时16分]"
+        },
+        {
+          "title": "日本在野党高层集体谴责执政党为武器出口“松绑”",
+          "url": "https://wallstreetcn.com/livenews/3024411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -278,17 +333,6 @@
           "time_info": "[00时12分 ~ 01时10分]"
         },
         {
-          "title": "日本大阪河道现大量鱼群居民担忧地震",
-          "url": "https://www.toutiao.com/trending/7586287017421029418/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
           "title": "日本防卫支出超3成不是为了防卫",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%B2%E5%8D%AB%E6%94%AF%E5%87%BA%E8%B6%853%E6%88%90%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E9%98%B2%E5%8D%AB%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -298,23 +342,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "鲁比奥：美国必须跟中国保持交往",
-          "url": "https://www.toutiao.com/trending/7585795778493382697/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -324,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -336,8 +369,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "挑战复刻AI可食用岩浆",
@@ -345,11 +378,23 @@
           "source": "抖音",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "报道：OpenAI业务利润率至10月已提升至70%",
+          "url": "https://wallstreetcn.com/livenews/3024451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -359,19 +404,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
           "url": "https://wallstreetcn.com/articles/3761798",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -381,8 +427,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -392,8 +438,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 01时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
