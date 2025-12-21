@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-21T07:10:33.933312+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-12-21T08:57:10.867982+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 24,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
+          "url": "https://www.zhihu.com/question/1985384534406103406",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
         {
           "title": "剑指委内瑞拉是美国“国仇”？不，可能只是鲁比奥的“家恨”",
           "url": "https://news.ifeng.com/c/8pF2xmEf5ls",
@@ -30,21 +45,6 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
-          "url": "https://www.zhihu.com/question/1985384534406103406",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
           "title": "苹果降低日本「苹果税」，支持第三方应用商店和支付，中国面临双重垄断且税率最高，区别对待策略还能走多远？",
           "url": "https://www.zhihu.com/question/1985109237156815522",
           "source": "知乎",
@@ -52,22 +52,60 @@
             5,
             10,
             11,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "美殖入脑!抖友神发言:美国才是家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "泽连斯基：美国提议与乌克兰、俄罗斯代表举行三方会谈",
           "url": "https://flash.jin10.com/detail/20251220212922239800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰正与美国合作，以达成稳定的和平协议，而非关于“领土和资源划分”的协议。",
+          "url": "https://flash.jin10.com/detail/20251220210858436800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "日本根室半岛近海海域发生5.2级地震",
+          "url": "https://flash.jin10.com/detail/20251220204845696800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "日本一列车与汽车发生碰撞，汽车起火",
@@ -98,34 +136,12 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：乌克兰正与美国合作，以达成稳定的和平协议，而非关于“领土和资源划分”的协议。",
-          "url": "https://flash.jin10.com/detail/20251220210858436800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
           "title": "TikTok美国“大结局”背后：为什么是甲骨文？｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_32213316",
           "source": "澎湃新闻",
           "ranks": [
             17,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "日本根室半岛近海海域发生5.2级地震",
-          "url": "https://flash.jin10.com/detail/20251220204845696800",
-          "source": "金十数据",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -165,18 +181,6 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "美殖入脑!抖友神发言:美国才是家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348133&amp;topic_name=%E7%BE%8E%E6%AE%96%E5%85%A5%E8%84%91%21%E6%8A%96%E5%8F%8B%E7%A5%9E%E5%8F%91%E8%A8%80%3A%E7%BE%8E%E5%9B%BD%E6%89%8D%E6%98%AF%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
           "title": "美国务院称日本主导核不扩散 或制衡首相官邸人士拥核论",
           "url": "https://flash.jin10.com/detail/20251220181439511800",
           "source": "金十数据",
@@ -188,15 +192,18 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "美国众议院方案拟为稳定币及加密货币质押寻求税收“避风港”",
-          "url": "https://wallstreetcn.com/livenews/3024331",
-          "source": "华尔街见闻-快讯",
+          "title": "蜜雪冰城进军美国市场",
+          "url": "https://www.douyin.com/hot/2342059",
+          "source": "抖音",
           "ranks": [
-            2
+            27,
+            30,
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "乌克兰总统泽连斯基：美国提议，举行美国、俄罗斯、乌克兰三方会谈。",
@@ -223,6 +230,29 @@
           "time_info": "[00时12分 ~ 05时09分]"
         },
         {
+          "title": "美国众议院方案拟为稳定币及加密货币质押寻求税收“避风港”",
+          "url": "https://wallstreetcn.com/livenews/3024331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时57分]"
+        },
+        {
+          "title": "美国食品券项目改革因缺乏统一标准陷入混乱",
+          "url": "https://wallstreetcn.com/livenews/3024346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "日本媒体人称拥核言论太可怕",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AA%92%E4%BD%93%E4%BA%BA%E7%A7%B0%E6%8B%A5%E6%A0%B8%E8%A8%80%E8%AE%BA%E5%A4%AA%E5%8F%AF%E6%80%95",
           "source": "百度热搜",
@@ -238,68 +268,157 @@
           "time_info": "[02时14分 ~ 07时10分]"
         },
         {
-          "title": "蜜雪冰城进军美国市场",
-          "url": "https://www.douyin.com/hot/2342059",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 05时09分]"
-        },
-        {
           "title": "俄副外长：俄反对日本围绕“拥核”可能性展开的讨论",
           "url": "https://wallstreetcn.com/livenews/3024327",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时10分]"
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时57分]"
         },
         {
           "title": "俄总统特别代表抵达美国迈阿密",
           "url": "https://wallstreetcn.com/livenews/3024326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时10分]"
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时57分]"
         },
         {
           "title": "匈牙利总理：欧盟的战争逻辑正在加剧",
           "url": "https://wallstreetcn.com/livenews/3024337",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时10分]"
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时57分]"
         },
         {
           "title": "美国拦截委内瑞拉海岸附近国际水域受制裁船只",
           "url": "https://wallstreetcn.com/livenews/3024336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 08时57分]"
+        },
+        {
+          "title": "美国在委内瑞拉海岸附近拦截受制裁船只",
+          "url": "https://news.ifeng.com/c/8pFX4PpRnjm",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时10分 ~ 07时10分]"
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "一条最少2000日元，起底日本网络水军",
+          "url": "https://news.ifeng.com/c/8pF9ct40AYe",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "曝美国外交系统“大地震”",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%B3%BB%E7%BB%9F%E2%80%9C%E5%A4%A7%E5%9C%B0%E9%9C%87%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "美国在委内瑞拉附近海域扣押第二艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3024345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "俄总统特别代表德米特里耶夫：俄罗斯与美国正在进行“建设性”讨论，相关讨论将于周日在迈阿密继续进行。",
+          "url": "https://flash.jin10.com/detail/20251221081152749800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "当地时间12月20日，美国在靠近委内瑞拉海岸的国际水域对一艘受制裁船只实施拦截行动。此次行动由美国海岸警卫队主导。",
+          "url": "https://flash.jin10.com/detail/20251221080851085800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "俄副外长：俄反对日本围绕“拥核”可能性展开的讨论",
+          "url": "https://flash.jin10.com/detail/20251221080751336800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "美国特使：美同埃及等国将继续磋商加沙停火第二阶段安排",
+          "url": "https://flash.jin10.com/detail/20251221080711126800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "俄总统特别代表抵达美国迈阿密",
+          "url": "https://flash.jin10.com/detail/20251221080608265800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -310,19 +429,47 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
           "url": "https://wallstreetcn.com/articles/3761762",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -346,20 +493,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -367,24 +502,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -392,11 +515,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
@@ -404,11 +528,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -420,11 +545,34 @@
             9,
             24,
             23,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时14分 ~ 07时10分]"
+          "appearance_count": 8,
+          "time_info": "[02时14分 ~ 08时57分]"
+        },
+        {
+          "title": "据Business Insider：由于大使馆出现延误，苹果已建议部分持有签证的员工不要前往美国境外旅行。",
+          "url": "https://flash.jin10.com/detail/20251221081922748800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
+          "url": "https://wallstreetcn.com/livenews/3024347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -436,6 +584,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时12分 ~ 04时11分]"
+        },
+        {
+          "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
+          "url": "https://wallstreetcn.com/articles/3761760",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年12月20日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
+          "url": "https://www.zhihu.com/question/1983889355362820808",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 08时57分]"
         },
         {
           "title": "国家一级演奏员赏析AI歌曲",
