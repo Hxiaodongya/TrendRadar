@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-22T22:13:02.498685+08:00",
-  "total_titles_processed": 1841,
+  "generated_at": "2025-12-22T23:12:30.246807+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 176,
+      "match_count": 183,
       "titles": [
+        {
+          "title": "美国及其“精心挑选”的国家启动“硅和平”倡议，没有印度",
+          "url": "https://news.ifeng.com/c/8pI5fPBinE6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时18分 ~ 23时12分]"
+        },
         {
           "title": "32页PPT曝光！美国对加沙蠢蠢欲动",
           "url": "https://news.ifeng.com/c/8pGJ2TcNGhK",
@@ -19,17 +30,6 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "美国及其“精心挑选”的国家启动“硅和平”倡议，没有印度",
-          "url": "https://news.ifeng.com/c/8pI5fPBinE6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时18分 ~ 22时13分]"
-        },
-        {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
           "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
           "source": "凤凰网",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时18分 ~ 22时13分]"
+          "appearance_count": 10,
+          "time_info": "[17时18分 ~ 23时12分]"
         },
         {
           "title": "北平锋：冬至已至，台湾的“坚冰”也快被打破了",
@@ -56,6 +56,21 @@
           "time_info": "[00时12分 ~ 20时23分]"
         },
         {
+          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
+          "url": "https://www.cls.cn/detail/2236404",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时18分 ~ 23时12分]"
+        },
+        {
           "title": "日本央行加息后日元「全线溃败」，市场为何「不买账」？",
           "url": "https://www.zhihu.com/question/1985926686844413851",
           "source": "知乎",
@@ -70,19 +85,16 @@
           "time_info": "[10时55分 ~ 20时23分]"
         },
         {
-          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
-          "url": "https://www.cls.cn/detail/2236404",
-          "source": "财联社热门",
+          "title": "如何评价美国新护卫舰项目",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%BE%8E%E5%9B%BD%E6%96%B0%E6%8A%A4%E5%8D%AB%E8%88%B0%E9%A1%B9%E7%9B%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            4,
-            3,
-            6,
-            5
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时18分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[19时11分 ~ 23时12分]"
         },
         {
           "title": "杜文龙：美国给中国制造统一最大障碍",
@@ -146,16 +158,26 @@
           "time_info": "[00时12分 ~ 12时01分]"
         },
         {
-          "title": "如何评价美国新护卫舰项目",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%BE%8E%E5%9B%BD%E6%96%B0%E6%8A%A4%E5%8D%AB%E8%88%B0%E9%A1%B9%E7%9B%AE",
-          "source": "bilibili 热搜",
+          "title": "“若美国封死委内瑞拉石油，这国将走向彻底崩溃”",
+          "url": "https://news.ifeng.com/c/8pIVOYLNOLh",
+          "source": "凤凰网",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时11分 ~ 22时13分]"
+          "time_info": "[20时22分 ~ 23时12分]"
+        },
+        {
+          "title": "日本官员叫嚣“拥核”，石破茂表态",
+          "url": "https://news.ifeng.com/c/8pG6DMXXbmb",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时12分 ~ 07时10分]"
         },
         {
           "title": "美国隐形斩杀线:残酷清除底层人",
@@ -173,22 +195,12 @@
             16,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[01时09分 ~ 22时13分]"
-        },
-        {
-          "title": "日本官员叫嚣“拥核”，石破茂表态",
-          "url": "https://news.ifeng.com/c/8pG6DMXXbmb",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时10分]"
+          "appearance_count": 31,
+          "time_info": "[01时09分 ~ 23时12分]"
         },
         {
           "title": "杀害美国顶尖核专家的凶手是何许人",
@@ -215,8 +227,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时17分 ~ 22时13分]"
+          "appearance_count": 13,
+          "time_info": "[15时17分 ~ 23时12分]"
         },
         {
           "title": "日本一河道涌入鱼群 覆盖整个河面",
@@ -244,11 +256,12 @@
             7,
             17,
             19,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时17分 ~ 22时13分]"
+          "appearance_count": 12,
+          "time_info": "[16时17分 ~ 23时12分]"
         },
         {
           "title": "中方对日本高官拥核言论感到震惊",
@@ -281,15 +294,17 @@
           "time_info": "[00时12分 ~ 08时55分]"
         },
         {
-          "title": "“若美国封死委内瑞拉石油，这国将走向彻底崩溃”",
-          "url": "https://news.ifeng.com/c/8pIVOYLNOLh",
-          "source": "凤凰网",
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.toutiao.com/trending/7586274245890657834/",
+          "source": "今日头条",
           "ranks": [
-            2
+            6,
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时22分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 23时12分]"
         },
         {
           "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
@@ -429,17 +444,32 @@
           "time_info": "[15时17分 ~ 20时23分]"
         },
         {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.toutiao.com/trending/7586274245890657834/",
-          "source": "今日头条",
+          "title": "日本航天为何陷入困局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            5,
-            7
+            1,
+            14,
+            25,
+            20,
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 23时12分]"
+        },
+        {
+          "title": "专家：日本若敢拥核美国第一个翻脸",
+          "url": "https://www.toutiao.com/trending/7586600464628583987/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时12分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -494,19 +524,18 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "日本航天为何陷入困局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            14,
-            25,
-            20,
-            16
+            19,
+            18,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 23时12分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -549,18 +578,6 @@
           "time_info": "[14时19分 ~ 15时17分]"
         },
         {
-          "title": "专家：日本若敢拥核美国第一个翻脸",
-          "url": "https://www.toutiao.com/trending/7586600464628583987/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时13分]"
-        },
-        {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
           "url": "https://wallstreetcn.com/livenews/3024453",
           "source": "华尔街见闻-快讯",
@@ -573,6 +590,21 @@
           "time_info": "[03时09分 ~ 07时10分]"
         },
         {
+          "title": "美国大叔夜游中国街头感叹自由",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%8F%94%E5%A4%9C%E6%B8%B8%E4%B8%AD%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%84%9F%E5%8F%B9%E8%87%AA%E7%94%B1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            8,
+            7,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时11分 ~ 23时12分]"
+        },
+        {
           "title": "日本就火箭发射失败道歉",
           "url": "https://news.ifeng.com/c/8pI8Lyv4ZaZ",
           "source": "凤凰网",
@@ -582,20 +614,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时17分 ~ 19时11分]"
-        },
-        {
-          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 22时13分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -649,20 +667,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时01分 ~ 14时20分]"
-        },
-        {
-          "title": "美国大叔夜游中国街头感叹自由",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%8F%94%E5%A4%9C%E6%B8%B8%E4%B8%AD%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%84%9F%E5%8F%B9%E8%87%AA%E7%94%B1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            8,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时11分 ~ 22时13分]"
         },
         {
           "title": "日本H3火箭在飞行途中第二级发动机燃烧提前停止",
@@ -844,6 +848,17 @@
           "time_info": "21时28分"
         },
         {
+          "title": "美国银矿股股价上涨，。Hecla Mining上涨5.6%，Oeur Mining上涨6.8%，iShares白银信托上涨2.5%，Global X白银矿业ETF上涨4.8%。",
+          "url": "https://flash.jin10.com/detail/20251222224258479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国天然气期货日内涨超3.00%，现报4.104美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251222135851117800",
           "source": "金十数据",
@@ -877,15 +892,15 @@
           "time_info": "21时28分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（12月19日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3025003",
-          "source": "华尔街见闻-快讯",
+          "title": "美国证券交易委员会（SEC）：12月24日、12月26日将被视为提交文件的联邦假日。",
+          "url": "https://flash.jin10.com/detail/20251222224103742800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时13分"
+          "time_info": "23时12分"
         },
         {
           "title": "美国飞行员看见银色罐状不明飞行物",
@@ -1087,6 +1102,18 @@
           "time_info": "[21时28分 ~ 22时13分]"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（12月19日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3025003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时12分]"
+        },
+        {
           "title": "日本大阪河道现大量鱼群居民担忧地震",
           "url": "https://www.toutiao.com/trending/7586287017421029418/",
           "source": "今日头条",
@@ -1124,6 +1151,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时55分 ~ 12时01分]"
+        },
+        {
+          "title": "评论员：美国鹰派变脸令日本心慌",
+          "url": "https://www.toutiao.com/trending/7586634599300599359/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时12分]"
         },
         {
           "title": "日本横滨市疑发生工厂火灾",
@@ -1209,17 +1248,6 @@
           "time_info": "[17时19分 ~ 18时13分]"
         },
         {
-          "title": "评论员：美国鹰派变脸令日本心慌",
-          "url": "https://www.toutiao.com/trending/7586634599300599359/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
-        },
-        {
           "title": "日本防卫支出超3成不是为了防卫",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%B2%E5%8D%AB%E6%94%AF%E5%87%BA%E8%B6%853%E6%88%90%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E9%98%B2%E5%8D%AB%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1229,6 +1257,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 06时11分]"
+        },
+        {
+          "title": "日本将对电动车加征新税",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%AF%B9%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%8A%A0%E5%BE%81%E6%96%B0%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 23时12分]"
         },
         {
           "title": "韩媒：中国游客减少日本住宿价格暴跌",
@@ -1326,7 +1366,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1406,6 +1446,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
+        },
+        {
+          "title": "美国天然气期货日内下跌3.00%，现报3.864美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20251222223616405800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "日本10年期国债收益率上升8个基点，至2.100%。",
@@ -1502,7 +1553,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1540,6 +1591,28 @@
           "time_info": "16时18分"
         },
         {
+          "title": "美国金矿股上涨，哈莫尼黄金(HMY.N)涨3.7%，纽蒙特矿业(NEM.N)涨2.8%。",
+          "url": "https://flash.jin10.com/detail/20251222223244642800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）：Edgar将于12月24-26日关闭。",
+          "url": "https://wallstreetcn.com/livenews/3025025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "日本芯片相关股票大幅上涨，软银集团股价上涨7.9%，铠侠股价上涨6.2%，雷泰光电涨5.2%。",
           "url": "https://flash.jin10.com/detail/20251222082406585800",
           "source": "金十数据",
@@ -1568,7 +1641,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1612,7 +1685,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1667,7 +1740,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1859,6 +1932,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "俄副外长：若美国进行核试验俄将对等回应",
+          "url": "https://wallstreetcn.com/livenews/3025014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "日本突破拥核红线只差临门一脚",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%A0%B4%E6%8B%A5%E6%A0%B8%E7%BA%A2%E7%BA%BF%E5%8F%AA%E5%B7%AE%E4%B8%B4%E9%97%A8%E4%B8%80%E8%84%9A%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1923,6 +2007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "洛克希德马丁(LMT.N)与ManTech合作，推进美国作战飞机机队基于人工智能的保障工作。",
+          "url": "https://flash.jin10.com/detail/20251222220740547800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "日本5年期国债收益率上行至1.5%，为2008年以来首次。 日本10年期国债收益率上行2BP，报2.040%。",
@@ -2074,7 +2169,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -2088,17 +2183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        },
-        {
-          "title": "日本将对电动车加征新税",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%AF%B9%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%8A%A0%E5%BE%81%E6%96%B0%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "美国国土安全部在节假日期间将自愿离境补助金提高至3000美元。",
@@ -2259,6 +2343,20 @@
           "time_info": "[01时09分 ~ 18时13分]"
         },
         {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时13分 ~ 23时12分]"
+        },
+        {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
           "source": "凤凰网",
@@ -2271,17 +2369,15 @@
           "time_info": "[14时19分 ~ 19时11分]"
         },
         {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时13分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 23时12分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -2321,17 +2417,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时16分 ~ 07时10分]"
-        },
-        {
-          "title": "AI定格|2025·强国脉动",
-          "url": "https://www.toutiao.com/trending/7586532944194502707/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时13分]"
         },
         {
           "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
