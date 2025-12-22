@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T04:13:22.445603+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-12-23T05:10:34.330546+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 66,
+      "match_count": 71,
       "titles": [
         {
           "title": "专家：日本若敢拥核美国第一个翻脸",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "“若美国封死委内瑞拉石油，这国将走向彻底崩溃”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "美国及其“精心挑选”的国家启动“硅和平”倡议，没有印度",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -49,8 +49,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
+        },
+        {
+          "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
+          "url": "https://wallstreetcn.com/articles/3761812",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
+        },
+        {
+          "title": "台湾老兵盼落叶归根",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E8%80%81%E5%85%B5%E7%9B%BC%E8%90%BD%E5%8F%B6%E5%BD%92%E6%A0%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
@@ -65,29 +88,6 @@
           "time_info": "[00时14分 ~ 03时11分]"
         },
         {
-          "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
-          "url": "https://wallstreetcn.com/articles/3761812",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
-          "title": "台湾老兵盼落叶归根",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E8%80%81%E5%85%B5%E7%9B%BC%E8%90%BD%E5%8F%B6%E5%BD%92%E6%A0%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
-        },
-        {
           "title": "如何评价美国新护卫舰项目",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%BE%8E%E5%9B%BD%E6%96%B0%E6%8A%A4%E5%8D%AB%E8%88%B0%E9%A1%B9%E7%9B%AE",
           "source": "bilibili 热搜",
@@ -97,8 +97,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 03时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "美国大叔夜游中国街头感叹自由",
@@ -107,11 +107,12 @@
           "ranks": [
             17,
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
@@ -123,8 +124,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "日本火箭发射再失败",
@@ -135,8 +136,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "日本航天为何陷入困局",
@@ -149,8 +150,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "中方对日本高官拥核言论感到震惊",
@@ -161,8 +162,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "美国隐形斩杀线:残酷清除底层人",
@@ -172,8 +173,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "美国9月至10月住房开工报告改期至2026年1月9日发布。",
@@ -187,70 +188,26 @@
           "time_info": "00时14分"
         },
         {
-          "title": "美国拟召开加沙重建会议以推动新一轮停火",
-          "url": "https://flash.jin10.com/detail/20251223032340430800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
           "title": "美国原油期货收涨超2.6%",
           "url": "https://wallstreetcn.com/livenews/3025107",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
         {
-          "title": "巴拿马外长：被美国拦截的油轮未遵守海上航行规则",
-          "url": "https://flash.jin10.com/detail/20251223031113273800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国联邦通信委员会（FCC）主席卡尔：根据联邦通信委员会涵盖名单规则的运作，该决定施加的限制适用于新型号设备。",
-          "url": "https://flash.jin10.com/detail/20251223030535623800",
+          "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
+          "url": "https://flash.jin10.com/detail/20251223044243476800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国FCC：即日起禁止进口外国无人机及核心零部件",
-          "url": "https://wallstreetcn.com/livenews/3025106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国联邦通信委员会（FCC）主席卡尔：FCC已将外国生产的无人机及其关键零部件纳入FCC的受控清单，并自即日起生效。",
-          "url": "https://flash.jin10.com/detail/20251223030447478800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时10分"
         },
         {
           "title": "日本宣扬拥核窜访台湾释放何种信号",
@@ -266,6 +223,32 @@
           "time_info": "[01时11分 ~ 04时13分]"
         },
         {
+          "title": "美国银行CEO莫伊尼汉：失业率在经历紧张的劳动力市场后正趋于正常化。",
+          "url": "https://flash.jin10.com/detail/20251223024223285800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "美国银行CEO莫伊尼汉：人工智能领域的支出持续增长，助力2026年经济增长。",
+          "url": "https://flash.jin10.com/detail/20251223024157751800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
           "title": "Dominion Energy：对于美国“国家安全”而言，需要开发弗吉尼亚（周边海域）的风电项目。 当地风电项目有助于满足能源（电力）需求。 （特朗普政府）阻挠CVOW项目将对电网稳定性构成威胁。",
           "url": "https://wallstreetcn.com/livenews/3025055",
           "source": "华尔街见闻-快讯",
@@ -279,16 +262,30 @@
           "time_info": "[00时14分 ~ 02时17分]"
         },
         {
-          "title": "美国银行CEO莫伊尼汉：失业率在经历紧张的劳动力市场后正趋于正常化。",
-          "url": "https://flash.jin10.com/detail/20251223024223285800",
-          "source": "金十数据",
+          "title": "美国参议院Murphy：将通过法律手段阻止美国总统特朗普针对风电场采取的命令。",
+          "url": "https://wallstreetcn.com/livenews/3025100",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            14
+            3,
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "美国银行CEO莫伊尼汉：美国银行预测2026年经济将保持强劲增长。",
+          "url": "https://flash.jin10.com/detail/20251223024033808800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.560%，投标倍数2.86。 拍卖六个月期国债，得标利率3.485%，投标倍数3.18。",
@@ -304,52 +301,29 @@
           "time_info": "[01时12分 ~ 03时11分]"
         },
         {
-          "title": "美国银行CEO莫伊尼汉：人工智能领域的支出持续增长，助力2026年经济增长。",
-          "url": "https://flash.jin10.com/detail/20251223024157751800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
-        },
-        {
-          "title": "美国参议院Murphy：将通过法律手段阻止美国总统特朗普针对风电场采取的命令。",
-          "url": "https://wallstreetcn.com/livenews/3025100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
-        },
-        {
-          "title": "美国银行CEO莫伊尼汉：美国银行预测2026年经济将保持强劲增长。",
-          "url": "https://flash.jin10.com/detail/20251223024033808800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
-        },
-        {
           "title": "美国银行CEO Brian Moynihan：（美联储多次）降息被美银视作对小企业有帮助。",
           "url": "https://wallstreetcn.com/livenews/3025096",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "美国拟召开加沙重建会议以推动新一轮停火",
+          "url": "https://flash.jin10.com/detail/20251223032340430800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 05时10分]"
         },
         {
           "title": "美国银行CEO Brian Moynihan：劳动力市场趋于紧俏之后，失业人口正在正常化。 企业担心劳动力和移民供应。",
@@ -357,11 +331,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "巴拿马外长：被美国拦截的油轮未遵守海上航行规则",
+          "url": "https://flash.jin10.com/detail/20251223031113273800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 05时10分]"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）主席卡尔：根据联邦通信委员会涵盖名单规则的运作，该决定施加的限制适用于新型号设备。",
+          "url": "https://flash.jin10.com/detail/20251223030535623800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
+        },
+        {
+          "title": "美国FCC：即日起禁止进口外国无人机及核心零部件",
+          "url": "https://wallstreetcn.com/livenews/3025106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
         },
         {
           "title": "杜文龙：美国给中国制造统一最大障碍",
@@ -370,11 +381,24 @@
           "ranks": [
             29,
             22,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 05时10分]"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）主席卡尔：FCC已将外国生产的无人机及其关键零部件纳入FCC的受控清单，并自即日起生效。",
+          "url": "https://flash.jin10.com/detail/20251223030447478800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
         },
         {
           "title": "美国政府：将9-10月营建开支数据重新安排到1月21日发布。 将11月零售销售报告重新安排到1月14日。",
@@ -388,6 +412,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时17分]"
+        },
+        {
+          "title": "美国银行CEO Brian Moynihan：美银预计经济将在2026年强劲增长。 预计2026年经济将增长2.4%，那将高于（今年）大约2%的增速。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3025093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "杀害美国顶尖核专家的凶手是何许人",
+          "url": "https://www.toutiao.com/trending/7586469288270106175/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-投标倍数 3.18，前值2.84。",
@@ -414,16 +464,16 @@
           "time_info": "[03时11分 ~ 04时13分]"
         },
         {
-          "title": "美国银行CEO Brian Moynihan：美银预计经济将在2026年强劲增长。 预计2026年经济将增长2.4%，那将高于（今年）大约2%的增速。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3025093",
-          "source": "华尔街见闻-快讯",
+          "title": "马杜罗致函联合国 谴责美国破坏国际体系稳定",
+          "url": "https://flash.jin10.com/detail/20251223025736031800",
+          "source": "金十数据",
           "ranks": [
             7,
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 05时10分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-得标利率配置百分比 44.33%，前值4.57%。",
@@ -486,6 +536,18 @@
           "time_info": "[03时11分 ~ 04时13分]"
         },
         {
+          "title": "巴拿马外交部长：被美国拦截的船只未遵守巴拿马的海上规则。",
+          "url": "https://flash.jin10.com/detail/20251223025319919800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
+        },
+        {
           "title": "美国至12月22日3个月国债竞拍-得标利率配置百分比 45.69%，前值71.27%。",
           "url": "https://flash.jin10.com/detail/20251223003204366800",
           "source": "金十数据",
@@ -508,6 +570,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
+          "title": "巴拿马外交部长：被美国拦截的船只关闭了应答器。",
+          "url": "https://flash.jin10.com/detail/20251223025251046800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
         },
         {
           "title": "美国至12月22日3个月国债竞拍-得标利率 3.56%，前值3.56%。",
@@ -534,6 +608,18 @@
           "time_info": "[03时11分 ~ 04时13分]"
         },
         {
+          "title": "美国银行CEO莫伊尼汉：从长远来看，人工智能将用于提高收入。",
+          "url": "https://flash.jin10.com/detail/20251223025241012800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
+        },
+        {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.499%（11月24日为3.489%），投标倍数2.54（前次为2.68）。",
           "url": "https://wallstreetcn.com/livenews/3025083",
           "source": "华尔街见闻-快讯",
@@ -558,16 +644,16 @@
           "time_info": "[03时11分 ~ 04时13分]"
         },
         {
-          "title": "杀害美国顶尖核专家的凶手是何许人",
-          "url": "https://www.toutiao.com/trending/7586469288270106175/",
-          "source": "今日头条",
+          "title": "美国银行CEO莫伊尼汉：预计明年增长率为2.4%，高于此前约2%的预期。",
+          "url": "https://flash.jin10.com/detail/20251223024233510800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            15
+            13,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
+          "time_info": "[04时13分 ~ 05时10分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -582,59 +668,37 @@
           "time_info": "[03时11分 ~ 04时13分]"
         },
         {
-          "title": "马杜罗致函联合国 谴责美国破坏国际体系稳定",
-          "url": "https://flash.jin10.com/detail/20251223025736031800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "巴拿马外交部长：被美国拦截的船只未遵守巴拿马的海上规则。",
-          "url": "https://flash.jin10.com/detail/20251223025319919800",
+          "title": "美国国务卿鲁比奥：即将成立更多医疗卫生领域的双边谈判小组。",
+          "url": "https://flash.jin10.com/detail/20251223035927808800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时10分"
         },
         {
-          "title": "巴拿马外交部长：被美国拦截的船只关闭了应答器。",
-          "url": "https://flash.jin10.com/detail/20251223025251046800",
-          "source": "金十数据",
+          "title": "日元涨0.5%突破157，日本政府官员口头提振汇率",
+          "url": "https://wallstreetcn.com/livenews/3025117",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时10分"
         },
         {
-          "title": "美国银行CEO莫伊尼汉：从长远来看，人工智能将用于提高收入。",
-          "url": "https://flash.jin10.com/detail/20251223025241012800",
-          "source": "金十数据",
+          "title": "美国纽约市将在下一个财政年度面临100亿美元预算缺口，受到税收放缓和联邦资金流不确定性的影响。",
+          "url": "https://wallstreetcn.com/livenews/3025114",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国银行CEO莫伊尼汉：预计明年增长率为2.4%，高于此前约2%的预期。",
-          "url": "https://flash.jin10.com/detail/20251223024233510800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时10分"
         },
         {
           "title": "美国参议员沃伦批评派拉蒙天空之舞旗下的CBS搁置了一篇关于驱逐移民的报道，称此举看起来像是腐败。",
@@ -679,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "美国原油期货收涨超2.6%，特朗普试图在封锁委内瑞拉期间截获第三艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3025107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
@@ -783,7 +858,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -793,8 +868,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -805,8 +880,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 05时10分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -818,8 +893,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 05时10分]"
+        },
+        {
+          "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
+          "url": "https://flash.jin10.com/detail/20251223044006238800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -831,8 +917,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 04时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 05时10分]"
         },
         {
           "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
@@ -840,11 +926,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时13分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
+          "url": "https://wallstreetcn.com/livenews/3025118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     }
