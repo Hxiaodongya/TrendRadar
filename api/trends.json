@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-22T08:55:57.950018+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2025-12-22T10:55:54.475463+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 59,
+      "match_count": 82,
       "titles": [
         {
           "title": "美国隐形斩杀线:残酷清除底层人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348183&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%9A%90%E5%BD%A2%E6%96%A9%E6%9D%80%E7%BA%BF%3A%E6%AE%8B%E9%85%B7%E6%B8%85%E9%99%A4%E5%BA%95%E5%B1%82%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 10时55分]"
         },
         {
           "title": "32页PPT曝光！美国对加沙蠢蠢欲动",
@@ -41,8 +42,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时55分]"
+        },
+        {
+          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
+          "url": "https://wallstreetcn.com/articles/3761799",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时55分]"
         },
         {
           "title": "朝中社刊文：必须遏制日本拥核野心",
@@ -56,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时55分]"
         },
         {
           "title": "日本官员叫嚣“拥核”，石破茂表态",
@@ -69,20 +85,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 08时55分]"
         },
         {
           "title": "日本一河道涌入鱼群 覆盖整个河面",
@@ -296,11 +298,23 @@
           "url": "https://www.toutiao.com/trending/7585930272403750975/",
           "source": "今日头条",
           "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "日本H3火箭在飞行途中第二级发动机燃烧提前停止",
+          "url": "https://flash.jin10.com/detail/20251222103928481800",
+          "source": "金十数据",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时55分"
         },
         {
           "title": "日本两年期国债收益率升至1.105%，为1997年以来首次。 日本5年期国债收益率上行3.5BP至1.52%。",
@@ -309,7 +323,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -353,13 +367,24 @@
           "time_info": "[03时08分 ~ 07时10分]"
         },
         {
+          "title": "杀害美国顶尖核专家的凶手是何许人",
+          "url": "https://www.toutiao.com/trending/7586469288270106175/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "80个大使职位空缺，美国外交系统面临“大换血”",
           "url": "https://news.ifeng.com/c/8pHTx5HI1UB",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -370,9 +395,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日本央行加息后日元「全线溃败」，市场为何「不买账」？",
+          "url": "https://www.zhihu.com/question/1985926686844413851",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国“星链”一颗卫星或爆炸失联",
@@ -470,6 +506,53 @@
           "time_info": "[00时12分 ~ 02时16分]"
         },
         {
+          "title": "回应美军遇袭事件，美国空袭叙利亚境内70多个目标",
+          "url": "https://news.ifeng.com/c/8pHTtbivwSd",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "日本男足2026世界杯有希望夺冠吗",
+          "url": "https://www.toutiao.com/trending/7586106592509247551/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "美国“星链”一颗卫星或爆炸失联",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E4%B8%80%E9%A2%97%E5%8D%AB%E6%98%9F%E6%88%96%E7%88%86%E7%82%B8%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "台湾“五耻大法官”被批带头践踏法律",
+          "url": "https://news.ifeng.com/c/8pHWaODNk5L",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
           "title": "日本防卫支出超3成不是为了防卫",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%B2%E5%8D%AB%E6%94%AF%E5%87%BA%E8%B6%853%E6%88%90%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E9%98%B2%E5%8D%AB%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -521,42 +604,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "美国“星链”一颗卫星或爆炸失联",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E4%B8%80%E9%A2%97%E5%8D%AB%E6%98%9F%E6%88%96%E7%88%86%E7%82%B8%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
+          "title": "日本H3火箭在飞行途中第二级发动机燃烧提前停止。",
+          "url": "https://wallstreetcn.com/livenews/3024635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本国债在日本央行加息后延续跌势",
+          "url": "https://flash.jin10.com/detail/20251222103352429800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时55分"
         },
         {
-          "title": "回应美军遇袭事件，美国空袭叙利亚境内70多个目标",
-          "url": "https://news.ifeng.com/c/8pHTtbivwSd",
+          "title": "美国移民与海关执法局特工遭汽车撞击后向司机开枪",
+          "url": "https://news.ifeng.com/c/8pHfmfNZ6KK",
           "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时55分"
         },
         {
-          "title": "台湾“五耻大法官”被批带头践踏法律",
-          "url": "https://news.ifeng.com/c/8pHWaODNk5L",
-          "source": "凤凰网",
+          "title": "日经225指数早盘收涨2%，日本东证指数收涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3024630",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时55分"
         },
         {
           "title": "10年期日本国债收益率涨3.5个基点至2.055%。",
@@ -565,7 +659,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -576,9 +670,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：正在密切关注利率上升带来的影响，同时与日本央行保持合作。",
+          "url": "https://wallstreetcn.com/livenews/3024626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "日本芯片相关股票大幅上涨，软银集团股价上涨7.9%，铠侠股价上涨6.2%，雷泰光电涨5.2%。",
@@ -587,7 +692,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -598,9 +703,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
+          "url": "https://flash.jin10.com/detail/20251222102452415800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本20年期国债收益率上行5BP至3.02%。",
+          "url": "https://wallstreetcn.com/livenews/3024621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
@@ -609,7 +736,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -631,20 +758,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "日本男足2026世界杯有希望夺冠吗",
-          "url": "https://www.toutiao.com/trending/7586106592509247551/",
-          "source": "今日头条",
+          "title": "日本内阁官房长官木原稔：在与日本央行合作的同时，密切关注利率上升的影响。",
+          "url": "https://flash.jin10.com/detail/20251222101920485800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时55分"
         },
         {
           "title": "日本2年期国债收益率上行1BP至1.1%。",
@@ -653,7 +780,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -664,9 +791,75 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：一般来说，日元走弱会提振企业海外销售，但也会因高昂的进口成本而加重民众的生活负担。",
+          "url": "https://flash.jin10.com/detail/20251222101656300800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本H3火箭8号机发射升空",
+          "url": "https://wallstreetcn.com/livenews/3024615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本20年期国债收益上升5个基点，至3.020%。",
+          "url": "https://flash.jin10.com/detail/20251222101550812800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：日本央行最新的货币政策决定旨在实现可持续的2%通胀目标。 不会对外汇走势置评。 看到外汇市场快速、单边波动。 汇率以稳定的方式反映基本面很重要。 将针对外汇采取适宜行动。 总体而言，日元疲软有助于提升企业海外销售额，但会通过高昂的进口成本加重民众生活负担。",
+          "url": "https://wallstreetcn.com/livenews/3024614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本突破拥核红线只差临门一脚",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AA%81%E7%A0%B4%E6%8B%A5%E6%A0%B8%E7%BA%A2%E7%BA%BF%E5%8F%AA%E5%B7%AE%E4%B8%B4%E9%97%A8%E4%B8%80%E8%84%9A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "野村证券：触发日本当局干预的具体水平尚不确定，但大胆行动可能已为时不远",
+          "url": "https://flash.jin10.com/detail/20251222101537863800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "本周重要事件与数据预告：LPR、美国GDP；全球多个市场因假期休市",
@@ -675,9 +868,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：不会就外汇市场发表评论；近期看到单方面、快速的波动；货币以反映基本面的稳定方式波动至关重要；将对过度举动采取适当行动。",
+          "url": "https://flash.jin10.com/detail/20251222101526876800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "日本5年期国债收益率上行至1.5%，为2008年以来首次。 日本10年期国债收益率上行2BP，报2.040%。",
@@ -686,7 +890,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -697,9 +901,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：日本央行最新的货币政策决定旨在实现可持续的2%通胀目标。",
+          "url": "https://flash.jin10.com/detail/20251222101406369800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "日本最高外汇事务官员三村淳：汇率近期出现单边、快速的走势。 将对过度波动采取适当行动。 对外汇市场波动深感担忧。",
@@ -708,7 +923,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -719,15 +934,59 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日本H3火箭8号机发射升空",
+          "url": "https://flash.jin10.com/detail/20251222101013932800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "起底日本网络水军",
+          "url": "https://www.douyin.com/hot/2342896",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本10年期国债收益率上行7BP至2.09%。 日本30年期国债收益率上行3BP至3.445%。 日本20年期国债收益率升至3.02%，为1999年以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3024602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本的中亚战略为何推进不顺利",
+          "url": "https://www.toutiao.com/trending/7586205068107333638/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -769,6 +1028,18 @@
           "time_info": "[00时12分 ~ 08时55分]"
         },
         {
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
+          "source": "抖音",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时55分]"
+        },
+        {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
           "url": "https://wallstreetcn.com/articles/3761246",
           "source": "华尔街见闻",
@@ -787,22 +1058,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时12分 ~ 08时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时12分 ~ 10时55分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -824,11 +1085,12 @@
             24,
             18,
             21,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 08时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 10时55分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -848,22 +1110,35 @@
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时55分]"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
           "url": "https://www.zhihu.com/question/1984781101030478834",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时55分"
         },
         {
           "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
@@ -872,7 +1147,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
