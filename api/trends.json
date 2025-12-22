@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T02:17:51.709009+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2025-12-23T03:11:23.673770+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 40,
+      "match_count": 55,
       "titles": [
         {
           "title": "专家：日本若敢拥核美国第一个翻脸",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "“若美国封死委内瑞拉石油，这国将走向彻底崩溃”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "美国及其“精心挑选”的国家启动“硅和平”倡议，没有印度",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "如何评价美国新护卫舰项目",
@@ -70,11 +70,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "美国银行CEO莫伊尼汉：失业率在经历紧张的劳动力市场后正趋于正常化。",
+          "url": "https://flash.jin10.com/detail/20251223024223285800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "美国9月至10月住房开工报告改期至2026年1月9日发布。",
@@ -88,6 +100,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国银行CEO莫伊尼汉：人工智能领域的支出持续增长，助力2026年经济增长。",
+          "url": "https://flash.jin10.com/detail/20251223024157751800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
           "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
           "url": "https://wallstreetcn.com/articles/3761812",
           "source": "华尔街见闻",
@@ -95,8 +118,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "美国银行CEO莫伊尼汉：美国银行预测2026年经济将保持强劲增长。",
+          "url": "https://flash.jin10.com/detail/20251223024033808800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国参议院Murphy：将通过法律手段阻止美国总统特朗普针对风电场采取的命令。",
+          "url": "https://wallstreetcn.com/livenews/3025100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "台湾老兵盼落叶归根",
@@ -107,8 +152,103 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "美国银行CEO Brian Moynihan：（美联储多次）降息被美银视作对小企业有帮助。",
+          "url": "https://wallstreetcn.com/livenews/3025096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国银行CEO Brian Moynihan：劳动力市场趋于紧俏之后，失业人口正在正常化。 企业担心劳动力和移民供应。",
+          "url": "https://wallstreetcn.com/livenews/3025095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国大叔夜游中国街头感叹自由",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%8F%94%E5%A4%9C%E6%B8%B8%E4%B8%AD%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%84%9F%E5%8F%B9%E8%87%AA%E7%94%B1",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "日本火箭发射再失败",
+          "url": "https://www.douyin.com/hot/2343976",
+          "source": "抖音",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.toutiao.com/trending/7586274245890657834/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "日本航天为何陷入困局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
+        },
+        {
+          "title": "美国隐形斩杀线:残酷清除底层人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348183&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%9A%90%E5%BD%A2%E6%96%A9%E6%9D%80%E7%BA%BF%3A%E6%AE%8B%E9%85%B7%E6%B8%85%E9%99%A4%E5%BA%95%E5%B1%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "Dominion Energy：对于美国“国家安全”而言，需要开发弗吉尼亚（周边海域）的风电项目。 当地风电项目有助于满足能源（电力）需求。 （特朗普政府）阻挠CVOW项目将对电网稳定性构成威胁。",
@@ -129,84 +269,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时17分]"
-        },
-        {
-          "title": "美国大叔夜游中国街头感叹自由",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%8F%94%E5%A4%9C%E6%B8%B8%E4%B8%AD%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%84%9F%E5%8F%B9%E8%87%AA%E7%94%B1",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
-          "source": "澎湃新闻",
-          "ranks": [
             11,
-            12
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 03时11分]"
         },
         {
-          "title": "日本火箭发射再失败",
-          "url": "https://www.douyin.com/hot/2343976",
-          "source": "抖音",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.toutiao.com/trending/7586274245890657834/",
+          "title": "日本宣扬拥核窜访台湾释放何种信号",
+          "url": "https://www.toutiao.com/trending/7585875548750020651/",
           "source": "今日头条",
           "ranks": [
-            17,
-            18
+            22,
+            15,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "日本航天为何陷入困局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "美国隐形斩杀线:残酷清除底层人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348183&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%9A%90%E5%BD%A2%E6%96%A9%E6%9D%80%E7%BA%BF%3A%E6%AE%8B%E9%85%B7%E6%B8%85%E9%99%A4%E5%BA%95%E5%B1%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "time_info": "[01时11分 ~ 03时11分]"
         },
         {
           "title": "美国政府：将9-10月营建开支数据重新安排到1月21日发布。 将11月零售销售报告重新安排到1月14日。",
@@ -220,18 +301,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "日本宣扬拥核窜访台湾释放何种信号",
-          "url": "https://www.toutiao.com/trending/7585875548750020651/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 02时17分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-投标倍数 3.18，前值2.84。",
@@ -256,6 +325,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时17分]"
+        },
+        {
+          "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
+          "url": "https://flash.jin10.com/detail/20251223013612242800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时11分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-得标利率 3.485%，前值3.50%。",
@@ -306,15 +387,93 @@
           "time_info": "[01时12分 ~ 02时17分]"
         },
         {
-          "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
-          "url": "https://flash.jin10.com/detail/20251223013612242800",
+          "title": "杜文龙：美国给中国制造统一最大障碍",
+          "url": "https://www.toutiao.com/trending/7585930272403750975/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时11分]"
+        },
+        {
+          "title": "卡尼任命前贝莱德高管怀斯曼为加拿大驻美国大使",
+          "url": "https://flash.jin10.com/detail/20251223022404607800",
           "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国银行CEO Brian Moynihan：美银预计经济将在2026年强劲增长。 预计2026年经济将增长2.4%，那将高于（今年）大约2%的增速。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3025093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
+          "url": "https://flash.jin10.com/detail/20251223020338765800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国至12月22日2年期国债竞拍-投标倍数 2.54，前值2.68。",
+          "url": "https://flash.jin10.com/detail/20251223020204656800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国至12月22日2年期国债竞拍-得标利率配置百分比 6.2%，前值27.7%。",
+          "url": "https://flash.jin10.com/detail/20251223020204631800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.499%（11月24日为3.489%），投标倍数2.54（前次为2.68）。",
+          "url": "https://wallstreetcn.com/livenews/3025083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国至12月22日2年期国债竞拍-得标利率 3.499%，前值3.49%。",
+          "url": "https://flash.jin10.com/detail/20251223020204574800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "美国参议员沃伦批评派拉蒙天空之舞旗下的CBS搁置了一篇关于驱逐移民的报道，称此举看起来像是腐败。",
@@ -334,9 +493,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "杀害美国顶尖核专家的凶手是何许人",
+          "url": "https://www.toutiao.com/trending/7586469288270106175/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "据AXIOS网站：丹麦就特朗普推进格陵兰岛事务召见美国大使。",
@@ -356,9 +526,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
+          "url": "https://flash.jin10.com/detail/20251223014941682800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
@@ -438,24 +619,13 @@
           "time_info": "01时12分"
         },
         {
-          "title": "杜文龙：美国给中国制造统一最大障碍",
-          "url": "https://www.toutiao.com/trending/7585930272403750975/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
           "title": "美国一州90亿美元联邦拨款被诈骗",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%B7%9E90%E4%BA%BF%E7%BE%8E%E5%85%83%E8%81%94%E9%82%A6%E6%8B%A8%E6%AC%BE%E8%A2%AB%E8%AF%88%E9%AA%97",
           "source": "百度热搜",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         },
@@ -474,7 +644,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -484,8 +654,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -495,8 +665,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -504,22 +674,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 03时11分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
           "url": "https://www.zhihu.com/question/1986466538639811812",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 03时11分]"
+        },
+        {
+          "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
+          "url": "https://wallstreetcn.com/livenews/3025094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时11分"
         }
       ]
     }
