@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T18:13:33.223218+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2025-12-22T19:11:37.548560+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 145,
+      "match_count": 153,
       "titles": [
         {
           "title": "32页PPT曝光！美国对加沙蠢蠢欲动",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时12分 ~ 18时13分]"
+          "appearance_count": 26,
+          "time_info": "[00时12分 ~ 19时11分]"
         },
         {
           "title": "日本央行加息后日元「全线溃败」，市场为何「不买账」？",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时55分 ~ 18时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 19时11分]"
         },
         {
           "title": "杜文龙：美国给中国制造统一最大障碍",
@@ -93,8 +93,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时09分 ~ 18时13分]"
+          "appearance_count": 25,
+          "time_info": "[01时09分 ~ 19时11分]"
         },
         {
           "title": "朝中社刊文：必须遏制日本拥核野心",
@@ -166,6 +166,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 08时55分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时19分 ~ 19时11分]"
         },
         {
           "title": "日本火箭发射再失败",
@@ -279,17 +290,6 @@
           "time_info": "[08时55分 ~ 15时17分]"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时19分 ~ 18时13分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
           "url": "https://wallstreetcn.com/livenews/3024442",
           "source": "华尔街见闻-快讯",
@@ -314,6 +314,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 06时11分]"
+        },
+        {
+          "title": "美国及其“精心挑选”的国家启动“硅和平”倡议，没有印度",
+          "url": "https://news.ifeng.com/c/8pI5fPBinE6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时11分]"
+        },
+        {
+          "title": "中方对日本高官言论感到震惊",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时11分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时11分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——中国一年期LPR、美国GDP数据将公布；全球多市场因圣诞假期密集休市",
@@ -370,38 +404,30 @@
           "time_info": "[14时19分 ~ 15时17分]"
         },
         {
-          "title": "美国及其“精心挑选”的国家启动“硅和平”倡议，没有印度",
-          "url": "https://news.ifeng.com/c/8pI5fPBinE6",
-          "source": "凤凰网",
+          "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
+          "url": "https://wallstreetcn.com/articles/3761812",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 19时11分]"
         },
         {
-          "title": "中方对日本高官言论感到震惊",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
+          "url": "https://www.cls.cn/detail/2236404",
+          "source": "财联社热门",
           "ranks": [
+            7,
             4,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时13分]"
-        },
-        {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时11分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -414,6 +440,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时10分]"
+        },
+        {
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.douyin.com/hot/2344282",
+          "source": "抖音",
+          "ranks": [
+            14,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 19时11分]"
+        },
+        {
+          "title": "日本就火箭发射失败道歉",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZaZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 19时11分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -440,6 +490,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时12分 ~ 06时11分]"
+        },
+        {
+          "title": "日本就火箭发射失败道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%B1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            22,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 19时11分]"
         },
         {
           "title": "航拍美国旧金山大停电 车灯凝成长龙",
@@ -469,38 +533,29 @@
           "time_info": "[12时01分 ~ 14时20分]"
         },
         {
-          "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
-          "url": "https://wallstreetcn.com/articles/3761812",
-          "source": "华尔街见闻",
+          "title": "日本火箭发射再失败",
+          "url": "https://www.douyin.com/hot/2343976",
+          "source": "抖音",
           "ranks": [
-            10,
-            8
+            14,
+            11,
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时17分 ~ 18时13分]"
+          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
-          "title": "日本就火箭发射失败道歉",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZaZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 18时13分]"
-        },
-        {
-          "title": "日本航天为何陷入困局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
+          "title": "如何评价美国新护卫舰项目",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%BE%8E%E5%9B%BD%E6%96%B0%E6%8A%A4%E5%8D%AB%E8%88%B0%E9%A1%B9%E7%9B%AE",
           "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
           "title": "日本H3火箭在飞行途中第二级发动机燃烧提前停止",
@@ -587,6 +642,32 @@
           "time_info": "[05时10分 ~ 07时10分]"
         },
         {
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%8B%A5%E6%A0%B8%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            24,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 19时11分]"
+        },
+        {
+          "title": "台湾传出地铁系统接获炸弹预告，台铁：已全面加强戒备",
+          "url": "https://news.ifeng.com/c/8pI4dhdsZw9",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 19时11分]"
+        },
+        {
           "title": "美国司法部公布部分爱泼斯坦文件，此举可能有哪些影响？",
           "url": "https://www.zhihu.com/question/1985626766803493223",
           "source": "知乎",
@@ -600,17 +681,17 @@
           "time_info": "[00时12分 ~ 07时10分]"
         },
         {
-          "title": "日本就火箭发射失败道歉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%B1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E9%81%93%E6%AD%89",
+          "title": "外交部回应日议员窜访台湾：坚决反对",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E8%AE%AE%E5%91%98%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
           "source": "百度热搜",
           "ranks": [
-            23,
-            22,
-            20
+            17,
+            29,
+            26
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时17分 ~ 18时13分]"
+          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
           "title": "印官员：若台湾有事印度不会学西方",
@@ -659,18 +740,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
-          "url": "https://www.cls.cn/detail/2236404",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时13分]"
-        },
-        {
           "title": "美国天然气期货日内涨超3.00%，现报4.104美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20251222135851117800",
           "source": "金十数据",
@@ -680,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "市场消息：美国马里兰联邦枪支起诉案件降至至少25年来的最低点。",
+          "url": "https://flash.jin10.com/detail/20251222190035433800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美国飞行员看见银色罐状不明飞行物",
@@ -710,9 +790,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "市场消息：在将重心转向移民问题之际，美国司法部在巴尔的摩及其他城市撤回枪支执法行动。",
+          "url": "https://flash.jin10.com/detail/20251222190015117800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美国移民与海关执法局特工遭汽车撞击后向司机开枪",
@@ -727,31 +818,6 @@
           "time_info": "[10时55分 ~ 13时17分]"
         },
         {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.douyin.com/hot/2344282",
-          "source": "抖音",
-          "ranks": [
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时13分]"
-        },
-        {
-          "title": "日本火箭发射再失败",
-          "url": "https://www.douyin.com/hot/2343976",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 18时13分]"
-        },
-        {
           "title": "美国“星链”一颗卫星或爆炸失联",
           "url": "https://wallstreetcn.com/livenews/3024463",
           "source": "华尔街见闻-快讯",
@@ -762,31 +828,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时10分]"
-        },
-        {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%8B%A5%E6%A0%B8%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 18时13分]"
-        },
-        {
-          "title": "台湾传出地铁系统接获炸弹预告，台铁：已全面加强戒备",
-          "url": "https://news.ifeng.com/c/8pI4dhdsZw9",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "日本制造为何批量撤出中国",
@@ -812,18 +853,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时19分 ~ 16时18分]"
-        },
-        {
-          "title": "外交部回应日议员窜访台湾：坚决反对",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E8%AE%AE%E5%91%98%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与欧洲伙伴在更广泛范围内的磋商应在近期美国会谈之后进行。",
@@ -869,6 +898,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时10分]"
+        },
+        {
+          "title": "日本航天为何陷入困局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.toutiao.com/trending/7586274245890657834/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "日本最大核电站将重启",
@@ -1005,6 +1058,18 @@
           "time_info": "[17时19分 ~ 18时13分]"
         },
         {
+          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "日本防卫支出超3成不是为了防卫",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%B2%E5%8D%AB%E6%94%AF%E5%87%BA%E8%B6%853%E6%88%90%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E9%98%B2%E5%8D%AB%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1014,6 +1079,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 06时11分]"
+        },
+        {
+          "title": "台海开战能撑72小时？帅化民驳斥",
+          "url": "https://www.toutiao.com/trending/7586323367402749995/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "韩媒：中国游客减少日本住宿价格暴跌",
@@ -1070,17 +1147,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.toutiao.com/trending/7586274245890657834/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "日本最高外汇事务官：若汇率出现过度波动 当局将采取“适当”行动",
@@ -1177,7 +1243,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1210,9 +1276,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "美国地质勘探局：巴布亚新几内亚戈罗卡东北偏北42公里处发生6.5级地震。",
+          "url": "https://flash.jin10.com/detail/20251222184740528800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "10年期日本国债收益率涨3.5个基点至2.055%。",
@@ -1287,7 +1364,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1408,7 +1485,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1446,17 +1523,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "5年期日本国债收益率升1.5个基点至1.5%；2年期日本国债收益率升1个基点至1.1%。",
           "url": "https://flash.jin10.com/detail/20251222081140257800",
           "source": "金十数据",
@@ -1477,6 +1543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "墨西哥外交部长：墨西哥将利用圣胡安河为美国供水。",
+          "url": "https://flash.jin10.com/detail/20251222183324570800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "日本H3火箭8号机发射升空",
@@ -1551,9 +1628,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "日本就火箭发射失败道歉",
+          "url": "https://www.toutiao.com/trending/7586274245890690602/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "本周重要事件与数据预告：LPR、美国GDP；全球多个市场因假期休市",
@@ -1622,15 +1710,15 @@
           "time_info": "08时55分"
         },
         {
-          "title": "台海开战能撑72小时？帅化民驳斥",
-          "url": "https://www.toutiao.com/trending/7586323367402749995/",
+          "title": "媒体：日本“核武装论”不得人心",
+          "url": "https://www.toutiao.com/trending/7586570989446630922/",
           "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
           "title": "日本最高外汇事务官员三村淳：近期出现单边、快速的走势；将对过度波动采取适当行动；对汇市走势感到担忧。",
@@ -1716,7 +1804,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1727,15 +1815,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "美国大叔夜游中国街头感叹自由",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%8F%94%E5%A4%9C%E6%B8%B8%E4%B8%AD%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%84%9F%E5%8F%B9%E8%87%AA%E7%94%B1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -1789,6 +1888,21 @@
           "time_info": "[00时12分 ~ 10时55分]"
         },
         {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时12分 ~ 19时11分]"
+        },
+        {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
           "url": "https://wallstreetcn.com/articles/3761246",
           "source": "华尔街见闻",
@@ -1800,20 +1914,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时12分 ~ 08时55分]"
-        },
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时12分 ~ 18时13分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -1855,11 +1955,24 @@
             28,
             24,
             13,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 19时11分]"
+        },
+        {
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时19分 ~ 19时11分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -1873,18 +1986,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时55分 ~ 14时20分]"
-        },
-        {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时19分 ~ 18时13分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -1922,8 +2023,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 18时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时17分 ~ 19时11分]"
         },
         {
           "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
@@ -1962,6 +2063,18 @@
           "time_info": "[12时42分 ~ 13时17分]"
         },
         {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "夸克AI眼镜G1开启预售，最低1999元",
           "url": "https://wallstreetcn.com/livenews/3024838",
           "source": "华尔街见闻-快讯",
@@ -1986,15 +2099,26 @@
           "time_info": "[08时55分 ~ 10时55分]"
         },
         {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
+          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
+          "url": "https://www.zhihu.com/question/1972372550760784385",
+          "source": "知乎",
           "ranks": [
-            10
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "东方港湾董事长但斌：“AI泡沫论”是噪音，远离融资炒股",
+          "url": "https://wallstreetcn.com/livenews/3024907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
           "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
@@ -2006,17 +2130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
-        },
-        {
-          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
-          "url": "https://www.zhihu.com/question/1972372550760784385",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
@@ -2050,6 +2163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "滴普科技与沐曦股份将在企业级大模型AI应用领域携手合作",
+          "url": "https://wallstreetcn.com/livenews/3024889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
