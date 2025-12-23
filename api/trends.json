@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T17:16:53.144395+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2025-12-23T18:13:50.919384+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 189,
+      "match_count": 194,
       "titles": [
         {
           "title": "“若美国封死委内瑞拉石油，这国将走向彻底崩溃”",
@@ -85,8 +85,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 17时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 18时13分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -108,8 +108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 17时16分]"
+          "appearance_count": 14,
+          "time_info": "[08时53分 ~ 18时13分]"
         },
         {
           "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
@@ -149,11 +149,12 @@
             14,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时49分 ~ 17时16分]"
+          "appearance_count": 13,
+          "time_info": "[10时49分 ~ 18时13分]"
         },
         {
           "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
@@ -244,6 +245,21 @@
           "time_info": "[12时30分 ~ 17时16分]"
         },
         {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            16,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 18时13分]"
+        },
+        {
           "title": "台湾老兵盼落叶归根",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E8%80%81%E5%85%B5%E7%9B%BC%E8%90%BD%E5%8F%B6%E5%BD%92%E6%A0%B9",
           "source": "bilibili 热搜",
@@ -284,20 +300,6 @@
           "time_info": "[02时17分 ~ 07时11分]"
         },
         {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 17时16分]"
-        },
-        {
           "title": "停电致美国标准时间出现4.8微秒误差",
           "url": "https://flash.jin10.com/detail/20251223083419124800",
           "source": "金十数据",
@@ -335,6 +337,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时11分 ~ 07时11分]"
+        },
+        {
+          "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
+          "url": "https://news.ifeng.com/c/8pJuhmbbgzk",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国9月至10月住房开工报告改期至2026年1月9日发布。",
@@ -379,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "欧洲地中海地震中心：日本滨松市以南167公里处发生5.2级地震。",
+          "url": "https://flash.jin10.com/detail/20251223175232134800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国原油期货收涨超2.6%",
@@ -469,6 +493,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
+          "url": "https://news.ifeng.com/c/8pJnBoVeMvD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国总统特朗普：将为新战舰使用美国钢铁。",
           "url": "https://flash.jin10.com/detail/20251223063925012800",
           "source": "金十数据",
@@ -489,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "俄罗斯副外长：俄罗斯就美国在委内瑞拉的行动向华盛顿表达关切。",
+          "url": "https://flash.jin10.com/detail/20251223175143234800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
@@ -530,7 +576,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -582,6 +628,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 08时53分]"
+        },
+        {
+          "title": "日本第17次核污染水排海结束，共排放7833立方米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 18时13分]"
         },
         {
           "title": "日本遗孤在中国当助产士",
@@ -802,18 +860,6 @@
           "time_info": "[04时13分 ~ 05时10分]"
         },
         {
-          "title": "日本第17次核污染水排海结束，共排放7833立方米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 17时16分]"
-        },
-        {
           "title": "马杜罗致函联合国 谴责美国破坏国际体系稳定",
           "url": "https://flash.jin10.com/detail/20251223025736031800",
           "source": "金十数据",
@@ -864,6 +910,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时17分]"
+        },
+        {
+          "title": "美国重回战列舰时代传递何种信号",
+          "url": "https://www.toutiao.com/trending/7586952287046618662/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时13分]"
+        },
+        {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时13分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-投标倍数 3.18，前值2.84。",
@@ -924,6 +994,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时11分]"
+        },
+        {
+          "title": "俄罗斯副外长：俄罗斯和美国就双边问题举行了磋商。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3025506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时13分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-得标利率 3.485%，前值3.50%。",
@@ -1290,17 +1372,6 @@
           "time_info": "16时17分"
         },
         {
-          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
-          "url": "https://wallstreetcn.com/livenews/3025508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "美国总统特朗普：国防工业需要优先考虑生产支出。",
           "url": "https://flash.jin10.com/detail/20251223062600931800",
           "source": "金十数据",
@@ -1321,17 +1392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "美国重回战列舰时代传递何种信号",
-          "url": "https://www.toutiao.com/trending/7586952287046618662/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "美国总统特朗普：不希望CEO年薪5000万美元，还搞股票回购和分红。",
@@ -1365,17 +1425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "俄罗斯副外长：俄罗斯和美国就双边问题举行了磋商。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3025506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         },
         {
           "title": "特朗普：美国还将增加航空母舰数量",
@@ -1846,9 +1895,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
+        },
+        {
+          "title": "日本今年已捕杀近万头熊",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%8D%95%E6%9D%80%E8%BF%91%E4%B8%87%E5%A4%B4%E7%86%8A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国总统特朗普：我们将与运营海军船厂的一些公司进行谈判。",
@@ -2077,7 +2137,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -2272,8 +2332,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 17时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时14分 ~ 18时13分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -2283,8 +2343,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 17时16分]"
+          "appearance_count": 14,
+          "time_info": "[08时53分 ~ 18时13分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -2294,8 +2354,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 17时16分]"
+          "appearance_count": 14,
+          "time_info": "[08时53分 ~ 18时13分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -2305,8 +2365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时53分 ~ 17时16分]"
+          "appearance_count": 14,
+          "time_info": "[08时53分 ~ 18时13分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
