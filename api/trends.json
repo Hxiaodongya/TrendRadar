@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T10:50:16.008692+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-12-23T11:56:27.280726+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 147,
+      "match_count": 159,
       "titles": [
         {
           "title": "“若美国封死委内瑞拉石油，这国将走向彻底崩溃”",
@@ -66,11 +66,12 @@
             2,
             9,
             12,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 10时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时56分]"
         },
         {
           "title": "违约、坏账、赎回潮“此起彼伏”，美国的“万亿私募信贷大故事”正在崩塌",
@@ -110,8 +111,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时56分]"
         },
         {
           "title": "日本火箭发射再失败",
@@ -146,11 +147,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时56分]"
         },
         {
           "title": "日本航天为何陷入困局",
@@ -205,17 +207,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时17分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
         },
         {
           "title": "停电致美国标准时间出现4.8微秒误差",
@@ -282,7 +273,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -337,7 +328,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -364,6 +355,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "日本很可能在2026财年预算中假设长期利率约为3%，为29年来最高水平。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3025339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "美国总统特朗普：将为新战舰使用美国钢铁。",
           "url": "https://flash.jin10.com/detail/20251223063925012800",
           "source": "金十数据",
@@ -384,6 +386,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 11时56分]"
         },
         {
           "title": "美国总统特朗普重申即将开始“陆地”打击。",
@@ -431,6 +445,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时17分 ~ 08时53分]"
+        },
+        {
+          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
+          "url": "https://wallstreetcn.com/articles/3761858",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时56分]"
         },
         {
           "title": "美国银行CEO莫伊尼汉：失业率在经历紧张的劳动力市场后正趋于正常化。",
@@ -625,15 +650,15 @@
           "time_info": "[04时13分 ~ 05时10分]"
         },
         {
-          "title": "迄今最严厉警告！日本财务大臣：针对汇市投机拥有“自由裁量权”，将采取大胆行动",
-          "url": "https://wallstreetcn.com/articles/3761858",
-          "source": "华尔街见闻",
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时53分 ~ 10时50分]"
+          "time_info": "[10时49分 ~ 11时56分]"
         },
         {
           "title": "马杜罗致函联合国 谴责美国破坏国际体系稳定",
@@ -675,15 +700,16 @@
           "time_info": "[03时11分 ~ 05时10分]"
         },
         {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
+          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 11时56分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-投标倍数 3.18，前值2.84。",
@@ -708,6 +734,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时13分]"
+        },
+        {
+          "title": "日经225指数早盘收涨0.1%，日本东证指数早盘收盘涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3025290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 11时56分]"
         },
         {
           "title": "美国至12月22日6个月国债竞拍-得标利率配置百分比 44.33%，前值4.57%。",
@@ -950,17 +988,6 @@
           "time_info": "[05时10分 ~ 06时12分]"
         },
         {
-          "title": "人民日报钟声：日本的“军费账”算丢了历史责任与公道人心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32234610",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
-        },
-        {
           "title": "日本航天与卫星技术为何由盛转衰",
           "url": "https://www.toutiao.com/trending/7586851839178444334/",
           "source": "今日头条",
@@ -1026,17 +1053,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "日经225指数早盘收涨0.1%，日本东证指数早盘收盘涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3025290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         },
         {
           "title": "日本企业为何对海南封关喜忧参半",
@@ -1116,6 +1132,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "消息人士称，日本很可能在2026财年预算中假设长期利率约为3%，为29年来最高水平。",
+          "url": "https://flash.jin10.com/detail/20251223113747595800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "日本为何突然“抱紧”中亚",
           "url": "https://www.toutiao.com/trending/7586609184569822762/",
           "source": "今日头条",
@@ -1166,7 +1193,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1180,6 +1207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国南方司令部：此次行动中确认有一名男性被击毙，没有美军人员受伤。",
+          "url": "https://flash.jin10.com/detail/20251223113208492800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "10年期日本国债收益率下行3BP至2.050%。 20年期日本国债收益率下行1.5BP至2.985%。",
@@ -1199,9 +1237,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "郑丽文：两岸要避免战争开创和平",
+          "url": "https://www.toutiao.com/trending/7586372215264985139/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国总统特朗普：新的舰艇将“高程度地由人工智能控制”。",
@@ -1221,9 +1270,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "美国南方司令部：南方长矛联合特遣部队在国际水域对一艘低可见度船只实施了致命动能打击。",
+          "url": "https://flash.jin10.com/detail/20251223113132162800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "日本财务大臣片山皋月：外汇走势与基本面不符。 影响汇率和收益率变动的因素很多。 拒绝就当前汇率和收益率水平发表评论。 **将针对过度的外汇波动采取适宜行动。 在市场干预上，我们有自由行动的权利。** 政府正专注于经济增长。 G7中无一国家对日本财政状况提出质疑。 收益率变动并非立即与国家财政状况挂钩。",
@@ -1232,7 +1292,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1276,9 +1336,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "日本政界人士批评高市早苗涉台言论",
+          "url": "https://www.toutiao.com/trending/7586303319803985939/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "据AXIOS网站：丹麦就特朗普推进格陵兰岛事务召见美国大使。",
@@ -1309,7 +1380,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1331,7 +1402,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1353,7 +1424,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1375,7 +1446,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1419,9 +1490,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "日本第17次核污染水排海结束，共排放7833立方米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
@@ -1463,7 +1545,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1534,6 +1616,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "日本经济产业省预计，日本1月至3月粗钢产量将同比下降1.7%。",
+          "url": "https://flash.jin10.com/detail/20251223110136878800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "特朗普：美国还将增加航空母舰数量",
           "url": "https://wallstreetcn.com/livenews/3025152",
           "source": "华尔街见闻-快讯",
@@ -1565,6 +1658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "日本经济产业省预计，日本1月至3月季度的钢产量将较上一季度下降0.8%，至2005万吨。",
+          "url": "https://flash.jin10.com/detail/20251223110128613800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国总统特朗普：批准海军开始建造两艘全新战列舰的计划。",
@@ -1606,9 +1710,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "新华社发表重磅述评直指日本逆流",
+          "url": "https://www.toutiao.com/trending/7586833684142276650/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国总统特朗普活动现场的海报展示了新军舰的图像，并配有文字“特朗普级美国海军无畏号（Trump Class USS Defiant）”。",
@@ -1633,6 +1748,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "日本经济产业省预测，日本1月至3月季度包括出口在内的钢铁产品需求将同比下降1.6%，至1827万吨。",
+          "url": "https://flash.jin10.com/detail/20251223110051451800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "委内瑞拉向安理会提交公报，谴责美国“海盗行径”",
           "url": "https://wallstreetcn.com/livenews/3025178",
           "source": "华尔街见闻-快讯",
@@ -1650,7 +1776,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -1664,6 +1790,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "日本经济产业省预计，日本1月至3月季度钢铁产品出口量将同比下降0.5%，至626万吨。",
+          "url": "https://flash.jin10.com/detail/20251223110036244800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "美国一州90亿美元联邦拨款被诈骗",
@@ -1745,11 +1882,12 @@
             16,
             5,
             9,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 08时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 11时56分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -1760,8 +1898,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时56分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 11时56分]"
         },
         {
           "title": "利用AI造谣中国女篮两男子刑拘",
@@ -1775,17 +1927,61 @@
           "time_info": "[08时53分 ~ 10时50分]"
         },
         {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
+          "title": "利用AI造谣“中国女篮”，两男子刑拘",
+          "url": "https://www.toutiao.com/trending/7586636403350523428/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            4,
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时11分 ~ 10时50分]"
+          "time_info": "[08时53分 ~ 11时56分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时56分]"
+        },
+        {
+          "title": "用AI造谣中国女篮两男子被刑拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时56分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.douyin.com/hot/2344497",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时56分]"
+        },
+        {
+          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
+          "url": "https://www.cls.cn/detail/2236998",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 11时56分]"
         },
         {
           "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
@@ -1813,50 +2009,6 @@
           "time_info": "[02时17分 ~ 05时10分]"
         },
         {
-          "title": "利用AI造谣“中国女篮”，两男子刑拘",
-          "url": "https://www.toutiao.com/trending/7586636403350523428/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 10时50分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 10时50分]"
-        },
-        {
-          "title": "用AI造谣中国女篮两男子被刑拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%B8%A4%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 10时50分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.douyin.com/hot/2344497",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 10时50分]"
-        },
-        {
           "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
           "url": "https://wallstreetcn.com/livenews/3025094",
           "source": "华尔街见闻-快讯",
@@ -1868,18 +2020,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时10分]"
-        },
-        {
-          "title": "加码AI算力与电力布局！Alphabet斥资47.5亿美元收购Intersect",
-          "url": "https://www.cls.cn/detail/2236998",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时53分 ~ 10时50分]"
         },
         {
           "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
