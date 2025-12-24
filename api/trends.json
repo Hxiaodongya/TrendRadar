@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T18:13:10.102611+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2025-12-24T19:11:19.174894+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 231,
+      "match_count": 243,
       "titles": [
         {
           "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时47分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 19时11分]"
         },
         {
           "title": "日本一报废核反应堆发生含放射性水泄漏事件，数人或遭辐射",
@@ -72,22 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 18时13分]"
-        },
-        {
-          "title": "公安最高悬赏25万追捕2名台湾嫌犯",
-          "url": "https://www.toutiao.com/trending/7587240357058920457/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            5,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时53分 ~ 18时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 19时11分]"
         },
         {
           "title": "日本遗孤说不信我是日本孩子",
@@ -105,6 +91,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时13分 ~ 08时53分]"
+        },
+        {
+          "title": "公安最高悬赏25万追捕2名台湾嫌犯",
+          "url": "https://www.toutiao.com/trending/7587240357058920457/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            5,
+            4,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时53分 ~ 19时11分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -125,6 +126,36 @@
           "time_info": "[00时14分 ~ 17时16分]"
         },
         {
+          "title": "日本靖国神社被起诉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            5,
+            7,
+            6,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 19时11分]"
+        },
+        {
+          "title": "美国斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 19时11分]"
+        },
+        {
           "title": "美国标准时间慢了4.8微秒",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4%E6%85%A2%E4%BA%864.8%E5%BE%AE%E7%A7%92",
           "source": "bilibili 热搜",
@@ -140,21 +171,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 11时53分]"
-        },
-        {
-          "title": "日本靖国神社被起诉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%A2%AB%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            5,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 18时13分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -184,25 +200,12 @@
             13,
             10,
             20,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时47分 ~ 18时13分]"
-        },
-        {
-          "title": "美国斩杀线",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时47分 ~ 19时11分]"
         },
         {
           "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
@@ -215,6 +218,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时14分 ~ 16时17分]"
+        },
+        {
+          "title": "什么是美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 19时11分]"
         },
         {
           "title": "美国最神秘连环杀手多年前已去世",
@@ -268,22 +282,23 @@
             20,
             16,
             18,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时53分 ~ 18时13分]"
+          "appearance_count": 11,
+          "time_info": "[11时53分 ~ 19时11分]"
         },
         {
-          "title": "什么是美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "升级！美国罕见制裁欧盟前官员",
+          "url": "https://news.ifeng.com/c/8pLdYbNCAk7",
+          "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时11分]"
         },
         {
           "title": "威海公安悬赏25万追捕2名台湾籍嫌犯",
@@ -299,6 +314,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时47分 ~ 16时17分]"
+        },
+        {
+          "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
+          "url": "https://www.zhihu.com/question/1985020927335998097",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 19时11分]"
+        },
+        {
+          "title": "美国欲邀其派兵加沙，阿塞拜疆：谢邀，没空",
+          "url": "https://news.ifeng.com/c/8pLWEtJdcIg",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时11分]"
         },
         {
           "title": "李凯尔改回美国国籍",
@@ -329,40 +370,15 @@
           "time_info": "[11时53分 ~ 16时17分]"
         },
         {
-          "title": "升级！美国罕见制裁欧盟前官员",
-          "url": "https://news.ifeng.com/c/8pLdYbNCAk7",
-          "source": "凤凰网",
+          "title": "台湾地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时13分]"
-        },
-        {
-          "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
-          "url": "https://www.zhihu.com/question/1985020927335998097",
-          "source": "知乎",
-          "ranks": [
-            20,
-            11,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 18时13分]"
-        },
-        {
-          "title": "美国欲邀其派兵加沙，阿塞拜疆：谢邀，没空",
-          "url": "https://news.ifeng.com/c/8pLWEtJdcIg",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时13分]"
+          "time_info": "[18时12分 ~ 19时11分]"
         },
         {
           "title": "邵永灵：美国上演现代海盗行径",
@@ -404,17 +420,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时19分 ~ 18时13分]"
-        },
-        {
-          "title": "台湾地震",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "男篮归化球员李凯尔国籍变回美国",
@@ -461,17 +466,6 @@
           "time_info": "[03时12分 ~ 07时11分]"
         },
         {
-          "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
-          "url": "https://news.ifeng.com/c/8pLSg94hcdN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时17分]"
-        },
-        {
           "title": "外交部回应日本可能数人遭到辐射",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E6%95%B0%E4%BA%BA%E9%81%AD%E5%88%B0%E8%BE%90%E5%B0%84",
           "source": "bilibili 热搜",
@@ -481,6 +475,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "日本可能有数人遭到辐射 外交部回应",
+          "url": "https://www.toutiao.com/trending/7587006328502075428/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "美国首家蜜雪冰城怎么样",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E9%A6%96%E5%AE%B6%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E6%80%8E%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美国至12月26日当周石油钻井总数将于十分钟后公布。",
@@ -505,17 +521,6 @@
           "time_info": "10时47分"
         },
         {
-          "title": "中国地震台网正式测定：12月24日17时47分在台湾台东县（北纬22.86度，东经121.12度）发生5.8级地震，震源深度10千米。",
-          "url": "https://wallstreetcn.com/livenews/3026160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "辟谣美国治理骚扰电话",
           "url": "https://search.bilibili.com/all?keyword=%E8%BE%9F%E8%B0%A3%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%90%86%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -528,6 +533,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时16分 ~ 18时13分]"
+        },
+        {
+          "title": "为何是2027年？“美国想保留筹码，但中国手里有王牌”",
+          "url": "https://news.ifeng.com/c/8pLaxQiSfCT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "10年期日本国债收益率跌2个基点，至2.020%。",
@@ -618,6 +634,30 @@
           "time_info": "08时53分"
         },
         {
+          "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
+          "url": "https://news.ifeng.com/c/8pLSg94hcdN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 19时11分]"
+        },
+        {
+          "title": "专家称日本理论上半年内可造出核武器",
+          "url": "https://www.toutiao.com/trending/7586717169801478150/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时11分]"
+        },
+        {
           "title": "美国社会“斩杀线”",
           "url": "https://www.toutiao.com/trending/7586511935442305067/",
           "source": "今日头条",
@@ -657,7 +697,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -672,6 +712,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 08时53分]"
+        },
+        {
+          "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243519",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 19时11分]"
+        },
+        {
+          "title": "美国为何提前两年预告对华半导体加税",
+          "url": "https://www.toutiao.com/trending/7587318705801924146/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
           "title": "中长期英债收益率跌约3个基点，美国GDP等数据发布后冲高回落",
@@ -825,6 +890,18 @@
           "time_info": "[16时17分 ~ 17时16分]"
         },
         {
+          "title": "中国地震台网正式测定：12月24日17时47分在台湾台东县（北纬22.86度，东经121.12度）发生5.8级地震，震源深度10千米。",
+          "url": "https://wallstreetcn.com/livenews/3026160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
           "title": "美国至12月23日6周国债竞拍-得标利率配置百分比 9.95%，前值57.75%。",
           "url": "https://flash.jin10.com/detail/20251224003406407800",
           "source": "金十数据",
@@ -945,6 +1022,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时12分]"
+        },
+        {
+          "title": "日本发放过期救济粮，要求领取者签免责书",
+          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时11分]"
         },
         {
           "title": "美国至12月23日6周国债竞拍-得标利率 3.58%，前值3.63%。",
@@ -1153,30 +1242,6 @@
           "time_info": "[13时16分 ~ 15时16分]"
         },
         {
-          "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32243519",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 18时13分]"
-        },
-        {
-          "title": "美国为何提前两年预告对华半导体加税",
-          "url": "https://www.toutiao.com/trending/7587318705801924146/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 18时13分]"
-        },
-        {
           "title": "美国将从1月份开始截获（扣留）那些学生贷款违约的借款人的薪酬。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3025687",
           "source": "华尔街见闻-快讯",
@@ -1188,17 +1253,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "日本发放过期救济粮，要求领取者签免责书",
-          "url": "https://news.ifeng.com/c/8pLdALfAc5T",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时13分]"
         },
         {
           "title": "对委动武的代价可能超出美国想象",
@@ -1239,6 +1293,18 @@
           "time_info": "[00时14分 ~ 02时17分]"
         },
         {
+          "title": "台湾台东县5.8级地震",
+          "url": "https://www.douyin.com/hot/2346506",
+          "source": "抖音",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时11分]"
+        },
+        {
           "title": "美国12月里士满联储制造业指数 -7，预期 -10，前值 -15。",
           "url": "https://wallstreetcn.com/livenews/3025680",
           "source": "华尔街见闻-快讯",
@@ -1264,15 +1330,16 @@
           "time_info": "[03时12分 ~ 04时13分]"
         },
         {
-          "title": "专家称日本理论上半年内可造出核武器",
-          "url": "https://www.toutiao.com/trending/7586717169801478150/",
-          "source": "今日头条",
+          "title": "专家：日本试图在地理上围堵中国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%AF%95%E5%9B%BE%E5%9C%A8%E5%9C%B0%E7%90%86%E4%B8%8A%E5%9B%B4%E5%A0%B5%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            7
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时11分]"
         },
         {
           "title": "美国至12月23日1年期国债竞拍-得标利率 3.38%，前值3.46%。",
@@ -1719,17 +1786,6 @@
           "time_info": "[00时14分 ~ 01时13分]"
         },
         {
-          "title": "专家：日本试图在地理上围堵中国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%AF%95%E5%9B%BE%E5%9C%A8%E5%9C%B0%E7%90%86%E4%B8%8A%E5%9B%B4%E5%A0%B5%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
-        },
-        {
           "title": "国台办回应日本盯上在台湾的熊猫",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%9B%AF%E4%B8%8A%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%9A%84%E7%86%8A%E7%8C%AB%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1740,17 +1796,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 12时28分]"
-        },
-        {
-          "title": "台湾台东县5.8级地震",
-          "url": "https://www.douyin.com/hot/2346506",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "据科技媒体TechCrunsh：美国保险巨头Aflac表示，黑客窃取了2260万份个人和健康数据。",
@@ -1792,9 +1837,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "法国总统马克龙：美国的这些措施显示出一种恐吓的意图，并且是在挑战欧洲的数字主权。",
+          "url": "https://flash.jin10.com/detail/20251224185644194800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
+          "title": "台湾台东县发生5.8级地震",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C%E5%8E%BF%E5%8F%91%E7%94%9F5.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "印度商务秘书：印度正与美国深入合作，以达成贸易协议。",
@@ -1858,9 +1925,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "法国总统马克龙：法国谴责美国对欧盟内部市场委员布雷顿和其他四名欧洲人实施的签证禁令。",
+          "url": "https://flash.jin10.com/detail/20251224185501950800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "据CNBC：美国将于1月开始扣押学生贷款借款人的工资。",
@@ -1916,6 +1994,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "台湾5.8级地震 福州厦门等地有震感",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE5.8%E7%BA%A7%E5%9C%B0%E9%9C%87+%E7%A6%8F%E5%B7%9E%E5%8E%A6%E9%97%A8%E7%AD%89%E5%9C%B0%E6%9C%89%E9%9C%87%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "亚特兰大联储GDPNow模型初步预测，2025年第四季度实际GDP（经季节性调整的年化增长率）为3.0%。美国经济分析局公布的三季度实际GDP增长初值为4.3%，较GDPNow模型的最终预测值高出0.8个百分点。",
@@ -1995,6 +2084,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "欧盟发言人：欧盟已向美国当局提出澄清要求，并保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20251224183047422800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美国对欧盟委员会前委员实施签证限制",
           "url": "https://wallstreetcn.com/livenews/3025840",
           "source": "华尔街见闻-快讯",
@@ -2072,6 +2172,17 @@
           "time_info": "17时16分"
         },
         {
+          "title": "欧盟发言人：言论自由是欧洲的一项基本权利，也是整个民主世界与美国共同的核心价值观。",
+          "url": "https://flash.jin10.com/detail/20251224182953363800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "日本央行10月政策会议纪要：一名委员表示，企业与家庭的通胀预期已达到2%，必须警惕价格上涨风险。 一名委员称，财政政策是设定经济和物价预测的重要因素。 少数委员指出，核心通胀正在逐步加速，但尚未达到2%。 一名委员表示，日本有望在明年春季实现日本央行的物价目标，届时可能需要工资增长以达成目标。 几位委员表示，日元贬值可能通过推高进口价格，导致通胀超调。",
           "url": "https://wallstreetcn.com/livenews/3025838",
           "source": "华尔街见闻-快讯",
@@ -2114,6 +2225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "欧盟发言人：欧盟委员会强烈谴责美国对包括欧盟内部市场委员布雷顿在内的五名欧洲个人实施旅行限制的决定。",
+          "url": "https://flash.jin10.com/detail/20251224182946734800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "日经225指数收盘收跌0.1%，报50,344.10点。 日本东证指数收跌0.5%，报3,407.37点。 韩国首尔综指收盘跌0.2%，报4,108.62点。",
@@ -2301,6 +2423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "日本上调2025–26财年GDP增长预期 消费与投资成主要动力",
+          "url": "https://flash.jin10.com/detail/20251224181843184800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美国12月谘商会消费者预期指数 70.7，前值63.2。",
@@ -2611,6 +2744,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "台湾台东5.8级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%8F%B0%E4%B8%9C5.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美国至12月26日当周总钻井总数 545口，前值542口。",
           "url": "https://flash.jin10.com/detail/20251224020105591800",
           "source": "金十数据",
@@ -2853,7 +2997,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -2864,7 +3008,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -2904,8 +3048,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 18时13分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 19时11分]"
         }
       ]
     }
