@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T05:10:27.624804+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2025-12-25T06:12:20.436898+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "升级！美国罕见制裁欧盟前官员",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "一夜返贫!美国富翁也难逃斩杀",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
-        },
-        {
-          "title": "公安最高悬赏25万追捕2名台湾嫌犯",
-          "url": "https://www.toutiao.com/trending/7587240357058920457/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "为何是2027年？“美国想保留筹码，但中国手里有王牌”",
@@ -48,8 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "公安最高悬赏25万追捕2名台湾嫌犯",
+          "url": "https://www.toutiao.com/trending/7587240357058920457/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "日本一无人岛密密麻麻都是北海狮",
@@ -60,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "什么是美国斩杀线",
@@ -72,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "李凯尔回应：恢复美国国籍不属实",
@@ -84,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "美国网红称他在旧金山快活不下去了",
@@ -98,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
@@ -109,8 +110,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "日本发放过期救济粮，要求领取者签免责书",
@@ -120,20 +134,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
-        },
-        {
-          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
-          "url": "https://wallstreetcn.com/articles/3761983",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "美国首家蜜雪冰城怎么样",
@@ -146,8 +148,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "态度强硬 日本官员再惹风波",
@@ -160,8 +162,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
@@ -171,8 +173,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "精日实锤?原神套用日本军衔",
@@ -182,8 +184,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
@@ -193,8 +195,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
@@ -204,8 +206,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "美国患者医院哀嚎求助 医护视而不见",
@@ -217,41 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "美国加州州长Newsom针对南加州即将面临的暴雨天气宣布紧急状态。",
-          "url": "https://wallstreetcn.com/livenews/3026329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
-        },
-        {
-          "title": "美国因工厂停电与寒流延长东北部能源紧急状态",
-          "url": "https://flash.jin10.com/detail/20251225032946338800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
-        },
-        {
-          "title": "爱泼斯坦案再曝超百万份文件，美国司法部称审查公开仍需数周",
-          "url": "https://flash.jin10.com/detail/20251225032902920800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.18%，前值6.21%。",
@@ -266,6 +233,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时10分 ~ 05时10分]"
+        },
+        {
+          "title": "美国因工厂停电与寒流延长东北部能源紧急状态",
+          "url": "https://flash.jin10.com/detail/20251225032946338800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
+          "title": "爱泼斯坦案再曝超百万份文件，美国司法部称审查公开仍需数周",
+          "url": "https://flash.jin10.com/detail/20251225032902920800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "日本靖国神社被起诉",
@@ -286,11 +279,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时12分]"
+        },
+        {
+          "title": "美国加州州长Newsom针对南加州即将面临的暴雨天气宣布紧急状态。",
+          "url": "https://wallstreetcn.com/livenews/3026329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "美国抵押贷款利率连续第二周下降，30年期利率降至6.18%",
@@ -321,6 +327,19 @@
           "time_info": "[01时10分 ~ 04时13分]"
         },
         {
+          "title": "美国官员：尽管军事选项依然存在，但重点是首先通过实施制裁施加经济压力，以达成白宫所寻求的结果。",
+          "url": "https://flash.jin10.com/detail/20251225032116785800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
           "url": "https://wallstreetcn.com/livenews/3026284",
           "source": "华尔街见闻-快讯",
@@ -334,16 +353,17 @@
           "time_info": "[00时15分 ~ 02时17分]"
         },
         {
-          "title": "美国官员：尽管军事选项依然存在，但重点是首先通过实施制裁施加经济压力，以达成白宫所寻求的结果。",
-          "url": "https://flash.jin10.com/detail/20251225032116785800",
+          "title": "美国官员：白宫已下令其部队至少在未来两个月内，几乎完全专注于执行对委内瑞拉受制裁石油的隔离措施。",
+          "url": "https://flash.jin10.com/detail/20251225032112042800",
           "source": "金十数据",
           "ranks": [
-            4,
-            7
+            5,
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "美国加州放弃追讨联邦高铁拨款，打算等特朗普下野了再继续推进项目",
@@ -359,18 +379,6 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
-          "title": "美国官员：白宫已下令其部队至少在未来两个月内，几乎完全专注于执行对委内瑞拉受制裁石油的隔离措施。",
-          "url": "https://flash.jin10.com/detail/20251225032112042800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
-        },
-        {
           "title": "美国交通部针对加州输油管道发布紧急许可，为Sable Offshore Corp.从海上油井产油铺平道路。",
           "url": "https://wallstreetcn.com/livenews/3026302",
           "source": "华尔街见闻-快讯",
@@ -382,6 +390,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 05时10分]"
+        },
+        {
+          "title": "日本一航空自卫队基地水体检出“永久性化学物”",
+          "url": "https://wallstreetcn.com/livenews/3026316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时12分]"
         },
         {
           "title": "博主：中国发展航母不为追赶美国",
@@ -423,16 +444,17 @@
           "time_info": "[03时09分 ~ 05时10分]"
         },
         {
-          "title": "日本一航空自卫队基地水体检出“永久性化学物”",
-          "url": "https://wallstreetcn.com/livenews/3026316",
-          "source": "华尔街见闻-快讯",
+          "title": "美国加州州长纽森宣布该州南部因暴雨进入紧急状态。",
+          "url": "https://flash.jin10.com/detail/20251225031848042800",
+          "source": "金十数据",
           "ranks": [
             6,
-            11
+            9,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时10分]"
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "美国至12月24日8周国债竞拍-得标利率配置百分比 83.8%，前值86.57%。",
@@ -474,6 +496,19 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
+          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
+          "url": "https://flash.jin10.com/detail/20251225030848051800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率3.930%（11月26日为3.781%），投标倍数2.51（前次为2.46enan ）。",
           "url": "https://wallstreetcn.com/livenews/3026289",
           "source": "华尔街见闻-快讯",
@@ -513,6 +548,19 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
+          "title": "美国司法部：我们将尽快公布文件，但由于材料数量庞大，这一过程可能还需要几周时间。",
+          "url": "https://flash.jin10.com/detail/20251225025511479800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
           "title": "美国至12月24日4周国债竞拍-投标倍数 3.14，前值3.28。",
           "url": "https://flash.jin10.com/detail/20251225004509421800",
           "source": "金十数据",
@@ -539,6 +587,19 @@
           "time_info": "[02时17分 ~ 04时13分]"
         },
         {
+          "title": "美国司法部：美国联邦调查局（FBI）和纽约南区联邦检察官已通知司法部，他们又发现了超过一百万份可能与爱泼斯坦案相关的文件。",
+          "url": "https://flash.jin10.com/detail/20251225025505515800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
           "title": "美国至12月24日4周国债竞拍-得标利率 3.57%，前值3.58%。",
           "url": "https://flash.jin10.com/detail/20251225004501145800",
           "source": "金十数据",
@@ -550,6 +611,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时09分]"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至12月23日的6天内，美国货币市场基金总资产增至7.67万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251225025038760800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
         },
         {
           "title": "美国至12月24日4个月国债竞拍-得标利率配置百分比 84.92%，前值87.73%。",
@@ -577,16 +651,17 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
-          "title": "美国加州州长纽森宣布该州南部因暴雨进入紧急状态。",
-          "url": "https://flash.jin10.com/detail/20251225031848042800",
-          "source": "金十数据",
+          "title": "台湾台东县5.8级地震",
+          "url": "https://www.douyin.com/hot/2346506",
+          "source": "抖音",
           "ranks": [
-            6,
-            9
+            26,
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时12分]"
         },
         {
           "title": "特斯拉因Model 3车门紧急开门按钮问题而面临美国国家公路交通安全管理局（NHTSA）新的调查。 NHTSA称，正根据（特斯拉车主的）请愿而推进对问题的评估。",
@@ -601,52 +676,16 @@
           "time_info": "[00时15分 ~ 01时10分]"
         },
         {
-          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
-          "url": "https://flash.jin10.com/detail/20251225030848051800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
-        },
-        {
-          "title": "美国司法部：我们将尽快公布文件，但由于材料数量庞大，这一过程可能还需要几周时间。",
-          "url": "https://flash.jin10.com/detail/20251225025511479800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
-        },
-        {
-          "title": "美国司法部：美国联邦调查局（FBI）和纽约南区联邦检察官已通知司法部，他们又发现了超过一百万份可能与爱泼斯坦案相关的文件。",
-          "url": "https://flash.jin10.com/detail/20251225025505515800",
-          "source": "金十数据",
+          "title": "“圣诞老人行情”开启，美国股债汇走高，标普新高，贵金属涨势暂缓，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：截至12月23日的6天内，美国货币市场基金总资产增至7.67万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251225025038760800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "time_info": "[05时10分 ~ 06时12分]"
         },
         {
           "title": "美国至12月24日7年期国债竞拍-得标利率配置百分比 30.73%，前值19.48%。",
@@ -733,18 +772,6 @@
           "time_info": "[00时15分 ~ 01时10分]"
         },
         {
-          "title": "台湾台东县5.8级地震",
-          "url": "https://www.douyin.com/hot/2346506",
-          "source": "抖音",
-          "ranks": [
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 05时10分]"
-        },
-        {
           "title": "国台办回应日本政客窜访台湾",
           "url": "https://www.toutiao.com/trending/7587023657659842579/",
           "source": "今日头条",
@@ -767,15 +794,48 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "“圣诞老人行情”开启，美国股债汇走高，标普新高，贵金属涨势暂缓，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
+          "title": "商品天气集团（Commodity Weather Group）气象学家Sean Bratton：美国下周还将有另一股冷空气伴随降水席卷中西部和东海岸，导致元旦假期期间气候寒冷。 我们目前正处于一个较为多变的天气模式中。",
+          "url": "https://wallstreetcn.com/livenews/3026339",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时10分"
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美国纽约将在圣诞节后迎来冬季风暴降雪",
+          "url": "https://wallstreetcn.com/livenews/3026338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "报道：美国军方被要求优先执行对委内瑞拉石油的封锁",
+          "url": "https://wallstreetcn.com/livenews/3026334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "辟谣美国治理骚扰电话",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BE%9F%E8%B0%A3%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%90%86%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "美国地质勘探局：位于关岛梅里佐村西南207公里处发生5.7级地震。",
@@ -814,18 +874,52 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
+          "url": "https://flash.jin10.com/detail/20251225053135051800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
           "url": "https://wallstreetcn.com/livenews/3026328",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时10分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
+          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://flash.jin10.com/detail/20251225051502192800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
+          "url": "https://wallstreetcn.com/livenews/3026336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
