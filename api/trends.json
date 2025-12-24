@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T07:11:22.151670+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2025-12-24T08:53:38.555607+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 131,
+      "match_count": 161,
       "titles": [
         {
           "title": "美国“飞手”怒了：我爱国货，但抱歉，中国无人机无可替代",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "日本核反应堆泄漏水量约为20毫升，浓度被认为“较高”",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "日本遗孤说不信我是日本孩子",
@@ -51,11 +51,12 @@
             8,
             5,
             7,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 08时53分]"
         },
         {
           "title": "日本一报废核反应堆发生含放射性水泄漏事件，数人或遭辐射",
@@ -65,11 +66,12 @@
             12,
             8,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "美国第三季度GDP增长4.3%创两年来最快增速，PCE物价指数2.9%",
@@ -77,22 +79,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
-          "url": "https://news.ifeng.com/c/8pJnBoVeMvD",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -105,8 +97,36 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时53分]"
+        },
+        {
+          "title": "中国父子偷渡美国，6岁儿子“失踪”？媒体：两人已被遣返",
+          "url": "https://news.ifeng.com/c/8pJnBoVeMvD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
+        },
+        {
+          "title": "美国标准时间慢了4.8微秒",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4%E6%85%A2%E4%BA%864.8%E5%BE%AE%E7%A7%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            29,
+            13,
+            22,
+            9,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "美国最神秘连环杀手多年前已去世",
@@ -138,23 +158,6 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "美国标准时间慢了4.8微秒",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%A0%87%E5%87%86%E6%97%B6%E9%97%B4%E6%85%A2%E4%BA%864.8%E5%BE%AE%E7%A7%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            29,
-            13,
-            22,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
           "title": "美国斩杀线现象",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -162,11 +165,12 @@
             12,
             11,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 08时53分]"
         },
         {
           "title": "邵永灵：美国上演现代海盗行径",
@@ -210,6 +214,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "10年期日本国债收益率跌2个基点，至2.020%。",
+          "url": "https://flash.jin10.com/detail/20251224081450280800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国财长贝森特谈论所谓的“特朗普主导的”经济“激增”：未来数月，大额支票将与招聘同时出现。",
           "url": "https://wallstreetcn.com/livenews/3025760",
           "source": "华尔街见闻-快讯",
@@ -227,9 +242,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "男篮归化球员李凯尔国籍变回美国",
+          "url": "https://www.toutiao.com/trending/7586564098591817770/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国财长贝森特支持重新考虑美联储2%的通胀目标。贝森特表示，相关讨论可能会围绕将通胀目标调整为1.5%-2.5%或1%-3%的区间展开。",
@@ -249,7 +275,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -260,9 +286,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "日本据悉将2026财年政府债务付息成本暂定利率设为3%，偿债成本预计将创纪录新高。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国驻联合国特使：美国将实施制裁，剥夺马杜罗包括石油利润在内的为“太阳集团”提供资金的资源。",
@@ -274,6 +311,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日有468亿元7天期逆回购到期，今晚将公布美国至12月20日当周初请失业金人数",
+          "url": "https://flash.jin10.com/detail/20251224081347929800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美国批准首款“口服版减肥神药”，诺和诺德拔得头筹股价大涨，礼来预计3月获批",
+          "url": "https://wallstreetcn.com/articles/3761874",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "中长期英债收益率跌约3个基点，美国GDP等数据发布后冲高回落",
@@ -581,18 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时12分]"
-        },
-        {
-          "title": "美国批准首款“口服版减肥神药”，诺和诺德拔得头筹股价大涨，礼来预计3月获批",
-          "url": "https://wallstreetcn.com/articles/3761874",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时12分]"
         },
         {
           "title": "美国将从1月份开始截获（扣留）那些学生贷款违约的借款人的薪酬。（CNBC）",
@@ -1076,6 +1124,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "日本央行会议纪要：少数委员表示，日元下跌可能通过进口价格上涨导致通胀超调。",
+          "url": "https://flash.jin10.com/detail/20251224081113555800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "印度商务秘书：印度正与美国深入合作，以达成贸易协议。",
           "url": "https://flash.jin10.com/detail/20251223232744810800",
           "source": "金十数据",
@@ -1104,9 +1163,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，企业和家庭的通胀预期已达到2%，必须警惕物价上行风险。",
+          "url": "https://flash.jin10.com/detail/20251224081048499800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "据CNBC：美国将于1月开始扣押学生贷款借款人的工资。",
@@ -1131,6 +1201,28 @@
           "time_info": "05时11分"
         },
         {
+          "title": "日媒：日本2026年将加速对外供武，预算增加100亿日元",
+          "url": "https://wallstreetcn.com/livenews/3025846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "对委动武的代价可能超出美国想象",
+          "url": "https://www.toutiao.com/trending/7587005063814450707/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "据CNBC：美国将开始扣押违约学生贷款借款人的工资。",
           "url": "https://flash.jin10.com/detail/20251223232437564800",
           "source": "金十数据",
@@ -1151,6 +1243,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，财政政策是制定经济和价格预测的重要因素。",
+          "url": "https://flash.jin10.com/detail/20251224080931883800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌2BP至2.02%。",
+          "url": "https://wallstreetcn.com/livenews/3025843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
@@ -1186,6 +1300,28 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美国对欧盟委员会前委员实施签证限制",
+          "url": "https://wallstreetcn.com/livenews/3025840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本央行会议纪要：少数委员表示，潜在通胀正在逐步加速，但尚未达到2%。",
+          "url": "https://flash.jin10.com/detail/20251224080901520800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "白宫顾问哈塞特：美国总统特朗普有一批出色的美联储候选人。",
           "url": "https://wallstreetcn.com/livenews/3025771",
           "source": "华尔街见闻-快讯",
@@ -1206,6 +1342,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，日本有很大几率在明年春季前后被判定已实现日本央行的通胀目标，届时日本很可能会出现实现通胀目标所需的工资增长。",
+          "url": "https://flash.jin10.com/detail/20251224080858610800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本央行10月政策会议纪要：一名委员表示，企业与家庭的通胀预期已达到2%，必须警惕价格上涨风险。 一名委员称，财政政策是设定经济和物价预测的重要因素。 少数委员指出，核心通胀正在逐步加速，但尚未达到2%。 一名委员表示，日本有望在明年春季实现日本央行的物价目标，届时可能需要工资增长以达成目标。 几位委员表示，日元贬值可能通过推高进口价格，导致通胀超调。",
+          "url": "https://wallstreetcn.com/livenews/3025838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "机构：美国三季度GDP强劲增长背后暗藏隐忧",
@@ -1230,6 +1388,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "日本央行会议纪要：日本央行审议委员田村直树和高田创提议将政策利率从0.5%上调至0.75%，但该提议以2票赞成、7票反对被否决。",
+          "url": "https://flash.jin10.com/detail/20251224080210285800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：人们对自身收入增长感到非常乐观。",
           "url": "https://flash.jin10.com/detail/20251224000915566800",
           "source": "金十数据",
@@ -1250,6 +1419,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "日本央行会议纪要：财务省代表表示，希望日本央行密切关注经济发展，并在引导政策以稳定、可持续地实现价格目标时与市场保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20251224080024787800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本第17次核污染水排海结束，共排放7833立方米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32234703",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国12月里奇蒙德联储服务业收入指数 -6，前值-4。",
@@ -1274,6 +1465,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "日本央行会议纪要：内阁官房代表表示，希望日本央行与政府密切合作，采取适当的货币政策，以稳定且可持续的方式实现其价格目标。",
+          "url": "https://flash.jin10.com/detail/20251224080007496800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国12月谘商会消费者预期指数 70.7，前值63.2。",
           "url": "https://flash.jin10.com/detail/20251223230040309800",
           "source": "金十数据",
@@ -1294,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "美国对欧盟委员会前委员实施签证限制",
+          "url": "https://flash.jin10.com/detail/20251224075959812800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国财长贝森特：招聘将显著增加并带来丰厚薪酬",
@@ -1373,6 +1586,28 @@
           "time_info": "03时12分"
         },
         {
+          "title": "日本央行会议纪要：一名委员表示，日本央行应适时加息。",
+          "url": "https://flash.jin10.com/detail/20251224075811848800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "日本央行10月政策会议纪要：与会委员一致认为，若经济和物价预测如期实现，日本央行将继续加息。 一名委员表示，鉴于日元走弱可能推高物价的风险，提前加息是可取的；但考虑到美国劳动力市场出现疲软迹象带来的下行压力，目前应保持观望。 一名委员表示，尽管临近加息时机，但应再等待一段时间，以观察新一届政府政策的方向。 多名委员指出，经济前景改善、物价预测实现的可能性已上升，但仍需维持当前政策，以确认工资上涨趋势是否持续或是否会受到干扰。",
+          "url": "https://wallstreetcn.com/livenews/3025828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国至12月23日5年期国债竞拍-得标利率 3.747%，前值3.56%。",
           "url": "https://flash.jin10.com/detail/20251224020205339800",
           "source": "金十数据",
@@ -1384,6 +1619,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "日本央行会议纪要：几位委员表示，调整货币支持力度将稳定经济和物价增长，因为日本央行当前的政策利率高于中性的水平。",
+          "url": "https://flash.jin10.com/detail/20251224075811299800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
           "url": "https://wallstreetcn.com/livenews/3025670",
           "source": "华尔街见闻-快讯",
@@ -1393,6 +1639,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "日本11月企业服务价格指数同比 2.7%，预期 2.7%，前值 2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3025827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "男篮归化球员李凯尔国籍变回美国",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%AF%AE%E5%BD%92%E5%8C%96%E7%90%83%E5%91%98%E6%9D%8E%E5%87%AF%E5%B0%94%E5%9B%BD%E7%B1%8D%E5%8F%98%E5%9B%9E%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国12月谘商会消费者现况指数 116.8，前值126.9。",
@@ -1426,6 +1694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，政策正常化的条件正在就位，但必须确认潜在通胀是否已稳定在目标附近。",
+          "url": "https://flash.jin10.com/detail/20251224075548747800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国12月谘商会消费者信心指数 89.1，预期91，前值88.7。",
@@ -1472,6 +1751,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "日本央行会议纪要：一名委员表示，鉴于日元走软推高物价的风险，尽早加息是可取的，但由于美国劳动力市场失衡带来的下行压力风险，目前应按兵不动。",
+          "url": "https://flash.jin10.com/detail/20251224075539069800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国至12月26日当周总钻井总数 545口，前值542口。",
           "url": "https://flash.jin10.com/detail/20251224020105591800",
           "source": "金十数据",
@@ -1481,6 +1771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "日本央行会议纪要：一名委员表示，加息时机正在逼近，但应再等一段时间，以仔细审视新政府政策的走向。",
+          "url": "https://flash.jin10.com/detail/20251224075413159800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国总统特朗普：“特朗普-肯尼迪中心荣誉盛典”将于美国东部今晚8点在CBS电视台播出，并同步在Paramount+平台流媒体上线。我将担任本次活动的主持人。",
@@ -1505,6 +1806,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "日本央行会议纪要：多位委员认为，经济和价格预测成真的可能性已增强，但仍必须维持现有政策，以进一步确认积极的薪资设定行为不会受到干扰。",
+          "url": "https://flash.jin10.com/detail/20251224075358743800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "日本一核反应堆泄漏 数人疑遭辐射",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E6%B3%84%E6%BC%8F+%E6%95%B0%E4%BA%BA%E7%96%91%E9%81%AD%E8%BE%90%E5%B0%84",
           "source": "百度热搜",
@@ -1525,6 +1837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "日本央行10月29日至30日会议纪要：与会委员一致认为，若经济和物价预测如期实现，日本央行将继续加息。",
+          "url": "https://flash.jin10.com/detail/20251224075200550800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国总统特朗普：通货膨胀会自行解决。",
@@ -1558,6 +1881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "日本11月企业服务价格指数月率 0.4%，前值0.6%。",
+          "url": "https://flash.jin10.com/detail/20251224075030620800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         }
       ]
     },
@@ -1579,8 +1913,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
@@ -1589,7 +1923,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
