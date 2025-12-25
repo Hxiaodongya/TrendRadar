@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T17:14:50.422206+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2025-12-25T18:13:12.075130+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 186,
+      "match_count": 191,
       "titles": [
         {
           "title": "升级！美国罕见制裁欧盟前官员",
@@ -19,19 +19,6 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "沈逸解析美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时52分 ~ 17时14分]"
-        },
-        {
           "title": "强生爽身粉致癌案被判赔女子 110 亿元，为什么会被美国陪审团判赔这么多？真的能赔偿吗？",
           "url": "https://www.zhihu.com/question/1987239829688247081",
           "source": "知乎",
@@ -42,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 18时13分]"
         },
         {
           "title": "法国、英国、德国、加拿大、日本等14国发表联合声明",
@@ -56,6 +43,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时50分 ~ 17时14分]"
+        },
+        {
+          "title": "沈逸解析美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[08时52分 ~ 18时13分]"
         },
         {
           "title": "日媒曝光声称“日本应拥核”官员身份，很讽刺！(图)",
@@ -161,24 +162,6 @@
           "time_info": "[00时14分 ~ 08时53分]"
         },
         {
-          "title": "一夜返贫!美国富翁也难逃斩杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348353&amp;topic_name=%E4%B8%80%E5%A4%9C%E8%BF%94%E8%B4%AB%21%E7%BE%8E%E5%9B%BD%E5%AF%8C%E7%BF%81%E4%B9%9F%E9%9A%BE%E9%80%83%E6%96%A9%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            5,
-            6,
-            7,
-            8,
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 17时14分]"
-        },
-        {
           "title": "日本一无人岛密密麻麻都是北海狮",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E9%83%BD%E6%98%AF%E5%8C%97%E6%B5%B7%E7%8B%AE",
           "source": "百度热搜",
@@ -209,6 +192,41 @@
           "time_info": "[00时14分 ~ 13时16分]"
         },
         {
+          "title": "一夜返贫!美国富翁也难逃斩杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348353&amp;topic_name=%E4%B8%80%E5%A4%9C%E8%BF%94%E8%B4%AB%21%E7%BE%8E%E5%9B%BD%E5%AF%8C%E7%BF%81%E4%B9%9F%E9%9A%BE%E9%80%83%E6%96%A9%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            6,
+            7,
+            8,
+            10,
+            13,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 18时13分]"
+        },
+        {
+          "title": "核爆受害者团体抗议日本拥核言论",
+          "url": "https://www.douyin.com/hot/2346875",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25,
+            23,
+            7,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时50分 ~ 18时13分]"
+        },
+        {
           "title": "什么是美国斩杀线",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -233,8 +251,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 18时13分]"
         },
         {
           "title": "台湾青年岛内实拍：车牌全是台湾省",
@@ -374,6 +392,21 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
+          "title": "斩杀线揭开美国一角,殖人先急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 18时13分]"
+        },
+        {
           "title": "日本靖国神社被起诉",
           "url": "https://www.douyin.com/hot/2346121",
           "source": "抖音",
@@ -388,22 +421,6 @@
           "time_info": "[00时14分 ~ 13时16分]"
         },
         {
-          "title": "核爆受害者团体抗议日本拥核言论",
-          "url": "https://www.douyin.com/hot/2346875",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25,
-            23,
-            7,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时50分 ~ 17时14分]"
-        },
-        {
           "title": "日本一航空自卫队基地水体检出“永久性化学物”",
           "url": "https://news.ifeng.com/c/8pLTxPrVhCG",
           "source": "凤凰网",
@@ -413,20 +430,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时52分 ~ 10时50分]"
-        },
-        {
-          "title": "斩杀线揭开美国一角,殖人先急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 17时14分]"
         },
         {
           "title": "日本为拥核开始碰瓷中美",
@@ -495,6 +498,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时09分 ~ 11时56分]"
+        },
+        {
+          "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
+          "url": "https://news.ifeng.com/c/8pNJR35BTlS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "反转？美特使最新表态：美国无意征服",
+          "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 18时13分]"
         },
         {
           "title": "日本拟在南鸟岛周边海底测试采掘稀土",
@@ -759,6 +785,18 @@
           "time_info": "[03时09分 ~ 13时16分]"
         },
         {
+          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1987426605316924152",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时13分]"
+        },
+        {
           "title": "日本两年期国债收益率上行1个基点至1.11%。",
           "url": "https://wallstreetcn.com/livenews/3026513",
           "source": "华尔街见闻-快讯",
@@ -770,18 +808,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 13时16分]"
-        },
-        {
-          "title": "反转？美特使最新表态：美国无意征服",
-          "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 17时14分]"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -1163,17 +1189,6 @@
           "time_info": "[04时13分 ~ 06时12分]"
         },
         {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时15分 ~ 17时14分]"
-        },
-        {
           "title": "美国至12月24日4周国债竞拍-投标倍数 3.14，前值3.28。",
           "url": "https://flash.jin10.com/detail/20251225004509421800",
           "source": "金十数据",
@@ -1273,6 +1288,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "日本名古屋丰臣秀吉雕像“被斩首”",
+          "url": "https://www.toutiao.com/trending/7587652574745427995/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "美国官员淡化对委内瑞拉采取进一步军事行动的可能",
@@ -1573,6 +1599,17 @@
           "time_info": "[11时56分 ~ 12时31分]"
         },
         {
+          "title": "国防部：日本应真心道歉认罪赎罪",
+          "url": "https://www.toutiao.com/trending/7586689817736986662/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
           "title": "台湾机车车牌是台湾省",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%9C%BA%E8%BD%A6%E8%BD%A6%E7%89%8C%E6%98%AF%E5%8F%B0%E6%B9%BE%E7%9C%81%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1626,6 +1663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "日本宇宙航空研究开发机构（JAXA）25日说，22日发射失败的导航卫星“引路5号”和运载火箭很可能已坠入地球大气层。日本内阁府25日表示，卫星已经损失。",
+          "url": "https://flash.jin10.com/detail/20251225171433722800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "10年期日本国债收益率跌4个基点，至2.005%。",
@@ -1747,6 +1795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "日本宣布发射失败的导航卫星已损失",
+          "url": "https://wallstreetcn.com/livenews/3026681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "日本至12月19日当周外资买进日债 -462亿日元，前值14075亿日元。",
@@ -2151,7 +2210,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -2279,8 +2338,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 18时13分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -2366,6 +2425,19 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时16分 ~ 18时13分]"
+        },
+        {
           "title": "AI救我狗命",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%95%91%E6%88%91%E7%8B%97%E5%91%BD%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -2388,18 +2460,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时50分 ~ 11时56分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 17时14分]"
         },
         {
           "title": "中欧基金罗佳明：AI产业中，明年更看好国产半导体与制造领域",
