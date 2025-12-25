@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T06:11:41.966033+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2025-12-26T07:12:05.313966+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
@@ -15,8 +15,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "美国一人彩票中奖超127亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%BA%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E8%B6%85127%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "日本前所未有的熊尸危机",
@@ -27,25 +42,12 @@
             15,
             8,
             5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
-        },
-        {
-          "title": "美国一人彩票中奖超127亿元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%BA%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E8%B6%85127%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
             4,
-            6,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "美国斩杀线为什么刚好在 1/e 附近？",
@@ -55,25 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
-        },
-        {
-          "title": "沈逸解析美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            14,
-            4,
-            26,
-            22,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "这个节美国人过得不太舒心",
@@ -88,8 +73,26 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "沈逸解析美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            14,
+            4,
+            26,
+            22,
+            30,
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "中国为什么没有美国的“斩杀线”",
@@ -98,11 +101,12 @@
           "ranks": [
             24,
             13,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "法国高调宣布建造新航母，美国称将扩大航母规模，航母建造计划背后的大国博弈逻辑是什么？",
@@ -113,11 +117,25 @@
             15,
             14,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1987426605316924152",
+          "source": "知乎",
+          "ranks": [
+            10,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "斩杀线揭开美国一角,殖人先急了",
@@ -128,8 +146,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "福建舰航经台海 国防部：以后还组织",
@@ -140,11 +158,12 @@
             22,
             19,
             13,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "欧盟警告反制美国",
@@ -154,8 +173,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "一夜返贫!美国富翁也难逃斩杀",
@@ -166,20 +185,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
-        },
-        {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "中国为什么没有美国的“斩杀线”",
@@ -192,8 +199,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "李凯尔发声：恢复美国国籍不实",
+          "url": "https://www.toutiao.com/trending/7587253195055828516/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 07时12分]"
         },
         {
           "title": "美国封锁下，委内瑞拉主要石油产区仍有油轮进出港",
@@ -226,18 +245,6 @@
           "time_info": "[00时14分 ~ 05时11分]"
         },
         {
-          "title": "美国国务卿鲁比奥重申，美国已准备好为促进柬埔寨和泰国之间的和平与稳定而进行的讨论提供便利。",
-          "url": "https://flash.jin10.com/detail/20251226042403042800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
           "title": "中方回应日本系统性介入南海行为",
           "url": "https://www.toutiao.com/trending/7587383539864830015/",
           "source": "今日头条",
@@ -253,26 +260,54 @@
           "time_info": "[01时10分 ~ 06时11分]"
         },
         {
-          "title": "对等反制，尼日尔对美国公民停发签证",
-          "url": "https://wallstreetcn.com/livenews/3026844",
-          "source": "华尔街见闻-快讯",
+          "title": "台网友实拍岛内车牌全是“台湾省”",
+          "url": "https://www.toutiao.com/trending/7586533333641101331/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            29,
+            9,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时09分 ~ 07时12分]"
+        },
+        {
+          "title": "美国总统特朗普：战争部执行了无数次完美打击。",
+          "url": "https://flash.jin10.com/detail/20251226070310001800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
-          "title": "对等反制 尼日尔对美国公民停发签证",
-          "url": "https://flash.jin10.com/detail/20251226053916080800",
+          "title": "美国国务卿鲁比奥重申，美国已准备好为促进柬埔寨和泰国之间的和平与稳定而进行的讨论提供便利。",
+          "url": "https://flash.jin10.com/detail/20251226042403042800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 07时12分]"
+        },
+        {
+          "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
+          "url": "https://flash.jin10.com/detail/20251226070308886800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -290,42 +325,41 @@
           "time_info": "[02时16分 ~ 06时11分]"
         },
         {
-          "title": "李凯尔发声：恢复美国国籍不实",
-          "url": "https://www.toutiao.com/trending/7587253195055828516/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时13分]"
-        },
-        {
           "title": "美国国务卿鲁比奥与柬埔寨首相洪玛奈通话，就柬埔寨与泰国之间持续的暴力事件表达关切。",
           "url": "https://flash.jin10.com/detail/20251226042354479800",
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 07时12分]"
+        },
+        {
+          "title": "对等反制，尼日尔对美国公民停发签证",
+          "url": "https://wallstreetcn.com/livenews/3026844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
-          "title": "台网友实拍岛内车牌全是“台湾省”",
-          "url": "https://www.toutiao.com/trending/7586533333641101331/",
-          "source": "今日头条",
+          "title": "对等反制 尼日尔对美国公民停发签证",
+          "url": "https://flash.jin10.com/detail/20251226053916080800",
+          "source": "金十数据",
           "ranks": [
-            14,
-            29,
-            9,
-            13
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时09分 ~ 06时11分]"
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时12分]"
         },
         {
           "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
@@ -356,13 +390,35 @@
           "time_info": "[01时11分 ~ 04时13分]"
         },
         {
+          "title": "俄外交部：建议日方修建“日本军国主义受害者纪念堂”",
+          "url": "https://news.ifeng.com/c/8pLTxPrVhDN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "日元看空声音渐响：受日本央行审慎政策影响，贬值趋势或延续至2026年",
+          "url": "https://wallstreetcn.com/livenews/3026847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
           "title": "欧洲没有美国那样的斩杀线",
           "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E9%82%A3%E6%A0%B7%E7%9A%84%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         }
@@ -370,7 +426,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -380,8 +436,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -392,8 +448,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
+          "url": "https://flash.jin10.com/detail/20251226064520664800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     }
