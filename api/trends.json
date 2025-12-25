@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T01:11:15.064507+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2025-12-26T02:16:59.273067+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美国一人彩票中奖超127亿元",
@@ -24,11 +24,25 @@
           "source": "微博",
           "ranks": [
             8,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "沈逸解析美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            14,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "这个节美国人过得不太舒心",
@@ -36,22 +50,12 @@
           "source": "微博",
           "ranks": [
             5,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
-        },
-        {
-          "title": "美国封锁下，委内瑞拉主要石油产区仍有油轮进出港",
-          "url": "https://wallstreetcn.com/livenews/3026802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美国斩杀线为什么刚好在 1/e 附近？",
@@ -61,32 +65,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
-          "title": "沈逸解析美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "日本前所未有的熊尸危机",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%86%8A%E5%B0%B8%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            14
+            20,
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
-        },
-        {
-          "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
-          "url": "https://wallstreetcn.com/livenews/3026791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
@@ -96,19 +89,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "斩杀线揭开美国一角,殖人先急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "中国为什么没有美国的“斩杀线”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "欧盟警告反制美国",
@@ -118,8 +124,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "福建舰航经台海 国防部：以后还组织",
@@ -127,45 +133,61 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
-        },
-        {
-          "title": "日本前所未有的熊尸危机",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E7%86%8A%E5%B0%B8%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "法国高调宣布建造新航母，美国称将扩大航母规模，航母建造计划背后的大国博弈逻辑是什么？",
           "url": "https://www.zhihu.com/question/1986746000593921575",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "一夜返贫!美国富翁也难逃斩杀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348353&amp;topic_name=%E4%B8%80%E5%A4%9C%E8%BF%94%E8%B4%AB%21%E7%BE%8E%E5%9B%BD%E5%AF%8C%E7%BF%81%E4%B9%9F%E9%9A%BE%E9%80%83%E6%96%A9%E6%9D%80",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "美国封锁下，委内瑞拉主要石油产区仍有油轮进出港",
+          "url": "https://wallstreetcn.com/livenews/3026802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 02时16分]"
+        },
+        {
+          "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
+          "url": "https://wallstreetcn.com/livenews/3026791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 02时16分]"
         },
         {
           "title": "中国为什么没有美国的“斩杀线”",
@@ -180,15 +202,16 @@
           "time_info": "[00时13分 ~ 01时11分]"
         },
         {
-          "title": "中国为什么没有美国的“斩杀线”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
-          "source": "百度热搜",
+          "title": "中方回应日本系统性介入南海行为",
+          "url": "https://www.toutiao.com/trending/7587383539864830015/",
+          "source": "今日头条",
           "ranks": [
-            24
+            27,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 02时16分]"
         },
         {
           "title": "李凯尔发声：恢复美国国籍不实",
@@ -198,41 +221,43 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "中方回应日本系统性介入南海行为",
-          "url": "https://www.toutiao.com/trending/7587383539864830015/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 02时16分]"
         },
         {
           "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
           "url": "https://flash.jin10.com/detail/20251226001701729800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 02时16分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 02时16分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
+          "url": "https://flash.jin10.com/detail/20251226013420505800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "02时16分"
         }
       ]
     },
@@ -248,19 +273,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 01时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     }
