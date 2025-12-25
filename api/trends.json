@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T16:16:55.609995+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-12-25T17:14:50.422206+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 185,
+      "match_count": 186,
       "titles": [
         {
           "title": "升级！美国罕见制裁欧盟前官员",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时52分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[08时52分 ~ 17时14分]"
         },
         {
           "title": "强生爽身粉致癌案被判赔女子 110 亿元，为什么会被美国陪审团判赔这么多？真的能赔偿吗？",
@@ -42,8 +42,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时50分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时50分 ~ 17时14分]"
+        },
+        {
+          "title": "法国、英国、德国、加拿大、日本等14国发表联合声明",
+          "url": "https://news.ifeng.com/c/8pMbqslUmBN",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时50分 ~ 17时14分]"
         },
         {
           "title": "日媒曝光声称“日本应拥核”官员身份，很讽刺！(图)",
@@ -67,18 +79,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "法国、英国、德国、加拿大、日本等14国发表联合声明",
-          "url": "https://news.ifeng.com/c/8pMbqslUmBN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时50分 ~ 16时16分]"
         },
         {
           "title": "公安最高悬赏25万追捕2名台湾嫌犯",
@@ -171,11 +171,12 @@
             7,
             8,
             10,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 16时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 17时14分]"
         },
         {
           "title": "日本一无人岛密密麻麻都是北海狮",
@@ -222,6 +223,18 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时14分 ~ 13时16分]"
+        },
+        {
+          "title": "美国人头上都有条成为流浪汉的「斩杀线」么，从经济角度如何看待这种现象？「斩杀线」背后的本质是什么？",
+          "url": "https://www.zhihu.com/question/1986918666340677378",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时50分 ~ 17时14分]"
         },
         {
           "title": "台湾青年岛内实拍：车牌全是台湾省",
@@ -287,8 +300,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时52分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[08时52分 ~ 17时14分]"
         },
         {
           "title": "态度强硬 日本官员再惹风波",
@@ -361,18 +374,6 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "美国人头上都有条成为流浪汉的「斩杀线」么，从经济角度如何看待这种现象？「斩杀线」背后的本质是什么？",
-          "url": "https://www.zhihu.com/question/1986918666340677378",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时50分 ~ 16时16分]"
-        },
-        {
           "title": "日本靖国神社被起诉",
           "url": "https://www.douyin.com/hot/2346121",
           "source": "抖音",
@@ -399,8 +400,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时50分 ~ 16时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时50分 ~ 17时14分]"
         },
         {
           "title": "日本一航空自卫队基地水体检出“永久性化学物”",
@@ -412,6 +413,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时52分 ~ 10时50分]"
+        },
+        {
+          "title": "斩杀线揭开美国一角,殖人先急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 17时14分]"
         },
         {
           "title": "日本为拥核开始碰瓷中美",
@@ -426,19 +441,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时55分 ~ 14时19分]"
-        },
-        {
-          "title": "斩杀线揭开美国一角,殖人先急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时16分]"
         },
         {
           "title": "美国患者医院哀嚎求助 医护视而不见",
@@ -557,17 +559,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
-        },
-        {
-          "title": "美部分参议员警告：全球半数国家可能没有美国大使",
-          "url": "https://flash.jin10.com/detail/20251225161115858800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "日本预计财政刺激政策将推动2026财年经济加速增长",
@@ -781,6 +772,18 @@
           "time_info": "[11时56分 ~ 13时16分]"
         },
         {
+          "title": "反转？美特使最新表态：美国无意征服",
+          "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 17时14分]"
+        },
+        {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
           "url": "https://wallstreetcn.com/livenews/3026284",
           "source": "华尔街见闻-快讯",
@@ -816,6 +819,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时16分]"
+        },
+        {
+          "title": "美部分参议员警告：全球半数国家可能没有美国大使",
+          "url": "https://flash.jin10.com/detail/20251225161115858800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时14分]"
         },
         {
           "title": "美国结束上届政府针对中国芯片贸易调查，未来18个月不对中国芯片加征额外关税",
@@ -1032,17 +1047,6 @@
           "time_info": "[02时17分 ~ 05时10分]"
         },
         {
-          "title": "反转？美特使最新表态：美国无意征服",
-          "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 16时16分]"
-        },
-        {
           "title": "当美国人被一条“斩杀线”击中…",
           "url": "https://news.ifeng.com/c/8pMA4EYIO1g",
           "source": "凤凰网",
@@ -1157,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
+          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1987426605316924152",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 17时14分]"
         },
         {
           "title": "美国至12月24日4周国债竞拍-投标倍数 3.14，前值3.28。",
@@ -1401,17 +1416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时12分]"
-        },
-        {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时16分]"
         },
         {
           "title": "日本首相高市早苗：将通过推动工资、消费和企业利润的良性循环，实现财政可持续性。 已决定推出针对资本支出的税收优惠，帮助构建关键供应链。",
@@ -2141,6 +2145,17 @@
           "time_info": "13时16分"
         },
         {
+          "title": "学者：美国对委动手可能性越来越大",
+          "url": "https://www.toutiao.com/trending/7587682967003074090/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "日本央行行长植田和男：日本就业市场依然紧俏，即使考虑到关税影响，企业利润也可能保持在较高水平。",
           "url": "https://flash.jin10.com/detail/20251225122550548800",
           "source": "金十数据",
@@ -2264,8 +2279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时50分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时50分 ~ 17时14分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -2300,6 +2315,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 17时14分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -2338,19 +2366,6 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
-          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
-          "url": "https://www.cls.cn/detail/2239492",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时16分]"
-        },
-        {
           "title": "AI救我狗命",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%95%91%E6%88%91%E7%8B%97%E5%91%BD%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -2375,6 +2390,18 @@
           "time_info": "[10时50分 ~ 11时56分]"
         },
         {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时14分]"
+        },
+        {
           "title": "中欧基金罗佳明：AI产业中，明年更看好国产半导体与制造领域",
           "url": "https://wallstreetcn.com/livenews/3026572",
           "source": "华尔街见闻-快讯",
@@ -2397,17 +2424,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 08时53分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         },
         {
           "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
