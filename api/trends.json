@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T19:10:38.861180+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2025-12-25T20:21:43.080223+08:00",
+  "total_titles_processed": 1653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 198,
+      "match_count": 201,
       "titles": [
         {
           "title": "升级！美国罕见制裁欧盟前官员",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时50分 ~ 19时10分]"
+          "appearance_count": 14,
+          "time_info": "[10时50分 ~ 20时21分]"
         },
         {
           "title": "法国、英国、德国、加拿大、日本等14国发表联合声明",
@@ -43,21 +43,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时50分 ~ 17时14分]"
-        },
-        {
-          "title": "沈逸解析美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时52分 ~ 19时10分]"
         },
         {
           "title": "日媒曝光声称“日本应拥核”官员身份，很讽刺！(图)",
@@ -81,6 +66,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时12分]"
+        },
+        {
+          "title": "沈逸解析美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            6,
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[08时52分 ~ 20时21分]"
         },
         {
           "title": "公安最高悬赏25万追捕2名台湾嫌犯",
@@ -206,11 +207,12 @@
             13,
             14,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 19时10分]"
+          "appearance_count": 26,
+          "time_info": "[00时14分 ~ 20时21分]"
         },
         {
           "title": "核爆受害者团体抗议日本拥核言论",
@@ -283,11 +285,29 @@
           "ranks": [
             6,
             7,
-            20
+            20,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时50分 ~ 19时10分]"
+          "appearance_count": 14,
+          "time_info": "[10时50分 ~ 20时21分]"
+        },
+        {
+          "title": "斩杀线揭开美国一角,殖人先急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 20时21分]"
         },
         {
           "title": "网友讨论美国存在「斩杀线」，真的存在所谓的斩杀线吗？",
@@ -395,22 +415,6 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "斩杀线揭开美国一角,殖人先急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348372&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E6%8F%AD%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%A7%92%2C%E6%AE%96%E4%BA%BA%E5%85%88%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 19时10分]"
-        },
-        {
           "title": "日本靖国神社被起诉",
           "url": "https://www.douyin.com/hot/2346121",
           "source": "抖音",
@@ -432,8 +436,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 20时21分]"
+        },
+        {
+          "title": "反转？美特使最新表态：美国无意征服",
+          "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时19分 ~ 20时21分]"
         },
         {
           "title": "日本一航空自卫队基地水体检出“永久性化学物”",
@@ -445,18 +461,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时52分 ~ 10时50分]"
-        },
-        {
-          "title": "反转？美特使最新表态：美国无意征服",
-          "url": "https://news.ifeng.com/c/8pN2aQOWl4l",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时19分 ~ 19时10分]"
         },
         {
           "title": "日本为拥核开始碰瓷中美",
@@ -510,6 +514,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时50分 ~ 14时19分]"
+        },
+        {
+          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1987426605316924152",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 20时21分]"
         },
         {
           "title": "日本核反应堆含放射性水泄漏",
@@ -614,18 +630,6 @@
           "time_info": "[10时50分 ~ 13时16分]"
         },
         {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时10分]"
-        },
-        {
           "title": "美国为何着急打压中国无人机",
           "url": "https://www.toutiao.com/trending/7587609246309551679/",
           "source": "今日头条",
@@ -708,17 +712,6 @@
           "time_info": "13时16分"
         },
         {
-          "title": "全国人大外事委员会发言人就美国“2026财年国防授权法案”涉华消极条款发表谈话",
-          "url": "https://wallstreetcn.com/livenews/3026715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "美国加州州长Newsom针对南加州即将面临的暴雨天气宣布紧急状态。",
           "url": "https://wallstreetcn.com/livenews/3026329",
           "source": "华尔街见闻-快讯",
@@ -754,17 +747,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
-        },
-        {
-          "title": "俄罗斯否认美媒有关寻求修改美国和平提案的报道",
-          "url": "https://flash.jin10.com/detail/20251225183750489800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "在近期恶劣天气之后，美国卫生与公众服务部宣布华盛顿州进入公共卫生紧急状态。",
@@ -995,6 +977,18 @@
           "time_info": "[12时31分 ~ 13时16分]"
         },
         {
+          "title": "全国人大外事委员会发言人就美国“2026财年国防授权法案”涉华消极条款发表谈话",
+          "url": "https://wallstreetcn.com/livenews/3026715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时21分]"
+        },
+        {
           "title": "美国交通部针对加州输油管道发布紧急许可，为Sable Offshore Corp.从海上油井产油铺平道路。",
           "url": "https://wallstreetcn.com/livenews/3026302",
           "source": "华尔街见闻-快讯",
@@ -1045,6 +1039,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 12时31分]"
+        },
+        {
+          "title": "俄罗斯否认美媒有关寻求修改美国和平提案的报道",
+          "url": "https://flash.jin10.com/detail/20251225183750489800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时21分]"
         },
         {
           "title": "日本11月新屋开工同比 -8.5%，预期 0.6%，前值 3.2%。",
@@ -1254,6 +1260,19 @@
           "time_info": "[04时13分 ~ 06时12分]"
         },
         {
+          "title": "日本宣布发射失败的导航卫星已损失",
+          "url": "https://wallstreetcn.com/livenews/3026681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时21分]"
+        },
+        {
           "title": "美国至12月24日4周国债竞拍-得标利率 3.57%，前值3.58%。",
           "url": "https://flash.jin10.com/detail/20251225004501145800",
           "source": "金十数据",
@@ -1411,6 +1430,18 @@
           "time_info": "[11时56分 ~ 12时31分]"
         },
         {
+          "title": "克里姆林宫：我们正在分析俄总统特别代表德米特里耶夫从美国带到莫斯科的文件。",
+          "url": "https://flash.jin10.com/detail/20251225183531322800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时21分]"
+        },
+        {
           "title": "日本40年期国债收益率下行6BP至3.63%。",
           "url": "https://wallstreetcn.com/livenews/3026459",
           "source": "华尔街见闻-快讯",
@@ -1482,6 +1513,18 @@
           "time_info": "[05时10分 ~ 06时12分]"
         },
         {
+          "title": "这个节美国人过得不太舒心",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%8A%82%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A4%AA%E8%88%92%E5%BF%83%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时21分]"
+        },
+        {
           "title": "日本首相高市早苗：将通过推动工资、消费和企业利润的良性循环，实现财政可持续性。 已决定推出针对资本支出的税收优惠，帮助构建关键供应链。",
           "url": "https://wallstreetcn.com/livenews/3026533",
           "source": "华尔街见闻-快讯",
@@ -1492,18 +1535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时19分]"
-        },
-        {
-          "title": "日本宣布发射失败的导航卫星已损失",
-          "url": "https://wallstreetcn.com/livenews/3026681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时10分]"
         },
         {
           "title": "日本首相高市早苗：日本需借助扩张性财政政策实现更强劲的经济增长。 旨在降低债务占GDP比率，赢得市场信任。 力求实现不加税即可增加财政收入的目标。 可预测性有助于提振私人投资。 为企业发展创造可预测性至关重要。 目标是在不加税的情况下实现增收。",
@@ -1552,6 +1583,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 15时15分]"
+        },
+        {
+          "title": "欧盟警告反制美国",
+          "url": "https://www.douyin.com/hot/2346980",
+          "source": "抖音",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时21分]"
         },
         {
           "title": "美国至12月24日7年期国债竞拍-投标倍数 2.51，前值2.46。",
@@ -1737,17 +1780,6 @@
           "time_info": "15时15分"
         },
         {
-          "title": "克里姆林宫：我们正在分析俄总统特别代表德米特里耶夫从美国带到莫斯科的文件。",
-          "url": "https://flash.jin10.com/detail/20251225183531322800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "“圣诞老人发糖”，美国股债汇走高，标普新高，贵金属涨势暂缓，加密货币疲软",
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
@@ -1801,17 +1833,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        },
-        {
-          "title": "这个节美国人过得不太舒心",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%8A%82%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A4%AA%E8%88%92%E5%BF%83%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "日本央行行长植田和男：日本企业的工资和定价行为已发生重大变化。",
@@ -1990,17 +2011,6 @@
           "time_info": "08时53分"
         },
         {
-          "title": "欧盟警告反制美国",
-          "url": "https://www.douyin.com/hot/2346980",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "日本至12月19日当周买进外国债券 1030亿日元，前值由3564亿日元修正为3558亿日元。",
           "url": "https://flash.jin10.com/detail/20251225075002695800",
           "source": "金十数据",
@@ -2032,6 +2042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "高市早苗亲信鼓吹“日本应拥核”",
+          "url": "https://www.toutiao.com/trending/7587712017306927131/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "丰田：11月份日本本土汽车产量（仅限丰田品牌）同比下降9.7%，至258,177辆。",
@@ -2087,6 +2108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "当美国人被一条“斩杀线”击中",
+          "url": "https://www.toutiao.com/trending/7586627294103732230/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "台湾地区领导人办公室前发言人妄称自己“不是中国人”，国台办回应",
@@ -2221,6 +2253,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "台湾网红馆长抵达广州",
+          "url": "https://www.toutiao.com/trending/7587078449874960410/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "日本央行行长植田和男：预计工资和通胀同步温和上涨的机制有望持续。",
           "url": "https://flash.jin10.com/detail/20251225122639609800",
           "source": "金十数据",
@@ -2348,7 +2391,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -2359,7 +2402,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -2411,7 +2454,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
@@ -2434,6 +2477,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 20时21分]"
         },
         {
           "title": "公募基金明年看好AI产业链",
@@ -2470,20 +2527,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时16分 ~ 17时14分]"
-        },
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时16分 ~ 19时10分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -2570,6 +2613,28 @@
           "time_info": "[07时11分 ~ 08时53分]"
         },
         {
+          "title": "AI 的出现会导致人类的思考能力退化吗？",
+          "url": "https://www.zhihu.com/question/1943569117631185654",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
           "url": "https://wallstreetcn.com/livenews/3026336",
           "source": "华尔街见闻-快讯",
@@ -2590,6 +2655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "当希林娜依高遇见AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E9%81%87%E8%A7%81AI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "软银升级AI计算基础设施，处理能力提升20%",
