@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T03:09:52.498057+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2025-12-27T04:12:58.700409+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国斩杀线为什么火了",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "法德英等国一致“强烈谴责”美国",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "中方对20家美国军工相关企业及高级管理人员采取反制措施",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "圆脸谈美国斩杀线",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "欧盟二号人物：我们绝不能屈服美国的要求，放弃监管和自身价值",
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -83,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "中方制裁20家美国企业",
@@ -95,20 +95,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
-        },
-        {
-          "title": "外交部回应日本领导人或参拜靖国神社：日方不要错上加错",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32257189",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "中方制裁20家美国军工企业",
@@ -119,8 +107,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "开灵视看美国,影视作品早有剧透",
@@ -130,8 +118,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时12分]"
+        },
+        {
+          "title": "外交部回应日本领导人或参拜靖国神社：日方不要错上加错",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32257189",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "日本半年多捕杀 9765 头熊，遭遇「熊尸围城」，熊尸有哪些好的处理办法？这些熊肉可以食用吗？",
@@ -144,19 +145,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
-        },
-        {
-          "title": "美国纽约将要求社交媒体平台显示心理健康警示",
-          "url": "https://wallstreetcn.com/livenews/3027440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "美国产能不足拖累军售，对台未交付武器价值逾200亿美元",
@@ -166,19 +156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
-        },
-        {
-          "title": "暴风雪导致美国纽约市机场假期出行受阻，全美超1000个航班被取消",
-          "url": "https://wallstreetcn.com/livenews/3027436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "中方回应日本领导人或参拜靖国神社",
@@ -190,8 +169,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "美国中产是如何滑落的",
@@ -200,11 +179,12 @@
           "ranks": [
             9,
             19,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "掉下斩杀线的美国人为何不能降低美国用人成本?",
@@ -215,8 +195,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "中方对20家美国军工相关企业及高级管理人员采取反制措施",
@@ -225,11 +205,12 @@
           "ranks": [
             13,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "37%美国人拿不出400美元应急",
@@ -238,11 +219,12 @@
           "ranks": [
             17,
             27,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "努力工作也难逃美国“斩杀线”",
@@ -251,11 +233,12 @@
           "ranks": [
             25,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "如何看待“美国中产斩杀线”",
@@ -277,11 +260,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时12分]"
         },
         {
           "title": "俄罗斯副外长里亚布科夫：俄罗斯和美国即将就乌克兰问题达成协议。",
@@ -310,17 +294,94 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
+          "title": "美国纽约将要求社交媒体平台显示心理健康警示",
+          "url": "https://wallstreetcn.com/livenews/3027440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 04时12分]"
+        },
+        {
+          "title": "暴风雪导致美国纽约市机场假期出行受阻，全美超1000个航班被取消",
+          "url": "https://wallstreetcn.com/livenews/3027436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 04时12分]"
+        },
+        {
           "title": "美国一女子挤痘痘致半边脸面瘫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%A5%B3%E5%AD%90%E6%8C%A4%E7%97%98%E7%97%98%E8%87%B4%E5%8D%8A%E8%BE%B9%E8%84%B8%E9%9D%A2%E7%98%AB",
           "source": "百度热搜",
           "ranks": [
             29,
             17,
-            18
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 04时12分]"
+        },
+        {
+          "title": "日本将拨款460亿美元用于支持对美投资及核电发展",
+          "url": "https://flash.jin10.com/detail/20251227011033711800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时09分]"
+          "time_info": "[02时16分 ~ 04时12分]"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
+          "url": "https://flash.jin10.com/detail/20251227010459037800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时12分]"
+        },
+        {
+          "title": "日本将划拨460亿美元用于支持在美国的投资。 这笔资金将来自低息贷款和担保。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3027424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时12分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥周五与洪都拉斯当选总统阿斯富拉通话。",
+          "url": "https://flash.jin10.com/detail/20251227010011778800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时12分]"
         },
         {
           "title": "日高官鼓吹“日本应拥核” 俄方表态",
@@ -336,6 +397,19 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
+          "title": "中方：日本正在危险方向上越走越远",
+          "url": "https://www.toutiao.com/trending/7587743959070916644/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 04时12分]"
+        },
+        {
           "title": "美国三大股指悉数下跌，纳指跌0.1%。 纳斯达克生物科技指数跌超0.7%，成分股Vor Biopharma目前跌4.34%，奥麦罗制药（OMER）跌5.57%，Pyxis Oncology跌5.41%，Kodiak Sciences跌5.76%，Gossamer Bio跌5.38%。 Orchestra Biomed Holdings则涨0.92%暂时表现第三，Silence Therapeutics涨2.61%，Vanda Pharmaceuticals涨2.89%。",
           "url": "https://wallstreetcn.com/livenews/3027398",
           "source": "华尔街见闻-快讯",
@@ -348,52 +422,16 @@
           "time_info": "[00时13分 ~ 01时10分]"
         },
         {
-          "title": "日本将拨款460亿美元用于支持对美投资及核电发展",
-          "url": "https://flash.jin10.com/detail/20251227011033711800",
-          "source": "金十数据",
+          "title": "日本正以惊人速度推进军国主义化",
+          "url": "https://www.toutiao.com/trending/7587822949690900521/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            11
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
-        },
-        {
-          "title": "据AXIOS网站：乌克兰总统泽连斯基“准备”就美国总统特朗普的停火计划举行公投。",
-          "url": "https://flash.jin10.com/detail/20251227010459037800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
-        },
-        {
-          "title": "日本将划拨460亿美元用于支持在美国的投资。 这笔资金将来自低息贷款和担保。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3027424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥周五与洪都拉斯当选总统阿斯富拉通话。",
-          "url": "https://flash.jin10.com/detail/20251227010011778800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
+          "time_info": "[03时09分 ~ 04时12分]"
         },
         {
           "title": "霸王茶姬跌超14%，创美国IPO以来盘中新低。 12月26日稍早，话题词“霸王茶姬 咖啡因”登上热搜，引发广泛讨论。",
@@ -420,27 +458,26 @@
           "time_info": "[02时16分 ~ 03时09分]"
         },
         {
-          "title": "中方：日本正在危险方向上越走越远",
-          "url": "https://www.toutiao.com/trending/7587743959070916644/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 03时09分]"
-        },
-        {
-          "title": "日本正以惊人速度推进军国主义化",
-          "url": "https://www.toutiao.com/trending/7587822949690900521/",
-          "source": "今日头条",
+          "title": "受冬季风暴影响 美国超千架次航班被取消",
+          "url": "https://flash.jin10.com/detail/20251227031151145800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "04时12分"
+        },
+        {
+          "title": "市场消息：美国研究人员称，俄罗斯很可能在白俄罗斯东部一处前空军基地部署新型具备核能力的高超音速弹道导弹。",
+          "url": "https://flash.jin10.com/detail/20251227031051388800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "台湾民意机构通过赖清德弹劾提案",
@@ -482,7 +519,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         }
@@ -500,8 +537,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -510,11 +547,12 @@
           "ranks": [
             20,
             13,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -526,19 +564,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 03时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 04时12分]"
         },
         {
           "title": "科研创新 idea 要不要告诉 AI?",
           "url": "https://www.zhihu.com/question/1914008682825520046",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 04时12分]"
         },
         {
           "title": "2025年度AI好用工具",
