@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T10:48:58.624409+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-12-26T11:54:22.856482+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 82,
+      "match_count": 92,
       "titles": [
         {
           "title": "自己菜竟怪别人打压，“中方阻碍美国自主化稀土加工产业”",
@@ -80,11 +80,12 @@
             30,
             23,
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 10时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 11时54分]"
         },
         {
           "title": "美国斩杀线为什么刚好在 1/e 附近？",
@@ -151,11 +152,12 @@
           "ranks": [
             11,
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 10时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 11时54分]"
         },
         {
           "title": "福建舰航经台海 国防部：以后还组织",
@@ -191,11 +193,12 @@
           "ranks": [
             19,
             20,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 10时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 11时54分]"
         },
         {
           "title": "中国为什么没有美国的“斩杀线”",
@@ -239,17 +242,6 @@
           "time_info": "[01时11分 ~ 06时11分]"
         },
         {
-          "title": "日本“熊尸围城” 7个月捕杀9765头",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E7%86%8A%E5%B0%B8%E5%9B%B4%E5%9F%8E%E2%80%9D+7%E4%B8%AA%E6%9C%88%E6%8D%95%E6%9D%809765%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 10时48分]"
-        },
-        {
           "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
           "url": "https://wallstreetcn.com/livenews/3026791",
           "source": "华尔街见闻-快讯",
@@ -275,6 +267,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时11分 ~ 10时48分]"
+        },
+        {
+          "title": "如何看待日本系统性介入南海？国防部回应",
+          "url": "https://news.ifeng.com/c/8pNYw7ed7YR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
         },
         {
           "title": "中方回应日本系统性介入南海行为",
@@ -307,6 +311,17 @@
           "time_info": "[03时09分 ~ 07时12分]"
         },
         {
+          "title": "俄：建议日方修建“日本军国主义受害者纪念堂”",
+          "url": "https://news.ifeng.com/c/8pLTxPrVhDN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -316,6 +331,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌1个基点，至3.390%。",
+          "url": "https://flash.jin10.com/detail/20251226115129599800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "尼日利亚政府证实美国对该国恐怖分子据点发动空袭",
+          "url": "https://wallstreetcn.com/livenews/3027025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "美国国务卿鲁比奥重申，美国已准备好为促进柬埔寨和泰国之间的和平与稳定而进行的讨论提供便利。",
@@ -342,15 +379,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "日本财务大臣片山皋月：内阁批准了2026财年的初步预算方案，总额达到了创纪录的122万亿日元；预算方案旨在实现强劲的经济增长。",
-          "url": "https://wallstreetcn.com/livenews/3026984",
+          "title": "日本财务大臣：与经济体量相比2026财年预算规模不算太大",
+          "url": "https://wallstreetcn.com/livenews/3027021",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "11时54分"
         },
         {
           "title": "日本5年期国债收益率下跌0.5个基点，至1.515%。",
@@ -359,20 +396,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
         {
-          "title": "如何看待日本系统性介入南海？国防部回应",
-          "url": "https://news.ifeng.com/c/8pNYw7ed7YR",
+          "title": "日本“熊尸围城” 7个月捕杀9765头",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E2%80%9C%E7%86%8A%E5%B0%B8%E5%9B%B4%E5%9F%8E%E2%80%9D+7%E4%B8%AA%E6%9C%88%E6%8D%95%E6%9D%809765%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 11时54分]"
+        },
+        {
+          "title": "日本2026财年防卫预算创新高",
+          "url": "https://news.ifeng.com/c/8pOUprTVgg1",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "11时54分"
         },
         {
           "title": "东京通胀降温幅度超预期 但不太可能阻止日本央行继续加息",
@@ -392,7 +441,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -425,6 +474,19 @@
           "time_info": "[05时11分 ~ 07时12分]"
         },
         {
+          "title": "美国一人彩票中奖超127亿元",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%BA%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E8%B6%85127%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 11时54分]"
+        },
+        {
           "title": "对等反制，尼日尔对美国公民停发签证",
           "url": "https://wallstreetcn.com/livenews/3026844",
           "source": "华尔街见闻-快讯",
@@ -449,16 +511,16 @@
           "time_info": "[06时11分 ~ 07时12分]"
         },
         {
-          "title": "美国一人彩票中奖超127亿元",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%BA%E5%BD%A9%E7%A5%A8%E4%B8%AD%E5%A5%96%E8%B6%85127%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
+          "title": "日本财务大臣片山皋月：内阁批准了2026财年的初步预算方案，总额达到了创纪录的122万亿日元；预算方案旨在实现强劲的经济增长。",
+          "url": "https://wallstreetcn.com/livenews/3026984",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25,
-            4
+            2,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时53分 ~ 10时48分]"
+          "time_info": "[10时48分 ~ 11时54分]"
         },
         {
           "title": "俄外交部发言人：建议日本修建“日本军国主义受害者纪念堂”",
@@ -494,11 +556,69 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            12
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 11时54分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时53分 ~ 10时48分]"
+          "time_info": "[10时48分 ~ 11时54分]"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
+        },
+        {
+          "title": "美国务卿：美方愿促成柬泰对话",
+          "url": "https://news.ifeng.com/c/8pON1XpVPsF",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
+        },
+        {
+          "title": "日本核试探或酿重大灾难",
+          "url": "https://www.toutiao.com/trending/7587945711430303794/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
+        },
+        {
+          "title": "法德英等国一致“强烈谴责”美国",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%BE%B7%E8%8B%B1%E7%AD%89%E5%9B%BD%E4%B8%80%E8%87%B4%E2%80%9C%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E2%80%9D%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
         },
         {
           "title": "周锡玮：高市决定恐让日本自陷险境",
@@ -513,15 +633,16 @@
           "time_info": "[08时53分 ~ 10时48分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "美国一人彩票中奖超127亿元",
+          "url": "https://www.toutiao.com/trending/7587785422638448691/",
+          "source": "今日头条",
           "ranks": [
-            6
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
         },
         {
           "title": "日本2026财年防卫预算创新高",
@@ -530,31 +651,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
         {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
+          "title": "谁设计了美国的“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7587977070941048362/",
+          "source": "今日头条",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "美国务卿：美方愿促成柬泰对话",
-          "url": "https://news.ifeng.com/c/8pON1XpVPsF",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "11时54分"
         },
         {
           "title": "日本预测12月工业产出环比增长1.3%，1月工业产出环比增长8.0%。",
@@ -574,18 +684,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "日本核试探或酿重大灾难",
-          "url": "https://www.toutiao.com/trending/7587945711430303794/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -596,7 +695,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -610,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "掉下斩杀线的美国人为何不能降低美国用人成本?",
+          "url": "https://www.zhihu.com/question/1987258049723926442",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "日本11月库存月率 -3%，前值0.4%。",
@@ -632,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "日本拟在预算中就对芯片和人工智能的支持增加三倍",
+          "url": "https://flash.jin10.com/detail/20251226112803480800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "日本11月零售销售 13.052万亿日元，前值13.052万亿日元。",
@@ -662,7 +783,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -676,17 +797,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "美国一人彩票中奖超127亿元",
-          "url": "https://www.toutiao.com/trending/7587785422638448691/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         },
         {
           "title": "日本11月季调后零售销售月率 0.6%，前值1.60%。",
@@ -706,7 +816,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -816,7 +926,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -830,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会依赖轻易发行日本国债。",
+          "url": "https://flash.jin10.com/detail/20251226105647089800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "日本12月东京CPI(除生鲜食品)同比 2.3%，预期 2.5%，前值 2.8%。",
@@ -852,17 +973,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "法德英等国一致“强烈谴责”美国",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%BE%B7%E8%8B%B1%E7%AD%89%E5%9B%BD%E4%B8%80%E8%87%B4%E2%80%9C%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E2%80%9D%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         },
         {
           "title": "日本12月东京CPI同比 2%，预期 2.3%，前值 2.7%。",
@@ -893,7 +1003,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -926,7 +1036,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -975,6 +1085,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "中方回应日本系统性介入南海行为",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E7%B3%BB%E7%BB%9F%E6%80%A7%E4%BB%8B%E5%85%A5%E5%8D%97%E6%B5%B7%E8%A1%8C%E4%B8%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "日本12月东京核心CPI年率 2.3%，预期2.5%，前值2.80%。",
           "url": "https://flash.jin10.com/detail/20251226073002981800",
           "source": "金十数据",
@@ -1000,7 +1121,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI的“广告模式”已初具雏形",
@@ -1020,22 +1141,47 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 10时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 11时54分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
           "url": "https://www.cls.cn/detail/2240534",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
+        },
+        {
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 11时54分]"
+        },
+        {
+          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
+          "url": "https://wallstreetcn.com/livenews/3027011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "11时54分"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -1055,18 +1201,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
