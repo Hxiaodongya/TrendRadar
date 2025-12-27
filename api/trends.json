@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T14:18:09.931564+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-12-27T15:11:58.859877+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -43,6 +43,19 @@
           "time_info": "[00时12分 ~ 07时12分]"
         },
         {
+          "title": "台湾网友听到台湾终于被点激动哭了",
+          "url": "https://www.toutiao.com/trending/7587754896135503891/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 15时11分]"
+        },
+        {
           "title": "开灵视看美国,影视作品早有剧透",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348450&amp;topic_name=%E5%BC%80%E7%81%B5%E8%A7%86%E7%9C%8B%E7%BE%8E%E5%9B%BD%2C%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E6%97%A9%E6%9C%89%E5%89%A7%E9%80%8F",
           "source": "贴吧",
@@ -53,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时16分 ~ 14时18分]"
+          "appearance_count": 17,
+          "time_info": "[02时16分 ~ 15时11分]"
         },
         {
           "title": "法德英等国一致“强烈谴责”美国",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 07时12分]"
-        },
-        {
-          "title": "台湾网友听到台湾终于被点激动哭了",
-          "url": "https://www.toutiao.com/trending/7587754896135503891/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 14时18分]"
         },
         {
           "title": "美国斩杀线为什么火了",
@@ -123,21 +124,6 @@
           "time_info": "[00时12分 ~ 07时12分]"
         },
         {
-          "title": "圆脸谈美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 14时18分]"
-        },
-        {
           "title": "外交部回应日本领导人或参拜靖国神社：日方不要错上加错",
           "url": "https://m.thepaper.cn/newsDetail_forward_32257189",
           "source": "澎湃新闻",
@@ -149,8 +135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 14时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 15时11分]"
         },
         {
           "title": "美国中产是如何滑落的",
@@ -170,6 +156,22 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时12分 ~ 14时18分]"
+        },
+        {
+          "title": "圆脸谈美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            7,
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 15时11分]"
         },
         {
           "title": "中方对20家美国军工相关企业及高级管理人员采取反制措施",
@@ -195,11 +197,12 @@
             18,
             2,
             23,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 14时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 15时11分]"
         },
         {
           "title": "美国产能不足拖累军售，对台未交付武器价值逾200亿美元",
@@ -238,11 +241,12 @@
             12,
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 14时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 15时11分]"
         },
         {
           "title": "掉下斩杀线的美国人为何不能降低美国用人成本?",
@@ -301,6 +305,47 @@
           "time_info": "[00时12分 ~ 07时12分]"
         },
         {
+          "title": "人民日报：武装台湾必成“台独”噩梦",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE%E5%BF%85%E6%88%90%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%99%A9%E6%A2%A6",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9,
+            14,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 15时11分]"
+        },
+        {
+          "title": "释新闻｜美国在公海扣押委内瑞拉油轮，有什么法律争议？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32257170",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 15时11分]"
+        },
+        {
+          "title": "美国对华科技竞争战略为何调整",
+          "url": "https://www.toutiao.com/trending/7587826394852491307/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 15时11分]"
+        },
+        {
           "title": "台湾网友听到台湾终于被点激动哭了",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E5%8F%8B%E5%90%AC%E5%88%B0%E5%8F%B0%E6%B9%BE%E7%BB%88%E4%BA%8E%E8%A2%AB%E7%82%B9%E6%BF%80%E5%8A%A8%E5%93%AD%E4%BA%86",
           "source": "百度热搜",
@@ -314,18 +359,15 @@
           "time_info": "[08时51分 ~ 13时13分]"
         },
         {
-          "title": "人民日报：武装台湾必成“台独”噩梦",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E6%AD%A6%E8%A3%85%E5%8F%B0%E6%B9%BE%E5%BF%85%E6%88%90%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%99%A9%E6%A2%A6",
-          "source": "百度热搜",
+          "title": "泽连斯基涉俄乌谈判最新表态，被美国夸“重大进步”",
+          "url": "https://news.ifeng.com/c/8pQE4XHj0Ng",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            14,
-            13
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 15时11分]"
         },
         {
           "title": "美国一女子挤痘痘致半边脸面瘫",
@@ -345,31 +387,6 @@
           "time_info": "[01时10分 ~ 08时51分]"
         },
         {
-          "title": "释新闻｜美国在公海扣押委内瑞拉油轮，有什么法律争议？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32257170",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 14时18分]"
-        },
-        {
-          "title": "美国对华科技竞争战略为何调整",
-          "url": "https://www.toutiao.com/trending/7587826394852491307/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 14时18分]"
-        },
-        {
           "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
           "url": "https://wallstreetcn.com/livenews/3027528",
           "source": "华尔街见闻-快讯",
@@ -377,22 +394,23 @@
             1,
             3,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时11分]"
         },
         {
-          "title": "泽连斯基涉俄乌谈判最新表态，被美国夸“重大进步”",
-          "url": "https://news.ifeng.com/c/8pQE4XHj0Ng",
-          "source": "凤凰网",
+          "title": "「斩杀线」现象的广泛讨论，是否标志着美国梦「完美滤镜」的打破？",
+          "url": "https://www.zhihu.com/question/1987949038021081033",
+          "source": "知乎",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 15时11分]"
         },
         {
           "title": "人民日报：武装台湾必成“台独”噩梦",
@@ -401,11 +419,12 @@
           "ranks": [
             20,
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 15时11分]"
         },
         {
           "title": "中方：日本正在危险方向上越走越远",
@@ -435,15 +454,16 @@
           "time_info": "[08时51分 ~ 11时51分]"
         },
         {
-          "title": "「斩杀线」现象的广泛讨论，是否标志着美国梦「完美滤镜」的打破？",
-          "url": "https://www.zhihu.com/question/1987949038021081033",
-          "source": "知乎",
+          "title": "特朗普：美国目前没有承认索马里兰的计划",
+          "url": "https://flash.jin10.com/detail/20251227140350372800",
+          "source": "金十数据",
           "ranks": [
-            8
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 14时18分]"
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 15时11分]"
         },
         {
           "title": "日本正以惊人速度推进军国主义化",
@@ -458,6 +478,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时09分 ~ 07时12分]"
+        },
+        {
+          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
+          "url": "https://flash.jin10.com/detail/20251227143953526800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "日本将拨款460亿美元用于支持对美投资及核电发展",
@@ -512,17 +543,6 @@
           "time_info": "[08时51分 ~ 12时24分]"
         },
         {
-          "title": "特朗普：美国目前没有承认索马里兰的计划",
-          "url": "https://flash.jin10.com/detail/20251227140350372800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
           "title": "日本大幅增加防卫费，中方：暴露日本右翼势力险恶用心",
           "url": "https://news.ifeng.com/c/8pPpZD3GLo1",
           "source": "凤凰网",
@@ -543,6 +563,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "日本动物园人扮大熊猫供游客体验",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%BA%BA%E6%89%AE%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BE%9B%E6%B8%B8%E5%AE%A2%E4%BD%93%E9%AA%8C",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 15时11分]"
         },
         {
           "title": "冬季风暴“德文”袭击美国，导致超过1500班航班被取消，影响假日出行。",
@@ -623,18 +656,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时12分 ~ 08时51分]"
-        },
-        {
-          "title": "日本动物园人扮大熊猫供游客体验",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%BA%BA%E6%89%AE%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BE%9B%E6%B8%B8%E5%AE%A2%E4%BD%93%E9%AA%8C",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时18分]"
         },
         {
           "title": "马杜罗：美国向委强加殖民主义和奴隶制统治模式不可能实现",
@@ -723,11 +744,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时11分]"
+        },
+        {
+          "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
+          "url": "https://flash.jin10.com/detail/20251227122711483800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时11分]"
         },
         {
           "title": "道富环球市场（State Street Global Markets）驻波士顿的高级新兴市场策略师Ning Sun表示：本周，在流动性较低的情况下，良好的美国数据支撑了（新兴市场资产的）风险情绪。 对于明年，我认为新兴市场有望再创佳绩，但表现将更多地依赖于随着利差缩小而持续的美元疲软趋势。",
@@ -752,18 +787,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时51分 ~ 10时46分]"
-        },
-        {
-          "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
-          "url": "https://flash.jin10.com/detail/20251227122711483800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时18分]"
         },
         {
           "title": "美国纽约州长Hochul宣布当地多个遭受暴风雪天期影响的县进入紧急状态。",
@@ -816,6 +839,18 @@
           "time_info": "[08时51分 ~ 10时46分]"
         },
         {
+          "title": "日本推出人扮大熊猫游客体验活动",
+          "url": "https://www.toutiao.com/trending/7588345693748707370/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时11分]"
+        },
+        {
           "title": "日本议员称高市政权为战争准备内阁",
           "url": "https://flash.jin10.com/detail/20251227094928932800",
           "source": "金十数据",
@@ -827,6 +862,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时46分 ~ 12时24分]"
+        },
+        {
+          "title": "日本防卫省停止川崎重工参与招标",
+          "url": "https://flash.jin10.com/detail/20251227120347142800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 15时11分]"
         },
         {
           "title": "学者：高市和美将台湾推向更危险边缘",
@@ -853,18 +901,6 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
-          "title": "日本防卫省停止川崎重工参与招标",
-          "url": "https://flash.jin10.com/detail/20251227120347142800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时18分]"
-        },
-        {
           "title": "美国三大股指悉数下跌，纳指跌0.1%。 纳斯达克生物科技指数跌超0.7%，成分股Vor Biopharma目前跌4.34%，奥麦罗制药（OMER）跌5.57%，Pyxis Oncology跌5.41%，Kodiak Sciences跌5.76%，Gossamer Bio跌5.38%。 Orchestra Biomed Holdings则涨0.92%暂时表现第三，Silence Therapeutics涨2.61%，Vanda Pharmaceuticals涨2.89%。",
           "url": "https://wallstreetcn.com/livenews/3027398",
           "source": "华尔街见闻-快讯",
@@ -877,15 +913,16 @@
           "time_info": "[00时13分 ~ 01时10分]"
         },
         {
-          "title": "日本推出人扮大熊猫游客体验活动",
-          "url": "https://www.toutiao.com/trending/7588345693748707370/",
-          "source": "今日头条",
+          "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
+          "url": "https://flash.jin10.com/detail/20251227131840644800",
+          "source": "金十数据",
           "ranks": [
+            7,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "time_info": "[14时18分 ~ 15时11分]"
         },
         {
           "title": "周五（12月26日）纽约尾盘，美国10年期国债收益率跌0.38个基点，报4.1297%，本周累计下跌1.74个基点 两年期美债收益率跌2.04个基点，报3.4810%，本周累跌0.24个基点；30年期美债收益率本周累跌0.71个基点，报4.8171%。",
@@ -958,17 +995,6 @@
           "time_info": "[10时45分 ~ 10时46分]"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
-          "url": "https://flash.jin10.com/detail/20251227131840644800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
           "title": "国防部回应日本拟在冲绳部署移动雷达",
           "url": "https://www.toutiao.com/trending/7587978293262106667/",
           "source": "今日头条",
@@ -978,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "美国老板卖掉公司分2.4亿美元给员工",
@@ -1061,8 +1098,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 14时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 15时11分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -1079,11 +1116,12 @@
             9,
             18,
             26,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 14时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 15时11分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -1138,11 +1176,12 @@
             9,
             11,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 15时11分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
