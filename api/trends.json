@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T01:10:36.478785+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2025-12-29T02:16:49.439739+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -37,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
@@ -48,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -59,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
@@ -70,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
@@ -81,8 +82,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
@@ -92,8 +93,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "美国社会现状,传奇调查员早看透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348487&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%8E%B0%E7%8A%B6%2C%E4%BC%A0%E5%A5%87%E8%B0%83%E6%9F%A5%E5%91%98%E6%97%A9%E7%9C%8B%E9%80%8F",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "台湾地震厦门震感强烈",
@@ -103,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
@@ -114,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "台湾游客在东北就餐被邻桌抢着买单",
@@ -126,8 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -137,8 +149,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
@@ -148,8 +160,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美国媒体关注到中国网友对「斩杀线」的讨论，称美国人生存线可能继续上移，为什么会这样？有哪些因素影响？",
@@ -159,19 +171,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
           "url": "https://flash.jin10.com/detail/20251228211654895800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美国蜜雪冰城店员中文流利",
@@ -182,8 +195,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "如何看待日本军费冲到全球第三",
@@ -191,11 +204,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "总台现场直击丨台湾发生6.6级地震，台北地区震感强烈",
@@ -206,8 +220,21 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
+        },
+        {
+          "title": "台湾深夜6.6级地震,沿海都在晃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348469&amp;topic_name=%E5%8F%B0%E6%B9%BE%E6%B7%B1%E5%A4%9C6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B2%BF%E6%B5%B7%E9%83%BD%E5%9C%A8%E6%99%83",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "民进党列台湾“亲中名嘴”排行榜",
@@ -216,18 +243,6 @@
           "ranks": [
             21,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
-          "title": "台湾深夜6.6级地震,沿海都在晃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348469&amp;topic_name=%E5%8F%B0%E6%B9%BE%E6%B7%B1%E5%A4%9C6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B2%BF%E6%B5%B7%E9%83%BD%E5%9C%A8%E6%99%83",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -259,8 +274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -270,8 +285,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -281,8 +296,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     }
