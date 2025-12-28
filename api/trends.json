@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-28T07:11:49.602589+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-12-28T09:01:07.101789+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 37,
+      "match_count": 44,
       "titles": [
-        {
-          "title": "台湾宜兰县海域发生6.6级地震",
-          "url": "https://www.toutiao.com/trending/7587632360121106474/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
         {
           "title": "台湾宜兰县海域6.6级地震",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%AE%9C%E5%85%B0%E5%8E%BF%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "台湾海域6.6级地震",
@@ -38,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "台湾宜兰县海域发生 6.6 级地震，台北摇晃近 1 分钟，当地情况如何？哪些地方有震感？",
@@ -50,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "台湾地震 福州泉州等地震感强烈",
@@ -65,17 +54,30 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "台湾深夜6.6级地震,沿海都在晃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348469&amp;topic_name=%E5%8F%B0%E6%B9%BE%E6%B7%B1%E5%A4%9C6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B2%BF%E6%B5%B7%E9%83%BD%E5%9C%A8%E6%99%83",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时15分 ~ 09时01分]"
+        },
+        {
           "title": "台湾宜兰县海域6.6级地震",
           "url": "https://www.douyin.com/hot/2349518",
           "source": "抖音",
           "ranks": [
             1,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "中国台湾宜兰县海域发生6.6级地震 震源深度60千米",
@@ -84,22 +86,36 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
-          "title": "台湾深夜6.6级地震,沿海都在晃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348469&amp;topic_name=%E5%8F%B0%E6%B9%BE%E6%B7%B1%E5%A4%9C6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%2C%E6%B2%BF%E6%B5%B7%E9%83%BD%E5%9C%A8%E6%99%83",
-          "source": "贴吧",
+          "title": "台湾宜兰县海域发生6.6级地震",
+          "url": "https://www.toutiao.com/trending/7587632360121106474/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时15分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "泽连斯基：俄罗斯无意结束战争",
+          "url": "https://news.ifeng.com/c/8pQgWq978i3",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "台湾网友听到台湾终于被点激动哭了",
@@ -109,11 +125,29 @@
             14,
             9,
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "美国普通人掉入「斩杀线」，如何才能扭转局面？",
+          "url": "https://www.zhihu.com/question/1987948375149081093",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            9,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "台湾6.6级地震 台北摇晃近1分钟",
@@ -131,31 +165,49 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
-          "title": "美国普通人掉入「斩杀线」，如何才能扭转局面？",
-          "url": "https://www.zhihu.com/question/1987948375149081093",
-          "source": "知乎",
+          "title": "美国皮革制品或将涨价22%",
+          "url": "https://wallstreetcn.com/livenews/3027573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "台湾深夜地震 桃园机场天花板塌陷",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B7%B1%E5%A4%9C%E5%9C%B0%E9%9C%87+%E6%A1%83%E5%9B%AD%E6%9C%BA%E5%9C%BA%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%A1%8C%E9%99%B7",
+          "source": "百度热搜",
           "ranks": [
             12,
             10,
-            9,
-            7,
+            8,
             6,
-            5
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 09时01分]"
         },
         {
-          "title": "泽连斯基：俄罗斯无意结束战争",
-          "url": "https://news.ifeng.com/c/8pQgWq978i3",
-          "source": "凤凰网",
+          "title": "台湾海域6.6级地震现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            22,
+            8,
+            13,
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 09时01分]"
         },
         {
           "title": "中方制裁军工企业，美国国务院还嘴硬",
@@ -165,8 +217,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "「斩杀线」现象的广泛讨论，是否标志着美国梦「完美滤镜」的打破？",
@@ -202,8 +254,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "美国对华科技竞争战略为何调整",
@@ -218,48 +270,6 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
-          "title": "美国皮革制品或将涨价22%",
-          "url": "https://wallstreetcn.com/livenews/3027573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "台湾深夜地震 桃园机场天花板塌陷",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B7%B1%E5%A4%9C%E5%9C%B0%E9%9C%87+%E6%A1%83%E5%9B%AD%E6%9C%BA%E5%9C%BA%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%A1%8C%E9%99%B7",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时11分]"
-        },
-        {
-          "title": "台湾海域6.6级地震现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            8,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时11分]"
-        },
-        {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
           "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87+%E6%88%BF%E5%B1%8B%E7%8B%82%E6%91%87%E6%B1%BD%E8%BD%A6%E8%AD%A6%E6%8A%A5%E5%93%8D%E6%88%90%E4%B8%80%E7%89%87",
           "source": "百度热搜",
@@ -270,6 +280,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时10分 ~ 07时11分]"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "美国蜜雪收银小哥熟练用中文点单",
@@ -288,37 +322,16 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
-          "url": "https://flash.jin10.com/detail/20251227213217547800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
           "title": "日本防卫预算再创新高引发舆论担忧",
           "url": "https://flash.jin10.com/detail/20251227204105564800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "美媒称美国皮革制品或将涨价22%",
@@ -367,6 +380,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时08分 ~ 07时11分]"
+        },
+        {
+          "title": "日本将向12国免费提供武器装备",
+          "url": "https://www.toutiao.com/trending/7587618760001880090/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         },
         {
           "title": "美国人的生存线可能继续上移",
@@ -433,6 +457,72 @@
           "time_info": "[01时10分 ~ 07时11分]"
         },
         {
+          "title": "鸡蛋拌饭已成日本“奢侈品”",
+          "url": "https://www.baidu.com/s?wd=%E9%B8%A1%E8%9B%8B%E6%8B%8C%E9%A5%AD%E5%B7%B2%E6%88%90%E6%97%A5%E6%9C%AC%E2%80%9C%E5%A5%A2%E4%BE%88%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "台湾地震厦门震感强烈",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "美国人形机器人初创公司：连我们都觉得，外界吹得太过了",
+          "url": "https://wallstreetcn.com/articles/3762176",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "台湾海域地震房屋狂摇汽车警报响不停",
+          "url": "https://www.toutiao.com/trending/7588674278820957705/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "福建人被台湾地震吓麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BA%BA%E8%A2%AB%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%90%93%E9%BA%BB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "台湾桃园机场天花板被震落",
+          "url": "https://www.toutiao.com/trending/7588674179126349321/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
           "title": "泽连斯基称俄罗斯无意结束战争",
           "url": "https://wallstreetcn.com/livenews/3027547",
           "source": "华尔街见闻-快讯",
@@ -469,7 +559,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -478,22 +568,46 @@
           "ranks": [
             20,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
           "url": "https://wallstreetcn.com/articles/3762183",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 09时01分]"
+        },
+        {
+          "title": "原告出示证据 右下角写着“AI生成”",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%91%8A%E5%87%BA%E7%A4%BA%E8%AF%81%E6%8D%AE+%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E7%9D%80%E2%80%9CAI%E7%94%9F%E6%88%90%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
+        },
+        {
+          "title": "AI医疗前景如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E5%89%8D%E6%99%AF%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时00分 ~ 09时01分]"
         }
       ]
     }
