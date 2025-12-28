@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T20:20:28.619697+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2025-12-28T21:24:13.062477+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "俄外长警告日本：要慎重！",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时37分 ~ 20时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时37分 ~ 21时24分]"
         },
         {
           "title": "台湾宜兰县海域6.6级地震",
@@ -107,23 +107,6 @@
           "time_info": "[00时13分 ~ 09时01分]"
         },
         {
-          "title": "日本向多国免费提供武器装备",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E5%A4%9A%E5%9B%BD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            10,
-            8,
-            4,
-            2,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时37分 ~ 20时20分]"
-        },
-        {
           "title": "台湾海域6.6级地震",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -152,6 +135,24 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "日本向多国免费提供武器装备",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%91%E5%A4%9A%E5%9B%BD%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            10,
+            8,
+            4,
+            2,
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时37分 ~ 21时24分]"
         },
         {
           "title": "台湾宜兰县海域发生6.6级地震",
@@ -217,8 +218,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[02时15分 ~ 20时20分]"
+          "appearance_count": 26,
+          "time_info": "[02时15分 ~ 21时24分]"
         },
         {
           "title": "台湾6.6级地震 台北摇晃近1分钟",
@@ -234,6 +235,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "真人扮熊猫关笼,日本为吸客拼了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 21时24分]"
         },
         {
           "title": "美国皮革制品或将涨价22%",
@@ -254,17 +268,29 @@
           "time_info": "[00时13分 ~ 14时17分]"
         },
         {
+          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
+          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 21时24分]"
+        },
+        {
           "title": "台湾地震厦门震感强烈",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%8E%A6%E9%97%A8%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88",
           "source": "bilibili 热搜",
           "ranks": [
             7,
             6,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时00分 ~ 20时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时00分 ~ 21时24分]"
         },
         {
           "title": "台湾深夜地震 桃园机场天花板塌陷",
@@ -367,8 +393,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时13分 ~ 20时20分]"
+          "appearance_count": 28,
+          "time_info": "[00时13分 ~ 21时24分]"
         },
         {
           "title": "美国对华科技竞争战略为何调整",
@@ -381,6 +407,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时13分 ~ 21时24分]"
         },
         {
           "title": "台湾地震 房屋狂摇汽车警报响成一片",
@@ -433,30 +472,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 09时01分]"
-        },
-        {
-          "title": "真人扮熊猫关笼,日本为吸客拼了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 20时20分]"
-        },
-        {
-          "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
-          "url": "https://news.ifeng.com/c/8pSJvd1oz2e",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 20时20分]"
         },
         {
           "title": "台湾游客在东北就餐被邻桌抢着买单",
@@ -520,19 +535,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时08分 ~ 07时11分]"
-        },
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时13分 ~ 20时20分]"
         },
         {
           "title": "日本将向12国免费提供武器装备",
@@ -626,6 +628,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时17分 ~ 18时11分]"
+        },
+        {
+          "title": "总台现场直击丨台湾发生6.6级地震，台北地区震感强烈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32266982",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 21时24分]"
         },
         {
           "title": "美国人的生存线可能继续上移",
@@ -820,18 +834,6 @@
           "time_info": "[18时11分 ~ 20时20分]"
         },
         {
-          "title": "总台现场直击丨台湾发生6.6级地震，台北地区震感强烈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32266982",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 20时20分]"
-        },
-        {
           "title": "研究人员发现，大约15%的美国人口在30岁之前就已经放弃了拥有住房的梦想。",
           "url": "https://flash.jin10.com/detail/20251228105749528800",
           "source": "金十数据",
@@ -843,6 +845,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时37分 ~ 14时17分]"
+        },
+        {
+          "title": "日本民众集会怒斥政府煽动战争",
+          "url": "https://www.toutiao.com/trending/7587990427363262470/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 21时24分]"
+        },
+        {
+          "title": "民进党列台湾“亲中名嘴”排行榜",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E5%88%97%E5%8F%B0%E6%B9%BE%E2%80%9C%E4%BA%B2%E4%B8%AD%E5%90%8D%E5%98%B4%E2%80%9D%E6%8E%92%E8%A1%8C%E6%A6%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 21时24分]"
         },
         {
           "title": "伊朗总统：正与美欧打“全面战争”",
@@ -926,6 +952,17 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
+          "title": "日本在强军扩武路上狂奔",
+          "url": "https://www.toutiao.com/trending/7588870093677792809/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        },
+        {
           "title": "福建人被台湾地震吓麻了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BA%BA%E8%A2%AB%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87%E5%90%93%E9%BA%BB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -981,17 +1018,6 @@
           "time_info": "11时06分"
         },
         {
-          "title": "日本民众集会怒斥政府煽动战争",
-          "url": "https://www.toutiao.com/trending/7587990427363262470/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
           "title": "美国「斩杀线」就像《了不起的盖茨比》现代版，为何美国文学总在重复「梦想破碎」的故事？",
           "url": "https://www.zhihu.com/question/1987931682825794274",
           "source": "知乎",
@@ -1034,17 +1060,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
-        },
-        {
-          "title": "民进党列台湾“亲中名嘴”排行榜",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%91%E8%BF%9B%E5%85%9A%E5%88%97%E5%8F%B0%E6%B9%BE%E2%80%9C%E4%BA%B2%E4%B8%AD%E5%90%8D%E5%98%B4%E2%80%9D%E6%8E%92%E8%A1%8C%E6%A6%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
         }
       ]
     },
@@ -1076,8 +1091,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时16分 ~ 20时20分]"
+          "appearance_count": 13,
+          "time_info": "[13时16分 ~ 21时24分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -1127,11 +1142,12 @@
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 21时24分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
