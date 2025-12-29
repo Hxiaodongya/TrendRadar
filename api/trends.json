@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T18:14:27.608970+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2025-12-29T19:11:54.308975+08:00",
+  "total_titles_processed": 1521,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 108,
+      "match_count": 110,
       "titles": [
         {
           "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时57分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时57分 ~ 19时11分]"
         },
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -32,6 +32,17 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "外交部发文：美国应认清对台军售的严重后果",
+          "url": "https://news.ifeng.com/c/8pTVOS3uKwd",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 15时18分]"
+        },
+        {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348479&amp;topic_name=%E7%9C%9F%E4%BA%BA%E6%89%AE%E7%86%8A%E7%8C%AB%E5%85%B3%E7%AC%BC%2C%E6%97%A5%E6%9C%AC%E4%B8%BA%E5%90%B8%E5%AE%A2%E6%8B%BC%E4%BA%86",
           "source": "贴吧",
@@ -44,22 +55,12 @@
             14,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时14分]"
-        },
-        {
-          "title": "外交部发文：美国应认清对台军售的严重后果",
-          "url": "https://news.ifeng.com/c/8pTVOS3uKwd",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 15时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时13分 ~ 19时11分]"
         },
         {
           "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时57分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时57分 ~ 19时11分]"
         },
         {
           "title": "台湾地震厦门震感强烈",
@@ -98,11 +99,12 @@
             17,
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时16分 ~ 18时14分]"
+          "appearance_count": 20,
+          "time_info": "[02时16分 ~ 19时11分]"
         },
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -157,6 +159,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时13分 ~ 08时58分]"
+        },
+        {
+          "title": "海警给台湾打了个中国结",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 19时11分]"
         },
         {
           "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -246,18 +260,6 @@
           "time_info": "[00时13分 ~ 05时10分]"
         },
         {
-          "title": "海警给台湾打了个中国结",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
-        },
-        {
           "title": "日媒炒作“台湾有事，美军放弃撤离冲绳”",
           "url": "https://news.ifeng.com/c/8pT82xvZEL8",
           "source": "凤凰网",
@@ -289,11 +291,23 @@
           "ranks": [
             5,
             2,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 19时11分]"
+        },
+        {
+          "title": "被美国制裁后，欧盟前官员抱怨：咱们太软弱，必须站起来",
+          "url": "https://news.ifeng.com/c/8pTqXnJ8tEC",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
@@ -335,6 +349,17 @@
           "time_info": "[15时18分 ~ 17时20分]"
         },
         {
+          "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
+          "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 19时11分]"
+        },
+        {
           "title": "台退将：解放军一块演习区域针对日本",
           "url": "https://www.toutiao.com/trending/7588407652862967871/",
           "source": "今日头条",
@@ -345,6 +370,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时20分 ~ 17时20分]"
+        },
+        {
+          "title": "海警给台湾打了个中国结",
+          "url": "https://www.toutiao.com/trending/7588381732446015012/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            7,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 19时11分]"
         },
         {
           "title": "日本千叶县发生多车连环相撞事故，多人被紧急送医",
@@ -400,6 +439,19 @@
           "time_info": "[12时41分 ~ 15时18分]"
         },
         {
+          "title": "国台办：有关军事行动是为了遏制“台独”勾连外部势力祸乱台海",
+          "url": "https://www.cls.cn/detail/2242819",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时11分]"
+        },
+        {
           "title": "名嘴：解放军演习震慑美国人和赖清德",
           "url": "https://www.toutiao.com/trending/7589122571908714022/",
           "source": "今日头条",
@@ -438,17 +490,6 @@
           "time_info": "14时21分"
         },
         {
-          "title": "被美国制裁后，欧盟前官员抱怨：咱们太软弱，必须站起来",
-          "url": "https://news.ifeng.com/c/8pTqXnJ8tEC",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "美国总统特朗普和内塔尼亚胡将于美国东部时间周一下午1点会面。",
           "url": "https://wallstreetcn.com/livenews/3027760",
           "source": "华尔街见闻-快讯",
@@ -458,30 +499,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "海警给台湾打了个中国结",
-          "url": "https://www.toutiao.com/trending/7588381732446015012/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 18时14分]"
-        },
-        {
-          "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
-          "url": "https://v.ifeng.com/c/8pTtuF3FVUf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
         },
         {
           "title": "专家解读东部战区台海演习",
@@ -581,18 +598,6 @@
           "time_info": "[05时10分 ~ 06时11分]"
         },
         {
-          "title": "国台办：有关军事行动是为了遏制“台独”勾连外部势力祸乱台海",
-          "url": "https://www.cls.cn/detail/2242819",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时14分]"
-        },
-        {
           "title": "市场消息：以色列总理内塔尼亚胡抵达美国佛罗里达州。",
           "url": "https://flash.jin10.com/detail/20251229041548187800",
           "source": "金十数据",
@@ -630,6 +635,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 06时11分]"
+        },
+        {
+          "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
+          "url": "https://wallstreetcn.com/articles/3762224",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时11分]"
         },
         {
           "title": "总台现场直击丨台湾发生6.6级地震，台北地区震感强烈",
@@ -703,17 +720,6 @@
           "time_info": "[13时21分 ~ 14时21分]"
         },
         {
-          "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
-          "url": "https://wallstreetcn.com/articles/3762224",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时14分]"
-        },
-        {
           "title": "学者：美国需清楚中方反制释放的信号",
           "url": "https://www.toutiao.com/trending/7589043583027216434/",
           "source": "今日头条",
@@ -776,7 +782,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -809,7 +815,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -834,6 +840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "德国政府发言人：我们欢迎美国总统特朗普为在乌克兰实现持久而公正的和平所作的努力。",
+          "url": "https://flash.jin10.com/detail/20251229185121695800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -886,7 +903,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1073,9 +1090,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "美国上市金矿股盘前走低，科尔黛伦矿业(CDE.N)跌3.18%，金罗斯黄金(KGC.N)下跌2.3%，哈莫尼黄金(HMY.N)跌1.79%，金田(GFI.N)跌0.64%。",
+          "url": "https://flash.jin10.com/detail/20251229182049485800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "日本央行12月会议意见摘要：一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，实际利率目前处于全球最低水平，料仍将保持负值。 一位委员表示，很难提前确定中性利率。 一位委员表示，对中性利率的解读应该有一定的自由度。 一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，日本央行目前必须以每隔几个月加息一次的速度提高利率。 一位委员表示，及时调整利率将带来持续稳定的增长。 一位委员表示，日本经济正处于财政政策和货币政策可以互补的阶段。 一位委员表示，鉴于海外利率环境可能发生变化，日本央行在制定政策时必须灵活应对。",
@@ -1249,7 +1277,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1301,7 +1329,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
@@ -1333,11 +1361,12 @@
             13,
             20,
             25,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时14分]"
+          "appearance_count": 22,
+          "time_info": "[00时13分 ~ 19时11分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1397,6 +1426,19 @@
           "time_info": "[16时18分 ~ 17时20分]"
         },
         {
+          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
+          "url": "https://www.cls.cn/detail/2242491",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时11分]"
+        },
+        {
           "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
           "url": "https://wallstreetcn.com/livenews/3027884",
           "source": "华尔街见闻-快讯",
@@ -1409,16 +1451,15 @@
           "time_info": "[12时41分 ~ 13时21分]"
         },
         {
-          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
-          "url": "https://www.cls.cn/detail/2242491",
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "“AI教父”警告2026年将迎失业潮",
@@ -1427,7 +1468,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
