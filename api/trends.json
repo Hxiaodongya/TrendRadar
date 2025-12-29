@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T13:21:37.818745+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-12-29T14:21:09.148225+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 82,
+      "match_count": 88,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -27,11 +27,24 @@
             2,
             3,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 14时21分]"
+        },
+        {
+          "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
+          "url": "https://www.zhihu.com/question/1988877751852222137",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 14时21分]"
         },
         {
           "title": "美国社会现状,传奇调查员早看透",
@@ -40,11 +53,12 @@
           "ranks": [
             4,
             10,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时16分 ~ 13时21分]"
+          "appearance_count": 14,
+          "time_info": "[02时16分 ~ 14时21分]"
         },
         {
           "title": "台湾地震厦门震感强烈",
@@ -101,16 +115,15 @@
           "time_info": "[00时13分 ~ 13时21分]"
         },
         {
-          "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
-          "url": "https://www.zhihu.com/question/1988877751852222137",
-          "source": "知乎",
+          "title": "外交部发文：美国应认清对台军售的严重后果",
+          "url": "https://news.ifeng.com/c/8pTVOS3uKwd",
+          "source": "凤凰网",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时21分]"
+          "time_info": "[11时03分 ~ 14时21分]"
         },
         {
           "title": "台湾深夜6.6级地震,沿海都在晃",
@@ -213,17 +226,6 @@
           "time_info": "[00时13分 ~ 05时10分]"
         },
         {
-          "title": "外交部发文：美国应认清对台军售的严重后果",
-          "url": "https://news.ifeng.com/c/8pTVOS3uKwd",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 13时21分]"
-        },
-        {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
           "url": "https://flash.jin10.com/detail/20251228224005794800",
           "source": "金十数据",
@@ -235,6 +237,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时10分]"
+        },
+        {
+          "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
+          "url": "https://www.zhihu.com/question/1988580073356354187",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 14时21分]"
+        },
+        {
+          "title": "日媒炒作“台湾有事，美军放弃撤离冲绳”",
+          "url": "https://news.ifeng.com/c/8pT82xvZEL8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 14时21分]"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
@@ -291,17 +317,6 @@
           "time_info": "[03时09分 ~ 07时11分]"
         },
         {
-          "title": "日本20年期国债收益率上升3个基点至2.99%。",
-          "url": "https://flash.jin10.com/detail/20251229130223177800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "俄罗斯外长拉夫罗夫：俄罗斯敦促日本认真考虑其军事化进程。",
           "url": "https://flash.jin10.com/detail/20251228211654895800",
           "source": "金十数据",
@@ -315,15 +330,26 @@
           "time_info": "[00时13分 ~ 05时10分]"
         },
         {
-          "title": "台湾加权指数涨幅扩大至1%。",
-          "url": "https://flash.jin10.com/detail/20251229130035655800",
+          "title": "日本40年期国债收益率上升6个基点至3.65%。",
+          "url": "https://flash.jin10.com/detail/20251229141043604800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "日本40年期国债收益率上升6个基点至3.65%。",
+          "url": "https://wallstreetcn.com/livenews/3027944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国总统特朗普和内塔尼亚胡将于美国东部时间周一下午1点会面。",
@@ -337,28 +363,17 @@
           "time_info": "08时58分"
         },
         {
-          "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/1988580073356354187",
-          "source": "知乎",
+          "title": "美国中产“斩杀线”是不是事实",
+          "url": "https://www.toutiao.com/trending/7589108875098328627/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            7
+            4,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时21分]"
-        },
-        {
-          "title": "日媒炒作“台湾有事，美军放弃撤离冲绳”",
-          "url": "https://news.ifeng.com/c/8pT82xvZEL8",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 14时21分]"
         },
         {
           "title": "被美国实施签证禁令的前欧盟官员敦促欧盟反击",
@@ -373,6 +388,18 @@
           "time_info": "[05时10分 ~ 06时11分]"
         },
         {
+          "title": "日本20年期国债收益率上升3个基点至2.99%。",
+          "url": "https://flash.jin10.com/detail/20251229130223177800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时21分]"
+        },
+        {
           "title": "美国总统特朗普：工作组正在与俄罗斯和乌克兰合作，如果进展顺利，几周内就能结束；如果进展不顺利，可能根本就无法结束。谈判非常艰难。",
           "url": "https://flash.jin10.com/detail/20251229060657996800",
           "source": "金十数据",
@@ -385,6 +412,18 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
+          "title": "台湾加权指数涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20251229130035655800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时21分]"
+        },
+        {
           "title": "美国总统特朗普：我们将在几周内得知俄乌谈判的结果。",
           "url": "https://flash.jin10.com/detail/20251229060627301800",
           "source": "金十数据",
@@ -395,18 +434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "美国中产“斩杀线”是不是事实",
-          "url": "https://www.toutiao.com/trending/7589108875098328627/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 13时21分]"
         },
         {
           "title": "美国多地遭冬季风暴席卷 预计将影响超4000万人",
@@ -460,6 +487,18 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
+          "title": "名嘴：解放军演习震慑美国人和赖清德",
+          "url": "https://www.toutiao.com/trending/7589122571908714022/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时21分]"
+        },
+        {
           "title": "总台现场直击丨台湾发生6.6级地震，台北地区震感强烈",
           "url": "https://m.thepaper.cn/newsDetail_forward_32266982",
           "source": "澎湃新闻",
@@ -483,6 +522,29 @@
           "time_info": "[08时57分 ~ 08时58分]"
         },
         {
+          "title": "台退将：解放军一块演习区域针对日本",
+          "url": "https://www.toutiao.com/trending/7588407652862967871/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "日本20年期国债收益率上行3BP至2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3027901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时21分]"
+        },
+        {
           "title": "日本外国人口比例提前数年逼近10%",
           "url": "https://flash.jin10.com/detail/20251229114101895800",
           "source": "金十数据",
@@ -495,6 +557,29 @@
           "time_info": "[12时41分 ~ 13时21分]"
         },
         {
+          "title": "台湾证交所加权股价指数上涨1%至28,841.64点，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3027898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时21分]"
+        },
+        {
+          "title": "日本千叶县发生多车连环相撞事故，多人被紧急送医",
+          "url": "https://news.ifeng.com/c/8pTjfcjth3m",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "学者：美国需清楚中方反制释放的信号",
           "url": "https://www.toutiao.com/trending/7589043583027216434/",
           "source": "今日头条",
@@ -504,6 +589,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "专家解读东部战区台海演习",
+          "url": "https://www.toutiao.com/trending/7588570177353027078/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "美国将在特朗普任期内重返月球",
@@ -551,17 +647,6 @@
           "time_info": "06时11分"
         },
         {
-          "title": "日本20年期国债收益率上行3BP至2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3027901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "美国总统特朗普：顿巴斯问题仍未解决，但我认为最终会得到解决。",
           "url": "https://flash.jin10.com/detail/20251229060059959800",
           "source": "金十数据",
@@ -604,17 +689,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "台湾证交所加权股价指数上涨1%至28,841.64点，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3027898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -692,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨0.9%报28,810.89点。",
+          "url": "https://wallstreetcn.com/livenews/3027922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国总统特朗普：认为我们正越来越接近达成俄乌协议，与泽连斯基举行了精彩的会晤；已与欧洲领导人通话，进行了非常棒的交流。",
@@ -925,17 +1010,6 @@
           "time_info": "08时58分"
         },
         {
-          "title": "名嘴：解放军演习震慑美国人和赖清德",
-          "url": "https://www.toutiao.com/trending/7589122571908714022/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "日本央行会议意见摘要：一名委员表示，日本央行在一段时间内必须以每隔几个月加息一次左右的速度加息。",
           "url": "https://flash.jin10.com/detail/20251229075426845800",
           "source": "金十数据",
@@ -1010,11 +1084,12 @@
             10,
             11,
             23,
-            28
+            28,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 13时21分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 14时21分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1040,6 +1115,17 @@
           "time_info": "[08时57分 ~ 11时03分]"
         },
         {
+          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
+          "url": "https://wallstreetcn.com/articles/3762142",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时21分]"
+        },
+        {
           "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
           "url": "https://wallstreetcn.com/livenews/3027884",
           "source": "华尔街见闻-快讯",
@@ -1050,17 +1136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时21分]"
-        },
-        {
-          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
-          "url": "https://wallstreetcn.com/articles/3762142",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     }
