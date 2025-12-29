@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T16:19:01.891371+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2025-12-29T17:20:59.119218+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 94,
+      "match_count": 101,
       "titles": [
         {
           "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 16时19分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时20分]"
         },
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -42,11 +42,12 @@
             12,
             13,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 16时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 17时20分]"
         },
         {
           "title": "外交部发文：美国应认清对台军售的严重后果",
@@ -60,6 +61,18 @@
           "time_info": "[11时03分 ~ 15时18分]"
         },
         {
+          "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
+          "url": "https://www.zhihu.com/question/1988580073356354187",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 17时20分]"
+        },
+        {
           "title": "美国社会现状,传奇调查员早看透",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348487&amp;topic_name=%E7%BE%8E%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%8E%B0%E7%8A%B6%2C%E4%BC%A0%E5%A5%87%E8%B0%83%E6%9F%A5%E5%91%98%E6%97%A9%E7%9C%8B%E9%80%8F",
           "source": "贴吧",
@@ -69,23 +82,12 @@
             15,
             16,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时16分 ~ 16时19分]"
-        },
-        {
-          "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
-          "url": "https://www.zhihu.com/question/1988580073356354187",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 16时19分]"
+          "appearance_count": 18,
+          "time_info": "[02时16分 ~ 17时20分]"
         },
         {
           "title": "台湾地震厦门震感强烈",
@@ -254,6 +256,18 @@
           "time_info": "[08时57分 ~ 15时18分]"
         },
         {
+          "title": "海警给台湾打了个中国结",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
           "url": "https://flash.jin10.com/detail/20251228224005794800",
           "source": "金十数据",
@@ -268,14 +282,15 @@
         },
         {
           "title": "海警给台湾打了个中国结",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93",
-          "source": "百度热搜",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时20分]"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
@@ -305,26 +320,40 @@
           "time_info": "[03时09分 ~ 07时11分]"
         },
         {
-          "title": "海警给台湾打了个中国结",
-          "url": "https://www.toutiao.com/trending/7588381732446015012/",
-          "source": "今日头条",
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
           "ranks": [
-            5
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时20分]"
         },
         {
-          "title": "海警给台湾打了个中国结",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%AD%A6%E7%BB%99%E5%8F%B0%E6%B9%BE%E6%89%93%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E7%BB%93%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "台退将：解放军一块演习区域针对日本",
+          "url": "https://www.toutiao.com/trending/7588407652862967871/",
+          "source": "今日头条",
           "ranks": [
-            5
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 17时20分]"
+        },
+        {
+          "title": "日本千叶县发生多车连环相撞事故，多人被紧急送医",
+          "url": "https://news.ifeng.com/c/8pTjfcjth3m",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 17时20分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
@@ -417,39 +446,16 @@
           "time_info": "08时58分"
         },
         {
-          "title": "台退将：解放军一块演习区域针对日本",
-          "url": "https://www.toutiao.com/trending/7588407652862967871/",
+          "title": "海警给台湾打了个中国结",
+          "url": "https://www.toutiao.com/trending/7588381732446015012/",
           "source": "今日头条",
           "ranks": [
+            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 16时19分]"
-        },
-        {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时19分]"
-        },
-        {
-          "title": "日本千叶县发生多车连环相撞事故，多人被紧急送医",
-          "url": "https://news.ifeng.com/c/8pTjfcjth3m",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 16时19分]"
+          "time_info": "[16时18分 ~ 17时20分]"
         },
         {
           "title": "专家解读东部战区台海演习",
@@ -600,6 +606,18 @@
           "time_info": "[00时13分 ~ 02时16分]"
         },
         {
+          "title": "高市早苗上台后日本加速右倾",
+          "url": "https://www.toutiao.com/trending/7588923372114149395/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时20分]"
+        },
+        {
           "title": "美网友承认美国斩杀线是事实",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BD%91%E5%8F%8B%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BA%8B%E5%AE%9E&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -656,17 +674,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
-          "title": "高市早苗上台后日本加速右倾",
-          "url": "https://www.toutiao.com/trending/7588923372114149395/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "美国将在特朗普任期内重返月球",
@@ -758,6 +765,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "国台办：有关军事行动是为了遏制“台独”勾连外部势力祸乱台海",
+          "url": "https://www.cls.cn/detail/2242819",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
           "url": "https://flash.jin10.com/detail/20251229060056558800",
           "source": "金十数据",
@@ -767,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
+          "url": "https://wallstreetcn.com/articles/3762224",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国国务卿卢比奥将于美东时间周一上午10点与以色列总理内塔尼亚胡会面。",
@@ -890,6 +919,28 @@
           "time_info": "07时11分"
         },
         {
+          "title": "乌克兰总统泽连斯基：在美国总统特朗普和欧洲领导人就文件达成一致后，与俄罗斯举行会晤是可能的。",
+          "url": "https://flash.jin10.com/detail/20251229164800052800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "学者：中方一记琉球牌打乱日本节奏",
+          "url": "https://www.toutiao.com/trending/7589172678309711366/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "日本央行会议意见摘要：一名委员表示，将实际利率维持在偏离均衡水平，可能会导致资源配置扭曲，并影响可持续增长。",
           "url": "https://flash.jin10.com/detail/20251229080031994800",
           "source": "金十数据",
@@ -943,6 +994,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰希望在未来几天在美国和欧洲的国家安全顾问在乌克兰举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251229164608153800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "日本央行12月会议意见摘要：一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，实际利率目前处于全球最低水平，料仍将保持负值。 一位委员表示，很难提前确定中性利率。 一位委员表示，对中性利率的解读应该有一定的自由度。 一位委员表示，政策利率距离中性水平仍有相当大的差距。 一位委员表示，日本央行目前必须以每隔几个月加息一次的速度提高利率。 一位委员表示，及时调整利率将带来持续稳定的增长。 一位委员表示，日本经济正处于财政政策和货币政策可以互补的阶段。 一位委员表示，鉴于海外利率环境可能发生变化，日本央行在制定政策时必须灵活应对。",
@@ -1022,6 +1084,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "乌克兰总统泽连斯基：我告诉美国总统特朗普，我们非常愿意考虑30年、40年、50年（安全保障）的可能性。那将是特朗普做出的一个历史性决定。特朗普表示他会考虑一下。",
+          "url": "https://flash.jin10.com/detail/20251229164216864800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "美国总统特朗普：今天与泽连斯基和普京讨论了扎波罗热核电站问题，普京正与乌克兰合作，争取开放扎波罗热核电站，热核电站可以很快开放，目前状况良好。",
           "url": "https://flash.jin10.com/detail/20251229061056086800",
           "source": "金十数据",
@@ -1042,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国总统特朗普表示，他曾与俄罗斯总统普京讨论过一项20点计划。",
+          "url": "https://flash.jin10.com/detail/20251229164104471800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：俄乌问题工作组人员包括威特科夫、库什纳、凯恩和鲁比奥；赫格塞斯也应该加入工作组。",
@@ -1135,7 +1219,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
@@ -1165,11 +1249,12 @@
             28,
             22,
             13,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 16时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 17时20分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1218,6 +1303,17 @@
           "time_info": "[13时21分 ~ 14时21分]"
         },
         {
+          "title": "美媒开嘲：中国电网是AI的重要助力，而英国电网60年没升级了",
+          "url": "https://news.ifeng.com/c/8pTi30wjZbr",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 17时20分]"
+        },
+        {
           "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
           "url": "https://wallstreetcn.com/livenews/3027884",
           "source": "华尔街见闻-快讯",
@@ -1230,15 +1326,15 @@
           "time_info": "[12时41分 ~ 13时21分]"
         },
         {
-          "title": "美媒开嘲：中国电网是AI的重要助力，而英国电网60年没升级了",
-          "url": "https://news.ifeng.com/c/8pTi30wjZbr",
-          "source": "凤凰网",
+          "title": "涨价的风吹到PCB上游：龙头调涨CCL价格10% AI驱动行业进入上升周期",
+          "url": "https://www.cls.cn/detail/2242491",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     }
