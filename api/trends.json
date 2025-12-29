@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T05:11:06.023140+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-12-30T06:11:53.888053+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 94,
+      "match_count": 122,
       "titles": [
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "泽连斯基：希望美国提供最长50年的安全保障",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "尹正演日本侵略者：下班后觉得恶心",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
@@ -65,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
@@ -76,8 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -87,8 +87,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美国社会现状,传奇调查员早看透",
@@ -98,8 +98,22 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
+        },
+        {
+          "title": "空军飞行员目视宝岛台湾中央山脉",
+          "url": "https://www.baidu.com/s?wd=%E7%A9%BA%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E7%9B%AE%E8%A7%86%E5%AE%9D%E5%B2%9B%E5%8F%B0%E6%B9%BE%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%89",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30,
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -119,34 +133,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
         {
-          "title": "提醒：美国能源信息署（EIA）将于美东时间17:00（北京时间06:00）发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3028326",
-          "source": "华尔街见闻-快讯",
+          "title": "美国至12月19日当周EIA战略石油储备库存为2022年9月30日当周以来最高；EIA战略石油储备库存增幅录得2025年10月17日当周以来最大，为连续第22周录得增加。",
+          "url": "https://flash.jin10.com/detail/20251230060157791800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "空军飞行员目视宝岛台湾中央山脉",
-          "url": "https://www.baidu.com/s?wd=%E7%A9%BA%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%E7%9B%AE%E8%A7%86%E5%AE%9D%E5%B2%9B%E5%8F%B0%E6%B9%BE%E4%B8%AD%E5%A4%AE%E5%B1%B1%E8%84%89",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            30,
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "time_info": "06时11分"
         },
         {
           "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.994美元/百万英热。",
@@ -177,9 +177,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
+          "url": "https://flash.jin10.com/detail/20251230060127426800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA精炼厂设备利用率 94.6%，预期94.8%，前值94.8%。",
+          "url": "https://flash.jin10.com/detail/20251230060019831800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -188,9 +210,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA战略石油储备库存 80万桶，前值24.9万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060016072800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国总统特朗普：伊朗应当达成一份协议，他们想要那样做。 我听说，（遭受美国+以色列军事袭击之后）伊朗正在重建。 若果真那样，将（再次）袭击伊朗。",
@@ -204,15 +237,51 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
+          "url": "https://wallstreetcn.com/livenews/3028306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时11分]"
+        },
+        {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
           "url": "https://flash.jin10.com/detail/20251230045611670800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA新配方汽油库存 0.3万桶，前值0.4万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060004435800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长、“反美联储先锋”Bill Pulte：总统特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
+          "url": "https://wallstreetcn.com/livenews/3028340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周天然气库存减少1660亿立方英尺。",
@@ -227,19 +296,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 04时14分]"
-        },
-        {
-          "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
-          "url": "https://wallstreetcn.com/livenews/3028306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时11分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -266,6 +322,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时09分 ~ 05时11分]"
+        },
+        {
+          "title": "美国原油期货收涨超1.8%，纽约天然气涨超7.3%",
+          "url": "https://wallstreetcn.com/livenews/3028314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时11分]"
         },
         {
           "title": "美国总统特朗普：很快将启动加沙地带（战后）重建。",
@@ -306,16 +375,16 @@
           "time_info": "[01时11分 ~ 02时17分]"
         },
         {
-          "title": "美国原油期货收涨超1.8%，纽约天然气涨超7.3%",
-          "url": "https://wallstreetcn.com/livenews/3028314",
+          "title": "提醒：美国能源信息署（EIA）将于美东时间17:00（北京时间06:00）发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3028326",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时11分]"
+          "time_info": "[05时11分 ~ 06时11分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
@@ -468,6 +537,19 @@
           "time_info": "[03时09分 ~ 05时11分]"
         },
         {
+          "title": "美国圣路易斯联储研究：调查参与度下降或放大美国移民降幅",
+          "url": "https://wallstreetcn.com/livenews/3028307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时11分]"
+        },
+        {
           "title": "美国总统特朗普：但和委内瑞拉总统马杜罗的交谈没什么结果。",
           "url": "https://flash.jin10.com/detail/20251230023829953800",
           "source": "金十数据",
@@ -557,18 +639,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时14分]"
-        },
-        {
-          "title": "美国圣路易斯联储研究：调查参与度下降或放大美国移民降幅",
-          "url": "https://wallstreetcn.com/livenews/3028307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时11分]"
         },
         {
           "title": "美国至12月29日6个月国债竞拍-投标倍数 2.52，前值3.18。",
@@ -828,9 +898,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA精炼油库存 20.2万桶，预期44万桶，前值171.2万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060004317800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "以色列总理内塔尼亚胡：在午餐期间正式宣布，决定将以色列勋章授予美国总统特朗普。",
@@ -839,9 +920,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA汽油库存 286.2万桶，预期111.8万桶，前值480.8万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060004158800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们已经在中东实现了和平，我们想保持现状。",
@@ -850,9 +942,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA原油库存 40.5万桶，预期-243.2万桶，前值-127.4万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060004025800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普：沙特有伟大的领导人，该国与以色列关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3028335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "EIA天然气报告：截至12月19日当周，美国天然气库存总量为34130亿立方英尺，较此前一周减少1660亿立方英尺，较去年同期减少1290亿立方英尺，同比降幅3.6%，同时较5年均值低240亿立方英尺，降幅0.7%。",
@@ -872,9 +986,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA原油进口 60.9万桶，前值-71.9万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060003610800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗“可能”表现不好，但不确定。 将支持与伊朗的双边会谈。",
+          "url": "https://wallstreetcn.com/livenews/3028333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国12月达拉斯联储商业活动指数录得-10.9，为2025年6月以来新低。",
@@ -894,9 +1030,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美国至12月19日当周EIA成品油进口 -16.2万桶/日，前值42.7万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251230060003473800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国12月达拉斯联储制造业装船指数 -10.6，前值15.1。",
@@ -910,6 +1057,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国至12月19日当周EIA取暖油库存 -39.9万桶，前值26.7万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060003422800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国12月达拉斯联储制造业原材料支付价格指数 36，前值35.3。",
           "url": "https://flash.jin10.com/detail/20251229233208735800",
           "source": "金十数据",
@@ -919,6 +1077,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国至12月19日当周EIA俄克拉荷马州库欣原油库存 70.7万桶，前值-74.2万桶。",
+          "url": "https://flash.jin10.com/detail/20251230060003100800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国12月达拉斯联储制造业就业指数 -1.1，前值1.2。",
@@ -932,6 +1101,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国至12月19日当周EIA精炼油产量 10.7万桶/日，前值-22.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251230060002961800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国12月达拉斯联储制成品价格指数 8.2，前值10.8。",
           "url": "https://flash.jin10.com/detail/20251229233156884800",
           "source": "金十数据",
@@ -943,6 +1123,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国至12月19日当周EIA汽油产量 21.5万桶/日，前值3.3万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251230060002934800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国12月达拉斯联储新订单指数 -6.4，前值4.8。",
           "url": "https://flash.jin10.com/detail/20251229233146201800",
           "source": "金十数据",
@@ -952,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国至12月19日当周EIA投产原油量 -21.2万桶/日，前值12.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251230060002705800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "提醒：原定北京时间23:30披露的美国能源信息署（EIA）将发布政府版原油库存周报被推迟，本次报告已经因上周休市而延后发布。",
@@ -976,6 +1178,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "据俄新社：俄罗斯外长拉夫罗夫表示，我们正等待美国完成对普京关于延长战略武器协议提议的审议工作，不能操之过急。莫斯科已于9月向美国通报了其关于乌克兰安全保障的版本，该版本可能基于2021年的提案。",
+          "url": "https://flash.jin10.com/detail/20251230055828888800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国12月达拉斯联储商业活动指数 -10.9，预期-6，前值-10.4。",
           "url": "https://flash.jin10.com/detail/20251229233030217800",
           "source": "金十数据",
@@ -985,6 +1198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国至12月19日当周EIA原油库存将于五分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251230055507391800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与美国国务卿鲁比奥在佛罗里达举行了重要会晤。",
@@ -998,6 +1222,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国至12月19日当周外国央行持有美国国债 -153.4亿美元，前值-102.13亿美元。",
+          "url": "https://flash.jin10.com/detail/20251230054107490800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国12月达拉斯联储商业活动指数、美国至12月19日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20251229232000000800",
           "source": "金十数据",
@@ -1007,6 +1242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美国总统特朗普：考虑向土耳其出售F-35战斗机。",
+          "url": "https://flash.jin10.com/detail/20251230052443235800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国11月成屋签约销售创2023年年初以来新高",
@@ -1042,6 +1288,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国联邦住房金融局局长、“反美联储先锋”普尔特：特朗普总统说得对，杰罗姆·鲍威尔必须辞职。",
+          "url": "https://flash.jin10.com/detail/20251230052220933800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：当俄罗斯总统普京向美国总统特朗普提及针对俄罗斯总统府的无人机袭击时，特朗普感到震惊。",
           "url": "https://flash.jin10.com/detail/20251230001529676800",
           "source": "金十数据",
@@ -1075,6 +1332,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国总统特朗普：在某个时刻，沙特阿拉伯将签署亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20251230051343979800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "美国11月成屋签约销售指数同比 -0.3%，预期 0.1%，前值 -0.4%。",
           "url": "https://wallstreetcn.com/livenews/3028230",
           "source": "华尔街见闻-快讯",
@@ -1097,6 +1365,28 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国总统特朗普：亚伯拉罕协议将被扩大。",
+          "url": "https://flash.jin10.com/detail/20251230051237992800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的权力和威望已大大削弱，我们不能让他们再次壮大。",
+          "url": "https://flash.jin10.com/detail/20251230051234021800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡离开酒店前往海湖庄园会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251230021725324800",
           "source": "金十数据",
@@ -1106,6 +1396,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：愿意与伊朗展开对话。",
+          "url": "https://flash.jin10.com/detail/20251230050747641800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普：我们拭目以待黎巴嫩解除真主党武装的努力，真主党一直表现得很糟糕。伊朗的行为或许有些不当，但这尚未得到证实。",
+          "url": "https://flash.jin10.com/detail/20251230050729543800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国弗州新规：16岁以下人群每天只能用1小时社交媒体",
@@ -1133,8 +1445,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -1145,8 +1457,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -1157,11 +1469,12 @@
             13,
             10,
             9,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时11分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -1172,8 +1485,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时11分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -1187,8 +1500,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时11分]"
         },
         {
           "title": "“AI教父”拉响警报",
