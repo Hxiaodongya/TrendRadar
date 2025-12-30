@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T12:33:48.954844+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2025-12-30T13:16:44.280928+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 148,
+      "match_count": 153,
       "titles": [
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -56,8 +56,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 12时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 13时16分]"
         },
         {
           "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
@@ -93,8 +93,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 12时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 13时16分]"
         },
         {
           "title": "美国社会现状,传奇调查员早看透",
@@ -117,8 +117,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时16分]"
+        },
+        {
+          "title": "解放军围台演习,日本罕见沉默",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348537&amp;topic_name=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%8F%B0%E6%BC%94%E4%B9%A0%2C%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%81%E6%B2%89%E9%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时33分]"
+          "time_info": "[10时51分 ~ 13时16分]"
         },
         {
           "title": "空军飞行员目视宝岛台湾中央山脉",
@@ -136,31 +149,6 @@
           "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "解放军围台演习,日本罕见沉默",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348537&amp;topic_name=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%8F%B0%E6%BC%94%E4%B9%A0%2C%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%81%E6%B2%89%E9%BB%98",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时33分]"
-        },
-        {
-          "title": "日本首都圈确认发生高致病性禽流感疫情",
-          "url": "https://wallstreetcn.com/livenews/3028518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
-        },
-        {
           "title": "外媒聚焦解放军封岛军演：矛头直指美国",
           "url": "https://news.ifeng.com/c/8pVD9LVWGFp",
           "source": "凤凰网",
@@ -168,8 +156,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
+        },
+        {
+          "title": "日本首都圈确认发生高致病性禽流感疫情",
+          "url": "https://wallstreetcn.com/livenews/3028518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "白宫发言人：美国总统特朗普已就乌克兰问题与俄罗斯总统普京进行了积极的通话。",
@@ -192,28 +193,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "美国白宫：临时延长美国-以色列农产品贸易协议中部分条款有效期。",
-          "url": "https://wallstreetcn.com/livenews/3028531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "军事专家解读台海军演",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%9B%E4%BA%8B%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E5%8F%B0%E6%B5%B7%E5%86%9B%E6%BC%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.994美元/百万英热。",
@@ -260,15 +239,15 @@
           "time_info": "08时53分"
         },
         {
-          "title": "台湾多条航线大面积取消",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A4%9A%E6%9D%A1%E8%88%AA%E7%BA%BF%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "美国白宫：临时延长美以农产品贸易协议中的某些条款。",
+          "url": "https://flash.jin10.com/detail/20251230122545430800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时16分"
         },
         {
           "title": "福建海警舰艇与台海巡船只对峙航行",
@@ -329,6 +308,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美国白宫：将执行美以农产品贸易协议及其他相关目标。",
+          "url": "https://flash.jin10.com/detail/20251230122311784800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周天然气库存减少1660亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3028278",
           "source": "华尔街见闻-快讯",
@@ -380,6 +370,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 06时11分]"
+        },
+        {
+          "title": "美国首次对委境内目标发动袭击",
+          "url": "https://www.toutiao.com/trending/7589211170843168292/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：很快将启动加沙地带（战后）重建。",
@@ -444,6 +447,31 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "美国白宫：临时延长美国-以色列农产品贸易协议中部分条款有效期。",
+          "url": "https://wallstreetcn.com/livenews/3028531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时16分]"
+        },
+        {
+          "title": "郭正亮：台湾这快要有事了日本都没来",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E5%8F%B0%E6%B9%BE%E8%BF%99%E5%BF%AB%E8%A6%81%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 13时16分]"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
           "url": "https://flash.jin10.com/detail/20251230024226042800",
           "source": "金十数据",
@@ -455,6 +483,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时09分 ~ 05时11分]"
+        },
+        {
+          "title": "军事专家解读台海军演",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%9B%E4%BA%8B%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E5%8F%B0%E6%B5%B7%E5%86%9B%E6%BC%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时16分]"
         },
         {
           "title": "惠誉：尽管面临阻力，美国财产和意外保险承保盈利能力依然强劲。",
@@ -491,6 +531,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时11分]"
+        },
+        {
+          "title": "台湾多条航线大面积取消",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A4%9A%E6%9D%A1%E8%88%AA%E7%BA%BF%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时16分]"
         },
         {
           "title": "美国总统特朗普：我对从普京处获悉的消息感到非常愤怒。但乌克兰方面的袭击事件可能并未发生。",
@@ -600,6 +652,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "此次演习是最靠近台湾岛的一次",
+          "url": "https://www.toutiao.com/trending/7589211524623896106/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            21,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 13时16分]"
         },
         {
           "title": "福建海警喊话：台湾回归是历史大势",
@@ -758,19 +824,6 @@
           "time_info": "[02时17分 ~ 04时14分]"
         },
         {
-          "title": "此次演习是最靠近台湾岛的一次",
-          "url": "https://www.toutiao.com/trending/7589211524623896106/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时33分]"
-        },
-        {
           "title": "美国至12月19日当周EIA精炼油库存 20.2万桶，预期44万桶，前值171.2万桶。",
           "url": "https://flash.jin10.com/detail/20251230060004317800",
           "source": "金十数据",
@@ -877,18 +930,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "美国首次对委境内目标发动袭击",
-          "url": "https://www.toutiao.com/trending/7589211170843168292/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
         },
         {
           "title": "美国至12月29日3个月国债竞拍-投标倍数 2.66，前值2.86。",
@@ -1083,18 +1124,6 @@
           "time_info": "[01时11分 ~ 02时17分]"
         },
         {
-          "title": "郭正亮：台湾这快要有事了日本都没来",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E5%8F%B0%E6%B9%BE%E8%BF%99%E5%BF%AB%E8%A6%81%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
-        },
-        {
           "title": "美国总统特朗普：我们将与以色列总理内塔尼亚胡讨论土耳其问题。",
           "url": "https://flash.jin10.com/detail/20251230023051799800",
           "source": "金十数据",
@@ -1233,6 +1262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "台名嘴：解放军军演日本有胆就过来",
+          "url": "https://www.toutiao.com/trending/7589092466918555690/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们已经在中东实现了和平，我们想保持现状。",
@@ -1466,6 +1506,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "台湾多条航线大面积取消",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%A4%9A%E6%9D%A1%E8%88%AA%E7%BA%BF%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：与美国国务卿鲁比奥在佛罗里达举行了重要会晤。",
           "url": "https://flash.jin10.com/detail/20251229232947886800",
           "source": "金十数据",
@@ -1631,6 +1682,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "大V：解放军年末台海上强度信号清晰",
+          "url": "https://www.toutiao.com/trending/7589463128044211738/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告诉美国总统特朗普，乌克兰对俄罗斯总统府发动了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20251230001452299800",
           "source": "金十数据",
@@ -1755,7 +1817,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -1845,6 +1907,19 @@
           "time_info": "[00时14分 ~ 05时11分]"
         },
         {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 13时16分]"
+        },
+        {
           "title": "东部战区发布的AI视频意味深长",
           "url": "https://www.toutiao.com/trending/7589159411391217700/",
           "source": "今日头条",
@@ -1867,6 +1942,32 @@
           "time_info": "07时11分"
         },
         {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 13时16分]"
+        },
+        {
+          "title": "泰柬与AI如何影响全球经济",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            27,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 13时16分]"
+        },
+        {
           "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
           "url": "https://wallstreetcn.com/articles/3762279",
           "source": "华尔街见闻",
@@ -1880,16 +1981,16 @@
           "time_info": "[10时51分 ~ 12时33分]"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            8
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时33分]"
+          "time_info": "[11时57分 ~ 13时16分]"
         },
         {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
@@ -1905,31 +2006,6 @@
           "time_info": "[10时51分 ~ 12时33分]"
         },
         {
-          "title": "泰柬与AI如何影响全球经济",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时33分]"
-        },
-        {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时33分]"
-        },
-        {
           "title": "马斯克与内塔尼亚胡讨论AI和自动驾驶合作，将于明年3月访问以色列",
           "url": "https://wallstreetcn.com/livenews/3028400",
           "source": "华尔街见闻-快讯",
@@ -1939,6 +2015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
@@ -1961,17 +2048,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         }
       ]
     }
