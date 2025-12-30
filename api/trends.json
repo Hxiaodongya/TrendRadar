@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T18:13:45.298888+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2025-12-30T19:12:02.774946+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 182,
+      "match_count": 184,
       "titles": [
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -54,11 +54,12 @@
             5,
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 18时13分]"
+          "appearance_count": 13,
+          "time_info": "[10时51分 ~ 19时12分]"
         },
         {
           "title": "俄罗斯军官：盼中方尽快解决台湾问题",
@@ -86,6 +87,21 @@
           "time_info": "[11时57分 ~ 17时16分]"
         },
         {
+          "title": "台湾",
+          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            4,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时18分 ~ 19时12分]"
+        },
+        {
           "title": "美国首次对委境内目标发动袭击",
           "url": "https://www.toutiao.com/trending/7589211170843168292/",
           "source": "今日头条",
@@ -98,22 +114,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[11时57分 ~ 19时12分]"
         },
         {
-          "title": "台湾",
-          "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "大陆学者：高市早苗谬论冲击两岸安全结构，破坏台海和平稳定",
+          "url": "https://news.ifeng.com/c/8pVV1NQK7Y6",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            1,
-            4,
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 18时13分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 19时12分]"
         },
         {
           "title": "尹正演日本侵略者：下班后觉得恶心",
@@ -130,6 +143,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时14分 ~ 13时16分]"
+        },
+        {
+          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            17,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时18分 ~ 19时12分]"
         },
         {
           "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
@@ -164,11 +191,12 @@
             21,
             28,
             27,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时51分 ~ 18时13分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 19时12分]"
         },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -211,28 +239,16 @@
           "time_info": "[12时33分 ~ 17时16分]"
         },
         {
-          "title": "大陆学者：高市早苗谬论冲击两岸安全结构，破坏台海和平稳定",
-          "url": "https://news.ifeng.com/c/8pVV1NQK7Y6",
-          "source": "凤凰网",
+          "title": "年终特稿｜枪支还是黄油：当德国开始进入“战争准备”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32268033",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 18时13分]"
-        },
-        {
-          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 18时13分]"
+          "appearance_count": 9,
+          "time_info": "[14时18分 ~ 19时12分]"
         },
         {
           "title": "空军飞行员目视宝岛台湾中央山脉",
@@ -268,34 +284,24 @@
           "url": "https://www.douyin.com/hot/2351903",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时13分]"
-        },
-        {
-          "title": "年终特稿｜枪支还是黄油：当德国开始进入“战争准备”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32268033",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时12分]"
         },
         {
           "title": "美国底层看病难,止痛药当饭吃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348562&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%BA%95%E5%B1%82%E7%9C%8B%E7%97%85%E9%9A%BE%2C%E6%AD%A2%E7%97%9B%E8%8D%AF%E5%BD%93%E9%A5%AD%E5%90%83",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时12分]"
         },
         {
           "title": "日本首都圈确认发生高致病性禽流感疫情",
@@ -404,6 +410,19 @@
           "time_info": "08时53分"
         },
         {
+          "title": "蒋万安：希望台湾海峡有和平与繁荣",
+          "url": "https://www.toutiao.com/trending/7588755780124311558/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时12分]"
+        },
+        {
           "title": "福建海警舰艇与台海巡船只对峙航行",
           "url": "https://wallstreetcn.com/livenews/3028403",
           "source": "华尔街见闻-快讯",
@@ -413,17 +432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "日本财政部：11月27日至12月26日，日本货币干预金额为0日元。",
-          "url": "https://wallstreetcn.com/livenews/3028707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -650,18 +658,6 @@
           "time_info": "[03时09分 ~ 05时11分]"
         },
         {
-          "title": "蒋万安：希望台湾海峡有和平与繁荣",
-          "url": "https://www.toutiao.com/trending/7588755780124311558/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时13分]"
-        },
-        {
           "title": "惠誉：尽管面临阻力，美国财产和意外保险承保盈利能力依然强劲。",
           "url": "https://flash.jin10.com/detail/20251230010118665800",
           "source": "金十数据",
@@ -757,6 +753,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时19分]"
+        },
+        {
+          "title": "日本财政部：11月27日至12月26日，日本货币干预金额为0日元。",
+          "url": "https://wallstreetcn.com/livenews/3028707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 19时12分]"
         },
         {
           "title": "以色列总理内塔尼亚胡会见了美国国防部长赫格塞思和美军参谋长联席会议主席凯恩。",
@@ -881,6 +889,18 @@
           "time_info": "[02时17分 ~ 05时11分]"
         },
         {
+          "title": "美国是否有应聘需要居住地址的潜规则？如果有为什么不改变？",
+          "url": "https://www.zhihu.com/question/1987777997483292288",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
           "url": "https://flash.jin10.com/detail/20251230024049423800",
           "source": "金十数据",
@@ -983,6 +1003,17 @@
           "time_info": "[03时09分 ~ 05时11分]"
         },
         {
+          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
+          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
+        },
+        {
           "title": "美国总统特朗普：我觉得，要是当初选错了总理的话，如今的以色列恐怕就不会存在了。我认为与内塔尼亚胡的关系已经达到了最佳状态。",
           "url": "https://flash.jin10.com/detail/20251230023701512800",
           "source": "金十数据",
@@ -1020,6 +1051,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时14分]"
+        },
+        {
+          "title": "台湾青年被大陆跑鞋科技惊艳",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E8%A2%AB%E5%A4%A7%E9%99%86%E8%B7%91%E9%9E%8B%E7%A7%91%E6%8A%80%E6%83%8A%E8%89%B3%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
         },
         {
           "title": "大V：解放军年末台海上强度信号清晰",
@@ -1497,6 +1540,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "美国地质勘探局：美国阿拉斯加州亚库塔特以北90公里处发生5.0级地震。",
+          "url": "https://flash.jin10.com/detail/20251230182023620800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：在午餐期间正式宣布，决定将以色列勋章授予美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251230045508229800",
           "source": "金十数据",
@@ -1525,7 +1579,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
@@ -1539,17 +1593,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "美国是否有应聘需要居住地址的潜规则？如果有为什么不改变？",
-          "url": "https://www.zhihu.com/question/1987777997483292288",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "EIA天然气报告：截至12月19日当周，美国天然气库存总量为34130亿立方英尺，较此前一周减少1660亿立方英尺，较去年同期减少1290亿立方英尺，同比降幅3.6%，同时较5年均值低240亿立方英尺，降幅0.7%。",
@@ -1583,17 +1626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
-          "url": "https://news.ifeng.com/c/8pVXtDMdtdZ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "美国12月达拉斯联储商业活动指数录得-10.9，为2025年6月以来新低。",
@@ -1671,6 +1703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "日本财政部：11月27日至12月26日，日本货币干预金额为0日元。",
+          "url": "https://flash.jin10.com/detail/20251230180014441800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国12月达拉斯联储制造业原材料支付价格指数 36，前值35.3。",
@@ -1902,17 +1945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "台湾青年被大陆跑鞋科技惊艳",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E8%A2%AB%E5%A4%A7%E9%99%86%E8%B7%91%E9%9E%8B%E7%A7%91%E6%8A%80%E6%83%8A%E8%89%B3%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "美国南方司令部：12月29日，美军在国际水域打击了一艘船只，两名贩毒恐怖分子被击毙。",
@@ -2174,6 +2206,20 @@
       "match_count": 25,
       "titles": [
         {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时16分 ~ 19时12分]"
+        },
+        {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
@@ -2195,11 +2241,29 @@
             4,
             9,
             5,
-            7
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时51分 ~ 19时12分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            4,
+            12,
+            11,
+            9,
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[10时51分 ~ 18时13分]"
+          "time_info": "[11时57分 ~ 19时12分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -2213,20 +2277,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时14分 ~ 10时51分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 18时13分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -2261,20 +2311,19 @@
           "time_info": "[01时11分 ~ 10时51分]"
         },
         {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
           "ranks": [
-            30,
-            4,
-            12,
+            8,
+            10,
             11,
-            9,
-            8
+            13,
+            15
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时57分 ~ 18时13分]"
+          "time_info": "[14时18分 ~ 19时12分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -2307,18 +2356,17 @@
           "time_info": "[11时57分 ~ 16时17分]"
         },
         {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
           "ranks": [
             8,
-            10,
-            11,
-            13
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时12分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -2333,17 +2381,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时11分]"
-        },
-        {
-          "title": "重庆：到2027年全市新增从事软件开发和“AI+”应用的核心软信人才2万人",
-          "url": "https://wallstreetcn.com/livenews/3028701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
         },
         {
           "title": "东部战区发布的AI视频意味深长",
@@ -2368,16 +2405,16 @@
           "time_info": "07时11分"
         },
         {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
+          "title": "重庆：到2027年全市新增从事软件开发和“AI+”应用的核心软信人才2万人",
+          "url": "https://wallstreetcn.com/livenews/3028701",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            5
+            4,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时13分]"
+          "time_info": "[18时13分 ~ 19时12分]"
         },
         {
           "title": "泰柬与AI如何影响全球经济",
@@ -2430,6 +2467,17 @@
           "time_info": "[16时16分 ~ 17时16分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
+        },
+        {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
           "url": "https://www.zhihu.com/question/1987934900884637667",
           "source": "知乎",
@@ -2465,24 +2513,13 @@
           "time_info": "07时11分"
         },
         {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
           "title": "独居女生深夜肠胃炎靠AI自救脱险",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E6%B7%B1%E5%A4%9C%E8%82%A0%E8%83%83%E7%82%8E%E9%9D%A0AI%E8%87%AA%E6%95%91%E8%84%B1%E9%99%A9%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
         },
