@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T07:11:44.624578+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-12-30T08:53:23.526476+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 124,
+      "match_count": 135,
       "titles": [
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -25,11 +25,12 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "泽连斯基：希望美国提供最长50年的安全保障",
@@ -50,11 +51,12 @@
             13,
             8,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "东部战区位台湾海峡开展「正义使命 -2025」演习，重点演练夺取综合制权，这次行动有何特点？",
@@ -62,11 +64,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "美联储新主席5月上任“利好出尽”？野村：明年7-11月的美国市场“需要特别警惕”",
@@ -87,8 +90,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "美国社会现状,传奇调查员早看透",
@@ -98,8 +101,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "空军飞行员目视宝岛台湾中央山脉",
@@ -170,6 +173,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "福建海警舰艇与台海巡船只对峙航行",
+          "url": "https://flash.jin10.com/detail/20251230083046372800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "福建海警舰艇与台海巡船只对峙航行",
+          "url": "https://wallstreetcn.com/livenews/3028403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "俄罗斯军官：盼中方尽快解决台湾问题",
+          "url": "https://news.ifeng.com/c/8pUzW8UgxnC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -1065,6 +1101,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布欧洲多国、美国12月PMI终值，国内成品油将开启新一轮调价窗口。",
+          "url": "https://flash.jin10.com/detail/20251230081105054800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国总统特朗普：（谈与以色列总理内塔尼亚胡的会晤）我们已经在中东实现了和平，我们想保持现状。",
           "url": "https://flash.jin10.com/detail/20251230045346853800",
           "source": "金十数据",
@@ -1096,6 +1143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "业内消息人士表示，哈萨克斯坦12月原油产量下降约6%，主要因美国雪佛龙公司主导的Tengiz油田产量下滑，此前乌克兰无人机袭击损坏了俄罗斯黑海出口码头。",
+          "url": "https://wallstreetcn.com/livenews/3028394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国12月达拉斯联储商业活动指数录得-10.9，为2025年6月以来新低。",
@@ -1159,7 +1217,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1219,6 +1277,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "日本计划明年大幅提高“离境税”",
+          "url": "https://wallstreetcn.com/livenews/3028385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国12月达拉斯联储商业活动指数 -10.9，预期-6，前值-10.4。",
           "url": "https://flash.jin10.com/detail/20251229233030217800",
           "source": "金十数据",
@@ -1247,7 +1316,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1263,6 +1332,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "古巴外长：美国正在加大对古“经济窒息政策”",
+          "url": "https://wallstreetcn.com/livenews/3028382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国至12月19日当周外国央行持有美国国债 -153.4亿美元，前值-102.13亿美元。",
           "url": "https://flash.jin10.com/detail/20251230054107490800",
           "source": "金十数据",
@@ -1272,6 +1352,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "美国在混乱与撕裂中走向治理失序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32276071",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美国南方司令部：12月29日，美军在国际水域打击了一艘船只，两名贩毒恐怖分子被击毙。",
+          "url": "https://flash.jin10.com/detail/20251230071132991800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国12月达拉斯联储商业活动指数、美国至12月19日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
@@ -1294,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与美国总统特朗普的会晤富有成效。",
+          "url": "https://flash.jin10.com/detail/20251230070522588800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "美国11月成屋签约销售创2023年年初以来新高",
@@ -1417,6 +1530,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "美国南方司令部：美军在国际水域打击了一艘船只。",
+          "url": "https://wallstreetcn.com/livenews/3028374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国总统特朗普：伊朗的权力和威望已大大削弱，我们不能让他们再次壮大。",
           "url": "https://flash.jin10.com/detail/20251230051234021800",
           "source": "金十数据",
@@ -1475,7 +1599,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -1498,8 +1622,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -1512,11 +1636,12 @@
             9,
             22,
             26,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时53分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -1527,8 +1652,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 08时53分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -1539,11 +1664,12 @@
             30,
             25,
             23,
-            29
+            29,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 08时53分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -1560,15 +1686,37 @@
           "time_info": "[00时14分 ~ 05时11分]"
         },
         {
+          "title": "东部战区发布的AI视频意味深长",
+          "url": "https://www.toutiao.com/trending/7589159411391217700/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "Meta收购Manus，从而加速AI创新。",
           "url": "https://wallstreetcn.com/livenews/3028361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "马斯克与内塔尼亚胡讨论AI和自动驾驶合作，将于明年3月访问以色列",
+          "url": "https://wallstreetcn.com/livenews/3028400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
@@ -1577,7 +1725,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
