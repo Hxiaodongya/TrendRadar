@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T06:11:52.906804+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-12-31T07:11:32.491332+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "印度宣布经济已超日本",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "解放军演习在台湾岛内引发震动",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "美国首次对委境内目标发动袭击",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "美国底层看病难,止痛药当饭吃",
@@ -52,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "印度宣布：超日本成世界第四大经济体",
@@ -67,8 +67,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "印媒：印度已超日本成世界第四大经济体",
@@ -78,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
@@ -89,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "此次演习是最靠近台湾岛的一次",
@@ -103,8 +103,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "年终特稿｜枪支还是黄油：当德国开始进入“战争准备”",
@@ -115,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "解放军围台演习,日本罕见沉默",
@@ -126,8 +126,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "台湾多条航线大面积取消",
@@ -135,11 +135,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "王毅谈台湾问题",
@@ -153,8 +154,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 06时11分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时11分]"
         },
         {
           "title": "印度称已超日本成世界第四大经济体",
@@ -167,72 +168,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时11分]"
-        },
-        {
-          "title": "美国至12月26日当周API成品油进口 -44.1万桶/日，前值12.1万桶/日。",
-          "url": "https://flash.jin10.com/detail/20251231053926730800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国至12月26日当周API原油进口 -99.5万桶，前值36.1万桶。",
-          "url": "https://flash.jin10.com/detail/20251231053910284800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国至12月26日当周API取暖油库存 12万桶，前值36.9万桶。",
-          "url": "https://flash.jin10.com/detail/20251231053841427800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存增约175万桶，汽油库存激增约625万桶",
-          "url": "https://wallstreetcn.com/livenews/3028931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国至12月26日当周API库欣原油库存 84.5万桶，前值59.6万桶。",
-          "url": "https://flash.jin10.com/detail/20251231053834014800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国至12月26日当周API精炼油库存 97.7万桶，预期175万桶，前值68.5万桶。",
-          "url": "https://flash.jin10.com/detail/20251231053826214800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
         },
         {
           "title": "美国1月2日当周天然气钻井数 125，前值 127。",
@@ -303,6 +238,30 @@
           "time_info": "[04时13分 ~ 06时11分]"
         },
         {
+          "title": "美国至12月26日当周API成品油进口 -44.1万桶/日，前值12.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251231053926730800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "美国至12月26日当周API原油进口 -99.5万桶，前值36.1万桶。",
+          "url": "https://flash.jin10.com/detail/20251231053910284800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "印度称其GDP已超日本，跃居世界第四，有望三年内赶超德国",
           "url": "https://wallstreetcn.com/livenews/3028854",
           "source": "华尔街见闻-快讯",
@@ -328,6 +287,30 @@
           "time_info": "[02时17分 ~ 03时11分]"
         },
         {
+          "title": "美国至12月26日当周API取暖油库存 12万桶，前值36.9万桶。",
+          "url": "https://flash.jin10.com/detail/20251231053841427800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存增约175万桶，汽油库存激增约625万桶",
+          "url": "https://wallstreetcn.com/livenews/3028931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "美国至1月2日当周石油钻井总数 412口，前值409口。",
           "url": "https://flash.jin10.com/detail/20251231020139989800",
           "source": "金十数据",
@@ -338,6 +321,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时11分]"
+        },
+        {
+          "title": "美国至12月26日当周API库欣原油库存 84.5万桶，前值59.6万桶。",
+          "url": "https://flash.jin10.com/detail/20251231053834014800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "美国至1月2日当周总钻井总数 546口，前值545口。",
@@ -352,6 +347,18 @@
           "time_info": "[02时17分 ~ 03时11分]"
         },
         {
+          "title": "美国至12月26日当周API精炼油库存 97.7万桶，预期175万桶，前值68.5万桶。",
+          "url": "https://flash.jin10.com/detail/20251231053826214800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.575%，投标倍数2.96。",
           "url": "https://wallstreetcn.com/livenews/3028863",
           "source": "华尔街见闻-快讯",
@@ -363,6 +370,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时11分]"
+        },
+        {
+          "title": "美国至12月26日当周API汽油库存 624.8万桶，预期155万桶，前值109万桶。",
+          "url": "https://flash.jin10.com/detail/20251231053815651800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -389,6 +408,30 @@
           "time_info": "[02时17分 ~ 03时11分]"
         },
         {
+          "title": "美国至12月26日当周API原油库存 174.7万桶，预期-230万桶，前值239.1万桶。",
+          "url": "https://flash.jin10.com/detail/20251231053803661800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3028927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：乌克兰、美国、欧洲领导人可能于明年1月会晤。",
           "url": "https://flash.jin10.com/detail/20251230235718575800",
           "source": "金十数据",
@@ -411,6 +454,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 02时17分]"
+        },
+        {
+          "title": "CSX Corporation收跌0.82%，该公司载有液态硫磺的列车在美国肯塔基州-田纳西州铁路附近脱轨。",
+          "url": "https://wallstreetcn.com/livenews/3028924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰谈判代表已与美国团队讨论了针对俄罗斯总统普京官邸的虚假袭击事件。",
@@ -449,6 +504,30 @@
           "time_info": "[01时14分 ~ 02时17分]"
         },
         {
+          "title": "美国至12月26日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251231052000000800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "美国一货运列车脱轨 一节装载熔融硫黄车厢起火",
+          "url": "https://flash.jin10.com/detail/20251231050934784800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：我们正与美国及其他盟友讨论派兵地面部队的事宜。",
           "url": "https://flash.jin10.com/detail/20251230234337147800",
           "source": "金十数据",
@@ -485,17 +564,6 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
-          "title": "美国至12月26日当周API汽油库存 624.8万桶，预期155万桶，前值109万桶。",
-          "url": "https://flash.jin10.com/detail/20251231053815651800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
           "title": "泽连斯基否认会谈破裂：与美国对话每天都在继续",
           "url": "https://flash.jin10.com/detail/20251231021540444800",
           "source": "金十数据",
@@ -507,59 +575,37 @@
           "time_info": "03时11分"
         },
         {
-          "title": "美国至12月26日当周API原油库存 174.7万桶，预期-230万桶，前值239.1万桶。",
-          "url": "https://flash.jin10.com/detail/20251231053803661800",
+          "title": "美国国务院：美国国务卿鲁比奥与阿联酋副总理兼外长通话，讨论也门局势。",
+          "url": "https://flash.jin10.com/detail/20251231055237171800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
         },
         {
-          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3028927",
-          "source": "华尔街见闻-快讯",
+          "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
+          "url": "https://flash.jin10.com/detail/20251231054352146800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
         },
         {
-          "title": "CSX Corporation收跌0.82%，该公司载有液态硫磺的列车在美国肯塔基州-田纳西州铁路附近脱轨。",
-          "url": "https://wallstreetcn.com/livenews/3028924",
-          "source": "华尔街见闻-快讯",
+          "title": "美国至12月26日当周API投产原油量 -5.8万桶/日，前值-5.7万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251231053935475800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国至12月26日当周API原油库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20251231052000000800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国一货运列车脱轨 一节装载熔融硫黄车厢起火",
-          "url": "https://flash.jin10.com/detail/20251231050934784800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -604,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "解放军台海演习第二天细节",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%B0%E6%B5%B7%E6%BC%94%E4%B9%A0%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%BB%86%E8%8A%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "美国更新与俄罗斯相关制裁名单中的指定对象。",
@@ -653,7 +710,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -664,8 +721,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -676,11 +733,12 @@
             11,
             10,
             23,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
@@ -691,8 +749,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -703,8 +761,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -714,19 +772,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时11分]"
         },
         {
-          "title": "亚马逊：将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3028930",
-          "source": "华尔街见闻-快讯",
+          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
+          "url": "https://www.zhihu.com/question/1988712550200808371",
+          "source": "知乎",
           "ranks": [
-            4
+            11,
+            18,
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时10分 ~ 07时11分]"
         },
         {
           "title": "Meta收购Manus AI的交易价值可能高达25亿美元",
@@ -740,19 +801,6 @@
           "time_info": "03时11分"
         },
         {
-          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
-          "url": "https://www.zhihu.com/question/1988712550200808371",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 06时11分]"
-        },
-        {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
           "url": "https://wallstreetcn.com/livenews/3028896",
           "source": "华尔街见闻-快讯",
@@ -764,6 +812,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时11分]"
+        },
+        {
+          "title": "亚马逊：将为美国政府机构AI系统投资高达500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3028930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -816,6 +876,30 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20251231052550783800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
+          "url": "https://wallstreetcn.com/livenews/3028923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
           "url": "https://flash.jin10.com/detail/20251231012608769800",
           "source": "金十数据",
@@ -840,26 +924,26 @@
           "time_info": "[02时17分 ~ 03时11分]"
         },
         {
-          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://flash.jin10.com/detail/20251231052550783800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
-          "url": "https://wallstreetcn.com/livenews/3028923",
+          "title": "产值冲刺8000亿元，全球市场占比近54%，新型显示从“链式生态” 迈向“AI+显示”新纪元",
+          "url": "https://wallstreetcn.com/livenews/3028945",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时11分"
+        },
+        {
+          "title": "AI公司MiniMax寻求通过香港IPO融资将近42亿港元",
+          "url": "https://wallstreetcn.com/livenews/3028938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "顶级投资人段永平看好AI医疗",
