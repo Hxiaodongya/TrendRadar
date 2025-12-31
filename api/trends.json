@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T13:24:54.551971+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2025-12-31T14:19:49.624483+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 81,
+      "match_count": 85,
       "titles": [
         {
           "title": "解放军演习在台湾岛内引发震动",
@@ -37,6 +37,18 @@
           "time_info": "[00时14分 ~ 11时57分]"
         },
         {
+          "title": "解放军无人机视角俯瞰台湾省",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32286100",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时54分 ~ 14时19分]"
+        },
+        {
           "title": "美国首次对委境内目标发动袭击",
           "url": "https://www.toutiao.com/trending/7589211170843168292/",
           "source": "今日头条",
@@ -48,18 +60,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 08时55分]"
-        },
-        {
-          "title": "解放军无人机视角俯瞰台湾省",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32286100",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 13时24分]"
         },
         {
           "title": "印度宣布：超日本成世界第四大经济体",
@@ -97,11 +97,12 @@
             7,
             9,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 13时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 14时19分]"
         },
         {
           "title": "这场向美国献媚的“政治强拆”，对中国发出了极为严肃的信号",
@@ -166,11 +167,12 @@
             14,
             16,
             21,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 13时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 14时19分]"
         },
         {
           "title": "台湾多条航线大面积取消",
@@ -186,6 +188,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时14分 ~ 11时57分]"
+        },
+        {
+          "title": "印度宣布经济已超日本，成为全球第四经济体，如何评价？数据可靠吗？",
+          "url": "https://www.zhihu.com/question/1989505265477904184",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 14时19分]"
         },
         {
           "title": "解放军无人机视角俯瞰台湾省",
@@ -215,19 +231,6 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "印度宣布经济已超日本，成为全球第四经济体，如何评价？数据可靠吗？",
-          "url": "https://www.zhihu.com/question/1989505265477904184",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 13时24分]"
-        },
-        {
           "title": "特斯拉罕见展开预期管理 印度称其GDP已超日本 | 环球市场",
           "url": "https://www.cls.cn/detail/2244770",
           "source": "财联社热门",
@@ -251,6 +254,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "Manus卖身美国人，蝴蝶效应几何？",
+          "url": "https://news.ifeng.com/c/8pVnTMTuR2V",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 14时19分]"
         },
         {
           "title": "解放军台海演习第二天细节",
@@ -331,16 +346,17 @@
           "time_info": "[02时17分 ~ 05时11分]"
         },
         {
-          "title": "Manus卖身美国人，蝴蝶效应几何？",
-          "url": "https://news.ifeng.com/c/8pVnTMTuR2V",
-          "source": "凤凰网",
+          "title": "美国男子家中试枪打死800米外邻居",
+          "url": "https://www.toutiao.com/trending/7588727022329741339/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            12
+            23,
+            21,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时50分 ~ 13时24分]"
+          "time_info": "[11时56分 ~ 14时19分]"
         },
         {
           "title": "美国国务卿鲁比奥与沙特外交大臣就也门持续紧张局势进行了通话。",
@@ -490,16 +506,16 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
-          "title": "美国男子家中试枪打死800米外邻居",
-          "url": "https://www.toutiao.com/trending/7588727022329741339/",
-          "source": "今日头条",
+          "title": "Manus叛逃美国,小扎砸钱收家奴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348589&amp;topic_name=Manus%E5%8F%9B%E9%80%83%E7%BE%8E%E5%9B%BD%2C%E5%B0%8F%E6%89%8E%E7%A0%B8%E9%92%B1%E6%94%B6%E5%AE%B6%E5%A5%B4",
+          "source": "贴吧",
           "ranks": [
-            23,
-            21
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时19分]"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.575%，投标倍数2.96。",
@@ -515,6 +531,18 @@
           "time_info": "[01时14分 ~ 03时11分]"
         },
         {
+          "title": "日本游客脱外衣欲下恒河被当地人怒斥",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E8%84%B1%E5%A4%96%E8%A1%A3%E6%AC%B2%E4%B8%8B%E6%81%92%E6%B2%B3%E8%A2%AB%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%80%92%E6%96%A5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时19分]"
+        },
+        {
           "title": "台湾证交所加权股价指数上涨1%至28,999.21点。",
           "url": "https://wallstreetcn.com/livenews/3029064",
           "source": "华尔街见闻-快讯",
@@ -525,17 +553,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时57分 ~ 13时24分]"
-        },
-        {
-          "title": "Manus叛逃美国,小扎砸钱收家奴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348589&amp;topic_name=Manus%E5%8F%9B%E9%80%83%E7%BE%8E%E5%9B%BD%2C%E5%B0%8F%E6%89%8E%E7%A0%B8%E9%92%B1%E6%94%B6%E5%AE%B6%E5%A5%B4",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时24分]"
         },
         {
           "title": "美国至12月26日当周API汽油库存 624.8万桶，预期155万桶，前值109万桶。",
@@ -693,17 +710,6 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "日本游客脱外衣欲下恒河被当地人怒斥",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E8%84%B1%E5%A4%96%E8%A1%A3%E6%AC%B2%E4%B8%8B%E6%81%92%E6%B2%B3%E8%A2%AB%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%80%92%E6%96%A5%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时24分]"
-        },
-        {
           "title": "美国至12月30日6周国债竞拍-得标利率 3.575%，前值3.58%。",
           "url": "https://flash.jin10.com/detail/20251231003259331800",
           "source": "金十数据",
@@ -820,6 +826,17 @@
           "time_info": "[04时13分 ~ 05时11分]"
         },
         {
+          "title": "台湾证交所加权股价指数收涨0.9%报28,963.60点。",
+          "url": "https://wallstreetcn.com/livenews/3029113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "泽连斯基否认会谈破裂：与美国对话每天都在继续",
           "url": "https://flash.jin10.com/detail/20251231021540444800",
           "source": "金十数据",
@@ -864,6 +881,28 @@
           "time_info": "07时11分"
         },
         {
+          "title": "俄称台湾问题已成一些国家遏华工具",
+          "url": "https://www.toutiao.com/trending/7588893599262539818/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "提醒：日本、韩国股市因假期休市。",
           "url": "https://wallstreetcn.com/livenews/3028974",
           "source": "华尔街见闻-快讯",
@@ -895,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "台当局声称洪都拉斯与台湾“复交”可以期待，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32290004",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -999,7 +1049,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -1027,8 +1077,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时10分 ~ 13时24分]"
+          "appearance_count": 14,
+          "time_info": "[03时10分 ~ 14时19分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -1055,8 +1105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 13时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 14时19分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -1078,11 +1128,25 @@
             16,
             18,
             23,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 13时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 14时19分]"
+        },
+        {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 14时19分]"
         },
         {
           "title": "国家广播电视总局部署开展“AI魔改”视频专项治理。",
@@ -1117,18 +1181,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时50分 ~ 12时32分]"
-        },
-        {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 13时24分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -1300,6 +1352,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "字节跳动旗下海外AI助手Dola日活破千万",
+          "url": "https://wallstreetcn.com/livenews/3029107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "产值冲刺8000亿元，全球市场占比近54%，新型显示从“链式生态” 迈向“AI+显示”新纪元",
           "url": "https://wallstreetcn.com/livenews/3028945",
           "source": "华尔街见闻-快讯",
@@ -1317,7 +1380,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1331,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "向低质AI内容说不",
+          "url": "https://www.toutiao.com/trending/7589793585539186694/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "软银：完成对OpenAI的225亿美元追加投资，共计持有OpenAI约11%的股份。",
@@ -1353,6 +1427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "UP主三个月打造AI男团",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%B8%89%E4%B8%AA%E6%9C%88%E6%89%93%E9%80%A0AI%E7%94%B7%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "新型显示从“链式生态”，迈向“AI+显示”新纪元",
