@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T21:28:42.959101+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-01-01T22:12:00.296133+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 139,
+      "match_count": 140,
       "titles": [
         {
           "title": "2025收官日美国股债双杀，贵金属盘中跳水，金银仍创1979年来最大年涨，原油年跌20%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时00分 ~ 21时28分]"
+          "appearance_count": 18,
+          "time_info": "[09时00分 ~ 22时12分]"
         },
         {
           "title": "金灿荣、蔡正元：解放军真要封锁台湾，哪需等到2027啊",
@@ -29,6 +29,31 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "默茨：德国不是“大国的棋子”，与美国关系发生变化",
+          "url": "https://news.ifeng.com/c/8pYqD7oZYXY",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时16分 ~ 22时12分]"
+        },
+        {
+          "title": "3成美国人看不起病“弃疗”，美机构：悲观情绪正攀升至历史高点",
+          "url": "https://news.ifeng.com/c/8pYoFg5HI4p",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时16分 ~ 22时12分]"
         },
         {
           "title": "台当局声称洪都拉斯与台湾“复交”可以期待，国台办答澎湃",
@@ -44,29 +69,17 @@
           "time_info": "[00时14分 ~ 11时08分]"
         },
         {
-          "title": "默茨：德国不是“大国的棋子”，与美国关系发生变化",
-          "url": "https://news.ifeng.com/c/8pYqD7oZYXY",
-          "source": "凤凰网",
+          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
+          "url": "https://wallstreetcn.com/articles/3762419",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             4,
-            2,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时16分 ~ 21时28分]"
-        },
-        {
-          "title": "3成美国人看不起病“弃疗”，美机构：悲观情绪正攀升至历史高点",
-          "url": "https://news.ifeng.com/c/8pYoFg5HI4p",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时16分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 22时12分]"
         },
         {
           "title": "跑路油轮突然画了面俄罗斯旗，追了十天的美国人懵了",
@@ -115,6 +128,23 @@
           "time_info": "[00时14分 ~ 16时16分]"
         },
         {
+          "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32293758",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            16,
+            17,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 22时12分]"
+        },
+        {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
           "url": "https://www.cls.cn/detail/2245979",
           "source": "财联社热门",
@@ -124,8 +154,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时07分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时07分 ~ 22时12分]"
         },
         {
           "title": "印度宣布经济已超日本，成为全球第四经济体，如何评价？数据可靠吗？",
@@ -153,27 +183,12 @@
             23,
             24,
             27,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时14分 ~ 21时28分]"
-        },
-        {
-          "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32293758",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            16,
-            17,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 21时28分]"
+          "appearance_count": 31,
+          "time_info": "[00时14分 ~ 22时12分]"
         },
         {
           "title": "中方回应日本商业领导人暂停访华",
@@ -243,17 +258,19 @@
           "time_info": "[12时40分 ~ 16时16分]"
         },
         {
-          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
-          "url": "https://wallstreetcn.com/articles/3762419",
-          "source": "华尔街见闻",
+          "title": "台湾民众街头怒吼：美国恶霸滚出台湾",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E8%A1%97%E5%A4%B4%E6%80%92%E5%90%BC%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%81%B6%E9%9C%B8%E6%BB%9A%E5%87%BA%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            4,
-            5
+            19,
+            14,
+            13,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 22时12分]"
         },
         {
           "title": "中国地震台网自动测定：01月01日14时46分在美国阿拉斯加州东南部附近（北纬60.60度，西经140.16度）发生6.0级左右地震，最终结果以正式速报为准。",
@@ -288,6 +305,18 @@
           "time_info": "[15时16分 ~ 20时21分]"
         },
         {
+          "title": "意大利外交部：美国下调意大利面关税。",
+          "url": "https://wallstreetcn.com/livenews/3029618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时12分]"
+        },
+        {
           "title": "美国宣布制裁4家涉委内瑞拉石油贸易的公司",
           "url": "https://news.ifeng.com/c/8pY8nvn8Rcm",
           "source": "凤凰网",
@@ -311,18 +340,18 @@
           "time_info": "[17时15分 ~ 21时28分]"
         },
         {
-          "title": "台湾民众街头怒吼：美国恶霸滚出台湾",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E8%A1%97%E5%A4%B4%E6%80%92%E5%90%BC%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%81%B6%E9%9C%B8%E6%BB%9A%E5%87%BA%E5%8F%B0%E6%B9%BE",
+          "title": "日本东京全球人口排名下跌",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%85%A8%E7%90%83%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%90%8D%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            19,
-            14,
-            13,
-            18
+            29,
+            24,
+            22,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时15分 ~ 21时28分]"
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "日本纸箱仙人",
@@ -353,17 +382,6 @@
           "time_info": "[15时16分 ~ 19时10分]"
         },
         {
-          "title": "意大利外交部：美国下调意大利面关税。",
-          "url": "https://wallstreetcn.com/livenews/3029618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "日本经团联会长：2026年春斗着重提升基本工资",
           "url": "https://flash.jin10.com/detail/20260101145131148800",
           "source": "金十数据",
@@ -377,17 +395,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时16分 ~ 19时10分]"
-        },
-        {
-          "title": "意大利外交部：美国下调意大利面关税。",
-          "url": "https://flash.jin10.com/detail/20260101205104016800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -457,6 +464,18 @@
           "time_info": "[01时10分 ~ 04时13分]"
         },
         {
+          "title": "美国男子武当山习武15年金发变黑发",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%AD%A6%E5%BD%93%E5%B1%B1%E4%B9%A0%E6%AD%A615%E5%B9%B4%E9%87%91%E5%8F%91%E5%8F%98%E9%BB%91%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "WTI原油期货转跌，美国能源部披露最新EIA原油库存周报。 虽然原油库存减少超190万桶，但成品油汽油库存激增超580万桶、精炼油库存激增约500万桶，意味着圣诞节当周需求低迷。",
           "url": "https://wallstreetcn.com/livenews/3029427",
           "source": "华尔街见闻-快讯",
@@ -512,6 +531,19 @@
           "time_info": "[16时16分 ~ 19时10分]"
         },
         {
+          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
+          "url": "https://wallstreetcn.com/livenews/3029613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 22时12分]"
+        },
+        {
           "title": "美国特使威特科夫：乌克兰国家安全秘书乌梅罗夫也参与了这次通话。",
           "url": "https://flash.jin10.com/detail/20260101014524052800",
           "source": "金十数据",
@@ -523,18 +555,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时13分]"
-        },
-        {
-          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
-          "url": "https://wallstreetcn.com/livenews/3029613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 21时28分]"
         },
         {
           "title": "美国投资公司协会（ICI）：截至12月30日当周，货币市场基金总资产增至7.73万亿美元。",
@@ -561,6 +581,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时13分 ~ 06时12分]"
+        },
+        {
+          "title": "伊朗总统：伊朗正处于一场全面战争中",
+          "url": "https://flash.jin10.com/detail/20260101195820608800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 22时12分]"
         },
         {
           "title": "美国至12月31日8周国债竞拍-投标倍数 2.83，前值2.92。",
@@ -602,16 +635,16 @@
           "time_info": "[01时10分 ~ 03时09分]"
         },
         {
-          "title": "伊朗总统：伊朗正处于一场全面战争中",
-          "url": "https://flash.jin10.com/detail/20260101195820608800",
+          "title": "意大利外交部：美国下调意大利面关税。",
+          "url": "https://flash.jin10.com/detail/20260101205104016800",
           "source": "金十数据",
           "ranks": [
-            1,
-            12
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时21分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 22时12分]"
         },
         {
           "title": "美国至12月31日8周国债竞拍-得标利率 3.58%，前值3.59%。",
@@ -800,6 +833,17 @@
           "time_info": "[07时12分 ~ 09时01分]"
         },
         {
+          "title": "洪秀柱新年“三期许”：立足台湾、胸怀大陆、放眼世界",
+          "url": "https://news.ifeng.com/c/8pZ5PqrODBk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 22时12分]"
+        },
+        {
           "title": "国台办：欢迎台湾同胞前来大陆参访",
           "url": "https://www.toutiao.com/trending/7589418346127523846/",
           "source": "今日头条",
@@ -810,19 +854,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "日本东京全球人口排名下跌",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%85%A8%E7%90%83%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%90%8D%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时28分]"
         },
         {
           "title": "中国驻日本使馆发提醒：注意行车安全",
@@ -915,16 +946,15 @@
           "time_info": "[04时13分 ~ 06时12分]"
         },
         {
-          "title": "美国男子武当山习武15年金发变黑发",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%AD%A6%E5%BD%93%E5%B1%B1%E4%B9%A0%E6%AD%A615%E5%B9%B4%E9%87%91%E5%8F%91%E5%8F%98%E9%BB%91%E5%8F%91",
-          "source": "百度热搜",
+          "title": "2026年台湾政坛看点：高雄变天？柯文哲复活？",
+          "url": "https://news.ifeng.com/c/8pZ7ymYckWV",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时13分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 22时12分]"
         },
         {
           "title": "美国12月26日当周EIA精炼油库存变动 497.7万桶。",
@@ -1002,6 +1032,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时13分]"
+        },
+        {
+          "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32299363",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时12分]"
+        },
+        {
+          "title": "历史上的今天 | 1979年1月1日，《告台湾同胞书》发表",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32259811",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时12分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，COMEX铜投机者将净多头头寸增加9手，至75,996手。",
@@ -1147,17 +1199,6 @@
           "time_info": "[01时10分 ~ 02时17分]"
         },
         {
-          "title": "洪秀柱新年“三期许”：立足台湾、胸怀大陆、放眼世界",
-          "url": "https://news.ifeng.com/c/8pZ5PqrODBk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 21时28分]"
-        },
-        {
           "title": "美国能源信息署（EIA）：截至12月26日当周，美国从墨西哥进口的原油降至有记录以来最低水平。",
           "url": "https://flash.jin10.com/detail/20251231234622765800",
           "source": "金十数据",
@@ -1168,6 +1209,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时10分]"
+        },
+        {
+          "title": "俄罗斯国防部：俄罗斯将把证明乌克兰无人机袭击目标为诺夫哥罗德州总统官邸的证据材料提交给美国。",
+          "url": "https://flash.jin10.com/detail/20260101200806097800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时12分]"
         },
         {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
@@ -1313,6 +1366,17 @@
           "time_info": "[02时17分 ~ 03时09分]"
         },
         {
+          "title": "日本加快“再军事化”脚步",
+          "url": "https://www.toutiao.com/trending/7589348315091763251/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "美国至12月26日当周EIA天然气库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260101005000001800",
           "source": "金十数据",
@@ -1388,18 +1452,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "2026年台湾政坛看点：高雄变天？柯文哲复活？",
-          "url": "https://news.ifeng.com/c/8pZ7ymYckWV",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1415,24 +1468,13 @@
           "time_info": "04时13分"
         },
         {
-          "title": "俄罗斯国防部：俄罗斯将把证明乌克兰无人机袭击目标为诺夫哥罗德州总统官邸的证据材料提交给美国。",
-          "url": "https://flash.jin10.com/detail/20260101200806097800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "日媒担忧日本要被印度超车了",
           "url": "https://www.toutiao.com/trending/7590025099202822186/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -1446,17 +1488,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32299363",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
@@ -1479,17 +1510,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "历史上的今天 | 1979年1月1日，《告台湾同胞书》发表",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32259811",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "美国至12月26日当周EIA战略石油储备库存 24.8万桶，前值80万桶。",
@@ -1743,8 +1763,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时19分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时19分 ~ 22时12分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -1796,8 +1816,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时00分 ~ 20时21分]"
+          "appearance_count": 17,
+          "time_info": "[09时00分 ~ 22时12分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -1807,8 +1827,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时07分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[11时07分 ~ 22时12分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -1818,8 +1838,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时07分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[11时07分 ~ 22时12分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -1853,11 +1873,12 @@
           "ranks": [
             9,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[17时15分 ~ 22时12分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
