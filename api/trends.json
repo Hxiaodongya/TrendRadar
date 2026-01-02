@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:19:34.068525+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-01-02T15:17:04.604520+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -54,8 +54,34 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 14时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 15时17分]"
+        },
+        {
+          "title": "美国防部称2035年中国航母将达9艘",
+          "url": "https://www.toutiao.com/trending/7590314162594070538/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 15时17分]"
+        },
+        {
+          "title": "美国关税大棒打了自己人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%A4%A7%E6%A3%92%E6%89%93%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 15时17分]"
         },
         {
           "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
@@ -66,23 +92,12 @@
             15,
             9,
             10,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 14时19分]"
-        },
-        {
-          "title": "美国防部称2035年中国航母将达9艘",
-          "url": "https://www.toutiao.com/trending/7590314162594070538/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 14时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 15时17分]"
         },
         {
           "title": "2026年台湾政坛看点：高雄变天？柯文哲复活？",
@@ -182,19 +197,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "美国关税大棒打了自己人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%A4%A7%E6%A3%92%E6%89%93%E4%BA%86%E8%87%AA%E5%B7%B1%E4%BA%BA%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 14时19分]"
         },
         {
           "title": "机构：美国家庭预算压力加剧，逾六成民众制定2026财务目标",
@@ -299,6 +301,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "美国30年期国债收益率上升3个基点，至4.88%。",
+          "url": "https://wallstreetcn.com/livenews/3029758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "俄罗斯向美国移交袭击普京官邸的被击落无人机数据",
           "url": "https://flash.jin10.com/detail/20260102013018115800",
           "source": "金十数据",
@@ -374,17 +387,6 @@
           "time_info": "[02时16分 ~ 06时11分]"
         },
         {
-          "title": "台湾证交所加权股价指数收涨1.3%报29,349.81点。",
-          "url": "https://wallstreetcn.com/livenews/3029744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "美国新一轮限制外国公民入境措施生效",
           "url": "https://flash.jin10.com/detail/20260102031500476800",
           "source": "金十数据",
@@ -397,6 +399,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时13分 ~ 07时11分]"
+        },
+        {
+          "title": "人类首次“躺平”横穿美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E2%80%9C%E8%BA%BA%E5%B9%B3%E2%80%9D%E6%A8%AA%E7%A9%BF%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时17分]"
         },
         {
           "title": "俄罗斯武装力量总参谋部情报总局负责人：向美国移交的解密数据来自飞往俄罗斯总统官邸的乌克兰无人机，这将有助于确定真相。",
@@ -438,6 +453,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时40分 ~ 14时19分]"
+        },
+        {
+          "title": "美国麻疹病例数显著增加，疾控中心强调接种疫苗重要性",
+          "url": "https://wallstreetcn.com/livenews/3029736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时17分]"
         },
         {
           "title": "台湾加权指数上涨0.8%，创下29,202.23点的历史新高。",
@@ -525,16 +553,16 @@
           "time_info": "[13时18分 ~ 14时19分]"
         },
         {
-          "title": "美国麻疹病例数显著增加，疾控中心强调接种疫苗重要性",
-          "url": "https://wallstreetcn.com/livenews/3029736",
+          "title": "台湾证交所加权股价指数收涨1.3%报29,349.81点。",
+          "url": "https://wallstreetcn.com/livenews/3029744",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            12
+            4,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 15时17分]"
         },
         {
           "title": "《平价医疗法案》补贴到期 超2000万美国人医保费将上涨",
@@ -551,6 +579,17 @@
           "time_info": "[01时12分 ~ 04时13分]"
         },
         {
+          "title": "“90后”就任纽约市长 美国对部分跨境汇款征收1%汇款税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2246248",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
           "title": "2025年超3000名巴西人被美国驱逐出境，数量创新高",
           "url": "https://wallstreetcn.com/livenews/3029655",
           "source": "华尔街见闻-快讯",
@@ -562,6 +601,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时11分 ~ 08时55分]"
+        },
+        {
+          "title": "马杜罗：委内瑞拉已准备好与美国就打击毒品走私对话",
+          "url": "https://wallstreetcn.com/livenews/3029732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
+          "title": "马杜罗为何突然对美国“认怂”",
+          "url": "https://www.toutiao.com/trending/7590612972590861878/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 15时17分]"
         },
         {
           "title": "台湾证交所加权股价指数上涨1%至29,257.22点。",
@@ -589,28 +653,16 @@
           "time_info": "[02时16分 ~ 05时11分]"
         },
         {
-          "title": "人类首次“躺平”横穿美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E2%80%9C%E8%BA%BA%E5%B9%B3%E2%80%9D%E6%A8%AA%E7%A9%BF%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "美国患胎儿酒精综合症女子被赶出家",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%82%A3%E8%83%8E%E5%84%BF%E9%85%92%E7%B2%BE%E7%BB%BC%E5%90%88%E7%97%87%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%AE%B6&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            29,
-            22
+            21,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时19分]"
-        },
-        {
-          "title": "马杜罗：委内瑞拉已准备好与美国就打击毒品走私对话",
-          "url": "https://wallstreetcn.com/livenews/3029732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时19分]"
+          "time_info": "[14时19分 ~ 15时17分]"
         },
         {
           "title": "中国台湾12月日经制造业PMI 50.9，前值48.8。",
@@ -623,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 10时53分]"
+        },
+        {
+          "title": "赖清德批弹劾案浪费时间，蓝白阵营反批：大罢免恶搞台湾一整年",
+          "url": "https://news.ifeng.com/c/8pa7xevIb2b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "日本东京全球人口排名下跌",
@@ -647,15 +710,15 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "“90后”就任纽约市长 美国对部分跨境汇款征收1%汇款税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2246248",
-          "source": "财联社热门",
+          "title": "美国脑癌大爷硬抗斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E8%84%91%E7%99%8C%E5%A4%A7%E7%88%B7%E7%A1%AC%E6%8A%97%E6%96%A9%E6%9D%80%E7%BA%BF&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时19分]"
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
@@ -668,6 +731,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "日本为何对李在明访华如此敏感",
+          "url": "https://www.toutiao.com/trending/7590636898658291250/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "伊朗总统：伊朗正处于一场全面战争中",
@@ -692,28 +766,6 @@
           "time_info": "10时53分"
         },
         {
-          "title": "马杜罗为何突然对美国“认怂”",
-          "url": "https://www.toutiao.com/trending/7590612972590861878/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "美国患胎儿酒精综合症女子被赶出家",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%82%A3%E8%83%8E%E5%84%BF%E9%85%92%E7%B2%BE%E7%BB%BC%E5%90%88%E7%97%87%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B6%E5%87%BA%E5%AE%B6&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
           "title": "台湾证交所加权股价指数高开0.2%报29,016.68点。",
           "url": "https://wallstreetcn.com/livenews/3029686",
           "source": "华尔街见闻-快讯",
@@ -731,7 +783,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -783,7 +835,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -796,8 +848,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 14时19分]"
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 15时17分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -808,8 +860,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 14时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 15时17分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -821,8 +873,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 14时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 15时17分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -834,6 +886,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 08时55分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 15时17分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -868,17 +933,48 @@
           "time_info": "[00时15分 ~ 06时11分]"
         },
         {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
+          "title": "英国12月Nationwide房价指数月率录得-0.4%，为2025年6月以来最大降幅。",
+          "url": "https://flash.jin10.com/detail/20260102150010587800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            11
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 14时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "英国12月Nationwide房价指数环比 -0.4%，预期 0.1%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3029755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "英国12月Nationwide房价指数年率 0.6%，预期1.20%，前值1.80%。",
+          "url": "https://flash.jin10.com/detail/20260102150008163800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "英国12月Nationwide房价指数同比 0.6%，预期 1.2%，前值 1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3029754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -934,6 +1030,17 @@
           "time_info": "[00时14分 ~ 01时12分]"
         },
         {
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
           "title": "消息称OpenAI大力研发音频AI模型",
           "url": "https://www.toutiao.com/trending/7589869384954150963/",
           "source": "今日头条",
@@ -943,6 +1050,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "英国12月Nationwide房价指数月率 -0.4%，预期0.10%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260102150008139800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "英国12月Nationwide房价指数月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260102145000000800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     }
