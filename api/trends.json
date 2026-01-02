@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T16:17:02.447785+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-01-02T17:16:03.957003+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 16时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 17时16分]"
         },
         {
           "title": "美国阿拉斯加州发生5.7级地震，震源深度10千米",
@@ -126,6 +126,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时14分 ~ 10时53分]"
+        },
+        {
+          "title": "人类首次“躺平”横穿美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E2%80%9C%E8%BA%BA%E5%B9%B3%E2%80%9D%E6%A8%AA%E7%A9%BF%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            22,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时40分 ~ 17时16分]"
         },
         {
           "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
@@ -294,18 +309,39 @@
           "time_info": "[04时13分 ~ 08时55分]"
         },
         {
-          "title": "人类首次“躺平”横穿美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E2%80%9C%E8%BA%BA%E5%B9%B3%E2%80%9D%E6%A8%AA%E7%A9%BF%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "马杜罗为何突然对美国“认怂”",
+          "url": "https://www.toutiao.com/trending/7590612972590861878/",
+          "source": "今日头条",
           "ranks": [
-            29,
-            22,
-            7,
-            6
+            17,
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时40分 ~ 16时17分]"
+          "time_info": "[14时19分 ~ 17时16分]"
+        },
+        {
+          "title": "美企CEO提前甩锅：中国不捣乱，美国就能过得好",
+          "url": "https://news.ifeng.com/c/8paTeZ7HfzO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "美国“星链”将降低约4400颗卫星轨道高度",
+          "url": "https://news.ifeng.com/c/8paNsyESgwe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
         },
         {
           "title": "美国务院抹黑解放军围台军演有何居心",
@@ -317,6 +353,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时16分 ~ 16时17分]"
+        },
+        {
+          "title": "高志凯：我们应立法制裁参拜靖国神社的日本政客",
+          "url": "https://news.ifeng.com/c/8paTeZ7Hg3X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "赖清德批弹劾案浪费时间，蓝白阵营反批：大罢免恶搞台湾一整年",
+          "url": "https://news.ifeng.com/c/8pa7xevIb2b",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 17时16分]"
         },
         {
           "title": "美国对部分跨境汇款征收1%汇款税",
@@ -380,6 +439,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时18分 ~ 16时17分]"
+        },
+        {
+          "title": "日本为何对李在明访华如此敏感",
+          "url": "https://www.toutiao.com/trending/7590636898658291250/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 17时16分]"
         },
         {
           "title": "意大利外交部：美国下调意大利面关税。",
@@ -454,18 +526,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时16分 ~ 06时11分]"
-        },
-        {
-          "title": "马杜罗为何突然对美国“认怂”",
-          "url": "https://www.toutiao.com/trending/7590612972590861878/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 16时17分]"
         },
         {
           "title": "2025年超3000名巴西人被美国驱逐出境 数量创新高",
@@ -605,17 +665,6 @@
           "time_info": "[13时18分 ~ 14时19分]"
         },
         {
-          "title": "赖清德批弹劾案浪费时间，蓝白阵营反批：大罢免恶搞台湾一整年",
-          "url": "https://news.ifeng.com/c/8pa7xevIb2b",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 16时17分]"
-        },
-        {
           "title": "《平价医疗法案》补贴到期 超2000万美国人医保费将上涨",
           "url": "https://flash.jin10.com/detail/20260101234041382800",
           "source": "金十数据",
@@ -628,18 +677,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时12分 ~ 04时13分]"
-        },
-        {
-          "title": "日本为何对李在明访华如此敏感",
-          "url": "https://www.toutiao.com/trending/7590636898658291250/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时16分 ~ 16时17分]"
         },
         {
           "title": "美国脑癌大爷硬抗斩杀线",
@@ -717,6 +754,17 @@
           "time_info": "[14时19分 ~ 15时17分]"
         },
         {
+          "title": "围台军演日本远观 赖岳谦嘲讽高市",
+          "url": "https://www.toutiao.com/trending/7589643228983525430/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "中国台湾12月日经制造业PMI 50.9，前值48.8。",
           "url": "https://flash.jin10.com/detail/20260102083002439800",
           "source": "金十数据",
@@ -791,9 +839,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "美国国债抹去跌幅，30年期收益率持平于4.84%。",
+          "url": "https://wallstreetcn.com/livenews/3029785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "美国30年期国债收益率上升3个基点，至4.88%，创2025年9月以来新高。",
@@ -802,7 +861,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -813,7 +872,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -887,7 +946,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -900,8 +959,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时54分 ~ 16时17分]"
+          "appearance_count": 14,
+          "time_info": "[08时54分 ~ 17时16分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -913,8 +972,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 16时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 17时16分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -926,8 +985,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时53分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 17时16分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -940,8 +999,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 16时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 17时16分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -1112,6 +1171,17 @@
           "time_info": "[15时17分 ~ 16时17分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "谷歌AI的逆风翻盘史",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
           "source": "bilibili 热搜",
@@ -1132,6 +1202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260102161552396800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
