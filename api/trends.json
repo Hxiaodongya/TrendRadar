@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T22:17:10.274670+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-01-05T23:14:47.797842+08:00",
+  "total_titles_processed": 1960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 208,
+      "match_count": 232,
       "titles": [
         {
           "title": "不仅仅是石油！美国瞄准委内瑞拉有两大目的",
@@ -109,8 +109,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时49分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[12时49分 ~ 23时14分]"
         },
         {
           "title": "美国露出獠牙，现在最危险的3个国家",
@@ -156,8 +156,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时09分 ~ 22时17分]"
+          "appearance_count": 18,
+          "time_info": "[11时09分 ~ 23时14分]"
         },
         {
           "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
@@ -169,11 +169,12 @@
             10,
             5,
             8,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时59分 ~ 22时17分]"
+          "appearance_count": 19,
+          "time_info": "[08时59分 ~ 23时14分]"
         },
         {
           "title": "委内瑞拉代理总统称邀请美国参与制定合作议程",
@@ -184,8 +185,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时49分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[12时49分 ~ 23时14分]"
         },
         {
           "title": "未来委内瑞拉局势会怎么走？美国悍然对一个主权国家使用武力，究竟想做什么？",
@@ -325,8 +326,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时09分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[11时09分 ~ 23时14分]"
         },
         {
           "title": "两名中国公民在日本被严重撞伤",
@@ -418,8 +419,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时19分 ~ 22时17分]"
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 23时14分]"
         },
         {
           "title": "一口气看完美国2025抽象事",
@@ -489,8 +490,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时15分 ~ 22时17分]"
+          "appearance_count": 9,
+          "time_info": "[18时15分 ~ 23时14分]"
+        },
+        {
+          "title": "美国副总统万斯住所遭袭击",
+          "url": "https://www.toutiao.com/trending/7590906845573873690/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时23分 ~ 23时14分]"
         },
         {
           "title": "台湾各界呼吁要和平不要战争",
@@ -505,6 +518,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时59分 ~ 14时24分]"
+        },
+        {
+          "title": "美国副总统万斯住所遭袭击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时23分 ~ 23时14分]"
         },
         {
           "title": "委内瑞拉代总统致信美国邀请其制定合作议程，如何评价这一外交尝试？美国可能如何回应？",
@@ -610,6 +635,17 @@
           "time_info": "[00时13分 ~ 12时49分]"
         },
         {
+          "title": "美国副总统万斯住所遭袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD%E5%87%BB%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时14分]"
+        },
+        {
           "title": "特朗普：委内瑞拉是一个“死掉的国家”，美国“正在掌权”",
           "url": "https://news.ifeng.com/c/8pf4IXU084i",
           "source": "凤凰网",
@@ -620,30 +656,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 16时19分]"
-        },
-        {
-          "title": "美国副总统万斯住所遭袭击",
-          "url": "https://www.toutiao.com/trending/7590906845573873690/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时23分 ~ 22时17分]"
-        },
-        {
-          "title": "美国副总统万斯住所遭袭击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时23分 ~ 22时17分]"
         },
         {
           "title": "委内瑞拉代总统致信美国及世界",
@@ -717,17 +729,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 06时12分]"
-        },
-        {
-          "title": "美国副总统万斯住所遭袭击",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD%E5%87%BB%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "梅德韦杰夫：美国推翻马杜罗与毒品完全无关，只与石油有关",
@@ -927,6 +928,17 @@
           "time_info": "20时23分"
         },
         {
+          "title": "美国10年期国债收益率现报4.168%，ISM数据公布后下跌2个基点。",
+          "url": "https://flash.jin10.com/detail/20260105230538929800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉石油产量处于低位。 石油公司都非常想进入委内瑞拉。 无需对委内瑞拉发动第二次袭击。 委内瑞拉将在适当的时候选举。 没有与（委内瑞拉代理总统）罗德里格斯交谈，她正在配合。 我们将管理、修理这个国家（委内瑞拉）。",
           "url": "https://wallstreetcn.com/livenews/3030415",
           "source": "华尔街见闻-快讯",
@@ -966,9 +978,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "联合国安理会召开会议讨论美国袭击委内瑞拉和以及马杜罗被捕一事。",
+          "url": "https://flash.jin10.com/detail/20260105230515337800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本两年期国债收益率上行2.5个基点至1.195%。",
@@ -1271,6 +1294,17 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "美国国务卿鲁比奥或将任委内瑞拉「总督」，这是个什么职务？是否意味着美国将直接管理委内瑞拉事务？",
+          "url": "https://www.zhihu.com/question/1991542787297006513",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时14分]"
+        },
+        {
           "title": "觊觎委石油资源，美国能如愿吗？",
           "url": "https://news.ifeng.com/c/8peoBGO9yW4",
           "source": "凤凰网",
@@ -1383,17 +1417,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 16时19分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥或将任委内瑞拉「总督」，这是个什么职务？是否意味着美国将直接管理委内瑞拉事务？",
-          "url": "https://www.zhihu.com/question/1991542787297006513",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "消息人士：L3哈里斯技术公司（一家美国科技公司、国防承包商和信息技术服务提供商）即将向私人股权公司AE工业集团出售其与太空相关业务的资产，其太空资产组合总价值达8.45亿美元。",
@@ -1741,7 +1764,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1763,9 +1786,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国12月ISM制造业原材料库存分项指数创2024年10月份以来最快降幅，意味着许多企业依赖于现有库存来满足需求。",
+          "url": "https://wallstreetcn.com/livenews/3030965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：我们正密切关注伊朗，如果他们杀害抗议者，美国将予以严厉打击。",
@@ -1788,6 +1822,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "美国12月ISM制造业就业指数 44.9，前值 44。",
+          "url": "https://wallstreetcn.com/livenews/3030964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：（谈论是否会对哥伦比亚采取行动）我觉得不错。",
@@ -1821,6 +1866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国12月ISM制造业物价支付指数 58.5，预期 58.7，前值 58.5。",
+          "url": "https://wallstreetcn.com/livenews/3030963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：我们会在合适的时机在委内瑞拉举行选举。我们将管理它，并解决它的问题。",
@@ -1865,6 +1921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "美国12月ISM制造业指数 47.9，预期 48.4，前值 48.2。",
+          "url": "https://wallstreetcn.com/livenews/3030962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
@@ -1939,7 +2006,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1964,6 +2031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "美国12月ISM制造业新订单指数 47.7，前值 47.4。",
+          "url": "https://wallstreetcn.com/livenews/3030961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：我们正在与刚刚宣誓就职的那些人打交道。",
@@ -2038,7 +2116,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -2120,6 +2198,17 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美国12月ISM产出指数 51，前值51.4。",
+          "url": "https://flash.jin10.com/detail/20260105230033011800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国务卿称将继续打击“贩毒船”并扣押受制裁船只",
           "url": "https://wallstreetcn.com/livenews/3030358",
           "source": "华尔街见闻-快讯",
@@ -2170,9 +2259,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国12月ISM库存指数 45.2，前值48.9。",
+          "url": "https://flash.jin10.com/detail/20260105230028507800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本央行行长植田和男：日本经济去年展现出了韧性。 如果经济展望实现将加息。 宽松政策的调整将带来更长时间的增长。",
@@ -2184,6 +2284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）在马斯克旗下社交媒体平台X（原名推特）上感谢美国总统特朗普。 称委国将成为美国在安全与能源方面的盟友。",
+          "url": "https://wallstreetcn.com/livenews/3030956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本2年期国债收益率上涨2.5个基点，至1.195%。",
@@ -2208,6 +2319,28 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美国12月ISM制造业PMI录得47.9，为2024年10月以来新低。",
+          "url": "https://flash.jin10.com/detail/20260105230014552800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美国12月ISM新订单指数 47.7，前值47.4。",
+          "url": "https://flash.jin10.com/detail/20260105230002467800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "特朗普对西半球多国发出警告 称不再容忍毒品流入美国",
           "url": "https://flash.jin10.com/detail/20260105102045740800",
           "source": "金十数据",
@@ -2230,6 +2363,17 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美国12月ISM制造业物价支付指数 58.5，前值58.5。",
+          "url": "https://flash.jin10.com/detail/20260105230002444800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "日本东证指数升至纪录新高。 韩国首尔综合指数涨超2%创纪录新高。",
           "url": "https://wallstreetcn.com/livenews/3030398",
           "source": "华尔街见闻-快讯",
@@ -2239,6 +2383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：美国在“入侵墨西哥”方面并非认真的。 美墨两国正密切合作。",
+          "url": "https://wallstreetcn.com/livenews/3030952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国强掳马杜罗，市场却看空油价？委内瑞拉冲突背后的油市暗线",
@@ -2252,6 +2407,28 @@
           "time_info": "08时59分"
         },
         {
+          "title": "美国12月ISM就业指数 44.9，前值44。",
+          "url": "https://flash.jin10.com/detail/20260105230002443800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "李在明：韩中曾共同抗击日本侵略",
+          "url": "https://www.toutiao.com/trending/7590792042998186047/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "日本央行行长植田和男：预计日本经济将维持工资和物价温和上涨的周期。",
           "url": "https://flash.jin10.com/detail/20260105101713763800",
           "source": "金十数据",
@@ -2261,6 +2438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "美国12月ISM制造业PMI 47.9，预期48.3，前值48.2。",
+          "url": "https://flash.jin10.com/detail/20260105230002416800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "外交部：中方支持联合国安理会就美国对委内瑞拉发动军事打击召开紧急会议",
@@ -2296,6 +2484,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "诺和诺德(NVO.N)美国公共事务主管离职。",
+          "url": "https://flash.jin10.com/detail/20260105225851193800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国务卿鲁比奥：对“占领”委内瑞拉保留选择权",
           "url": "https://wallstreetcn.com/livenews/3030680",
           "source": "华尔街见闻-快讯",
@@ -2305,6 +2504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "能源分析师：美国在委内瑞拉的行动对燃料市场短期影响有限",
+          "url": "https://wallstreetcn.com/livenews/3030949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本央行行长植田和男：如果经济和物价走势符合我们的预测，日本央行预计将延续加息步伐。",
@@ -2417,6 +2627,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "能源业ETF涨超3%，领跑美股行业ETF，此前美国掳走委内瑞拉总统，特朗普宣布投资委国石油",
+          "url": "https://wallstreetcn.com/livenews/3030945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "特朗普称正在考虑重新开放美国驻委内瑞拉大使馆",
           "url": "https://wallstreetcn.com/livenews/3030460",
           "source": "华尔街见闻-快讯",
@@ -2437,6 +2658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：暂时不打算与美国总统特朗普通话。",
+          "url": "https://wallstreetcn.com/livenews/3030942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本10年期国债收益率上行5BP至2.12%，为1999年以来新高。",
@@ -2472,6 +2704,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "委内瑞拉变局风险外溢 专家忧心美国干预行为引发连锁反应",
+          "url": "https://flash.jin10.com/detail/20260105225444544800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "匈牙利总理欧尔班：委内瑞拉和美国可以控制全球40-50%的石油储备，这会显著影响世界油价。",
           "url": "https://flash.jin10.com/detail/20260105182732171800",
           "source": "金十数据",
@@ -2483,15 +2726,37 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美国国防部长赫格塞思：国防部正对参议员凯利采取行政行动。",
+          "url": "https://flash.jin10.com/detail/20260105225246761800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国明尼阿波利斯联储主席Kashkari：委内瑞拉影响主要通过油价传导，目前还没有看到相关影响。",
           "url": "https://wallstreetcn.com/livenews/3030907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "美国国防部长赫格塞思已就参议员马克·凯利发出谴责信。",
+          "url": "https://flash.jin10.com/detail/20260105225208095800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
@@ -2593,6 +2858,18 @@
           "time_info": "[12时49分 ~ 20时23分]"
         },
         {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时14分]"
+        },
+        {
           "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
           "url": "https://www.cls.cn/detail/2247232",
           "source": "财联社热门",
@@ -2604,18 +2881,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时59分 ~ 13时29分]"
-        },
-        {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时17分]"
         },
         {
           "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
@@ -2783,7 +3048,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
