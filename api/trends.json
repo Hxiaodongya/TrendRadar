@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:15:38.349712+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-01-05T19:12:04.993931+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 172,
+      "match_count": 186,
       "titles": [
         {
           "title": "不仅仅是石油！美国瞄准委内瑞拉有两大目的",
@@ -99,19 +99,18 @@
           "time_info": "[11时09分 ~ 16时19分]"
         },
         {
-          "title": "牢A神了!央媒认证美国斩杀线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348699&amp;topic_name=%E7%89%A2A%E7%A5%9E%E4%BA%86%21%E5%A4%AE%E5%AA%92%E8%AE%A4%E8%AF%81%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "贴吧",
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
             7,
-            9,
-            10
+            6,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[11时09分 ~ 18时15分]"
+          "time_info": "[12时49分 ~ 19时12分]"
         },
         {
           "title": "美国露出獠牙，现在最危险的3个国家",
@@ -124,6 +123,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时09分 ~ 17时22分]"
+        },
+        {
+          "title": "牢A神了!央媒认证美国斩杀线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348699&amp;topic_name=%E7%89%A2A%E7%A5%9E%E4%BA%86%21%E5%A4%AE%E5%AA%92%E8%AE%A4%E8%AF%81%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 19时12分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -153,8 +168,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[08时59分 ~ 19时12分]"
         },
         {
           "title": "未来委内瑞拉局势会怎么走？美国悍然对一个主权国家使用武力，究竟想做什么？",
@@ -167,6 +182,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "委内瑞拉代理总统称邀请美国参与制定合作议程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32316640",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 19时12分]"
         },
         {
           "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
@@ -192,20 +219,6 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
-          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
-          "url": "https://wallstreetcn.com/articles/3762529",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 18时15分]"
-        },
-        {
           "title": "美国国务卿卢比奥：预计美国石油企业对（投资）委内瑞拉的兴趣较高。 预计委内瑞拉民众将从（美国）石油行业获得石油开采特许权使用费。 （美国）能源部长Wright和内政部长Burgum将对（多家美国）石油公司讲话。",
           "url": "https://wallstreetcn.com/livenews/3030346",
           "source": "华尔街见闻-快讯",
@@ -228,8 +241,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 19时12分]"
         },
         {
           "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
@@ -241,8 +254,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时09分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 19时12分]"
         },
         {
           "title": "“唐罗主义”2026年炸裂开局：抓马杜罗，拉美国家脊背发凉",
@@ -296,6 +309,20 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19,
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时09分 ~ 19时12分]"
+        },
+        {
           "title": "两名中国公民在日本被严重撞伤",
           "url": "https://www.douyin.com/hot/2356553",
           "source": "抖音",
@@ -306,6 +333,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "李在明访华向日本发出明确信号",
+          "url": "https://www.toutiao.com/trending/7591407273386491940/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            7,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 19时12分]"
         },
         {
           "title": "美国网红暗示很快拿下格陵兰岛，丹麦大使紧急发声",
@@ -346,8 +388,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时13分 ~ 18时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 19时12分]"
         },
         {
           "title": "抢石油!美国接管委内瑞拉",
@@ -382,6 +424,21 @@
           "time_info": "[00时13分 ~ 16时19分]"
         },
         {
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 19时12分]"
+        },
+        {
           "title": "美国是否要占领委内瑞拉？鲁比奥回应",
           "url": "https://news.ifeng.com/c/8pf8DPK6c5C",
           "source": "凤凰网",
@@ -404,32 +461,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 06时12分]"
-        },
-        {
-          "title": "李在明访华向日本发出明确信号",
-          "url": "https://www.toutiao.com/trending/7591407273386491940/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时15分]"
-        },
-        {
-          "title": "委内瑞拉代理总统称邀请美国参与制定合作议程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32316640",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 18时15分]"
         },
         {
           "title": "台湾各界呼吁要和平不要战争",
@@ -519,19 +550,6 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 18时15分]"
-        },
-        {
           "title": "韩方称朝鲜向日本海发射弹道导弹",
           "url": "https://www.douyin.com/hot/2356606",
           "source": "抖音",
@@ -574,18 +592,19 @@
           "time_info": "[15时21分 ~ 16时19分]"
         },
         {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
+          "title": "委内瑞拉代总统致信美国及世界",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E8%87%B4%E4%BF%A1%E7%BE%8E%E5%9B%BD%E5%8F%8A%E4%B8%96%E7%95%8C%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            10,
+            7,
+            6,
             9,
-            4
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 19时12分]"
         },
         {
           "title": "“美国绑架马杜罗，高市早苗陷入两难境地”",
@@ -695,7 +714,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -709,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "美媒：万斯承认石油是美国对委内瑞拉展开军事行动的理由之一",
+          "url": "https://wallstreetcn.com/livenews/3030829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "丹麦首相称美国无权吞并格陵兰岛",
@@ -736,15 +766,15 @@
           "time_info": "08时59分"
         },
         {
-          "title": "据TankerTrackers.com称，大约有十几艘满载原油的油轮在关闭信号（暗模式）状态下离开了委内瑞拉海域，突破了美国的封锁。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3030783",
-          "source": "华尔街见闻-快讯",
+          "title": "匈牙利总理欧尔班：预计将有一位美国高级官员为竞选活动到访。",
+          "url": "https://flash.jin10.com/detail/20260105185527530800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时12分"
         },
         {
           "title": "美国要“接管”委内瑞拉，美官员：鲁比奥将成负责人",
@@ -825,20 +855,6 @@
           "time_info": "08时59分"
         },
         {
-          "title": "委内瑞拉代总统致信美国及世界",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E8%87%B4%E4%BF%A1%E7%BE%8E%E5%9B%BD%E5%8F%8A%E4%B8%96%E7%95%8C%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            6,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时29分 ~ 18时15分]"
-        },
-        {
           "title": "日本首相高市早苗：将坚持推动经济增长。",
           "url": "https://flash.jin10.com/detail/20260105135541681800",
           "source": "金十数据",
@@ -886,6 +902,33 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时09分]"
+        },
+        {
+          "title": "古巴称 32 名军事人员在美国对委内瑞拉行动中死亡，此事或将引发哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/1991447127973458979",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时12分]"
+        },
+        {
+          "title": "马杜罗之子号召支持者上街抗议美国",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B9%8B%E5%AD%90%E5%8F%B7%E5%8F%AC%E6%94%AF%E6%8C%81%E8%80%85%E4%B8%8A%E8%A1%97%E6%8A%97%E8%AE%AE%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            26,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时12分]"
         },
         {
           "title": "日本5年期国债收益率升至2007年6月以来最高水平，上行5.5BP至1.6%。",
@@ -940,6 +983,18 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
+          "title": "据TankerTrackers.com称，大约有十几艘满载原油的油轮在关闭信号（暗模式）状态下离开了委内瑞拉海域，突破了美国的封锁。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3030783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "高盛寻求为日本房地产基金融资5亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3030585",
           "source": "华尔街见闻-快讯",
@@ -950,6 +1005,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时24分]"
+        },
+        {
+          "title": "李在明访华向日本发出明确信号",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AE%BF%E5%8D%8E%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E6%98%8E%E7%A1%AE%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时12分]"
         },
         {
           "title": "释新闻｜代为掌权的委内瑞拉副总统，会在美国压力下作何选择？",
@@ -1016,6 +1083,19 @@
           "time_info": "[00时13分 ~ 03时09分]"
         },
         {
+          "title": "6国发表联合声明强烈谴责美国",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%9B%BD%E5%8F%91%E8%A1%A8%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时12分]"
+        },
+        {
           "title": "美国原住民部落餐厅都吃些什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%83%A8%E8%90%BD%E9%A4%90%E5%8E%85%E9%83%BD%E5%90%83%E4%BA%9B%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -1041,6 +1121,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "美国对委行动明显践踏国际法，西方却集体哑火了？",
+          "url": "https://news.ifeng.com/c/8pfZat7CC3c",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "觊觎委石油资源，美国能如愿吗？",
@@ -1133,31 +1224,6 @@
           "time_info": "[12时49分 ~ 14时24分]"
         },
         {
-          "title": "马杜罗之子号召支持者上街抗议美国",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B9%8B%E5%AD%90%E5%8F%B7%E5%8F%AC%E6%94%AF%E6%8C%81%E8%80%85%E4%B8%8A%E8%A1%97%E6%8A%97%E8%AE%AE%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
-        },
-        {
-          "title": "古巴称 32 名军事人员在美国对委内瑞拉行动中死亡，此事或将引发哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/1991447127973458979",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
-        },
-        {
           "title": "美国依据其国内法起诉委内瑞拉总统马杜罗，在国际法框架下具备合法性与正当性吗？",
           "url": "https://www.zhihu.com/question/1991120559111632793",
           "source": "知乎",
@@ -1180,17 +1246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时21分 ~ 16时19分]"
-        },
-        {
-          "title": "李在明访华向日本发出明确信号",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AE%BF%E5%8D%8E%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E6%98%8E%E7%A1%AE%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时15分]"
         },
         {
           "title": "消息人士：L3哈里斯技术公司（一家美国科技公司、国防承包商和信息技术服务提供商）即将向私人股权公司AE工业集团出售其与太空相关业务的资产，其太空资产组合总价值达8.45亿美元。",
@@ -1273,18 +1328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时49分 ~ 13时29分]"
-        },
-        {
-          "title": "6国发表联合声明强烈谴责美国",
-          "url": "https://s.weibo.com/weibo?q=%236%E5%9B%BD%E5%8F%91%E8%A1%A8%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时15分]"
         },
         {
           "title": "市场消息：美国总统特朗普将于美国东部时间周一下午3:30（北京时间次日凌晨4:30）参加政策会议。",
@@ -1476,15 +1519,26 @@
           "time_info": "[01时10分 ~ 08时59分]"
         },
         {
-          "title": "美国对委行动明显践踏国际法，西方却集体哑火了？",
-          "url": "https://news.ifeng.com/c/8pfZat7CC3c",
-          "source": "凤凰网",
+          "title": "李在明访华向日本发出明确信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AE%BF%E5%8D%8E%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E6%98%8E%E7%A1%AE%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
+        },
+        {
+          "title": "6国发表联合声明谴责美国",
+          "url": "https://www.toutiao.com/trending/7590747785197928489/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普：哥伦比亚由一个病态的人统治，他撑不了多久了。",
@@ -1592,7 +1646,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1614,7 +1668,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1661,6 +1715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "据Axios新闻：美国取消对各州的疫苗接种报告要求。",
+          "url": "https://flash.jin10.com/detail/20260105184256403800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "日本12月制造业PMI终值 50，初值 49.7。",
@@ -1773,6 +1838,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "美国觊觎格陵兰岛，欧洲多国声援丹麦",
+          "url": "https://wallstreetcn.com/livenews/3030810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉副总统正在与美国合作。",
           "url": "https://flash.jin10.com/detail/20260105084415325800",
           "source": "金十数据",
@@ -1804,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "德国政府发言人：美国必须向世界说明其在委内瑞拉的行动依据。",
+          "url": "https://flash.jin10.com/detail/20260105184153611800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国务卿称将继续打击“贩毒船”并扣押受制裁船只",
@@ -1839,6 +1926,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "德国外交部长就美国在委内瑞拉的行动表示，我们有疑问，并将与美国就此进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260105184128154800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "日本央行行长植田和男：日本经济去年展现出了韧性。 如果经济展望实现将加息。 宽松政策的调整将带来更长时间的增长。",
           "url": "https://wallstreetcn.com/livenews/3030487",
           "source": "华尔街见闻-快讯",
@@ -1861,6 +1959,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "德国外交部长就美国在委内瑞拉的行动表示，这是一个复杂的局势，需要我们进行更深入的分析。",
+          "url": "https://flash.jin10.com/detail/20260105184043077800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "特朗普对西半球多国发出警告 称不再容忍毒品流入美国",
           "url": "https://flash.jin10.com/detail/20260105102045740800",
           "source": "金十数据",
@@ -1870,6 +1979,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "华盛顿重塑西半球版图 巴西或成美国“南北联盟”包围下的孤岛",
+          "url": "https://flash.jin10.com/detail/20260105183825170800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "日本东证指数升至纪录新高。 韩国首尔综合指数涨超2%创纪录新高。",
@@ -1960,6 +2080,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "匈牙利总理欧尔班：匈牙利继续就金融盾问题与美国进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260105183537515800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "日经225指数收涨3%，报51,832.80点。 日本东证指数收涨2%，报3,477.52点。 韩国首尔综指收涨3.43％，报4457.52点，创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3030624",
           "source": "华尔街见闻-快讯",
@@ -1969,6 +2100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "德国外长：美国必须就其对委军事行动提供法律依据",
+          "url": "https://wallstreetcn.com/livenews/3030797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布中国12月RatingDog服务业PMI、美国12月ISM制造业PMI等数据，联合国安理会将就美国对委内瑞拉军事行动举行紧急会议。",
@@ -1991,6 +2133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "美国石油公司Continental Resources将收购阿根廷Vaca Muerta油田的非运营权益。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3030793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "澳大利亚财长查默斯：避免局势升级至关重要，澳大利亚支持国际法；美国将确定加拉加斯突袭的合法性。",
@@ -2068,12 +2221,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：委内瑞拉和美国可以控制全球40-50%的石油储备，这会显著影响世界油价。",
+          "url": "https://flash.jin10.com/detail/20260105182732171800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -2085,8 +2249,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[08时59分 ~ 19时12分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -2149,11 +2313,35 @@
           "ranks": [
             7,
             5,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时15分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 19时12分]"
+        },
+        {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 19时12分]"
+        },
+        {
+          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
+          "url": "https://wallstreetcn.com/livenews/3030823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
@@ -2179,18 +2367,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时24分]"
-        },
-        {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 18时15分]"
         },
         {
           "title": "央视点名AI魔改乱象",
@@ -2251,6 +2427,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
+          "url": "https://wallstreetcn.com/livenews/3030815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "字节“豆包”AI眼镜即将进入出货阶段，起步价预计控制在2000元以内",
           "url": "https://wallstreetcn.com/livenews/3030637",
           "source": "华尔街见闻-快讯",
@@ -2268,7 +2455,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
