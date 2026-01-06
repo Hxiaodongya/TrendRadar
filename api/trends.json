@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:14:29.939683+08:00",
-  "total_titles_processed": 2074,
+  "generated_at": "2026-01-06T23:13:40.077522+08:00",
+  "total_titles_processed": 2174,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 267,
+      "match_count": 280,
       "titles": [
         {
           "title": "美国副总统万斯住所遭袭击",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时14分]"
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 23时13分]"
         },
         {
           "title": "美国副总统万斯住所遭袭击",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时14分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时13分]"
         },
         {
           "title": "加强两用物项对日本出口管制",
@@ -65,8 +65,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时14分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时13分]"
+        },
+        {
+          "title": "石平声称台湾是“国家”，外交部：宵小狂言",
+          "url": "https://news.ifeng.com/c/8ph9Jnxk4xG",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时13分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -82,17 +95,29 @@
           "time_info": "[00时16分 ~ 08时54分]"
         },
         {
-          "title": "石平声称台湾是“国家”，外交部：宵小狂言",
-          "url": "https://news.ifeng.com/c/8ph9Jnxk4xG",
-          "source": "凤凰网",
+          "title": "商务部表示为维护国家安全和利益，决定加强两用物项对日本出口管制，什么是两用物项？此举会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1991903382730989599",
+          "source": "知乎",
           "ranks": [
-            4,
-            2,
-            3
+            5,
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时14分]"
+          "time_info": "[18时13分 ~ 23时13分]"
+        },
+        {
+          "title": "梅事变疣事,日本梅毒扩散加剧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 23时13分]"
         },
         {
           "title": "美国副总统万斯住所遭袭击",
@@ -106,6 +131,40 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 11时58分]"
+        },
+        {
+          "title": "中方：禁止所有两用物项对日本军事用途出口",
+          "url": "https://www.cls.cn/detail/2249268",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时13分]"
+        },
+        {
+          "title": "中方指出美国严重违反国际法准则",
+          "url": "https://www.douyin.com/hot/2358518",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17,
+            18,
+            10,
+            14,
+            11,
+            13,
+            9,
+            7,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时58分 ~ 23时13分]"
         },
         {
           "title": "委内瑞拉代理总统称邀请美国参与制定合作议程",
@@ -132,32 +191,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时36分 ~ 20时23分]"
-        },
-        {
-          "title": "商务部表示为维护国家安全和利益，决定加强两用物项对日本出口管制，什么是两用物项？此举会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1991903382730989599",
-          "source": "知乎",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 22时14分]"
-        },
-        {
-          "title": "梅事变疣事,日本梅毒扩散加剧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 22时14分]"
+          "appearance_count": 12,
+          "time_info": "[12时36分 ~ 23时13分]"
         },
         {
           "title": "美国对委行动明显践踏国际法，西方却集体哑火了？",
@@ -169,26 +204,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 08时54分]"
-        },
-        {
-          "title": "中方指出美国严重违反国际法准则",
-          "url": "https://www.douyin.com/hot/2358518",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17,
-            18,
-            10,
-            14,
-            11,
-            13,
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时58分 ~ 22时14分]"
         },
         {
           "title": "日本梅毒扩散",
@@ -219,8 +234,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时17分 ~ 22时14分]"
+          "appearance_count": 14,
+          "time_info": "[13时17分 ~ 23时13分]"
         },
         {
           "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
@@ -245,19 +260,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 08时54分]"
-        },
-        {
-          "title": "中方：禁止所有两用物项对日本军事用途出口",
-          "url": "https://www.cls.cn/detail/2249268",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时14分]"
         },
         {
           "title": "马杜罗在美国首次出庭 表示不认罪",
@@ -293,8 +295,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时52分 ~ 22时14分]"
+          "appearance_count": 17,
+          "time_info": "[10时52分 ~ 23时13分]"
+        },
+        {
+          "title": "日本年轻人聚众晒梅毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 23时13分]"
         },
         {
           "title": "日本梅毒感染扩散",
@@ -334,6 +348,20 @@
           "time_info": "[00时16分 ~ 22时14分]"
         },
         {
+          "title": "图说丨起底美国“唐罗主义”：正加剧拉美“唇亡齿寒”困境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317912",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 23时13分]"
+        },
+        {
           "title": "俄代表谴责美国：无法无天时代的回归",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%BB%A3%E8%A1%A8%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%EF%BC%9A%E6%97%A0%E6%B3%95%E6%97%A0%E5%A4%A9%E6%97%B6%E4%BB%A3%E7%9A%84%E5%9B%9E%E5%BD%92",
           "source": "百度热搜",
@@ -362,6 +390,21 @@
           "time_info": "[00时16分 ~ 14时19分]"
         },
         {
+          "title": "禁止两用物项对日本军事用户出口",
+          "url": "https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E7%94%A8%E6%88%B7%E5%87%BA%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            1,
+            2,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 23时13分]"
+        },
+        {
           "title": "美国凭什么“审判”他国元首？从威斯特伐利亚体系到马杜罗事件｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_32322443",
           "source": "澎湃新闻",
@@ -375,18 +418,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时52分 ~ 15时19分]"
-        },
-        {
-          "title": "日本年轻人聚众晒梅毒",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时14分]"
         },
         {
           "title": "古巴称 32 名军事人员在美国对委内瑞拉行动中死亡，此事或将引发哪些连锁反应？",
@@ -414,20 +445,6 @@
           "time_info": "[10时52分 ~ 16时18分]"
         },
         {
-          "title": "图说丨起底美国“唐罗主义”：正加剧拉美“唇亡齿寒”困境",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317912",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时14分]"
-        },
-        {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
           "url": "https://www.zhihu.com/question/1991053595043390487",
           "source": "知乎",
@@ -437,6 +454,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 07时11分]"
+        },
+        {
+          "title": "商务部：加强两用物项对日本出口管制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32326591",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时13分]"
         },
         {
           "title": "外交部回应日议员石平窜访中国台湾",
@@ -481,21 +513,6 @@
           "time_info": "[08时54分 ~ 15时19分]"
         },
         {
-          "title": "禁止两用物项对日本军事用户出口",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%81%E6%AD%A2%E4%B8%A4%E7%94%A8%E7%89%A9%E9%A1%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E7%94%A8%E6%88%B7%E5%87%BA%E5%8F%A3",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            1,
-            2,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时13分 ~ 22时14分]"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.cls.cn/detail/2248692",
           "source": "财联社热门",
@@ -532,6 +549,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时18分 ~ 08时54分]"
+        },
+        {
+          "title": "日本梅毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            21,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时13分]"
         },
         {
           "title": "禁止所有两用物项对日本军事用途出口",
@@ -571,41 +603,12 @@
           "time_info": "[08时54分 ~ 14时19分]"
         },
         {
-          "title": "商务部：加强两用物项对日本出口管制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32326591",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时14分]"
-        },
-        {
           "title": "马杜罗对美国指控表示不认罪，中方表态",
           "url": "https://www.cls.cn/detail/2249212",
           "source": "财联社热门",
           "ranks": [
             11,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时14分]"
-        },
-        {
-          "title": "日本梅毒",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            21,
-            24,
-            25,
-            27
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -623,6 +626,18 @@
           "time_info": "[19时11分 ~ 19时12分]"
         },
         {
+          "title": "委内瑞拉发布「搜捕美国侵略支持者」等多项紧急防御措施，这意味着什么？对现状能有何改变？",
+          "url": "https://www.zhihu.com/question/1991807417319645333",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时13分]"
+        },
+        {
           "title": "丹麦首相警告，美国若吞并格陵兰岛将意味着北约终结",
           "url": "https://news.ifeng.com/c/8pgsGwPv6VM",
           "source": "凤凰网",
@@ -632,6 +647,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时17分 ~ 16时18分]"
+        },
+        {
+          "title": "美国突袭后委内瑞拉卫星对比图",
+          "url": "https://www.toutiao.com/trending/7591722452749782534/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时13分]"
         },
         {
           "title": "丹麦方面表示，美国对格陵兰岛的攻击将意味着北约的终结。",
@@ -695,9 +724,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
+        },
+        {
+          "title": "哥伦比亚外交部长表示，一旦美国发动军事入侵，哥伦比亚军队应捍卫国家领土和主权。",
+          "url": "https://flash.jin10.com/detail/20260106230357663800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "【丹麦首相警告：美国吞并格陵兰岛将意味着北约终结】在结束对委内瑞拉的突袭行动后，美国总统特朗普当地时间1月4日曾表示，美国需要格陵兰岛。丹麦首相弗雷泽里克森5日对特朗普的相关言论作出回应，称如果美国吞并格陵兰岛，将等同于北约这一军事联盟的终结。“如果美国选择对另一个北约国家发动军事攻击，那么一切都将停止。”弗雷泽里克森在接受丹麦TV2电视台采访时表示，“这包括北约本身，以及自第二次世界大战结束以来维持的安全（体系）”。（环球网）",
@@ -721,6 +761,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时13分 ~ 22时14分]"
+        },
+        {
+          "title": "美国能直接抓捕委内瑞拉总统，现行国际危机处理机制还有效吗？联合国还能在国际冲突中发挥什么实际作用？",
+          "url": "https://www.zhihu.com/question/1991127934191235637",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时13分]"
         },
         {
           "title": "委内瑞拉之后，美国接下来可能会对哪个国家动手？",
@@ -879,27 +932,15 @@
           "time_info": "16时18分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（1月5日）担保隔夜融资利率（SOFR）报3.70%，之前一天报3.75%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3031725",
-          "source": "华尔街见闻-快讯",
+          "title": "日本加强对色情行业监督",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A0%E5%BC%BA%E5%AF%B9%E8%89%B2%E6%83%85%E8%A1%8C%E4%B8%9A%E7%9B%91%E7%9D%A3%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "委内瑞拉发布「搜捕美国侵略支持者」等多项紧急防御措施，这意味着什么？对现状能有何改变？",
-          "url": "https://www.zhihu.com/question/1991807417319645333",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时14分]"
+          "time_info": "23时13分"
         },
         {
           "title": "俄罗斯常驻联合国代表：我们不能允许美国把自己塑造成国际法官。",
@@ -1001,37 +1042,12 @@
           "time_info": "07时11分"
         },
         {
-          "title": "美国突袭后委内瑞拉卫星对比图",
-          "url": "https://www.toutiao.com/trending/7591722452749782534/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时14分]"
-        },
-        {
           "title": "美国12月ISM制造业PMI意外创2024年以来最大萎缩，库存拖累",
           "url": "https://wallstreetcn.com/articles/3762594",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时14分]"
-        },
-        {
-          "title": "美国能直接抓捕委内瑞拉总统，现行国际危机处理机制还有效吗？联合国还能在国际冲突中发挥什么实际作用？",
-          "url": "https://www.zhihu.com/question/1991127934191235637",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -1213,6 +1229,17 @@
           "time_info": "[11时58分 ~ 12时36分]"
         },
         {
+          "title": "金灿荣：美国把国际法国际道义的进步彻底打碎了",
+          "url": "https://v.ifeng.com/c/8phLxlf7HOO",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 23时13分]"
+        },
+        {
           "title": "美国宣布价值27亿美元订单，以提高铀浓缩能力",
           "url": "https://flash.jin10.com/detail/20260106034615843800",
           "source": "金十数据",
@@ -1283,6 +1310,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时32分 ~ 22时14分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（1月5日）担保隔夜融资利率（SOFR）报3.70%，之前一天报3.75%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3031725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时13分]"
         },
         {
           "title": "专家回应日本梅毒扩散",
@@ -1371,15 +1410,18 @@
           "time_info": "[16时17分 ~ 18时13分]"
         },
         {
-          "title": "金灿荣：美国把国际法国际道义的进步彻底打碎了",
-          "url": "https://v.ifeng.com/c/8phLxlf7HOO",
-          "source": "凤凰网",
+          "title": "日本流行梅毒妆",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E6%A2%85%E6%AF%92%E5%A6%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            27,
+            21,
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时23分 ~ 22时14分]"
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 23时13分]"
         },
         {
           "title": "日本拍卖10年期国债，认购倍数为3.30，前次为3.59，过去12个月均值为3.24。",
@@ -1393,19 +1435,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 13时17分]"
-        },
-        {
-          "title": "日本流行梅毒妆",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E6%A2%85%E6%AF%92%E5%A6%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时23分 ~ 22时14分]"
         },
         {
           "title": "美国能源部宣布拨款27亿美元以加强美国的铀浓缩能力。",
@@ -1612,7 +1641,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -1815,6 +1844,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "日本未能确认的两架战斗机是歼-20吗",
+          "url": "https://www.toutiao.com/trending/7592214950454496804/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "俄罗斯常驻联合国代表：美国在委内瑞拉犯下的罪行没有任何正当理由，我们予以谴责。",
           "url": "https://flash.jin10.com/detail/20260105234619102800",
           "source": "金十数据",
@@ -1846,6 +1886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美国12月标普全球服务业PMI终值52.5，创2025年4月份以来新低。 就业分项指数终值降至49.9，创2025年2月份以来新低。 12月标普全球综合PMI终值降至52.7，创2025年4月份以来新低。 新订单分项指数终值降至50.8，创2024年4月份以来新低，但仍连续20个月扩张。",
+          "url": "https://wallstreetcn.com/livenews/3031752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "李在明：韩中曾共同抗击日本侵略",
@@ -1958,6 +2009,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "乌克兰盟友在法国巴黎举行峰会。 峰会声明草案显示，美国将承诺，未来俄罗斯如果袭击乌克兰，美国将向乌克兰提供支持。 根据这份仍有可能进行修改的草案，欧洲、加拿大的领导人和美国官员预计还将同意为乌克兰组建一支多国部队，以支持基辅武装力量的重建。该项努力将由欧洲牵头、美国参与。",
+          "url": "https://wallstreetcn.com/livenews/3031756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "百度热搜",
@@ -2035,6 +2097,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美国12月标普全球综合PMI终值 52.7，初值 53。",
+          "url": "https://wallstreetcn.com/livenews/3031750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "委内瑞拉总统马杜罗的律师：（美国的）绑架行为存在合法性问题。",
           "url": "https://flash.jin10.com/detail/20260106013414496800",
           "source": "金十数据",
@@ -2099,6 +2172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "美国12月标普全球服务业PMI终值 52.5，预期 52.9，初值 52.9。",
+          "url": "https://wallstreetcn.com/livenews/3031749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "高盛：美国失业率有望因“停摆”影响消退而回落",
@@ -2250,7 +2334,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -2387,6 +2471,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "依视路陆逊梯卡EL法国巴黎股价涨3.8%，创10月17日以来最佳盘中表现。 其智能眼镜合作伙伴Meta声称，暂停Meta Ray-Ban Display的国际扩张计划，因为（美国市场的）“需求空前、而库存有限”。",
+          "url": "https://wallstreetcn.com/livenews/3031745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国参议员马克·凯利：美国国防部长赫格塞思和唐纳德·特朗普无权决定美国民众如何评价他们的政府。",
           "url": "https://flash.jin10.com/detail/20260106004424537800",
           "source": "金十数据",
@@ -2517,6 +2612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "马克龙不支持也不赞同美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%8D%E6%94%AF%E6%8C%81%E4%B9%9F%E4%B8%8D%E8%B5%9E%E5%90%8C%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国参议员马克·凯利：我从未想到美国总统和国防部长会因为我的做法而攻击我。",
@@ -2657,9 +2763,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
+        },
+        {
+          "title": "美国12月标普全球综合PMI终值 52.7，前值53。",
+          "url": "https://flash.jin10.com/detail/20260106224502429800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国国会拨款委员会公布了包含三项法案的综合支出方案文本。",
@@ -2693,6 +2810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "美国12月标普全球服务业PMI终值 52.5，预期52.9，前值52.9。",
+          "url": "https://flash.jin10.com/detail/20260106224502403800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "组织敲定全球最低税协议，为美国企业设立例外安排",
@@ -2805,6 +2933,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "法官裁定，针对美国卫生部长罗伯特·肯尼迪任内推行的疫苗政策提起的诉讼可继续进行。",
+          "url": "https://flash.jin10.com/detail/20260106224038058800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国12月ISM制造业就业指数 44.9，前值 44。",
           "url": "https://wallstreetcn.com/livenews/3030964",
           "source": "华尔街见闻-快讯",
@@ -2902,6 +3041,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "委内瑞拉前副外长谈美国强掳马杜罗",
+          "url": "https://www.toutiao.com/trending/7592213793891946035/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国至1月5日3个月国债竞拍-投标倍数 2.84，前值2.66。",
@@ -3127,7 +3277,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -3185,8 +3335,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时52分 ~ 22时14分]"
+          "appearance_count": 17,
+          "time_info": "[10时52分 ~ 23时13分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -3361,6 +3511,18 @@
           "time_info": "[03时14分 ~ 05时12分]"
         },
         {
+          "title": "AI养生道",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 23时13分]"
+        },
+        {
           "title": "字节豆包AI眼镜第一代总规划数量约10万台，采用高通AR1芯片",
           "url": "https://www.cls.cn/detail/2248752",
           "source": "财联社热门",
@@ -3407,18 +3569,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 12时36分]"
-        },
-        {
-          "title": "AI养生道",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%BB%E7%94%9F%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时14分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -3620,6 +3770,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "AIG跌6%，创4月份以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3031743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
           "url": "https://wallstreetcn.com/livenews/3031028",
           "source": "华尔街见闻-快讯",
@@ -3637,9 +3798,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
+        },
+        {
+          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
+          "url": "https://wallstreetcn.com/livenews/3031737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
