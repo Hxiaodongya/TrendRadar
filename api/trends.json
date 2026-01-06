@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-01-06T07:11:55.554541+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-01-06T08:54:42.934902+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 122,
+      "match_count": 142,
       "titles": [
         {
           "title": "美国副总统万斯住所遭袭击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "美国副总统万斯住所遭袭击",
-          "url": "https://www.toutiao.com/trending/7590906845573873690/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
         },
         {
           "title": "美国副总统万斯住所遭袭击",
@@ -39,8 +29,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
+        },
+        {
+          "title": "美国副总统万斯住所遭袭击",
+          "url": "https://www.toutiao.com/trending/7590906845573873690/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -52,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
         },
         {
           "title": "委内瑞拉代理总统称邀请美国参与制定合作议程",
@@ -63,19 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥或将任委内瑞拉「总督」，这是个什么职务？是否意味着美国将直接管理委内瑞拉事务？",
-          "url": "https://www.zhihu.com/question/1991542787297006513",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
         },
         {
           "title": "美国对委行动明显践踏国际法，西方却集体哑火了？",
@@ -85,8 +76,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥或将任委内瑞拉「总督」，这是个什么职务？是否意味着美国将直接管理委内瑞拉事务？",
+          "url": "https://www.zhihu.com/question/1991542787297006513",
+          "source": "知乎",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
+        },
+        {
+          "title": "牢A神了!央媒认证美国斩杀线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348699&amp;topic_name=%E7%89%A2A%E7%A5%9E%E4%BA%86%21%E5%A4%AE%E5%AA%92%E8%AE%A4%E8%AF%81%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
         },
         {
           "title": "古巴称 32 名军事人员在美国对委内瑞拉行动中死亡，此事或将引发哪些连锁反应？",
@@ -96,17 +111,6 @@
             11,
             12,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
-        },
-        {
-          "title": "牢A神了!央媒认证美国斩杀线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348699&amp;topic_name=%E7%89%A2A%E7%A5%9E%E4%BA%86%21%E5%A4%AE%E5%AA%92%E8%AE%A4%E8%AF%81%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -124,6 +128,18 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
+          "title": "俄代表谴责美国：无法无天时代的回归",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%BB%A3%E8%A1%A8%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%EF%BC%9A%E6%97%A0%E6%B3%95%E6%97%A0%E5%A4%A9%E6%97%B6%E4%BB%A3%E7%9A%84%E5%9B%9E%E5%BD%92",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时54分]"
+        },
+        {
           "title": "6国发表联合声明谴责美国",
           "url": "https://www.toutiao.com/trending/7590747785197928489/",
           "source": "今日头条",
@@ -138,18 +154,6 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
-          "title": "俄代表谴责美国：无法无天时代的回归",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%BB%A3%E8%A1%A8%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%EF%BC%9A%E6%97%A0%E6%B3%95%E6%97%A0%E5%A4%A9%E6%97%B6%E4%BB%A3%E7%9A%84%E5%9B%9E%E5%BD%92",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 07时11分]"
-        },
-        {
           "title": "马杜罗在美国首次出庭 表示不认罪",
           "url": "https://www.toutiao.com/trending/7591924840089521706/",
           "source": "今日头条",
@@ -157,19 +161,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 07时11分]"
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 08时54分]"
         },
         {
           "title": "美国法官要求马杜罗3月17日再次出庭",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%B3%95%E5%AE%98%E8%A6%81%E6%B1%82%E9%A9%AC%E6%9D%9C%E7%BD%973%E6%9C%8817%E6%97%A5%E5%86%8D%E6%AC%A1%E5%87%BA%E5%BA%AD",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 07时11分]"
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 08时54分]"
         },
         {
           "title": "丹麦方面表示，美国对格陵兰岛的攻击将意味着北约的终结。",
@@ -189,9 +194,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "不认罪!马杜罗硬刚美国指控",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348737&amp;topic_name=%E4%B8%8D%E8%AE%A4%E7%BD%AA%21%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD%E6%8C%87%E6%8E%A7",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -200,7 +216,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -233,9 +249,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国副总统万斯住所遭袭击，警方逮捕一人，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/1991602405352110046",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "俄罗斯常驻联合国代表：我们不能允许美国把自己塑造成国际法官。",
@@ -255,7 +282,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -277,7 +304,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -556,6 +583,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "马杜罗在美国纽约南区联邦地区法院首次出庭，称自己仍是委内瑞拉总统、「我无罪」，他可能面临怎样的判罚？",
+          "url": "https://www.zhihu.com/question/1991615303935813338",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "俄罗斯联合国特使：我们呼吁美国释放马杜罗及其妻子。",
           "url": "https://flash.jin10.com/detail/20260105234844508800",
           "source": "金十数据",
@@ -573,9 +611,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国盯上了这三个国家",
+          "url": "https://www.douyin.com/hot/2358008",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国国务院：自2026年1月1日起，美国将全面或部分暂停向39个国家的国民和使用巴勒斯坦权力机构签发或核准的旅行证件申请签证的个人发放签证。",
@@ -644,6 +693,28 @@
           "time_info": "00时16分"
         },
         {
+          "title": "俄代表在安理会谴责美国无法无天",
+          "url": "https://www.toutiao.com/trending/7592016209407823369/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
+          "url": "https://wallstreetcn.com/articles/3762526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "哥伦比亚内政和司法部长：哥伦比亚将继续与美国在打击贩毒方面保持协调与合作。",
           "url": "https://flash.jin10.com/detail/20260106045600647800",
           "source": "金十数据",
@@ -688,6 +759,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "日本东证指数刷新历史新高。",
+          "url": "https://flash.jin10.com/detail/20260106080118357800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国财政部宣布，美国与经合组织达成全球最低税率协议。 财政部长贝森特称，希望围绕数字经济税举行富有建设性的磋商。",
           "url": "https://wallstreetcn.com/livenews/3031040",
           "source": "华尔街见闻-快讯",
@@ -697,6 +779,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "马杜罗拒对美国认罪：“我仍是委内瑞拉总统” 起诉书长达25页",
@@ -787,6 +891,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "日本12月基础货币年率 -9.8%，前值-8.50%。",
+          "url": "https://flash.jin10.com/detail/20260106075014985800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "斯泰兰蒂斯集团Stellantis NV四季度FCA美国总体销售332,321辆，同比增长4%。",
           "url": "https://wallstreetcn.com/livenews/3031008",
           "source": "华尔街见闻-快讯",
@@ -807,6 +922,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "日本东证指数创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3031180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "委内瑞拉下令搜捕美国侵略支持者",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B8%8B%E4%BB%A4%E6%90%9C%E6%8D%95%E7%BE%8E%E5%9B%BD%E4%BE%B5%E7%95%A5%E6%94%AF%E6%8C%81%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国法官作出决定，委内瑞拉总统马杜罗将于3月17日出席法庭听证会。",
@@ -853,6 +990,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "据CBS：雪佛龙(CVX.N)、康菲石油(COP.N)和埃克森美孚石油(XOM.N)的代表预计将于周四会见美国能源部长赖特。",
+          "url": "https://flash.jin10.com/detail/20260106075009726800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.540%，投标倍数2.84。 拍卖六个月期国债，得标利率3.475%，投标倍数2.38。",
           "url": "https://wallstreetcn.com/livenews/3031007",
           "source": "华尔街见闻-快讯",
@@ -870,9 +1018,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "委内瑞拉之后，美国接下来可能会对哪个国家动手？",
+          "url": "https://www.zhihu.com/question/1991452027079849624",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -930,6 +1089,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美媒：美国要求委内瑞拉停止向美国的对手出售石油",
+          "url": "https://flash.jin10.com/detail/20260106074455088800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "通用汽车四季度美国销售703,001辆，同比下滑6.9%。 四季度美国电动汽车销售25,219辆，同比下滑43%。",
           "url": "https://wallstreetcn.com/livenews/3031033",
           "source": "华尔街见闻-快讯",
@@ -947,7 +1117,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1095,6 +1265,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "雪佛龙、康菲石油和埃克森美孚的代表预计周四与美国能源部长赖特会面。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3031174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "亚特兰大联储GDPNow模型预计美国2025年第四季度GDP增速为2.7%，此前预计为3.0%。",
           "url": "https://flash.jin10.com/detail/20260106004156134800",
           "source": "金十数据",
@@ -1139,6 +1320,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "日本12月基础货币同比 -9.8%，前值 -8.5%。",
+          "url": "https://wallstreetcn.com/livenews/3031172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "通用汽车第四季度美国销量总计703,001辆。",
           "url": "https://flash.jin10.com/detail/20260106011643882800",
           "source": "金十数据",
@@ -1170,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "英伟达称，对所有国家都有充足的供应。 公司已申请向中国出口H200芯片的相关许可，目前美国政府正 “推进办理” 审批流程。",
+          "url": "https://wallstreetcn.com/livenews/3031168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国联邦公共广播公司（CPB）投票决定解散，该公司已成立58年。",
@@ -1269,6 +1472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "委警方搜捕参与或支持美国袭击人员",
+          "url": "https://www.toutiao.com/trending/7591074451783598116/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国至1月5日3个月国债竞拍-得标利率 3.54%，前值3.57%。",
@@ -1379,12 +1593,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "据NBC：美国总统特朗普表示，他无需国会授权即可将美军重新派往委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260106070554371800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -1393,11 +1618,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 08时54分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -1409,11 +1635,12 @@
             10,
             14,
             8,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时15分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时54分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -1425,8 +1652,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 07时11分]"
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 08时54分]"
+        },
+        {
+          "title": "AI教父抨击Meta 29岁AI新主管“缺乏经验”，并预警人才流失危机",
+          "url": "https://wallstreetcn.com/livenews/3031193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "中信建投：关注AI医疗产业链投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3031191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -1484,9 +1733,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
@@ -1506,7 +1766,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1522,13 +1782,24 @@
           "time_info": "00时16分"
         },
         {
+          "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
+          "url": "https://www.cls.cn/detail/2248633",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
           "url": "https://flash.jin10.com/detail/20260106063939900800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1550,7 +1821,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1583,7 +1854,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1605,9 +1876,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "【桥水创始人达利欧：AI热潮正处于泡沫初期阶段，美联储会进一步吹大泡沫】对冲基金经理雷伊・达利欧发文警告，曾推动华尔街科技股走高的人工智能（AI）热潮目前已进入泡沫初期阶段。他指出，2025年美国股市表现显著落后于非美股市及黄金资产。“显然，相较于美国股票，投资者更愿意配置非美股票；同理，他们也更倾向于持有非美债券，而非美国债券与美元现金。”“当然，未来美联储的政策走向以及生产力增速，都存在巨大的不确定性。” 达利欧表示。“种种迹象表明，新任美联储主席及联邦公开市场委员会，大概率会倾向于压低名义利率与实际利率。这一举措虽会对资产价格形成支撑，但也会进一步吹大泡沫。”",
@@ -1627,7 +1909,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         }
