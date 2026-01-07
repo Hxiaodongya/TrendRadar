@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T02:19:15.317063+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-08T03:14:13.828813+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 101,
+      "match_count": 115,
       "titles": [
         {
           "title": "中方对原产于日本的进口二氯二氢硅发起反倾销立案调查，二氯二氢硅是做什么的？此举对日方会产生哪些影响？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
         },
         {
           "title": "中方回应日本就出口管制提出抗议",
@@ -29,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
         },
         {
           "title": "美国将“代销”委内瑞拉石油，并要求委切断与中国、俄罗斯的经济联系！外交部：典型的霸凌行径",
@@ -41,8 +42,54 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "美国宣布已扣押“贝拉1”号油轮",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32336532",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "俄罗斯谴责美国扣押油轮",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "郭正亮：日本已经被打到“脑震荡”了",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E8%A2%AB%E6%89%93%E5%88%B0%E2%80%9C%E8%84%91%E9%9C%87%E8%8D%A1%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "美国不装了，“或转移运往中国的原油”",
+          "url": "https://news.ifeng.com/c/8piqhng2ZSr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
         },
         {
           "title": "美国食品药品监督管理局局长：指南将帮助人们减少用药。",
@@ -56,26 +103,102 @@
           "time_info": "01时18分"
         },
         {
-          "title": "特朗普：我将呼吁美国国会将其编入法典。",
-          "url": "https://flash.jin10.com/detail/20260108014836291800",
-          "source": "金十数据",
+          "title": "中国留学生讲述“日本梅毒扩散”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E2%80%9C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            2
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
         },
         {
-          "title": "据知情人士透露，聊天平台Discord Inc.秘密递交美国IPO申请。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3032643",
-          "source": "华尔街见闻-快讯",
+          "title": "中方回应日本就出口管制提出抗议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%B1%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
-            2
+            22,
+            19,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "郭正亮：日本已经被打“脑震荡”了",
+          "url": "https://www.toutiao.com/trending/7592229822353604650/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "美国打击委内瑞拉对世界七大危害",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%AF%B9%E4%B8%96%E7%95%8C%E4%B8%83%E5%A4%A7%E5%8D%B1%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "日本经济界对中方全面禁运感到恐慌",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E8%BF%90%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "中国留学生讲述“日本梅毒扩散”",
+          "url": "https://www.toutiao.com/trending/7592575507024367154/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "中方回应美国威胁武力夺取格陵兰岛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E6%AD%A6%E5%8A%9B%E5%A4%BA%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "梅事变疣事,日本梅毒扩散加剧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
         },
         {
           "title": "美国农业部长罗林斯：将很快敲定针对补充营养协助计划（SNAP）项目食品的规则。",
@@ -87,30 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美国11月失业率为4.6%",
-          "url": "https://wallstreetcn.com/livenews/3032642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "美国宣布已扣押“贝拉1”号油轮",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32336532",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "美国取暖油期货走软，EIA数据显示，美国馏分油库存增幅大于预期。",
@@ -157,17 +256,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "美国国土安全部发言人：移民与海关执法局官员在明尼阿波利斯鸣枪自卫。",
-          "url": "https://flash.jin10.com/detail/20260108014344900800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：被美国截获的油轮Bella 1的船员们将被起诉。 必要时将被掳到美国。",
           "url": "https://wallstreetcn.com/livenews/3032619",
           "source": "华尔街见闻-快讯",
@@ -179,37 +267,41 @@
           "time_info": "01时18分"
         },
         {
-          "title": "俄罗斯谴责美国扣押油轮",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
+          "title": "第一次来美国的魔幻冲击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%AD%94%E5%B9%BB%E5%86%B2%E5%87%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            15,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时14分]"
         },
         {
-          "title": "郭正亮：日本已经被打到“脑震荡”了",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E8%A2%AB%E6%89%93%E5%88%B0%E2%80%9C%E8%84%91%E9%9C%87%E8%8D%A1%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
+          "title": "日本单身也要替别人养娃",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%95%E8%BA%AB%E4%B9%9F%E8%A6%81%E6%9B%BF%E5%88%AB%E4%BA%BA%E5%85%BB%E5%A8%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
-          "title": "美国不装了，“或转移运往中国的原油”",
-          "url": "https://news.ifeng.com/c/8piqhng2ZSr",
-          "source": "凤凰网",
+          "title": "特朗普：我将呼吁美国国会将其编入法典。",
+          "url": "https://flash.jin10.com/detail/20260108014836291800",
+          "source": "金十数据",
           "ranks": [
-            7
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国正讨论收购格陵兰岛可能的情形。 （谈及对格陵兰岛动武）所有选项都在考虑范围内。",
@@ -224,6 +316,18 @@
           "time_info": "[01时18分 ~ 02时19分]"
         },
         {
+          "title": "据知情人士透露，聊天平台Discord Inc.秘密递交美国IPO申请。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3032643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
           "url": "https://wallstreetcn.com/livenews/3032621",
           "source": "华尔街见闻-快讯",
@@ -236,125 +340,100 @@
           "time_info": "[01时18分 ~ 02时19分]"
         },
         {
-          "title": "中国留学生讲述“日本梅毒扩散”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E2%80%9C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美国11月失业率为4.6%",
+          "url": "https://wallstreetcn.com/livenews/3032642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
+          "title": "美国国土安全部发言人：移民与海关执法局官员在明尼阿波利斯鸣枪自卫。",
+          "url": "https://flash.jin10.com/detail/20260108014344900800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
+          "title": "英国证实参与美国北大西洋扣押油轮行动",
+          "url": "https://wallstreetcn.com/livenews/3032638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
+          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
+          "url": "https://wallstreetcn.com/livenews/3032636",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "中方回应日本就出口管制提出抗议",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%B1%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "郭正亮：日本已经被打“脑震荡”了",
-          "url": "https://www.toutiao.com/trending/7592229822353604650/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "美国打击委内瑞拉对世界七大危害",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%AF%B9%E4%B8%96%E7%95%8C%E4%B8%83%E5%A4%A7%E5%8D%B1%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "日本经济界对中方全面禁运感到恐慌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%85%A8%E9%9D%A2%E7%A6%81%E8%BF%90%E6%84%9F%E5%88%B0%E6%81%90%E6%85%8C%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "中方回应美国威胁武力夺取格陵兰岛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E6%AD%A6%E5%8A%9B%E5%A4%BA%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "中国留学生讲述“日本梅毒扩散”",
-          "url": "https://www.toutiao.com/trending/7592575507024367154/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "梅事变疣事,日本梅毒扩散加剧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348761&amp;topic_name=%E6%A2%85%E4%BA%8B%E5%8F%98%E7%96%A3%E4%BA%8B%2C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E5%8A%A0%E5%89%A7",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "第一次来美国的魔幻冲击",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%AD%94%E5%B9%BB%E5%86%B2%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "日本单身也要替别人养娃",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%95%E8%BA%AB%E4%B9%9F%E8%A6%81%E6%9B%BF%E5%88%AB%E4%BA%BA%E5%85%BB%E5%A8%83%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 02时19分]"
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
+          "url": "https://wallstreetcn.com/livenews/3032630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
+          "title": "白宫称美国对委内瑞拉拥有最大筹码",
+          "url": "https://wallstreetcn.com/livenews/3032628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
+          "title": "美国已开始在全球兜售委内瑞拉石油",
+          "url": "https://wallstreetcn.com/livenews/3032626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
+        },
+        {
+          "title": "美国会众议长：白宫正通过外交渠道处理格陵兰岛问题",
+          "url": "https://wallstreetcn.com/livenews/3032624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时14分]"
         },
         {
           "title": "美国至1月7日4个月国债竞拍-投标倍数 3.02，前值3.11。",
@@ -366,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美国司法部长：正在监控其他几艘船只",
+          "url": "https://wallstreetcn.com/livenews/3032653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "EIA数据显示，截至1月2日当周，美国墨西哥湾沿岸汽油库存升至2020年1月以来最高水平。",
@@ -390,15 +480,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "英国证实参与美国北大西洋扣押油轮行动",
-          "url": "https://wallstreetcn.com/livenews/3032638",
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://wallstreetcn.com/livenews/3032651",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "03时14分"
         },
         {
           "title": "美国国务卿鲁比奥：委内瑞拉希望被扣押油轮中的石油成为交易的一部分。",
@@ -418,9 +508,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美国交通部长Duffy：到2028年，美国空中交通管控改革计划将完成大部分内容。",
+          "url": "https://wallstreetcn.com/livenews/3032650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国国务卿鲁比奥：我不会给出委内瑞拉石油出口的时间表。",
@@ -434,15 +535,26 @@
           "time_info": "01时18分"
         },
         {
-          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
-          "url": "https://wallstreetcn.com/livenews/3032636",
-          "source": "华尔街见闻-快讯",
+          "title": "委内瑞拉国家石油公司（PDVSA）表示，正在与美国谈判出售原油事宜。",
+          "url": "https://flash.jin10.com/detail/20260108022831919800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "03时14分"
+        },
+        {
+          "title": "内部文件显示，美国和南非官员在12月下旬的一次闭门会议上达成协议，允许美国继续推行备受争议的将南非白人作为难民带到美国的举措。",
+          "url": "https://flash.jin10.com/detail/20260108022055580800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "英国国防部：美国要求英国配合其在大西洋针对油轮的行动。",
@@ -454,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "委内瑞拉国家石油公司：正与美国谈判出售原油",
+          "url": "https://wallstreetcn.com/livenews/3032648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国国务卿鲁比奥：这不会让我们花一分钱。",
@@ -473,9 +596,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
+          "url": "https://flash.jin10.com/detail/20260108021838224800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降383万桶，彭博用户预计减少200万桶、分析师预期下降133.18万桶，之前一周减少193.4万桶。",
@@ -487,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "高盛：极端的白银价格波动将持续存在，既可能上涨，也可能下跌，并建议厌恶波动性的客户保持谨慎。我们仍认为美国对白银征贸易税的可能性不大。",
+          "url": "https://wallstreetcn.com/livenews/3032646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "金十数据整理：美国当周IEA库存数据最值一览",
@@ -528,9 +673,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美国司法部长邦迪：今天，美国对“贝拉1号”（BELLA 1）油轮执行了扣押令。该油轮负责从委内瑞拉和伊朗运输受制裁的石油。",
+          "url": "https://flash.jin10.com/detail/20260108021617134800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国1月2日当周EIA精炼厂设备利用率变化 0%，前值 0.1%。",
@@ -566,6 +722,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美国明尼阿波利斯市一名女子中枪身亡 疑因冲撞移民执法人员",
+          "url": "https://flash.jin10.com/detail/20260108021527096800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "美国1月2日当周EIA汽油库存变动 770.2万桶，前值 584.5万桶。",
           "url": "https://wallstreetcn.com/livenews/3032582",
           "source": "华尔街见闻-快讯",
@@ -599,17 +766,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "伊朗外长：目前不具备与美国谈判的合适条件",
-          "url": "https://wallstreetcn.com/livenews/3032630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
           "title": "美国国务卿鲁比奥：关于格陵兰岛的会议将与丹麦举行。",
           "url": "https://flash.jin10.com/detail/20260108002815266800",
           "source": "金十数据",
@@ -627,9 +783,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "美国11月失业率为4.6%",
+          "url": "https://flash.jin10.com/detail/20260108020925834800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国1月2日当周EIA原油库存变动 -383.2万桶，前值 -193.4万桶。",
@@ -652,17 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "白宫称美国对委内瑞拉拥有最大筹码",
-          "url": "https://wallstreetcn.com/livenews/3032628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
         },
         {
           "title": "英国国防部：英国应美国请求提供了援助。",
@@ -726,7 +882,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -751,17 +907,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美国已开始在全球兜售委内瑞拉石油",
-          "url": "https://wallstreetcn.com/livenews/3032626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
         },
         {
           "title": "美国至1月2日当周EIA车用汽油总产量引伸需求数据 913.66万桶/日，前值946.43万桶/日。",
@@ -797,17 +942,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美国会众议长：白宫正通过外交渠道处理格陵兰岛问题",
-          "url": "https://wallstreetcn.com/livenews/3032624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
           "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
           "url": "https://flash.jin10.com/detail/20260107233020715800",
           "source": "金十数据",
@@ -836,7 +970,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -863,6 +997,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "乌克兰外交部长表示，基辅对美国在北大西洋扣押一艘悬挂俄罗斯国旗的船只表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260108015717610800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "美国至1月2日当周EIA精炼厂设备利用率 94.7%，预期94.8%，前值94.7%。",
           "url": "https://flash.jin10.com/detail/20260107233006993800",
           "source": "金十数据",
@@ -883,6 +1028,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美国单户住宅租赁公司AMH短线下挫触发交易暂停，特朗普称，将禁止大型机构投资者购买更多独栋住宅。",
+          "url": "https://flash.jin10.com/detail/20260108015633925800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国悄无声息地撤销对委内瑞拉的石油制裁行径。",
@@ -924,7 +1080,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -968,7 +1124,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -982,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国天然气期货日内大涨6.00%，现报3.551美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260108015031736800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
@@ -1056,7 +1223,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -1141,7 +1308,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -1151,8 +1318,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 03时14分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -1163,8 +1330,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -1174,8 +1341,41 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时14分]"
+        },
+        {
+          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
+          "url": "https://wallstreetcn.com/livenews/3032657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "杨元庆：AI时代没有赢者通吃 联想要发挥特长开放合作",
+          "url": "https://wallstreetcn.com/livenews/3032655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
@@ -1188,17 +1388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时19分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时19分]"
         }
       ]
     }
