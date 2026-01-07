@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T15:18:32.500289+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-01-07T16:18:07.361979+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 184,
+      "match_count": 198,
       "titles": [
         {
           "title": "商务部：加强两用物项对日本出口管制",
@@ -128,11 +128,12 @@
             5,
             9,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 15时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "一图看懂：美国凭什么说委内瑞拉“盗窃”了石油？",
@@ -159,6 +160,19 @@
           "time_info": "[00时15分 ~ 08时55分]"
         },
         {
+          "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
+          "url": "https://wallstreetcn.com/articles/3762652",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 16时18分]"
+        },
+        {
           "title": "日本年轻人聚众晒梅毒",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -169,6 +183,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 10时53分]"
+        },
+        {
+          "title": "日本年轻人聚众晒梅毒",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "日本梅毒",
@@ -196,6 +224,49 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 08时55分]"
+        },
+        {
+          "title": "东大下通牒:日本应解除武装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348781&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%B8%8B%E9%80%9A%E7%89%92%3A%E6%97%A5%E6%9C%AC%E5%BA%94%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%85",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时18分]"
+        },
+        {
+          "title": "美国自动驾驶将迎重大推进？国会即将讨论立法简化监管",
+          "url": "https://www.cls.cn/detail/2250062",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时38分 ~ 16时18分]"
         },
         {
           "title": "委内瑞拉下令搜捕美国侵略支持者",
@@ -247,19 +318,6 @@
           "time_info": "[00时15分 ~ 08时55分]"
         },
         {
-          "title": "东大下通牒:日本应解除武装",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348781&amp;topic_name=%E4%B8%9C%E5%A4%A7%E4%B8%8B%E9%80%9A%E7%89%92%3A%E6%97%A5%E6%9C%AC%E5%BA%94%E8%A7%A3%E9%99%A4%E6%AD%A6%E8%A3%85",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时18分]"
-        },
-        {
           "title": "金灿荣：美国把国际法国际道义的进步彻底打碎了",
           "url": "https://v.ifeng.com/c/8phLxlf7HOO",
           "source": "凤凰网",
@@ -269,19 +327,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
-          "url": "https://wallstreetcn.com/articles/3762652",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时18分]"
         },
         {
           "title": "禁止两用物项对日本军事用户出口",
@@ -298,19 +343,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时11分]"
-        },
-        {
-          "title": "日本年轻人聚众晒梅毒",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%81%9A%E4%BC%97%E6%99%92%E6%A2%85%E6%AF%92",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时18分]"
         },
         {
           "title": "马克龙改口：不支持美国掳走马杜罗",
@@ -352,31 +384,26 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
+          "title": "亚裔 / 华裔美国人或者从小在国外长大的华人在中国很容易被认出来吗？",
+          "url": "https://www.zhihu.com/question/302883946",
+          "source": "知乎",
           "ranks": [
-            6,
-            7,
-            4
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 16时18分]"
         },
         {
-          "title": "美国自动驾驶将迎重大推进？国会即将讨论立法简化监管",
-          "url": "https://www.cls.cn/detail/2250062",
-          "source": "财联社热门",
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://news.ifeng.com/c/8pim8n4QlIk",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6,
-            5,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 15时18分]"
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "中国对日本一剑封喉",
@@ -385,7 +412,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -418,7 +445,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -429,7 +456,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -558,17 +585,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时11分]"
-        },
-        {
-          "title": "亚裔 / 华裔美国人或者从小在国外长大的华人在中国很容易被认出来吗？",
-          "url": "https://www.zhihu.com/question/302883946",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 15时18分]"
         },
         {
           "title": "美国突袭后委内瑞拉卫星对比图",
@@ -706,6 +722,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时17分]"
+        },
+        {
+          "title": "台湾网红“馆长”力挺蔡正元",
+          "url": "https://www.toutiao.com/trending/7591745487268053001/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 16时18分]"
         },
         {
           "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
@@ -877,6 +906,17 @@
           "time_info": "[04时13分 ~ 05时12分]"
         },
         {
+          "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
+          "url": "https://www.cls.cn/detail/2250455",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
           "title": "美国至1月2日当周API取暖油库存 49.1万桶，前值12万桶。",
           "url": "https://flash.jin10.com/detail/20260107053855572800",
           "source": "金十数据",
@@ -934,6 +974,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "鲁比奥：美国计划从丹麦手中“购买”格陵兰岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333625",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "美国高级官员表示，美国总统特朗普及其顾问正在讨论各种选项，包括从丹麦手中购买该领土，或与该岛建立自由联合协定。",
@@ -1032,6 +1083,28 @@
           "time_info": "[02时17分 ~ 03时09分]"
         },
         {
+          "title": "一图看懂｜美国凭什么说委内瑞拉“盗窃”了石油？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32326233",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
+          "title": "中方回应美国威胁武力夺取格陵兰岛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E6%AD%A6%E5%8A%9B%E5%A4%BA%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
           "title": "第一次来美国的魔幻冲击",
           "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%AD%94%E5%B9%BB%E5%86%B2%E5%87%BB",
           "source": "bilibili 热搜",
@@ -1054,18 +1127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时09分]"
-        },
-        {
-          "title": "台湾网红“馆长”力挺蔡正元",
-          "url": "https://www.toutiao.com/trending/7591745487268053001/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时18分]"
         },
         {
           "title": "美企租用油轮运载委内瑞拉原油驶往美国",
@@ -1136,6 +1197,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "中国台湾12月季调后CPI月率 0.14%，前值0.09%。",
+          "url": "https://flash.jin10.com/detail/20260107160034903800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国石油公司的CEO们计划最快周四前往白宫。 预计他们将讨论在委内瑞拉的投资。（路透）",
           "url": "https://wallstreetcn.com/livenews/3031875",
           "source": "华尔街见闻-快讯",
@@ -1156,6 +1228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "中国台湾12月未季调CPI年率 1.31%，预期1.30%，前值1.23%。",
+          "url": "https://flash.jin10.com/detail/20260107160010706800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "鲁比奥：美国计划从丹麦手中“购买”格陵兰岛",
@@ -1257,6 +1340,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "日本欲打造本土版“星链”系统",
+          "url": "https://wallstreetcn.com/livenews/3032251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国刚动委内瑞拉又谋格陵兰岛",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%9A%E5%8A%A8%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%88%E8%B0%8B%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1332,6 +1426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美元在美国经济数据公布前持稳",
+          "url": "https://flash.jin10.com/detail/20260107154624815800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.560%，投标倍数2.89。",
@@ -1486,6 +1591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "法国外交部长巴罗：法国正与伙伴就美国的格陵兰岛威胁成为现实合作制定应对方案。",
+          "url": "https://flash.jin10.com/detail/20260107154205384800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
@@ -1741,6 +1857,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "法国外交部长巴罗：与美国国务卿鲁比奥进行了通话，他否决了入侵格陵兰岛的说法。",
+          "url": "https://flash.jin10.com/detail/20260107153516685800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "微软携手美国大型电网运营商，试图推动美国中西部电力系统现代化",
           "url": "https://wallstreetcn.com/livenews/3031792",
           "source": "华尔街见闻-快讯",
@@ -1813,7 +1940,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1824,7 +1951,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1868,7 +1995,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1890,7 +2017,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1904,6 +2031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "外交部回应美国威胁武力夺取格陵兰岛言论",
+          "url": "https://wallstreetcn.com/livenews/3032233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：我们有很多石油可以开采。开采石油会进一步降低油价。",
@@ -1934,9 +2072,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://wallstreetcn.com/livenews/3032232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：F-35和阿帕奇直升机制造时间太长。",
@@ -2055,7 +2204,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -2091,6 +2240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "商务部新闻发言人就对原产于日本的进口二氯二氢硅发起反倾销调查答记者问",
+          "url": "https://wallstreetcn.com/livenews/3032225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：将更快地开始生产武器。",
@@ -2151,7 +2311,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
@@ -2164,6 +2324,49 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时11分 ~ 14时19分]"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时18分]"
+        },
+        {
+          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
+          "url": "https://wallstreetcn.com/articles/3762643",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时11分 ~ 16时18分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            4,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时18分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -2180,45 +2383,18 @@
           "time_info": "[04时13分 ~ 10时53分]"
         },
         {
-          "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
-          "url": "https://wallstreetcn.com/articles/3762643",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时11分 ~ 15时18分]"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时18分]"
-        },
-        {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
           "source": "财联社热门",
           "ranks": [
-            13,
-            3,
-            2
+            9,
+            11,
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时18分]"
         },
         {
           "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
@@ -2253,20 +2429,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
@@ -2330,6 +2492,29 @@
           "time_info": "[10时53分 ~ 12时38分]"
         },
         {
+          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
+          "url": "https://www.cls.cn/detail/2250185",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时18分]"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
+        },
+        {
           "title": "苹果公司iPhone Air背后的设计师Abidur Chowdhury跳槽至AI初创公司Hark。",
           "url": "https://wallstreetcn.com/livenews/3031856",
           "source": "华尔街见闻-快讯",
@@ -2373,17 +2558,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
-          "url": "https://www.cls.cn/detail/2250185",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
