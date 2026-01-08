@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T07:12:23.693545+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-01-08T08:54:56.096237+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 184,
+      "match_count": 211,
       "titles": [
         {
           "title": "中方对原产于日本的进口二氯二氢硅发起反倾销立案调查，二氯二氢硅是做什么的？此举对日方会产生哪些影响？",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "中方回应日本就出口管制提出抗议",
@@ -40,11 +40,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "美国宣布已扣押“贝拉1”号油轮",
@@ -56,19 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
-        },
-        {
-          "title": "俄罗斯谴责美国扣押油轮",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "美国不装了，“或转移运往中国的原油”",
@@ -78,8 +68,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
+        },
+        {
+          "title": "俄罗斯谴责美国扣押油轮",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "中国留学生讲述“日本梅毒扩散”",
@@ -90,25 +92,12 @@
             13,
             7,
             10,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
-        },
-        {
-          "title": "中方回应日本就出口管制提出抗议",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%B1%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            19,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "郭正亮：日本已经被打到“脑震荡”了",
@@ -122,8 +111,23 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
+        },
+        {
+          "title": "中方回应日本就出口管制提出抗议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%B1%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            19,
+            9,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "中方回应美国威胁武力夺取格陵兰岛",
@@ -149,11 +153,12 @@
             12,
             14,
             13,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "郭正亮：日本已经被打“脑震荡”了",
@@ -161,11 +166,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "美国打击委内瑞拉对世界七大危害",
@@ -189,11 +195,12 @@
             15,
             16,
             13,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "梅事变疣事,日本梅毒扩散加剧",
@@ -204,8 +211,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "日本单身也要替别人养娃",
@@ -269,15 +276,59 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美国一口气退66个群",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%8F%A3%E6%B0%94%E9%80%8066%E4%B8%AA%E7%BE%A4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国退出66个国际组织",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%80%E5%87%BA66%E4%B8%AA%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "英国方面表示，英国首相斯塔默于今晚与美国总统特朗普通话，并阐述了其在格陵兰岛问题上的立场。",
           "url": "https://flash.jin10.com/detail/20260108065030908800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "据福克斯新闻：美国参议院将于美东时间上午11点进行程序性投票，谴责特朗普政府在委内瑞拉问题上的政策。",
+          "url": "https://flash.jin10.com/detail/20260108084454388800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国对格陵兰岛改口",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%94%B9%E5%8F%A3%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国农业部长罗林斯：将很快敲定针对补充营养协助计划（SNAP）项目食品的规则。",
@@ -308,9 +359,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国退出66个国际组织",
+          "url": "https://www.toutiao.com/trending/7592747008662749210/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国取暖油期货走软，EIA数据显示，美国馏分油库存增幅大于预期。",
@@ -352,7 +414,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -571,6 +633,19 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "“唐罗主义”变现？雪佛龙急调11艘油轮，正将委内瑞拉原油掠回美国",
+          "url": "https://wallstreetcn.com/articles/3762716",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时12分 ~ 08时54分]"
+        },
+        {
           "title": "英国证实参与美国北大西洋扣押油轮行动",
           "url": "https://wallstreetcn.com/livenews/3032638",
           "source": "华尔街见闻-快讯",
@@ -619,18 +694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时13分]"
-        },
-        {
-          "title": "“唐罗主义”变现？雪佛龙急调11艘油轮，正将委内瑞拉原油掠回美国",
-          "url": "https://wallstreetcn.com/articles/3762716",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时12分]"
         },
         {
           "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
@@ -789,6 +852,18 @@
           "time_info": "[04时13分 ~ 05时12分]"
         },
         {
+          "title": "钧正平：台湾问题不容外部势力指手画脚，更轮不到民族败类说三道四",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333626",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时54分]"
+        },
+        {
           "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
           "url": "https://flash.jin10.com/detail/20260108031010315800",
           "source": "金十数据",
@@ -871,6 +946,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "媒体：日本最应算清地区和平这本大账",
+          "url": "https://www.toutiao.com/trending/7592624317675257899/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "EIA数据显示，截至1月2日当周，美国墨西哥湾沿岸汽油库存升至2020年1月以来最高水平。",
           "url": "https://flash.jin10.com/detail/20260107233654733800",
           "source": "金十数据",
@@ -899,9 +985,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "日本两年期国债收益率下跌2.5个基点，至1.140%。",
+          "url": "https://flash.jin10.com/detail/20260108083208961800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
@@ -913,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "日本5年期国债收益率下行3BP至1.55%。",
+          "url": "https://wallstreetcn.com/livenews/3032792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国国务卿鲁比奥：委内瑞拉希望被扣押油轮中的石油成为交易的一部分。",
@@ -954,7 +1062,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -998,7 +1106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1042,7 +1150,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1075,7 +1183,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1130,9 +1238,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "“美联储传声筒”Nick Timiraos表示，大多数（美国）独栋住宅租赁物业由小型房东持有或管理。过去几年间，机构投资者仅占购房总量的约百分之一。此前特朗普称将禁止华尔街投资独栋住宅。",
+          "url": "https://flash.jin10.com/detail/20260108082813595800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降383万桶，彭博用户预计减少200万桶、分析师预期下降133.18万桶，之前一周减少193.4万桶。",
@@ -1163,7 +1282,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1196,7 +1315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1245,6 +1364,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "日本5年期国债收益率下跌3.0个基点，至1.550%。",
+          "url": "https://flash.jin10.com/detail/20260108082206055800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国1月2日当周EIA精炼厂设备利用率变化 0%，前值 0.1%。",
           "url": "https://wallstreetcn.com/livenews/3032583",
           "source": "华尔街见闻-快讯",
@@ -1265,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "日本10年期国债收益率下行2.5BP至2.095%。 日本30年期国债收益率下行1BP至3.490%。",
+          "url": "https://wallstreetcn.com/livenews/3032786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国国务卿鲁比奥：将由委内瑞拉人民来“改变他们的国家”。",
@@ -1306,7 +1447,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1383,7 +1524,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1427,9 +1568,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国众议院委员会投票决定就爱泼斯坦案传唤亿万富翁Les Wexner作证。",
+          "url": "https://wallstreetcn.com/livenews/3032783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "英国国防部：英国应美国请求提供了援助。",
@@ -1460,7 +1612,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1537,7 +1689,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1562,6 +1714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "日本2年期国债收益率下行1.5BP至1.15%。",
+          "url": "https://wallstreetcn.com/livenews/3032780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国至1月2日当周EIA车用汽油总产量引伸需求数据 913.66万桶/日，前值946.43万桶/日。",
@@ -1614,18 +1777,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "钧正平：台湾问题不容外部势力指手画脚，更轮不到民族败类说三道四",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32333626",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1669,7 +1821,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -1773,6 +1925,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "中国出口管制戳中日本软肋了吗",
+          "url": "https://www.douyin.com/hot/2360055",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国至1月2日当周EIA战略石油储备库存 24.5万桶，前值24.8万桶。",
           "url": "https://flash.jin10.com/detail/20260107233005352800",
           "source": "金十数据",
@@ -1828,6 +1991,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "美国总统特朗普：美国国务卿鲁比奥与哥伦比亚外交部长正在安排相关事宜。会面将在华盛顿特区的白宫举行。",
+          "url": "https://flash.jin10.com/detail/20260108075512785800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国至1月2日当周EIA原油进口 56.3万桶，前值-95.7万桶。",
           "url": "https://flash.jin10.com/detail/20260107233003934800",
           "source": "金十数据",
@@ -1870,6 +2044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国总统特朗普：能与哥伦比亚总统通话是我的莫大荣幸，他打电话来向我说明了毒品局势以及我们之间存在的其他分歧。期待在不久的将来与他见面。",
+          "url": "https://flash.jin10.com/detail/20260108075444454800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国11月职位空缺降至一年多以来最低水平",
@@ -1938,6 +2123,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国司法部起诉加州两座禁止使用天然气的城市",
+          "url": "https://wallstreetcn.com/livenews/3032773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国至1月2日当周EIA成品油进口 49万桶/日，前值-70.2万桶/日。",
           "url": "https://flash.jin10.com/detail/20260107233003835800",
           "source": "金十数据",
@@ -1960,6 +2156,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美国官员表示，总统特朗普和哥伦比亚总统通话。",
+          "url": "https://flash.jin10.com/detail/20260108075325537800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国12月ISM服务业扩张速度创逾一年新高",
           "url": "https://wallstreetcn.com/livenews/3032568",
           "source": "华尔街见闻-快讯",
@@ -1980,6 +2187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "日本推迟发射火箭 仍在调查上次失败原因",
+          "url": "https://wallstreetcn.com/livenews/3032772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国至1月2日当周EIA取暖油库存 67.2万桶，前值13.4万桶。",
@@ -2026,6 +2244,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "日本1月2日当周净买进国外债券 -2236亿日元，前值 1030亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3032771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国至1月2日当周EIA汽油库存 770.2万桶，预期318.6万桶，前值584.5万桶。",
           "url": "https://flash.jin10.com/detail/20260107233003736800",
           "source": "金十数据",
@@ -2048,15 +2277,48 @@
           "time_info": "01时18分"
         },
         {
+          "title": "日本至1月2日当周外资买进日债 2735亿日元，前值-462亿日元。",
+          "url": "https://flash.jin10.com/detail/20260108075039691800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "特朗普指示美国退出“不符合该国利益”的66个国际组织",
           "url": "https://wallstreetcn.com/livenews/3032717",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "日本1月2日当周净买进国外股票 2366亿日元，前值 -2045亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3032770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国家公园年卡遮特朗普头像将失效",
+          "url": "https://www.toutiao.com/trending/7592652151615258633/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国至1月2日当周EIA新配方汽油库存 0.4万桶，前值-0.6万桶。",
@@ -2081,6 +2343,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "日本至1月2日当周买进外国股票 2366亿日元，前值-2045亿日元。",
+          "url": "https://flash.jin10.com/detail/20260108075023985800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国11月JOLTS职位空缺 714.6万人，预期 760万人，前值 767万人。",
           "url": "https://wallstreetcn.com/livenews/3032564",
           "source": "华尔街见闻-快讯",
@@ -2090,6 +2363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "日本1月2日当周外资净买进日本股票 1249亿日元，前值 -12348亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3032769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "美国至1月2日当周EIA汽油产量 -47.2万桶/日，前值-35.2万桶/日。",
@@ -2103,6 +2387,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "日本至1月2日当周买进外国债券 -2236亿日元，前值1030亿日元。",
+          "url": "https://flash.jin10.com/detail/20260108075002768800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
           "title": "美国10月耐用品订单环比终值 -2.2%，预期 -2.2%，初值 -2.2%。",
           "url": "https://wallstreetcn.com/livenews/3032563",
           "source": "华尔街见闻-快讯",
@@ -2112,12 +2407,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "日本1月2日当周外资净买进日本债券 2735亿日元，前值 -462亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3032768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -2127,8 +2433,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[02时18分 ~ 08时54分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -2137,11 +2443,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -2149,11 +2456,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 08时54分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -2174,7 +2482,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -2249,6 +2557,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时12分]"
+        },
+        {
+          "title": "黄仁勋演讲点燃华尔街信心！两大投行点赞：英伟达将是2026最强AI概念股！",
+          "url": "https://www.cls.cn/detail/2250814",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "OpenAI设立500亿美元员工股票奖励池。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3032785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "三星公布创纪录利润 AI推动存储市场增长",
+          "url": "https://flash.jin10.com/detail/20260108081613269800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "Arm控股成立“Physical AI”部门，进军机器人领域。（路透）",
