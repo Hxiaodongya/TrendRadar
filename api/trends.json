@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T02:18:25.410387+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-01-10T03:13:55.782078+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 67,
+      "match_count": 89,
       "titles": [
         {
           "title": "美国强抢委内瑞拉石油后，“中企已转向加拿大”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "卢卡申科：美国说教他国，自身却毫无正义可言",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "美国至1月9日当周石油钻井总数将于十分钟后公布。",
@@ -48,9 +48,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国预算办公室（CBO）：预计美国12月预算赤字1430亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3034368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "明尼苏达州官员要求美国联邦调查局（FBI）共享移民与海关执法局枪击案调查中的证据。",
@@ -70,18 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "周五（1月9日），韩元兑美元最终跌0.47%，报1459.11韩元，美国非农就业报告发布后一度小幅回升，本周累计下跌1.01%，整体持续走低。",
-          "url": "https://wallstreetcn.com/livenews/3034333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -95,8 +95,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "美国联邦住房金融局局长普尔特：购买抵押债券可能使房利美和房地美受益。",
+          "url": "https://flash.jin10.com/detail/20260110030508358800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "周五（1月9日），韩元兑美元最终跌0.47%，报1459.11韩元，美国非农就业报告发布后一度小幅回升，本周累计下跌1.01%，整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3034333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "如何评价新出版的 2025 版《美国膳食指南》？",
+          "url": "https://www.zhihu.com/question/1992707692716914111",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "日本一医院遗失放射性物质",
@@ -105,11 +140,46 @@
           "ranks": [
             2,
             9,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "涉乌克兰，美国发出紧急警告",
+          "url": "https://news.ifeng.com/c/8pmUpxh5XnV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "美国国务卿鲁比奥与北约秘书长吕特通话。",
@@ -136,17 +206,65 @@
           "time_info": "[01时16分 ~ 02时18分]"
         },
         {
-          "title": "如何评价新出版的 2025 版《美国膳食指南》？",
-          "url": "https://www.zhihu.com/question/1992707692716914111",
-          "source": "知乎",
+          "title": "美国掀翻牌桌连退66组织",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8E%80%E7%BF%BB%E7%89%8C%E6%A1%8C%E8%BF%9E%E9%80%8066%E7%BB%84%E7%BB%87",
+          "source": "贴吧",
           "ranks": [
-            11,
-            9,
-            5
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "日本稀土新动向",
+          "url": "https://www.douyin.com/hot/2362137",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
+          "url": "https://news.ifeng.com/c/8pmH513Ylus",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "央视军事揭秘美国新型核导弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E6%8F%AD%E7%A7%98%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%9E%8B%E6%A0%B8%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            6,
+            28,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "俄精准断供材料,日本产业被反杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "美内政部长：委内瑞拉石油开发不靠美国政府出资",
@@ -159,6 +277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时18分]"
+        },
+        {
+          "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
+          "url": "https://www.cls.cn/detail/2253593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "Servus Credit Union首席经济学家Charles St-Arnaud：数据显示，加拿大劳动力市场并未受到美国贸易冲突影响的行业仍然是就业增长的主要来源。 总体而言，今天的报告显示劳动力市场具有一定的韧性。 这将为2026年经济活动的回升提供空间，尽管回升幅度可能有限。 有鉴于此，该报告支持加拿大央行最近的评估，即除非经济恶化，否则没必要进一步降息。",
@@ -185,112 +315,6 @@
           "time_info": "[01时16分 ~ 02时18分]"
         },
         {
-          "title": "涉乌克兰，美国发出紧急警告",
-          "url": "https://news.ifeng.com/c/8pmUpxh5XnV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "美国掀翻牌桌连退66组织",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8E%80%E7%BF%BB%E7%89%8C%E6%A1%8C%E8%BF%9E%E9%80%8066%E7%BB%84%E7%BB%87",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "日本稀土新动向",
-          "url": "https://www.douyin.com/hot/2362137",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
-          "url": "https://news.ifeng.com/c/8pmH513Ylus",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "俄精准断供材料,日本产业被反杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "央视军事揭秘美国新型核导弹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E5%86%9B%E4%BA%8B%E6%8F%AD%E7%A7%98%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%9E%8B%E6%A0%B8%E5%AF%BC%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
-          "url": "https://www.cls.cn/detail/2253593",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
           "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
@@ -299,8 +323,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -311,8 +335,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "台湾网红馆长以恐吓罪被起诉",
@@ -321,11 +345,12 @@
           "ranks": [
             10,
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -335,8 +360,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "美国12月非农低于预期 三大期指集体走高 | 今夜看点",
@@ -346,8 +371,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "担忧中方稀土反制，日本拉G7给自己壮胆",
@@ -357,8 +382,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "台湾网红“馆长”被起诉",
@@ -366,11 +391,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "日本一医院遗失放射性物质",
@@ -380,8 +406,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "日本出昏招,停供动漫当武器",
@@ -392,8 +418,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "中方沉痛哀悼前日本驻华大使丹羽逝世",
@@ -405,8 +431,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "台湾网红馆长以恐吓罪被起诉",
@@ -414,11 +440,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "消息人士称，印度信实工业集团正与美国政府磋商，寻求获得进口委内瑞拉原油的许可。",
@@ -504,15 +531,59 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国联邦住房金融局局长普尔特拒绝透露2000亿美元抵押贷款购买何时完成。",
+          "url": "https://flash.jin10.com/detail/20260110030006431800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：相信总统特朗普将在达沃斯宣布一些不错的想法。 （2026年即将举办的）达沃斯将因（美国）住房市场而非常兴奋。 （关于房利美+房地美，即两房）信心存在于流动性之中。 两房IPO仍然可能迅速发生。 在推出50年期抵押贷款（产品）之前，我们还有其他的优先议题。 （对于抵押贷款债券）我们已经购买大约30亿美元。 正处于执行2000亿美元购买的过程中。 抵押贷款债券购买能够利好两房。 特朗普对金融机构购买独栋住宅的禁令很重要。",
+          "url": "https://wallstreetcn.com/livenews/3034360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国联邦住房金融局局长普尔特：我们已经进行了一项价值30亿美元的抵押贷款购买。",
+          "url": "https://flash.jin10.com/detail/20260110025955034800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "【委内瑞拉：与美国启动“探索性外交”进程】委内瑞拉外交部长希尔9日通过社交媒体发布政府公报说，委内瑞拉政府决定与美国政府启动“探索性外交”进程，推动恢复各自外交使团工作，制定共同关心的工作议程。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3034328",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：今天的石油会议主要讨论关于委内瑞拉的（投资）问题。 能源部长Wright和Burgum下周将会见其他的石油公司。",
+          "url": "https://wallstreetcn.com/livenews/3034359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国财长贝森特：美国国税局将成立特别工作组，调查涉及新冠税收优惠的欺诈行为。",
@@ -532,9 +603,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
+          "url": "https://wallstreetcn.com/livenews/3034358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国联邦住房金融局局长普尔特谈50年期抵押贷款：我们目前有其他优先事项。",
+          "url": "https://flash.jin10.com/detail/20260110025034618800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
@@ -543,7 +636,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -576,7 +669,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -603,6 +696,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国总统特朗普：在这次与会中，一个非常重要的因素将是为美国人民降低油价。",
+          "url": "https://flash.jin10.com/detail/20260110024748175800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "回应美国拟向居民发钱以争取格陵兰的报道，当地议员称再多钱也买不来",
           "url": "https://wallstreetcn.com/livenews/3034298",
           "source": "华尔街见闻-快讯",
@@ -620,9 +724,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国总统特朗普：今天的会议几乎完全围绕委内瑞拉石油以及我们与委内瑞拉的长期关系展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260110024730597800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国总统特朗普：我们为今天无法接待（所有）石油公司而道歉，但能源部长和内政部长将在下周会见他们。",
+          "url": "https://flash.jin10.com/detail/20260110024722779800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国三季度家庭净值变动 60640亿美元，前值 70860亿美元。",
@@ -631,7 +757,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -647,6 +773,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国总统特朗普：期待在二月第一周与哥伦比亚总统佩特罗在白宫会面。",
+          "url": "https://flash.jin10.com/detail/20260110024635635800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "白宫顾问哈塞特：获取美国劳工统计局（BLS）谁“可靠的”需要付出大量努力。",
           "url": "https://wallstreetcn.com/livenews/3034278",
           "source": "华尔街见闻-快讯",
@@ -658,15 +795,37 @@
           "time_info": "00时15分"
         },
         {
+          "title": "联合国发言人：美国或失去联大投票权",
+          "url": "https://www.toutiao.com/trending/7592846472723873835/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "美国商务部长会见建筑商 探讨如何提高住房可负担性",
           "url": "https://flash.jin10.com/detail/20260110012116890800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国里士满联储主席Barkin：美联储没理由不会迎来以为良好的主席。",
+          "url": "https://wallstreetcn.com/livenews/3034349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "亚特兰大联储GDPNow模型预计美国2025年第四季度GDP增速为5.1%，此前预计为5.4%。",
@@ -680,6 +839,28 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国加州州长提议为电动汽车税收减免提供2亿美元新资金。",
+          "url": "https://flash.jin10.com/detail/20260110024515202800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国里士满联储主席Barkin：不确定性和生产力增长造成招聘偏低。 （非农）就业人口增幅与企业报告的情况吻合。 失业率下降受人欢迎，但这也仅仅是一个月的数据而已。 美联储必须继续观察职责所面临的两哥方面。 整体经济需求仍然看似健康。",
+          "url": "https://wallstreetcn.com/livenews/3034347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "美国国务卿鲁比奥与北约秘书长吕特讨论了所有北约盟友的北极安全问题。",
           "url": "https://flash.jin10.com/detail/20260110000058822800",
           "source": "金十数据",
@@ -689,6 +870,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
+          "url": "https://wallstreetcn.com/livenews/3034346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国1月9日当周天然气钻井数 124，前值 125。",
+          "url": "https://wallstreetcn.com/livenews/3034345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国最高法院暂缓对特朗普政府关税案作出裁决",
@@ -702,13 +905,35 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国1月9日当周石油钻井数 409，前值 412。",
+          "url": "https://wallstreetcn.com/livenews/3034344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国1月9日当周总钻井数 544，前值 546。",
+          "url": "https://wallstreetcn.com/livenews/3034343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
           "title": "委内瑞拉政府表示，已与美国启动探索性外交阶段，旨在重建外交关系。",
           "url": "https://flash.jin10.com/detail/20260110011159823800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -719,7 +944,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -730,9 +955,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "美国财长贝森特：金融犯罪执法网络正在调查明尼苏达州的多家货币服务企业。",
+          "url": "https://flash.jin10.com/detail/20260110022751002800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
+          "url": "https://wallstreetcn.com/livenews/3034339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "美国总统特朗普针对加利福尼亚州酝酿住房重建命令。（NBC）",
@@ -774,7 +1021,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -782,7 +1029,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -792,8 +1039,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -803,8 +1050,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
+        },
+        {
+          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://flash.jin10.com/detail/20260110030900508800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3034365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110030422872800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -815,8 +1095,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -827,8 +1107,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -838,8 +1118,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -848,11 +1128,12 @@
           "ranks": [
             30,
             27,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -863,8 +1144,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -875,8 +1156,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 03时13分]"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -888,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
+          "url": "https://wallstreetcn.com/livenews/3034341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
