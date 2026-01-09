@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T13:18:01.400001+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-01-09T14:19:21.247348+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 265,
+      "match_count": 278,
       "titles": [
         {
           "title": "美国对委内瑞拉动手背后，暗藏一个更大图谋",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "联合国发言人：美国或失去联大投票权",
+          "url": "https://www.toutiao.com/trending/7592846472723873835/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
         },
         {
           "title": "如何看待美国 ICE 当街射杀 37 岁女子？",
@@ -34,6 +45,18 @@
           "time_info": "[01时19分 ~ 07时12分]"
         },
         {
+          "title": "联合国发言人：美国若继续欠费或失去联大投票权",
+          "url": "https://news.ifeng.com/c/8plKOYD1Dh3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
+        },
+        {
           "title": "外交部回应美国再退66个群",
           "url": "https://www.douyin.com/hot/2361014",
           "source": "抖音",
@@ -42,41 +65,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时18分]"
-        },
-        {
-          "title": "联合国发言人：美国或失去联大投票权",
-          "url": "https://www.toutiao.com/trending/7592846472723873835/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时18分]"
-        },
-        {
-          "title": "联合国发言人：美国若继续欠费或失去联大投票权",
-          "url": "https://news.ifeng.com/c/8plKOYD1Dh3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 14时19分]"
         },
         {
           "title": "联合国发言人：美国或失去联大投票权",
           "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E8%A8%80%E4%BA%BA%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%A4%B1%E5%8E%BB%E8%81%94%E5%A4%A7%E6%8A%95%E7%A5%A8%E6%9D%83",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时19分]"
         },
         {
           "title": "日本若被断稀土，3个月或损失数百亿",
@@ -87,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 14时19分]"
         },
         {
           "title": "美媒体人：美国或在准备“世界大战”",
@@ -189,15 +191,31 @@
           "time_info": "[00时17分 ~ 11时59分]"
         },
         {
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 14时19分]"
+        },
+        {
           "title": "丹麦议员：被枪指头还谈什么，美国此举只会让欧洲盟友倒向中国",
           "url": "https://news.ifeng.com/c/8pkRVinl29t",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 14时19分]"
         },
         {
           "title": "李显龙谈美国军事干预委内瑞拉",
@@ -279,18 +297,44 @@
           "time_info": "[01时19分 ~ 07时12分]"
         },
         {
-          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
-          "url": "https://www.zhihu.com/question/1992163357625643469",
-          "source": "知乎",
+          "title": "日本出昏招,停供动漫当武器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348887&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%87%BA%E6%98%8F%E6%8B%9B%2C%E5%81%9C%E4%BE%9B%E5%8A%A8%E6%BC%AB%E5%BD%93%E6%AD%A6%E5%99%A8",
+          "source": "贴吧",
           "ranks": [
-            18,
-            17,
-            10,
-            12
+            30,
+            4,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时11分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
+        },
+        {
+          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            12,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
         },
         {
           "title": "中国出口管制对日本影响有多大",
@@ -307,17 +351,16 @@
           "time_info": "[03时12分 ~ 08时55分]"
         },
         {
-          "title": "日本出昏招,停供动漫当武器",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348887&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%87%BA%E6%98%8F%E6%8B%9B%2C%E5%81%9C%E4%BE%9B%E5%8A%A8%E6%BC%AB%E5%BD%93%E6%AD%A6%E5%99%A8",
-          "source": "贴吧",
+          "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
+          "url": "https://wallstreetcn.com/articles/3762911",
+          "source": "华尔街见闻",
           "ranks": [
-            30,
             4,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时19分]"
         },
         {
           "title": "消息人士称，中方正研究收紧对日稀土出口许可审查，可能会怎样收紧？会对日本哪些行业带来影响？",
@@ -332,6 +375,18 @@
           "time_info": "[00时17分 ~ 05时12分]"
         },
         {
+          "title": "贝森特：美联储不应推迟降息，美国将取消对部分委内瑞拉实体制裁",
+          "url": "https://wallstreetcn.com/articles/3762887",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 14时19分]"
+        },
+        {
           "title": "白宫称美国开始全球兜售委内瑞拉石油，美能源部长称将“无限期”控制委售油",
           "url": "https://wallstreetcn.com/articles/3762784",
           "source": "华尔街见闻",
@@ -343,52 +398,27 @@
           "time_info": "[00时17分 ~ 05时12分]"
         },
         {
-          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
-          "url": "https://www.cls.cn/detail/2252393",
-          "source": "财联社热门",
+          "title": "美官员被曝曾讨论发钱，利诱格陵兰岛居民并入美国",
+          "url": "https://news.ifeng.com/c/8plgBnoTPxx",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时18分]"
-        },
-        {
-          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时18分]"
-        },
-        {
-          "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
-          "url": "https://wallstreetcn.com/articles/3762911",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
-          "title": "贝森特：美联储不应推迟降息，美国将取消对部分委内瑞拉实体制裁",
-          "url": "https://wallstreetcn.com/articles/3762887",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时53分 ~ 13时18分]"
+          "time_info": "[11时59分 ~ 14时19分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 14时19分]"
         },
         {
           "title": "美联储：美国未经季节性调整的商业票据未偿余额增加441亿美元。",
@@ -400,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "40年期日本国债收益率跌6个基点，至3.705%。",
+          "url": "https://flash.jin10.com/detail/20260109141051225800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
@@ -425,6 +466,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时53分 ~ 13时18分]"
+        },
+        {
+          "title": "马克龙狠批美国“无视国际规则”，又不忘扯上中国",
+          "url": "https://news.ifeng.com/c/8pldlf1xpmu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 14时19分]"
         },
         {
           "title": "日本是否会因这波制裁迎来崩溃十年",
@@ -488,7 +540,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -526,15 +578,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "美官员被曝曾讨论发钱，利诱格陵兰岛居民并入美国",
-          "url": "https://news.ifeng.com/c/8plgBnoTPxx",
-          "source": "凤凰网",
+          "title": "菜鸟开通美国至墨西哥跨境物流服务",
+          "url": "https://wallstreetcn.com/livenews/3033802",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 13时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国12月纽约联储1年通胀预期将于十分钟后公布。",
@@ -559,6 +611,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "30年期日本国债收益率跌4个基点，至3.405%。",
+          "url": "https://flash.jin10.com/detail/20260109140301715800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国总统特朗普就美联储主席人选表示：我心里已经有决定了。 还没有与任何人讨论过对美联储主席的（最终）选择。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033489",
           "source": "华尔街见闻-快讯",
@@ -581,15 +644,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "日本11月领先指标初值 110.5，预期 110.5，前值 109.8。",
-          "url": "https://wallstreetcn.com/livenews/3033772",
+          "title": "日本40年期国债收益率下行6个基点至3.705%。",
+          "url": "https://wallstreetcn.com/livenews/3033801",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "14时19分"
         },
         {
           "title": "如何看待美国移民与海关执法局工作人员当街射杀一名 37 岁女子？",
@@ -603,16 +666,15 @@
           "time_info": "08时55分"
         },
         {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
+          "title": "美国市长爆粗口让移民局特工滚出去",
+          "url": "https://www.toutiao.com/trending/7592770762428416010/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 13时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "据福克斯新闻：委内瑞拉战争权力决议的测试投票刚刚以52比47的投票结果正式通过，其中5名共和党人与所有民主党人一起投了赞成票。",
@@ -626,17 +688,6 @@
           "time_info": "01时19分"
         },
         {
-          "title": "韩国青瓦台：在瞬息万变的全球政治背景下，韩国总统李在明和日本首相高市早苗将讨论地区和平与稳定问题。",
-          "url": "https://flash.jin10.com/detail/20260109130142711800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
           "title": "韩国总统李在明将于1月13日至14日访问日本。",
           "url": "https://wallstreetcn.com/livenews/3033637",
           "source": "华尔街见闻-快讯",
@@ -646,28 +697,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "日本11月同步指标初值 115.2，预期 115.1，前值 115.9。",
-          "url": "https://wallstreetcn.com/livenews/3033771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "马克龙狠批美国“无视国际规则”，又不忘扯上中国",
-          "url": "https://news.ifeng.com/c/8pldlf1xpmu",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 13时18分]"
         },
         {
           "title": "联合国回应美国退群",
@@ -681,6 +710,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时59分 ~ 13时18分]"
+        },
+        {
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时19分]"
         },
         {
           "title": "美国再启退群潮 多名欧盟领导人发声",
@@ -780,6 +834,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "波音公司推进737 MAX 10进入美国联邦航空管理局（FAA）飞行测试的下一阶段。",
+          "url": "https://wallstreetcn.com/livenews/3033758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时19分]"
         },
         {
           "title": "美国副总统万斯谈委内瑞拉：我们希望确保那里的新政府做美国需要它做的事。",
@@ -914,6 +981,18 @@
           "time_info": "[03时12分 ~ 04时14分]"
         },
         {
+          "title": "日本11月领先指标初值 110.5，预期 110.5，前值 109.8。",
+          "url": "https://wallstreetcn.com/livenews/3033772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
+        },
+        {
           "title": "美国政府数据显示，美国联邦雇员人数降至至少十年来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260109045301228800",
           "source": "金十数据",
@@ -936,6 +1015,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 11时59分]"
+        },
+        {
+          "title": "韩国青瓦台：在瞬息万变的全球政治背景下，韩国总统李在明和日本首相高市早苗将讨论地区和平与稳定问题。",
+          "url": "https://flash.jin10.com/detail/20260109130142711800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
         },
         {
           "title": "美国财长贝森特：独立的石油公司希望进入委内瑞拉市场。 某些大型石油公司将发生重大转变。 对伊朗形势非常谨慎，经济岌岌可危。",
@@ -962,16 +1053,16 @@
           "time_info": "[05时12分 ~ 06时12分]"
         },
         {
-          "title": "波音公司推进737 MAX 10进入美国联邦航空管理局（FAA）飞行测试的下一阶段。",
-          "url": "https://wallstreetcn.com/livenews/3033758",
+          "title": "日本11月同步指标初值 115.2，预期 115.1，前值 115.9。",
+          "url": "https://wallstreetcn.com/livenews/3033771",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时18分]"
+          "time_info": "[13时18分 ~ 14时19分]"
         },
         {
           "title": "美国硅谷富豪圈流行用胚胎筛选技术等手段「订制婴儿」，打造完美后代，真的靠谱吗？可能存在哪些潜在问题？",
@@ -985,29 +1076,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 13时18分]"
         },
         {
           "title": "党报：新型军国主义将把日本引向深渊",
@@ -1047,6 +1115,18 @@
           "time_info": "[11时59分 ~ 12时38分]"
         },
         {
+          "title": "美国夺取格陵兰岛方案价码流出",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88%E4%BB%B7%E7%A0%81%E6%B5%81%E5%87%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时19分]"
+        },
+        {
           "title": "美国至1月9日当周外国央行持有美国国债 322.18亿美元，前值-180.23亿美元。",
           "url": "https://flash.jin10.com/detail/20260109053612468800",
           "source": "金十数据",
@@ -1059,6 +1139,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "日本气象厅：正常天气状况持续的可能性为60%，春末形成厄尔尼诺现象的可能性为40%。",
+          "url": "https://flash.jin10.com/detail/20260109130119179800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
+        },
+        {
           "title": "丹麦与格陵兰岛的外交官们前往美国白宫，会见特朗普政府的官员们。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3033546",
           "source": "华尔街见闻-快讯",
@@ -1069,6 +1161,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "日本气象厅：预计接近拉尼娜现象的状态将在北半球冬季结束前迅速消退，不会形成拉尼娜现象。",
+          "url": "https://wallstreetcn.com/livenews/3033770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
         },
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -1116,6 +1220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
+          "title": "日本11月同步指标初值 115.2，预期115.1，前值115.9。",
+          "url": "https://flash.jin10.com/detail/20260109130044146800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -1178,6 +1294,18 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "日本11月领先指标初值 110.5，预期110.5，前值109.8。",
+          "url": "https://flash.jin10.com/detail/20260109130034698800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
+        },
+        {
           "title": "俄罗斯外交部：“志愿联盟”和乌克兰为“战争轴心”",
           "url": "https://wallstreetcn.com/livenews/3033440",
           "source": "华尔街见闻-快讯",
@@ -1238,6 +1366,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "日本11月同步指标月率初值 -0.7%，前值1%。",
+          "url": "https://flash.jin10.com/detail/20260109130002563800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
+        },
+        {
           "title": "超过12位石油公司的老板们将出席美国总统特朗普关于委内瑞拉的会议。 列席会议的企业高管包括Harold Hamm，埃克森美孚、雪佛龙、康菲石油的高管们也将参加会议。",
           "url": "https://wallstreetcn.com/livenews/3033482",
           "source": "华尔街见闻-快讯",
@@ -1260,6 +1400,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时53分 ~ 11时59分]"
+        },
+        {
+          "title": "丁薛祥会见美国华特迪士尼公司首席执行官艾格",
+          "url": "https://wallstreetcn.com/livenews/3033766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时19分]"
         },
         {
           "title": "美国能源部长：石油巨头正评估在委内瑞拉能源业的角色",
@@ -1394,17 +1546,6 @@
           "time_info": "[06时12分 ~ 08时55分]"
         },
         {
-          "title": "美国夺取格陵兰岛方案价码流出",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88%E4%BB%B7%E7%A0%81%E6%B5%81%E5%87%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
-        },
-        {
           "title": "亚特兰大联储GDPNow模型预计美国2025年第四季度GDP增速为5.4%，此前预计为2.7%。",
           "url": "https://flash.jin10.com/detail/20260109005058554800",
           "source": "金十数据",
@@ -1449,26 +1590,15 @@
           "time_info": "10时53分"
         },
         {
-          "title": "日本气象厅：正常天气状况持续的可能性为60%，春末形成厄尔尼诺现象的可能性为40%。",
-          "url": "https://flash.jin10.com/detail/20260109130119179800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "日本气象厅：预计接近拉尼娜现象的状态将在北半球冬季结束前迅速消退，不会形成拉尼娜现象。",
-          "url": "https://wallstreetcn.com/livenews/3033770",
+          "title": "日本30年期国债收益率下行4个基点至3.405%。",
+          "url": "https://wallstreetcn.com/livenews/3033798",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "14时19分"
         },
         {
           "title": "美国参议院以52比47的票数通过了关于战争权力的决议，限制特朗普对委内瑞拉采取军事行动的能力。",
@@ -1504,15 +1634,15 @@
           "time_info": "08时55分"
         },
         {
-          "title": "日本11月同步指标初值 115.2，预期115.1，前值115.9。",
-          "url": "https://flash.jin10.com/detail/20260109130044146800",
+          "title": "经济学家：2026年将是美国劳动力市场的“稳定之年”",
+          "url": "https://flash.jin10.com/detail/20260109135308237800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "14时19分"
         },
         {
           "title": "美国总统特朗普：共和党人应该为那些在战争权力法案上与民主党人投票一致的参议员感到羞耻。",
@@ -1548,15 +1678,15 @@
           "time_info": "10时53分"
         },
         {
-          "title": "日本11月领先指标初值 110.5，预期110.5，前值109.8。",
-          "url": "https://flash.jin10.com/detail/20260109130034698800",
+          "title": "迅销日本股价延续涨势，涨幅一度扩大至10%。",
+          "url": "https://flash.jin10.com/detail/20260109134130941800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "14时19分"
         },
         {
           "title": "美国芝商所再出手 近期第三次上调贵金属期货保证金",
@@ -1592,17 +1722,6 @@
           "time_info": "10时53分"
         },
         {
-          "title": "日本11月同步指标月率初值 -0.7%，前值1%。",
-          "url": "https://flash.jin10.com/detail/20260109130002563800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
           "title": "美国总统特朗普：我不需要国际法。 美国需要遵守国际法。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033519",
           "source": "华尔街见闻-快讯",
@@ -1612,17 +1731,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
-        },
-        {
-          "title": "丁薛祥会见美国华特迪士尼公司首席执行官艾格",
-          "url": "https://wallstreetcn.com/livenews/3033766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "美国至1月2日当周EIA天然气库存 -1190亿立方英尺，预期-1140亿立方英尺，前值-380亿立方英尺。",
@@ -1664,7 +1772,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -1774,9 +1882,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收跌0.2%报30,288.96点。",
+          "url": "https://wallstreetcn.com/livenews/3033785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国白宫：特朗普将否决委内瑞拉战争权力的决议。",
@@ -1840,9 +1959,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "据英国金融时报：页岩油巨头警告特朗普，他试图控制委内瑞拉石油行业并压低原油价格的计划，将使美国的石油产量面临削减的风险。",
+          "url": "https://flash.jin10.com/detail/20260109131706178800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
@@ -2263,6 +2393,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "韩国财政部：将推出3500亿美元的美国投资计划，以提振造船和核能行业。",
+          "url": "https://flash.jin10.com/detail/20260109130724046800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.16%。",
           "url": "https://wallstreetcn.com/livenews/3033472",
           "source": "华尔街见闻-快讯",
@@ -2316,6 +2457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "李显龙谈美国军事干预委内瑞拉：如果世界这样运作，小国多艰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32343362",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国财政部对涉俄制裁名单进行了行政性调整。",
@@ -2956,6 +3108,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "钟声：新型军国主义将把日本引向深渊",
+          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%A3%B0%EF%BC%9A%E6%96%B0%E5%9E%8B%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%B0%86%E6%8A%8A%E6%97%A5%E6%9C%AC%E5%BC%95%E5%90%91%E6%B7%B1%E6%B8%8A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国10月批发库存月率终值 0.2%，预期0.20%，前值0.5%。",
           "url": "https://flash.jin10.com/detail/20260108230016899800",
           "source": "金十数据",
@@ -3061,6 +3224,22 @@
       "match_count": 19,
       "titles": [
         {
+          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30,
+            28,
+            29,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
+        },
+        {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
           "source": "财联社热门",
@@ -3085,30 +3264,16 @@
           "time_info": "[01时19分 ~ 08时55分]"
         },
         {
-          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30,
-            28,
-            29,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时18分]"
-        },
-        {
           "title": "如何分辨AI音乐骗局",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 14时19分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
