@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-09T15:18:25.012487+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-01-09T16:17:54.040385+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 285,
+      "match_count": 296,
       "titles": [
+        {
+          "title": "联合国发言人：美国或失去联大投票权",
+          "url": "https://www.toutiao.com/trending/7592846472723873835/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 16时17分]"
+        },
         {
           "title": "美国对委内瑞拉动手背后，暗藏一个更大图谋",
           "url": "https://news.ifeng.com/c/8pkpCvn2l95",
@@ -19,39 +30,17 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "联合国发言人：美国或失去联大投票权",
-          "url": "https://www.toutiao.com/trending/7592846472723873835/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 15时18分]"
-        },
-        {
           "title": "联合国发言人：美国若继续欠费或失去联大投票权",
           "url": "https://news.ifeng.com/c/8plKOYD1Dh3",
           "source": "凤凰网",
           "ranks": [
             2,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 15时18分]"
-        },
-        {
-          "title": "联合国发言人：美国或失去联大投票权",
-          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E8%A8%80%E4%BA%BA%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%A4%B1%E5%8E%BB%E8%81%94%E5%A4%A7%E6%8A%95%E7%A5%A8%E6%9D%83",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 16时17分]"
         },
         {
           "title": "如何看待美国 ICE 当街射杀 37 岁女子？",
@@ -67,6 +56,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时19分 ~ 07时12分]"
+        },
+        {
+          "title": "联合国发言人：美国或失去联大投票权",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E8%A8%80%E4%BA%BA%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%A4%B1%E5%8E%BB%E8%81%94%E5%A4%A7%E6%8A%95%E7%A5%A8%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 16时17分]"
         },
         {
           "title": "外交部回应美国再退66个群",
@@ -90,8 +92,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 15时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 16时17分]"
         },
         {
           "title": "美媒体人：美国或在准备“世界大战”",
@@ -237,6 +239,20 @@
           "time_info": "[01时19分 ~ 11时59分]"
         },
         {
+          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            12,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 16时17分]"
+        },
+        {
           "title": "美国扣押俄罗斯油轮意欲何为",
           "url": "https://www.toutiao.com/trending/7592517037668794418/",
           "source": "今日头条",
@@ -278,11 +294,24 @@
             4,
             7,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 16时17分]"
+        },
+        {
+          "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
+          "url": "https://wallstreetcn.com/articles/3762911",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 16时17分]"
         },
         {
           "title": "美国退出66个国际组织",
@@ -327,30 +356,28 @@
           "time_info": "[08时55分 ~ 15时18分]"
         },
         {
-          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            12,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 15时18分]"
-        },
-        {
-          "title": "或在周六，美国232关税调查结果将出！白银、铂金和钯金将面临“重大不确定性”",
-          "url": "https://wallstreetcn.com/articles/3762911",
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时17分]"
+        },
+        {
+          "title": "美官员被曝曾讨论发钱，利诱格陵兰岛居民并入美国",
+          "url": "https://news.ifeng.com/c/8plgBnoTPxx",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时17分]"
         },
         {
           "title": "贝森特：美联储不应推迟降息，美国将取消对部分委内瑞拉实体制裁",
@@ -363,6 +390,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时53分 ~ 15时18分]"
+        },
+        {
+          "title": "马克龙狠批美国“无视国际规则”，又不忘扯上中国",
+          "url": "https://news.ifeng.com/c/8pldlf1xpmu",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时17分]"
         },
         {
           "title": "中国出口管制对日本影响有多大",
@@ -391,30 +429,6 @@
           "time_info": "[00时17分 ~ 05时12分]"
         },
         {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时18分]"
-        },
-        {
-          "title": "美官员被曝曾讨论发钱，利诱格陵兰岛居民并入美国",
-          "url": "https://news.ifeng.com/c/8plgBnoTPxx",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时18分]"
-        },
-        {
           "title": "白宫称美国开始全球兜售委内瑞拉石油，美能源部长称将“无限期”控制委售油",
           "url": "https://wallstreetcn.com/articles/3762784",
           "source": "华尔街见闻",
@@ -426,15 +440,56 @@
           "time_info": "[00时17分 ~ 05时12分]"
         },
         {
-          "title": "马克龙狠批美国“无视国际规则”，又不忘扯上中国",
-          "url": "https://news.ifeng.com/c/8pldlf1xpmu",
-          "source": "凤凰网",
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            17,
+            12,
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时18分]"
+          "time_info": "[12时37分 ~ 16时17分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 16时17分]"
+        },
+        {
+          "title": "美国掀翻牌桌连退66组织",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8E%80%E7%BF%BB%E7%89%8C%E6%A1%8C%E8%BF%9E%E9%80%8066%E7%BB%84%E7%BB%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时17分]"
+        },
+        {
+          "title": "美国强抢委内瑞拉石油后，“中企已转向加拿大”",
+          "url": "https://news.ifeng.com/c/8plrw8Px43R",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美联储：美国未经季节性调整的商业票据未偿余额增加441亿美元。",
@@ -482,33 +537,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时53分 ~ 13时18分]"
-        },
-        {
-          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 15时18分]"
         },
         {
           "title": "日本是否会因这波制裁迎来崩溃十年",
@@ -575,17 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "美国掀翻牌桌连退66组织",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8E%80%E7%BF%BB%E7%89%8C%E6%A1%8C%E8%BF%9E%E9%80%8066%E7%BB%84%E7%BB%87",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "美国国会预算办公室（CBO）：奥巴马医改补贴延期三年将使赤字增加806亿美元。",
@@ -696,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "俄精准断供材料,日本产业被反杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "如何看待美国移民与海关执法局工作人员当街射杀一名 37 岁女子？",
@@ -827,6 +855,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
+          "url": "https://news.ifeng.com/c/8pls4YBnj3I",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时17分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉和美国都将获得石油收入。古巴完全依赖委内瑞拉的资金和石油。古巴为委内瑞拉提供保护。希望做些事情帮助古巴。古巴正走向失败。",
@@ -1134,6 +1174,19 @@
           "time_info": "[08时55分 ~ 11时59分]"
         },
         {
+          "title": "李显龙谈美国军事干预委内瑞拉：如果世界这样运作，小国多艰",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32343362",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 16时17分]"
+        },
+        {
           "title": "媒体：美国优先带来的将是美国独行",
           "url": "https://www.toutiao.com/trending/7593136307653132331/",
           "source": "今日头条",
@@ -1144,6 +1197,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 12时38分]"
+        },
+        {
+          "title": "美国欠联合国超30亿美元",
+          "url": "https://www.toutiao.com/trending/7593146264503500842/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时17分]"
         },
         {
           "title": "美国至1月9日当周外国央行持有美国国债 322.18亿美元，前值-180.23亿美元。",
@@ -1553,18 +1617,6 @@
           "time_info": "[03时12分 ~ 04时14分]"
         },
         {
-          "title": "李显龙谈美国军事干预委内瑞拉：如果世界这样运作，小国多艰",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32343362",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时18分]"
-        },
-        {
           "title": "第一次来美国的魔幻冲击",
           "url": "https://search.bilibili.com/all?keyword=%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%AD%94%E5%B9%BB%E5%86%B2%E5%87%BB",
           "source": "bilibili 热搜",
@@ -1589,15 +1641,15 @@
           "time_info": "[14时19分 ~ 15时18分]"
         },
         {
-          "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
-          "url": "https://news.ifeng.com/c/8pls4YBnj3I",
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时17分"
         },
         {
           "title": "亚特兰大联储GDPNow模型预计美国2025年第四季度GDP增速为5.4%，此前预计为2.7%。",
@@ -1653,17 +1705,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        },
-        {
-          "title": "美国欠联合国超30亿美元",
-          "url": "https://www.toutiao.com/trending/7593146264503500842/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "美国参议院以52比47的票数通过了关于战争权力的决议，限制特朗普对委内瑞拉采取军事行动的能力。",
@@ -1765,6 +1806,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "2026年首个非农夜：今晚美国就业数据会出“幺蛾子”吗？",
+          "url": "https://www.cls.cn/detail/2252869",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国天然气期货维持跌势，现跌2.1%，EIA报告显示天然气库存降幅略高于预期。",
           "url": "https://flash.jin10.com/detail/20260108233227120800",
           "source": "金十数据",
@@ -1796,6 +1848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国政府新设反欺诈机构 剑指明尼苏达州",
+          "url": "https://wallstreetcn.com/livenews/3033907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国至1月2日当周EIA天然气库存 -1190亿立方英尺，预期-1140亿立方英尺，前值-380亿立方英尺。",
@@ -1840,6 +1903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "中国台湾12月贸易帐 194.3亿美元，预期161亿美元，前值160.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20260109160024707800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.550%，投标倍数3.18。 拍卖八周期国债，得标利率3.540%，投标倍数2.85。",
@@ -1908,6 +1982,28 @@
           "time_info": "10时53分"
         },
         {
+          "title": "中国台湾12月进口年率 14.9%，预期28.1%，前值45.00%。",
+          "url": "https://flash.jin10.com/detail/20260109160016373800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国参议院多数议员投票支持推进一项决议，该决议将阻止特朗普在未获得国会授权的情况下对委内瑞拉采取进一步军事行动，目前投票仍在继续。",
           "url": "https://flash.jin10.com/detail/20260109004029091800",
           "source": "金十数据",
@@ -1950,6 +2046,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "中国台湾12月出口年率 43.4%，预期46%，前值56.00%。",
+          "url": "https://flash.jin10.com/detail/20260109160008560800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "台湾证交所加权股价指数收跌0.2%报30,288.96点。",
@@ -2370,6 +2477,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "法国外交部长巴罗：美国有权重新思考与欧洲的关系，但当美国提出的建议不可接受时，我们也有权对这一历史盟友说“不”。",
+          "url": "https://flash.jin10.com/detail/20260109155926530800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "Saxo Markets首席投资策略师Charu Chanana：2026年开局强劲后，市场正喘息调整，在周五美国就业报告公布前，无人愿意增添新的风险。 美联储政策争论尚未落幕，地区安全事件持续令市场保持谨慎布局。",
           "url": "https://wallstreetcn.com/livenews/3033431",
           "source": "华尔街见闻-快讯",
@@ -2684,7 +2802,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -2827,7 +2945,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -3146,7 +3264,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -3245,7 +3363,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -3294,6 +3412,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "SK海力士：正在考虑在美国股市上市库存股，尚未作出最终决定。",
+          "url": "https://wallstreetcn.com/livenews/3033878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "中国稀土断供或致日本GDP下降",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E6%96%AD%E4%BE%9B%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%ACGDP%E4%B8%8B%E9%99%8D%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -3308,7 +3437,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -3357,11 +3486,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 16时17分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
@@ -3447,6 +3577,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
           "url": "https://flash.jin10.com/detail/20260109024531943800",
           "source": "金十数据",
@@ -3478,6 +3619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
