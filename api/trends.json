@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T08:55:34.835205+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-01-09T10:53:40.144068+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 202,
+      "match_count": 232,
       "titles": [
         {
           "title": "美国对委内瑞拉动手背后，暗藏一个更大图谋",
@@ -42,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时53分]"
         },
         {
           "title": "日本若被断稀土，3个月或损失数百亿",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时53分]"
         },
         {
           "title": "美媒体人：美国或在准备“世界大战”",
@@ -81,20 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时55分]"
-        },
-        {
-          "title": "出口被卡,日本忙搞稀土自救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348861&amp;topic_name=%E5%87%BA%E5%8F%A3%E8%A2%AB%E5%8D%A1%2C%E6%97%A5%E6%9C%AC%E5%BF%99%E6%90%9E%E7%A8%80%E5%9C%9F%E8%87%AA%E6%95%91",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时53分]"
         },
         {
           "title": "特斯拉完全自动驾驶系统 FSD 零接管横穿美国，做到这点有多难？算是自动驾驶系统的里程碑吗？",
@@ -113,6 +101,19 @@
           "time_info": "[00时17分 ~ 08时55分]"
         },
         {
+          "title": "出口被卡,日本忙搞稀土自救",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348861&amp;topic_name=%E5%87%BA%E5%8F%A3%E8%A2%AB%E5%8D%A1%2C%E6%97%A5%E6%9C%AC%E5%BF%99%E6%90%9E%E7%A8%80%E5%9C%9F%E8%87%AA%E6%95%91",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时53分]"
+        },
+        {
           "title": "特朗普“炮轰”美国军火商",
           "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
           "source": "凤凰网",
@@ -120,8 +121,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时53分]"
         },
         {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
@@ -139,6 +140,20 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
+          "title": "市长爆粗口让移民局“滚出去”！复盘美国ICE探员射杀美国公民全过程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341188",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时53分]"
+        },
+        {
           "title": "丹麦议员：被枪指头还谈什么，美国此举只会让欧洲盟友倒向中国",
           "url": "https://news.ifeng.com/c/8pkRVinl29t",
           "source": "凤凰网",
@@ -146,8 +161,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 10时53分]"
         },
         {
           "title": "美国扣押俄罗斯油轮意欲何为",
@@ -160,19 +175,6 @@
             14,
             13,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 08时55分]"
-        },
-        {
-          "title": "市长爆粗口让移民局“滚出去”！复盘美国ICE探员射杀美国公民全过程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341188",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            13
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -194,6 +196,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "李显龙谈美国军事干预委内瑞拉",
+          "url": "https://www.douyin.com/hot/2361156",
+          "source": "抖音",
+          "ranks": [
+            20,
+            29,
+            25,
+            26,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 10时53分]"
         },
         {
           "title": "美国退出66个国际组织",
@@ -223,21 +241,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时19分 ~ 07时12分]"
-        },
-        {
-          "title": "李显龙谈美国军事干预委内瑞拉",
-          "url": "https://www.douyin.com/hot/2361156",
-          "source": "抖音",
-          "ranks": [
-            20,
-            29,
-            25,
-            26,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 08时55分]"
         },
         {
           "title": "中国出口管制对日本影响有多大",
@@ -283,9 +286,31 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时53分]"
+        },
+        {
+          "title": "联合国发言人：美国若继续欠费或失去联大投票权",
+          "url": "https://news.ifeng.com/c/8plKOYD1Dh3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时53分]"
+        },
+        {
+          "title": "联合国发言人：美国或失去联大投票权",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E8%A8%80%E4%BA%BA%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%88%96%E5%A4%B1%E5%8E%BB%E8%81%94%E5%A4%A7%E6%8A%95%E7%A5%A8%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时53分"
         },
         {
           "title": "美联储：美国未经季节性调整的商业票据未偿余额增加441亿美元。",
@@ -297,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：密切关注伊朗抗议活动；伊朗有可能垮台。",
+          "url": "https://flash.jin10.com/detail/20260109103341921800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
@@ -316,18 +352,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
-        },
-        {
-          "title": "联合国发言人：美国若继续欠费或失去联大投票权",
-          "url": "https://news.ifeng.com/c/8plKOYD1Dh3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -360,9 +385,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "谈及对俄罗斯制裁方案，美国总统特朗普称支持这份法案。",
+          "url": "https://wallstreetcn.com/livenews/3033718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国国会预算办公室（CBO）：奥巴马医改补贴延期三年将使赤字增加806亿美元。",
@@ -398,6 +434,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "美国总统特朗普8日在接受福克斯新闻网采访时说，美国要开始对贩毒集团进行“陆地打击”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3033717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "美国12月纽约联储1年通胀预期将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260108235000000800",
           "source": "金十数据",
@@ -418,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉最终会举行选举。",
+          "url": "https://flash.jin10.com/detail/20260109102956479800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国总统特朗普就美联储主席人选表示：我心里已经有决定了。 还没有与任何人讨论过对美联储主席的（最终）选择。（纽约时报）",
@@ -442,13 +500,24 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉和美国都将获得石油收入。古巴完全依赖委内瑞拉的资金和石油。古巴为委内瑞拉提供保护。希望做些事情帮助古巴。古巴正走向失败。",
+          "url": "https://wallstreetcn.com/livenews/3033716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "如何看待美国移民与海关执法局工作人员当街射杀一名 37 岁女子？",
           "url": "https://www.zhihu.com/question/1992649671118714549",
           "source": "知乎",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -464,13 +533,24 @@
           "time_info": "01时19分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉还需要一段时间才能举行自由公正选举。",
+          "url": "https://flash.jin10.com/detail/20260109102946501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "韩国总统李在明将于1月13日至14日访问日本。",
           "url": "https://wallstreetcn.com/livenews/3033637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -685,11 +765,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[07时11分 ~ 10时53分]"
         },
         {
           "title": "美国至1月9日当周外国央行持有美国国债 322.18亿美元，前值-180.23亿美元。",
@@ -725,6 +806,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "中国掐住日本军事扩张的“命门”",
+          "url": "https://www.toutiao.com/trending/7591694385467228203/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时53分]"
         },
         {
           "title": "美国国会预算办公室预计美联储今年将小幅降息",
@@ -883,6 +976,18 @@
           "time_info": "[02时16分 ~ 03时12分]"
         },
         {
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时53分]"
+        },
+        {
           "title": "美国能源部长：石油巨头正评估在委内瑞拉能源业的角色",
           "url": "https://wallstreetcn.com/livenews/3033444",
           "source": "华尔街见闻-快讯",
@@ -941,6 +1046,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时19分]"
+        },
+        {
+          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时53分]"
         },
         {
           "title": "美国1月2日当周EIA天然气库存变动 -1190亿立方英尺，前值 -380亿立方英尺。",
@@ -1043,9 +1160,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，委内瑞拉“现在甚至都不知道该如何举行选举”。",
+          "url": "https://flash.jin10.com/detail/20260109102837441800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国参议院以52比47的票数通过了关于战争权力的决议，限制特朗普对委内瑞拉采取军事行动的能力。",
@@ -1076,9 +1204,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日经225指数早盘收涨1.1%，报51692.7点。日本东证指数早盘收涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3033710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "贝森特：美联储不应推迟降息，美国将取消对部分委内瑞拉实体制裁",
+          "url": "https://wallstreetcn.com/articles/3762887",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国总统特朗普：共和党人应该为那些在战争权力法案上与民主党人投票一致的参议员感到羞耻。",
@@ -1103,6 +1253,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "日本防卫大臣与美国国防部长将于1月15日在华盛顿特区举行峰会。",
+          "url": "https://flash.jin10.com/detail/20260109102430835800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "美国芝商所再出手 近期第三次上调贵金属期货保证金",
           "url": "https://wallstreetcn.com/livenews/3033572",
           "source": "华尔街见闻-快讯",
@@ -1125,6 +1286,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国总统特朗普：马查多是个非常好的人。",
+          "url": "https://flash.jin10.com/detail/20260109102352406800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "美国总统特朗普：我不需要国际法。 美国需要遵守国际法。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033519",
           "source": "华尔街见闻-快讯",
@@ -1136,15 +1308,26 @@
           "time_info": "04时14分"
         },
         {
-          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
-          "url": "https://www.cls.cn/detail/2252393",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：委内瑞拉最终会举行选举。委内瑞拉自由和公正的选举还需要一段时间。",
+          "url": "https://wallstreetcn.com/livenews/3033707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
+          "title": "外交官：台湾问题是华夏儿女心中的刺",
+          "url": "https://www.toutiao.com/trending/7592257521898160134/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时53分"
         },
         {
           "title": "美国至1月2日当周EIA天然气库存 -1190亿立方英尺，预期-1140亿立方英尺，前值-380亿立方英尺。",
@@ -1219,7 +1402,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1233,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉反对派领袖马查多将于下周到来。",
+          "url": "https://flash.jin10.com/detail/20260109102025257800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国参议院多数议员投票支持推进一项决议，该决议将阻止特朗普在未获得国会授权的情况下对委内瑞拉采取进一步军事行动，目前投票仍在继续。",
@@ -1263,7 +1457,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1310,6 +1504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "五个由民主党主导的州提起诉讼，此前美国总统特朗普政府冻结了100亿美元的托幼和家庭援助资金。",
+          "url": "https://flash.jin10.com/detail/20260109101831604800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "英特尔美股盘后涨2%，美国总统特朗普声称会见了该公司CEO。",
@@ -1444,13 +1649,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美国总统特朗普：14家顶级石油公司明日将在白宫举行会议。",
+          "url": "https://flash.jin10.com/detail/20260109101620758800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "日本10年期国债收益率上行0.5BP至2.08%。",
           "url": "https://wallstreetcn.com/livenews/3033626",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1527,9 +1743,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "美国总统特朗普：石油公司至少将支出1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260109101550647800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "提醒：白宫新闻秘书Leavitt和美国副总统万斯将于美东时间13:00（北京时间1月9日02:00）举行简报会。",
@@ -1598,6 +1825,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国总统特朗普：正获取价值数十亿美元的石油。",
+          "url": "https://flash.jin10.com/detail/20260109101535595800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "Saxo Markets首席投资策略师Charu Chanana：2026年开局强劲后，市场正喘息调整，在周五美国就业报告公布前，无人愿意增添新的风险。 美联储政策争论尚未落幕，地区安全事件持续令市场保持谨慎布局。",
           "url": "https://wallstreetcn.com/livenews/3033431",
           "source": "华尔街见闻-快讯",
@@ -1664,6 +1902,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美国总统特朗普：（谈委内瑞拉治理目标）将与该国领导层合作。",
+          "url": "https://flash.jin10.com/detail/20260109101438017800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.16%。",
           "url": "https://wallstreetcn.com/livenews/3033472",
           "source": "华尔街见闻-快讯",
@@ -1697,15 +1946,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "中国掐住日本军事扩张的“命门”",
-          "url": "https://www.toutiao.com/trending/7591694385467228203/",
-          "source": "今日头条",
+          "title": "日本财务大臣片山皋月：将出席在美国的重要矿产会议。稀土对全球经济稳定至关重要。",
+          "url": "https://wallstreetcn.com/livenews/3033691",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时53分"
         },
         {
           "title": "美国财政部对涉俄制裁名单进行了行政性调整。",
@@ -1785,15 +2034,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32348696",
-          "source": "澎湃新闻",
+          "title": "马克龙：美国正逐渐疏远部分盟友",
+          "url": "https://www.toutiao.com/trending/7592633412847026195/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时53分"
         },
         {
           "title": "美国财政部更新涉俄制裁名单。",
@@ -1879,9 +2128,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "市场消息：五个由民主党主导的州提起诉讼，此前美国总统特朗普政府冻结了100亿美元儿童保育及家庭援助资金。",
+          "url": "https://flash.jin10.com/detail/20260109101229224800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "研究机构Omdia：中国企业在2025年全球人形机器人出货量中占据主导，远超美国企业",
@@ -1890,7 +2150,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -1934,9 +2194,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "警方表示美国波特兰枪击案调查由美国联邦调查局（FBI）主导。",
+          "url": "https://flash.jin10.com/detail/20260109101154598800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "巴克莱认为：2026年美国国库券供应量有大幅增加的风险",
@@ -1956,7 +2227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -2022,7 +2293,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -2066,9 +2337,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "美国总统特朗普：要求委内瑞拉释放政治犯。",
+          "url": "https://flash.jin10.com/detail/20260109100810853800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "伊朗外长称做好准备应对战争",
@@ -2121,9 +2403,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日本的消费趋势并不糟糕。",
+          "url": "https://flash.jin10.com/detail/20260109100717940800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国参议院对战争权力决议进行投票",
@@ -2203,6 +2496,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美国总统特朗普：将开始打击陆地上的贩毒集团。",
+          "url": "https://flash.jin10.com/detail/20260109100537000800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "美国10月批发销售月率 -0.4%，前值-0.20%。",
           "url": "https://flash.jin10.com/detail/20260108230031987800",
           "source": "金十数据",
@@ -2223,6 +2527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普：抓捕马杜罗并非艰难的决定。",
+          "url": "https://flash.jin10.com/detail/20260109100525841800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "美国10月批发库存环比终值 0.2%，预期 0.2%，初值 0.5%。",
@@ -2269,6 +2584,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "美国总统特朗普：我将接受肖恩·汉尼提和福克斯新闻频道的采访。",
+          "url": "https://flash.jin10.com/detail/20260109100452653800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "美国农业部周报喜忧参半 玉米净出口腰斩创年内新低",
           "url": "https://flash.jin10.com/detail/20260108225806639800",
           "source": "金十数据",
@@ -2297,7 +2623,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -2313,13 +2639,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "日本出昏招,停供动漫当武器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348887&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%87%BA%E6%98%8F%E6%8B%9B%2C%E5%81%9C%E4%BE%9B%E5%8A%A8%E6%BC%AB%E5%BD%93%E6%AD%A6%E5%99%A8",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        },
+        {
           "title": "中国稀土断供或致日本GDP下降",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E6%96%AD%E4%BE%9B%E6%88%96%E8%87%B4%E6%97%A5%E6%9C%ACGDP%E4%B8%8B%E9%99%8D%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -2327,7 +2664,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -2402,6 +2739,18 @@
           "time_info": "[05时12分 ~ 06时12分]"
         },
         {
+          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
+          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时53分]"
+        },
+        {
           "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
           "url": "https://wallstreetcn.com/livenews/3033598",
           "source": "华尔街见闻-快讯",
@@ -2430,9 +2779,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
+          "url": "https://wallstreetcn.com/livenews/3033706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
@@ -2463,9 +2823,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "上海：到2028年广告业营收超过4500亿元 加强“AI+数字广告”融合赋能",
+          "url": "https://wallstreetcn.com/livenews/3033699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         },
         {
           "title": "OpenAI推出OpenAI for Healthcare。",
@@ -2490,15 +2861,15 @@
           "time_info": "00时17分"
         },
         {
-          "title": "便利店卖“鞋底豆干” 网友：以为是AI",
-          "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
-          "source": "百度热搜",
+          "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3033681",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时53分"
         }
       ]
     }
