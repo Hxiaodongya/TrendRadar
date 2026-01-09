@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-09T22:15:40.350842+08:00",
-  "total_titles_processed": 2153,
+  "generated_at": "2026-01-09T23:14:02.128218+08:00",
+  "total_titles_processed": 2259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 363,
+      "match_count": 394,
       "titles": [
+        {
+          "title": "美国强抢委内瑞拉石油后，“中企已转向加拿大”",
+          "url": "https://news.ifeng.com/c/8plrw8Px43R",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 23时14分]"
+        },
         {
           "title": "美国对委内瑞拉动手背后，暗藏一个更大图谋",
           "url": "https://news.ifeng.com/c/8pkpCvn2l95",
@@ -27,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时17分 ~ 22时15分]"
+          "appearance_count": 14,
+          "time_info": "[13时17分 ~ 23时14分]"
         },
         {
           "title": "联合国发言人：美国若继续欠费或失去联大投票权",
@@ -44,16 +56,19 @@
           "time_info": "[08时55分 ~ 17时19分]"
         },
         {
-          "title": "美国强抢委内瑞拉石油后，“中企已转向加拿大”",
-          "url": "https://news.ifeng.com/c/8plrw8Px43R",
-          "source": "凤凰网",
+          "title": "美国掀翻牌桌连退66组织",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8E%80%E7%BF%BB%E7%89%8C%E6%A1%8C%E8%BF%9E%E9%80%8066%E7%BB%84%E7%BB%87",
+          "source": "贴吧",
           "ranks": [
-            1,
-            2
+            2,
+            3,
+            5,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[15时18分 ~ 23时14分]"
         },
         {
           "title": "如何看待美国 ICE 当街射杀 37 岁女子？",
@@ -86,21 +101,6 @@
           "time_info": "[10时53分 ~ 19时12分]"
         },
         {
-          "title": "美国掀翻牌桌连退66组织",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348905&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%8E%80%E7%BF%BB%E7%89%8C%E6%A1%8C%E8%BF%9E%E9%80%8066%E7%BB%84%E7%BB%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 22时15分]"
-        },
-        {
           "title": "外交部回应美国再退66个群",
           "url": "https://www.douyin.com/hot/2361014",
           "source": "抖音",
@@ -114,6 +114,20 @@
           "time_info": "[00时17分 ~ 15时18分]"
         },
         {
+          "title": "俄精准断供材料,日本产业被反杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 23时14分]"
+        },
+        {
           "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
           "url": "https://www.cls.cn/detail/2252966",
           "source": "财联社热门",
@@ -125,6 +139,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时17分 ~ 22时15分]"
+        },
+        {
+          "title": "卢卡申科：美国说教他国，自身却毫无正义可言",
+          "url": "https://news.ifeng.com/c/8pmBVoFa9ct",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 23时14分]"
         },
         {
           "title": "2026年首个非农夜：今晚美国就业数据会出“幺蛾子”吗？",
@@ -165,24 +190,24 @@
             14,
             8,
             7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时55分 ~ 22时15分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时59分 ~ 22时15分]"
+          "appearance_count": 19,
+          "time_info": "[08时55分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 23时14分]"
         },
         {
           "title": "日本出昏招,停供动漫当武器",
@@ -200,8 +225,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时53分 ~ 22时15分]"
+          "appearance_count": 18,
+          "time_info": "[10时53分 ~ 23时14分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -220,8 +245,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时37分 ~ 22时15分]"
+          "appearance_count": 16,
+          "time_info": "[12时37分 ~ 23时14分]"
         },
         {
           "title": "日本若被断稀土，3个月或损失数百亿",
@@ -234,6 +259,20 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时17分 ~ 18时13分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时59分 ~ 23时14分]"
         },
         {
           "title": "美媒体人：美国或在准备“世界大战”",
@@ -448,29 +487,17 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
-          "title": "俄精准断供材料,日本产业被反杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
+          "title": "日本交涉被拒,中方驳回不惯着",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348923&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%A4%E6%B6%89%E8%A2%AB%E6%8B%92%2C%E4%B8%AD%E6%96%B9%E9%A9%B3%E5%9B%9E%E4%B8%8D%E6%83%AF%E7%9D%80",
           "source": "贴吧",
           "ranks": [
-            4,
-            6,
             7,
-            8
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 22时15分]"
-        },
-        {
-          "title": "卢卡申科：美国说教他国，自身却毫无正义可言",
-          "url": "https://news.ifeng.com/c/8pmBVoFa9ct",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[17时18分 ~ 23时14分]"
         },
         {
           "title": "美国退出66个国际组织",
@@ -515,17 +542,6 @@
           "time_info": "[08时55分 ~ 15时18分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 22时15分]"
-        },
-        {
           "title": "中国出口管制对日本影响有多大",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7",
           "source": "bilibili 热搜",
@@ -552,17 +568,18 @@
           "time_info": "[00时17分 ~ 05时12分]"
         },
         {
-          "title": "日本交涉被拒,中方驳回不惯着",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348923&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%A4%E6%B6%89%E8%A2%AB%E6%8B%92%2C%E4%B8%AD%E6%96%B9%E9%A9%B3%E5%9B%9E%E4%B8%8D%E6%83%AF%E7%9D%80",
-          "source": "贴吧",
+          "title": "台湾网红馆长以恐吓罪被起诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E9%A6%86%E9%95%BF%E4%BB%A5%E6%81%90%E5%90%93%E7%BD%AA%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
+            2,
+            5,
             7,
-            9,
-            10
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时14分]"
         },
         {
           "title": "白宫称美国开始全球兜售委内瑞拉石油，美能源部长称将“无限期”控制委售油",
@@ -615,17 +632,30 @@
           "time_info": "[15时18分 ~ 17时19分]"
         },
         {
-          "title": "台湾网红馆长以恐吓罪被起诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E9%A6%86%E9%95%BF%E4%BB%A5%E6%81%90%E5%90%93%E7%BD%AA%E8%A2%AB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "北平锋：台湾问题怎么解决中国人说了算",
+          "url": "https://www.toutiao.com/trending/7592759726648213545/",
+          "source": "今日头条",
           "ranks": [
+            25,
             2,
-            5,
-            7
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时14分]"
+        },
+        {
+          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
+          "url": "https://news.ifeng.com/c/8pmH513Ylus",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 23时14分]"
         },
         {
           "title": "中方沉痛哀悼前日本驻华大使丹羽逝世",
@@ -694,6 +724,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "如何评价新出版的 2025 版《美国膳食指南》？",
+          "url": "https://www.zhihu.com/question/1992707692716914111",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时22分 ~ 23时14分]"
         },
         {
           "title": "外交官：台湾问题是华夏儿女心中的刺",
@@ -865,9 +909,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "美国1月五至十年期通胀率预期初值 3.4%，预期3.3%，前值3.20%。",
+          "url": "https://flash.jin10.com/detail/20260109230003298800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "菜鸟开通美国至墨西哥跨境物流服务",
@@ -925,6 +980,17 @@
           "time_info": "21时32分"
         },
         {
+          "title": "美国1月一年期通胀率预期初值 4.2%，预期4.1%，前值4.20%。",
+          "url": "https://flash.jin10.com/detail/20260109230003271800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国总统特朗普就美联储主席人选表示：我心里已经有决定了。 还没有与任何人讨论过对美联储主席的（最终）选择。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3033489",
           "source": "华尔街见闻-快讯",
@@ -975,9 +1041,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "美国最高法院完成周五披露意见的工作，但并没有公布对特朗普关税的判决结果。",
+          "url": "https://wallstreetcn.com/livenews/3034259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "如何看待美国移民与海关执法局工作人员当街射杀一名 37 岁女子？",
@@ -1024,6 +1101,17 @@
           "time_info": "21时32分"
         },
         {
+          "title": "美国1月密歇根大学预期指数初值 55，预期54.9，前值54.6。",
+          "url": "https://flash.jin10.com/detail/20260109230002352800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "韩国总统李在明将于1月13日至14日访问日本。",
           "url": "https://wallstreetcn.com/livenews/3033637",
           "source": "华尔街见闻-快讯",
@@ -1033,6 +1121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "美国1月消费者信心创四个月新高，短期通胀预期持稳，5-10年期通胀预期升至3.4%",
+          "url": "https://wallstreetcn.com/livenews/3034258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "联合国回应美国退群",
@@ -1059,19 +1158,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时59分 ~ 13时18分]"
-        },
-        {
-          "title": "北平锋：台湾问题怎么解决中国人说了算",
-          "url": "https://www.toutiao.com/trending/7592759726648213545/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 22时15分]"
         },
         {
           "title": "美国总统特朗普8日在接受福克斯新闻网采访时说，美国要开始对贩毒集团进行“陆地打击”。（新华社）",
@@ -1158,19 +1244,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 12时38分]"
-        },
-        {
-          "title": "如何评价新出版的 2025 版《美国膳食指南》？",
-          "url": "https://www.zhihu.com/question/1992707692716914111",
-          "source": "知乎",
-          "ranks": [
-            15,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 22时15分]"
         },
         {
           "title": "美国财经媒体Semafor：华纳兄弟探索公司(WBD.O)高层已私下表示，如果派拉蒙公司提高出价，他们愿意再次与该公司展开对话。",
@@ -1354,18 +1427,6 @@
           "time_info": "[13时18分 ~ 14时19分]"
         },
         {
-          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
-          "url": "https://news.ifeng.com/c/8pmH513Ylus",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时15分]"
-        },
-        {
           "title": "美国政府数据显示，美国联邦雇员人数降至至少十年来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260109045301228800",
           "source": "金十数据",
@@ -1438,6 +1499,18 @@
           "time_info": "[13时18分 ~ 14时19分]"
         },
         {
+          "title": "台湾网红“馆长”被起诉",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E2%80%9C%E9%A6%86%E9%95%BF%E2%80%9D%E8%A2%AB%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时14分]"
+        },
+        {
           "title": "美国硅谷富豪圈流行用胚胎筛选技术等手段「订制婴儿」，打造完美后代，真的靠谱吗？可能存在哪些潜在问题？",
           "url": "https://www.zhihu.com/question/1992280649986438924",
           "source": "知乎",
@@ -1449,6 +1522,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 03时12分]"
+        },
+        {
+          "title": "担忧中方稀土反制，日本拉G7给自己壮胆",
+          "url": "https://news.ifeng.com/c/8pmSiUVcN6L",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时14分]"
         },
         {
           "title": "美国夺取格陵兰岛方案价码流出",
@@ -1501,6 +1585,18 @@
           "time_info": "[18时13分 ~ 20时22分]"
         },
         {
+          "title": "台湾网红馆长以恐吓罪被起诉",
+          "url": "https://www.toutiao.com/trending/7592884545469923382/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时14分]"
+        },
+        {
           "title": "媒体：美国优先带来的将是美国独行",
           "url": "https://www.toutiao.com/trending/7593136307653132331/",
           "source": "今日头条",
@@ -1511,6 +1607,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 12时38分]"
+        },
+        {
+          "title": "涉乌克兰，美国发出紧急警告",
+          "url": "https://news.ifeng.com/c/8pmUpxh5XnV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国欠联合国超30亿美元",
@@ -1739,6 +1846,17 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "美国12月非农增5万人不及预期，失业率降至4.4%，年度增幅创2020年以来新低",
+          "url": "https://wallstreetcn.com/articles/3762984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "美国为啥一口气退66个群",
           "url": "https://www.toutiao.com/trending/7593253271809035817/",
           "source": "今日头条",
@@ -1823,6 +1941,17 @@
           "time_info": "[13时18分 ~ 14时19分]"
         },
         {
+          "title": "美国12月非农低于预期 三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2253564",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "美国能源部长：石油巨头正评估在委内瑞拉能源业的角色",
           "url": "https://wallstreetcn.com/livenews/3033444",
           "source": "华尔街见闻-快讯",
@@ -1859,15 +1988,15 @@
           "time_info": "[03时12分 ~ 04时14分]"
         },
         {
-          "title": "担忧中方稀土反制，日本拉G7给自己壮胆",
-          "url": "https://news.ifeng.com/c/8pmSiUVcN6L",
-          "source": "凤凰网",
+          "title": "日本一医院遗失放射性物质",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%97%E5%A4%B1%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时15分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国总统特朗普：与英特尔首席执行官举行了不错的会晤。",
@@ -1894,15 +2023,15 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
-          "title": "台湾网红“馆长”被起诉",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E2%80%9C%E9%A6%86%E9%95%BF%E2%80%9D%E8%A2%AB%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
+          "title": "日本一医院遗失放射性物质",
+          "url": "https://news.ifeng.com/c/8pmOHLGzKfX",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时15分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国1月2日当周EIA天然气库存变动 -1190亿立方英尺，前值 -380亿立方英尺。",
@@ -2056,6 +2185,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "美国1月密歇根大学现况指数初值 52.4，预期51.8，前值50.4。",
+          "url": "https://flash.jin10.com/detail/20260109230002351800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "日本30年期国债收益率下行4个基点至3.405%。",
           "url": "https://wallstreetcn.com/livenews/3033798",
           "source": "华尔街见闻-快讯",
@@ -2111,6 +2251,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "美国1月密歇根大学消费者信心指数初值 54，预期53.5，前值52.9。",
+          "url": "https://flash.jin10.com/detail/20260109230002327800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国海岸警卫队登上一艘名为“奥利娜”的油轮",
           "url": "https://wallstreetcn.com/livenews/3034165",
           "source": "华尔街见闻-快讯",
@@ -2120,6 +2271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者预期指数初值 55，预期 55，前值 54.6。",
+          "url": "https://wallstreetcn.com/livenews/3034256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "曝美国考虑向岛民发现金夺取格陵兰",
@@ -2194,9 +2356,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "美国劳工部长德雷默：经济已做好进一步增长的准备。",
+          "url": "https://flash.jin10.com/detail/20260109225915796800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国芝商所再出手 近期第三次上调贵金属期货保证金",
@@ -2208,6 +2381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者信心指数初值 54，预期 53.5，前值 52.9。",
+          "url": "https://wallstreetcn.com/livenews/3034255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国天然气期货维持跌势，现跌2.1%，EIA报告显示天然气库存降幅略高于预期。",
@@ -2238,7 +2422,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -2263,6 +2447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "美国1月密歇根大学1年通胀预期初值 4.2，预期 4.1，前值 4.2。",
+          "url": "https://wallstreetcn.com/livenews/3034254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国至1月2日当周EIA天然气库存 -1190亿立方英尺，预期-1140亿立方英尺，前值-380亿立方英尺。",
@@ -2359,9 +2554,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "美国1月密歇根大学5年通胀预期初值 3.4，预期 3.4，前值 3.2。",
+          "url": "https://wallstreetcn.com/livenews/3034252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本变得越来越危险",
@@ -2417,6 +2623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者现况指数初值 52.4，预期 52，前值 50.4。",
+          "url": "https://wallstreetcn.com/livenews/3034253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国参议院多数议员投票支持推进一项决议，该决议将阻止特朗普在未获得国会授权的情况下对委内瑞拉采取进一步军事行动，目前投票仍在继续。",
@@ -2518,6 +2735,17 @@
           "time_info": "20时22分"
         },
         {
+          "title": "美国劳工部长Chavez-Deremer：经济有望继续增长。",
+          "url": "https://wallstreetcn.com/livenews/3034251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国白宫：特朗普将否决委内瑞拉战争权力的决议。",
           "url": "https://flash.jin10.com/detail/20260109003736686800",
           "source": "金十数据",
@@ -2615,6 +2843,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国最高法院可能就特朗普关税做出判决之前，通用汽车跌超3.1%刷新日低，Affirm Holdings Inc.跌0.9%，迪尔农机Deere & Co.一度跌0.9%，American Eagle Outfitters Inc.一度转跌。 黑石集团Blackstone Inc.涨幅收窄至不足0.3%，卡特彼勒Caterpillar Inc.涨幅从不足0.4%扩大至超过1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3034250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国至1月2日当周EIA天然气库存将于十分钟后公布。",
@@ -2821,7 +3060,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3013,6 +3252,17 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美国1月密歇根大学消费者信心指数初值、一年期通胀率预期初值将于十分钟后公布；美联储卡什卡利将于十分钟后参加非正式谈话。",
+          "url": "https://flash.jin10.com/detail/20260109225000002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "Saxo Markets首席投资策略师Charu Chanana：2026年开局强劲后，市场正喘息调整，在周五美国就业报告公布前，无人愿意增添新的风险。 美联储政策争论尚未落幕，地区安全事件持续令市场保持谨慎布局。",
           "url": "https://wallstreetcn.com/livenews/3033431",
           "source": "华尔街见闻-快讯",
@@ -3118,9 +3368,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：美国国务卿鲁比奥最近谈到与墨西哥的良好协调。",
+          "url": "https://flash.jin10.com/detail/20260109224920978800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.16%。",
@@ -3173,9 +3434,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "美元兑日元涨穿158，为2025年1月以来首次，日内涨0.74%。 此前媒体报道称，日本首相企图解散议会众议院，从而为提前大选铺平道路。",
+          "url": "https://wallstreetcn.com/livenews/3034245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "戴怀成：警惕日本右翼核野心",
@@ -3266,6 +3538,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "墨西哥总统辛鲍姆呼吁开展联合安保行动，以应对美国的威胁。",
+          "url": "https://flash.jin10.com/detail/20260109224910386800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国11月消费信贷变动 42.29亿美元，预期 100亿美元，前值 91.78亿美元。",
           "url": "https://wallstreetcn.com/livenews/3033529",
           "source": "华尔街见闻-快讯",
@@ -3283,9 +3566,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "美国新屋开工降至2020年5月以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3034244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "马克龙：美国正逐渐疏远部分盟友",
@@ -3371,7 +3665,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3385,6 +3679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "白宫顾问哈塞特：特朗普政府在关税问题上有后备计划。 （一旦美国最高法院否决特朗普关税）白宫的那些备选工具几乎立即就会到位。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3034243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国至1月8日4周国债竞拍-得标利率 3.55%，前值3.59%。",
@@ -3448,7 +3753,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3470,18 +3775,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "台湾网红馆长以恐吓罪被起诉",
-          "url": "https://www.toutiao.com/trending/7592884545469923382/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3558,7 +3852,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3591,7 +3885,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3627,6 +3921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆要求美国国务卿鲁比奥就安全问题进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260109224627604800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "花旗在美国非农数据和关税案裁决前夕看涨美元",
@@ -3668,7 +3973,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3756,7 +4061,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3827,13 +4132,24 @@
           "time_info": "10时53分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：在特朗普发表关于通过地面打击遏制毒品走私的言论后，墨西哥将加强与美国的沟通。",
+          "url": "https://flash.jin10.com/detail/20260109224513213800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国12月劳动力参与率 62.4%，预期 62.4%，前值 62.5%。",
           "url": "https://wallstreetcn.com/livenews/3034187",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3888,7 +4204,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -3965,9 +4281,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：如有必要，将与美国总统特朗普对话。",
+          "url": "https://flash.jin10.com/detail/20260109224352118800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "日本央行可能上调经济增长预测，维持本月利率不变",
@@ -3987,7 +4314,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -4036,6 +4363,17 @@
           "time_info": "19时12分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：我已要求我们的外交部长与美国国务卿鲁比奥取得联系。",
+          "url": "https://flash.jin10.com/detail/20260109224300364800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国10月批发库存环比终值 0.2%，预期 0.2%，初值 0.5%。",
           "url": "https://wallstreetcn.com/livenews/3033417",
           "source": "华尔街见闻-快讯",
@@ -4053,7 +4391,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -4102,6 +4440,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：美国总统曾声称，“若伊朗政府采取某些行动，我将站在抗议者一边。”抗议者确实将希望寄托于他。但首先，倘若他有能力的话，请先管理好自己的国家。",
+          "url": "https://flash.jin10.com/detail/20260109223747363800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "日经225指数收涨1.6%，报51,939.89点。 日本东证指数收涨0.9%，报3,514.11点。 韩国首尔综指收涨0.7%，报4586.32点。",
           "url": "https://wallstreetcn.com/livenews/3033821",
           "source": "华尔街见闻-快讯",
@@ -4119,7 +4468,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -4163,7 +4512,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -4207,7 +4556,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -4228,6 +4577,17 @@
       "keyword_group": "ai AI IDE 编辑器",
       "match_count": 36,
       "titles": [
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 23时14分]"
+        },
         {
           "title": "如何分辨AI音乐骗局",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
@@ -4261,6 +4621,47 @@
           "time_info": "[08时55分 ~ 15时18分]"
         },
         {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 23时14分]"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时13分 ~ 23时14分]"
+        },
+        {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时18分 ~ 23时14分]"
+        },
+        {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
           "source": "财联社热门",
@@ -4273,17 +4674,6 @@
           "time_info": "[00时17分 ~ 04时14分]"
         },
         {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时12分 ~ 22时15分]"
-        },
-        {
           "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
           "url": "https://www.cls.cn/detail/2252328",
           "source": "财联社热门",
@@ -4294,32 +4684,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时19分 ~ 08时55分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 22时15分]"
-        },
-        {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时13分 ~ 22时15分]"
         },
         {
           "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
@@ -4335,21 +4699,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时17分 ~ 21时32分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 22时15分]"
         },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
@@ -4386,6 +4735,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时12分 ~ 08时55分]"
+        },
+        {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时14分]"
+        },
+        {
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时14分]"
+        },
+        {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时15分 ~ 23时14分]"
         },
         {
           "title": "金靖章若楠剧宣诡异的像AI",
@@ -4471,30 +4857,6 @@
           "time_info": "[10时53分 ~ 11时59分]"
         },
         {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时15分]"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 22时15分]"
-        },
-        {
           "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
           "url": "https://wallstreetcn.com/livenews/3033598",
           "source": "华尔街见闻-快讯",
@@ -4548,17 +4910,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
         },
         {
           "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
