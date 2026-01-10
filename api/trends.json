@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T04:12:11.568536+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-01-11T05:10:31.494833+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "委内瑞拉与美国互派代表团",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "乌克兰总统泽连斯基表示，乌克兰首席谈判代表乌梅罗夫于周六与美国代表进行了通话。",
@@ -37,8 +37,106 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
+        },
+        {
+          "title": "日本年轻人晒梅毒化梅毒妆是啥操作",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%99%92%E6%A2%85%E6%AF%92%E5%8C%96%E6%A2%85%E6%AF%92%E5%A6%86%E6%98%AF%E5%95%A5%E6%93%8D%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
+          "url": "https://www.zhihu.com/question/1993265925231761101",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
+          "url": "https://www.cls.cn/detail/2253739",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "格陵兰岛居民：给钱也不加入美国",
+          "url": "https://www.douyin.com/hot/2363077",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22,
+            17,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "俄精准断供材料,日本产业被反杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "日本交涉被拒,中方驳回不惯着",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348923&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%A4%E6%B6%89%E8%A2%AB%E6%8B%92%2C%E4%B8%AD%E6%96%B9%E9%A9%B3%E5%9B%9E%E4%B8%8D%E6%83%AF%E7%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "日本出昏招,停供动漫当武器",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348887&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%87%BA%E6%98%8F%E6%8B%9B%2C%E5%81%9C%E4%BE%9B%E5%8A%A8%E6%BC%AB%E5%BD%93%E6%AD%A6%E5%99%A8",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -52,102 +150,6 @@
           "time_info": "[00时12分 ~ 01时10分]"
         },
         {
-          "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
-          "url": "https://www.zhihu.com/question/1993265925231761101",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "日本年轻人晒梅毒化梅毒妆是啥操作",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%99%92%E6%A2%85%E6%AF%92%E5%8C%96%E6%A2%85%E6%AF%92%E5%A6%86%E6%98%AF%E5%95%A5%E6%93%8D%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
-          "url": "https://www.cls.cn/detail/2253739",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "格陵兰岛居民：给钱也不加入美国",
-          "url": "https://www.douyin.com/hot/2363077",
-          "source": "抖音",
-          "ranks": [
-            19,
-            22,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "俄精准断供材料,日本产业被反杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "日本交涉被拒,中方驳回不惯着",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348923&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%A4%E6%B6%89%E8%A2%AB%E6%8B%92%2C%E4%B8%AD%E6%96%B9%E9%A9%B3%E5%9B%9E%E4%B8%8D%E6%83%AF%E7%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
-          "title": "日本出昏招,停供动漫当武器",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348887&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%87%BA%E6%98%8F%E6%8B%9B%2C%E5%81%9C%E4%BE%9B%E5%8A%A8%E6%BC%AB%E5%BD%93%E6%AD%A6%E5%99%A8",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
-        },
-        {
           "title": "巴基斯坦和美国武装部队开始联合反恐演习",
           "url": "https://flash.jin10.com/detail/20260110224346598800",
           "source": "金十数据",
@@ -155,8 +157,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "美国为啥一直在要格陵兰岛",
@@ -168,8 +170,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时10分]"
         },
         {
           "title": "美媒：美国外交政策显示出其领导力的不断衰落",
@@ -179,8 +181,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "以武谋油 美国的“胜利”幻象",
@@ -188,11 +190,24 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            30
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 05时10分]"
+        },
+        {
+          "title": "外交部：解决台湾问题不容外部干涉",
+          "url": "https://www.toutiao.com/trending/7593409685739274281/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "time_info": "[04时11分 ~ 05时10分]"
         },
         {
           "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
@@ -204,17 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 00时13分]"
-        },
-        {
-          "title": "外交部：解决台湾问题不容外部干涉",
-          "url": "https://www.toutiao.com/trending/7593409685739274281/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 04时12分]"
         }
       ]
     },
@@ -231,8 +235,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -244,8 +248,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -255,8 +259,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -265,11 +269,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时10分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -279,8 +284,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -290,8 +295,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         }
       ]
     }
