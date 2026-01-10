@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T21:23:58.753472+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-01-10T22:10:48.496668+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
@@ -55,20 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 21时23分]"
-        },
-        {
-          "title": "外交部：解决台湾问题不容外部干涉",
-          "url": "https://www.toutiao.com/trending/7593409685739274281/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 20时20分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 22时10分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -83,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时11分 ~ 21时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时11分 ~ 22时10分]"
         },
         {
           "title": "日本稀土新动向",
@@ -114,6 +102,31 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[08时53分 ~ 19时10分]"
+        },
+        {
+          "title": "委内瑞拉与美国互派代表团",
+          "url": "https://news.ifeng.com/c/8pnTnY84poZ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时11分 ~ 22时10分]"
+        },
+        {
+          "title": "外交部：解决台湾问题不容外部干涉",
+          "url": "https://www.toutiao.com/trending/7593409685739274281/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时52分 ~ 22时10分]"
         },
         {
           "title": "如何评价张本智和兄妹「午夜狂奔」，从日本 T 联赛转会德甲俱乐部，对全球体育人才流动有何启示？",
@@ -180,18 +193,6 @@
           "time_info": "[00时15分 ~ 08时53分]"
         },
         {
-          "title": "委内瑞拉与美国互派代表团",
-          "url": "https://news.ifeng.com/c/8pnTnY84poZ",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时11分 ~ 21时23分]"
-        },
-        {
           "title": "涉乌克兰，美国发出紧急警告",
           "url": "https://news.ifeng.com/c/8pmUpxh5XnV",
           "source": "凤凰网",
@@ -226,8 +227,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时53分 ~ 21时23分]"
+          "appearance_count": 18,
+          "time_info": "[08时53分 ~ 22时10分]"
         },
         {
           "title": "联合国发言人：美国若继续“欠费”或失去联大投票权",
@@ -244,21 +245,6 @@
           "time_info": "[00时15分 ~ 07时12分]"
         },
         {
-          "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
-          "url": "https://www.cls.cn/detail/2253593",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 21时23分]"
-        },
-        {
           "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
           "url": "https://news.ifeng.com/c/8pmH513Ylus",
           "source": "凤凰网",
@@ -268,6 +254,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 08时53分]"
+        },
+        {
+          "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
+          "url": "https://www.cls.cn/detail/2253593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 22时10分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -338,8 +340,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时25分 ~ 21时23分]"
+          "appearance_count": 15,
+          "time_info": "[12时25分 ~ 22时10分]"
         },
         {
           "title": "担忧中方稀土反制，日本拉G7给自己壮胆",
@@ -367,8 +369,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 21时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 22时10分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -384,8 +386,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 21时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 22时10分]"
         },
         {
           "title": "黄金正式超越美国国债，三十年来首次成为全球规模最大的储备资产，请问金本位下的经济市场有何特点？",
@@ -498,8 +500,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 21时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 22时10分]"
         },
         {
           "title": "格陵兰岛居民：给钱也不加入美国",
@@ -543,6 +545,18 @@
           "time_info": "[10时47分 ~ 15时12分]"
         },
         {
+          "title": "格陵兰岛外长提议：我们应该占主导地位，何不与美国单独谈？",
+          "url": "https://news.ifeng.com/c/8pnzbnmRc3C",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时19分 ~ 22时10分]"
+        },
+        {
           "title": "联合国发言人：美国或失去联大投票权",
           "url": "https://www.toutiao.com/trending/7592846472723873835/",
           "source": "今日头条",
@@ -569,18 +583,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时16分 ~ 21时23分]"
-        },
-        {
-          "title": "格陵兰岛外长提议：我们应该占主导地位，何不与美国单独谈？",
-          "url": "https://news.ifeng.com/c/8pnzbnmRc3C",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时19分 ~ 21时23分]"
         },
         {
           "title": "联合国尚未收到美国退群通知",
@@ -1023,17 +1025,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "美媒：美国外交政策显示出其领导力的不断衰落",
-          "url": "https://wallstreetcn.com/livenews/3034550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "美国国务卿鲁比奥：美国支持勇敢的伊朗人民。",
           "url": "https://flash.jin10.com/detail/20260110133457629800",
           "source": "金十数据",
@@ -1134,6 +1125,21 @@
           "time_info": "[11时52分 ~ 15时12分]"
         },
         {
+          "title": "格陵兰岛各政党领导人：“格陵兰人不想成为美国人”",
+          "url": "https://wallstreetcn.com/livenews/3034525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            19,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 22时10分]"
+        },
+        {
           "title": "伊拉克石油部长表示，正就西库尔纳2号油田与美国雪佛龙(CVX.N)公司进行谈判。",
           "url": "https://flash.jin10.com/detail/20260110174003026800",
           "source": "金十数据",
@@ -1173,6 +1179,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 14时17分]"
+        },
+        {
+          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时10分 ~ 22时10分]"
         },
         {
           "title": "美国男子家中搜出大量人骨",
@@ -1301,6 +1320,18 @@
           "time_info": "[05时12分 ~ 06时12分]"
         },
         {
+          "title": "美媒：美国外交政策显示出其领导力的不断衰落",
+          "url": "https://wallstreetcn.com/livenews/3034550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时10分]"
+        },
+        {
           "title": "美国叙利亚问题特使：讨论了阿勒颇局势发展，重申致力于支持停火努力，确保叙利亚民主力量和平撤离。",
           "url": "https://flash.jin10.com/detail/20260110141126980800",
           "source": "金十数据",
@@ -1375,20 +1406,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时53分 ~ 12时26分]"
-        },
-        {
-          "title": "格陵兰岛各政党领导人：“格陵兰人不想成为美国人”",
-          "url": "https://wallstreetcn.com/livenews/3034525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 21时23分]"
         },
         {
           "title": "格陵兰岛居民说给钱也不加入美国",
@@ -1466,6 +1483,20 @@
           "time_info": "[08时53分 ~ 12时26分]"
         },
         {
+          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
+          "url": "https://flash.jin10.com/detail/20260110180247697800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 22时10分]"
+        },
+        {
           "title": "特朗普威胁美国石油巨头在委内瑞拉投资：你们不干有的是人干",
           "url": "https://wallstreetcn.com/livenews/3034473",
           "source": "华尔街见闻-快讯",
@@ -1478,19 +1509,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时47分 ~ 13时14分]"
-        },
-        {
-          "title": "美国多家石油公司对投资委内瑞拉表态谨慎，埃克森美孚：目前“不可投资”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32358153",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时10分 ~ 21时23分]"
         },
         {
           "title": "美国官宣“退群”已过两天 联合国：尚未收到美正式通知",
@@ -1557,19 +1575,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时11分 ~ 20时20分]"
-        },
-        {
-          "title": "消息人士：美国中央情报局（CIA）对古巴的经济和政治状况做出了悲观的描述，但这些评估并未为特朗普上周有关在邻国委内瑞拉发生军事行动后古巴“即将崩溃”的预测提供明确依据。中情局认为，古巴经济的关键领域，如农业和旅游业，因频繁停电、贸易制裁以及其他问题而承受着巨大压力。而来自委内瑞拉的石油进口及其他支持资源的潜在丧失，可能会使政府的治理工作变得更加困难。",
-          "url": "https://flash.jin10.com/detail/20260110180247697800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时23分]"
         },
         {
           "title": "美国叙利亚问题特使：会见了约旦副首相兼外交和侨民事务部长艾曼·萨法迪，萨法迪部长和我在持续合作的背景下讨论了阿拉伯叙利亚共和国的最新事态发展。",
@@ -1958,6 +1963,18 @@
           "time_info": "[20时19分 ~ 20时20分]"
         },
         {
+          "title": "“格陵兰人不想成为美国人”",
+          "url": "https://www.toutiao.com/trending/7593091432526249990/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时10分]"
+        },
+        {
           "title": "特朗普称美国必须拥有整个格陵兰，白宫“购岛”方案流出",
           "url": "https://wallstreetcn.com/articles/3762902",
           "source": "华尔街见闻",
@@ -2065,6 +2082,18 @@
           "time_info": "[00时15分 ~ 01时16分]"
         },
         {
+          "title": "格陵兰岛居民：给钱也不加入美国",
+          "url": "https://www.douyin.com/hot/2363077",
+          "source": "抖音",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时10分]"
+        },
+        {
           "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
           "url": "https://wallstreetcn.com/livenews/3034442",
           "source": "华尔街见闻-快讯",
@@ -2159,6 +2188,18 @@
           "time_info": "[03时13分 ~ 04时14分]"
         },
         {
+          "title": "高市早苗会将日本带向何处",
+          "url": "https://www.toutiao.com/trending/7593705367620554278/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时10分]"
+        },
+        {
           "title": "美国1月9日当周总钻井数 544，前值 546。",
           "url": "https://wallstreetcn.com/livenews/3034343",
           "source": "华尔街见闻-快讯",
@@ -2169,6 +2210,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 04时14分]"
+        },
+        {
+          "title": "石平窜访台湾被当面痛斥“汉奸”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E5%B9%B3%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE%E8%A2%AB%E5%BD%93%E9%9D%A2%E7%97%9B%E6%96%A5%E2%80%9C%E6%B1%89%E5%A5%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时10分]"
         },
         {
           "title": "日本强军扩武愈发激进",
@@ -2270,17 +2322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        },
-        {
-          "title": "“格陵兰人不想成为美国人”",
-          "url": "https://www.toutiao.com/trending/7593091432526249990/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
         },
         {
           "title": "美国财长贝森特：美国国税局将成立特别工作组，调查涉及新冠税收优惠的欺诈行为。",
@@ -2536,17 +2577,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "格陵兰岛居民：给钱也不加入美国",
-          "url": "https://www.douyin.com/hot/2363077",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "特朗普：美国将立即开始提炼和销售5000万桶委石油",
           "url": "https://m.thepaper.cn/newsDetail_forward_32355974",
           "source": "澎湃新闻",
@@ -2756,17 +2786,6 @@
           "time_info": "16时15分"
         },
         {
-          "title": "石平窜访台湾被当面痛斥“汉奸”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%B3%E5%B9%B3%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE%E8%A2%AB%E5%BD%93%E9%9D%A2%E7%97%9B%E6%96%A5%E2%80%9C%E6%B1%89%E5%A5%B8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "委内瑞拉政府表示，已与美国启动探索性外交阶段，旨在重建外交关系。",
           "url": "https://flash.jin10.com/detail/20260110011159823800",
           "source": "金十数据",
@@ -2809,17 +2828,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
-        },
-        {
-          "title": "高市早苗会将日本带向何处",
-          "url": "https://www.toutiao.com/trending/7593705367620554278/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
         },
         {
           "title": "美联储博斯蒂克：在许多方面，美国长期以来一直存在K型经济。",
@@ -2935,7 +2943,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -2971,8 +2979,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时47分 ~ 21时23分]"
+          "appearance_count": 17,
+          "time_info": "[10时47分 ~ 22时10分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -3075,6 +3083,19 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 22时10分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
           "url": "https://flash.jin10.com/detail/20260110094533475800",
           "source": "金十数据",
@@ -3099,19 +3120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 21时23分]"
         },
         {
           "title": "英伟达EVP、Worldwide Field Operations主管Ajay Puri执行内部交易，1月7日卖出公司股票20万，套现3760万元。",
@@ -3187,6 +3195,17 @@
           "time_info": "[17时11分 ~ 18时11分]"
         },
         {
+          "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
+          "url": "https://www.cls.cn/detail/2253847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
           "url": "https://flash.jin10.com/detail/20260109232712672800",
           "source": "金十数据",
@@ -3229,6 +3248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "国产AI大模型公司集中上市",
+          "url": "https://www.douyin.com/hot/2362832",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         }
       ]
     }
