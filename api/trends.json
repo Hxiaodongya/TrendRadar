@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T21:24:41.685027+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-01-11T22:11:03.515129+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 80,
+      "match_count": 81,
       "titles": [
         {
           "title": "委内瑞拉与美国互派代表团",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时40分 ~ 21时24分]"
+          "appearance_count": 15,
+          "time_info": "[12时40分 ~ 22时11分]"
         },
         {
           "title": "日本一餐厅墙内发现女尸",
@@ -166,11 +166,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 21时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 22时11分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -181,11 +182,12 @@
             21,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 21时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 22时11分]"
         },
         {
           "title": "日本出昏招,停供动漫当武器",
@@ -224,6 +226,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时10分 ~ 07时11分]"
+        },
+        {
+          "title": "石油巨头裹足不前的心理阴影：委内瑞拉与美国的百年石油恩怨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32362506",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时11分 ~ 22时11分]"
         },
         {
           "title": "美媒：美国外交政策显示出其领导力的不断衰落",
@@ -326,6 +342,41 @@
           "time_info": "[11时08分 ~ 16时15分]"
         },
         {
+          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
+          "url": "https://flash.jin10.com/detail/20260111205812330800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时11分]"
+        },
+        {
+          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
+          "url": "https://wallstreetcn.com/livenews/3034739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时11分]"
+        },
+        {
+          "title": "日本防卫大臣参与自卫队空降演习，从11米高塔台跳下",
+          "url": "https://news.ifeng.com/c/8ppeDC8AO0V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时09分 ~ 22时11分]"
+        },
+        {
           "title": "美国密西西比州发生大规模枪击事件",
           "url": "https://flash.jin10.com/detail/20260111094728522800",
           "source": "金十数据",
@@ -374,6 +425,29 @@
           "time_info": "[09时00分 ~ 15时14分]"
         },
         {
+          "title": "英媒：欧洲计划向格陵兰岛派兵，若美国拒绝，欧盟考虑制裁美企",
+          "url": "https://news.ifeng.com/c/8ppUNN6cE6N",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时09分 ~ 22时11分]"
+        },
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时20分 ~ 22时11分]"
+        },
+        {
           "title": "据AXIOS网站：美国国务卿鲁比奥周六与以色列总理内塔尼亚胡通了电话。",
           "url": "https://flash.jin10.com/detail/20260111092936922800",
           "source": "金十数据",
@@ -401,17 +475,6 @@
           "time_info": "15时14分"
         },
         {
-          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
-          "url": "https://flash.jin10.com/detail/20260111205812330800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
           "title": "日本联合执政伙伴负责人Yoshimura：已于周五与日本首相高市早苗通话，若她如国内媒体报道般宣布提前大选，我并不感到意外。",
           "url": "https://wallstreetcn.com/livenews/3034593",
           "source": "华尔街见闻-快讯",
@@ -421,17 +484,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
-        },
-        {
-          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
-          "url": "https://wallstreetcn.com/livenews/3034739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
         },
         {
           "title": "美国财长贝森特：预计私营企业将迅速进入委内瑞拉，美国进出口银行将发挥作用。",
@@ -482,19 +534,6 @@
           "time_info": "[09时00分 ~ 15时14分]"
         },
         {
-          "title": "石油巨头裹足不前的心理阴影：委内瑞拉与美国的百年石油恩怨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32362506",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时11分 ~ 21时24分]"
-        },
-        {
           "title": "以武谋油 美国的“胜利”幻象",
           "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E6%AD%A6%E8%B0%8B%E6%B2%B9+%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E8%83%9C%E5%88%A9%E2%80%9D%E5%B9%BB%E8%B1%A1",
           "source": "百度热搜",
@@ -508,17 +547,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
-          "url": "https://flash.jin10.com/detail/20260111203059463800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
         },
         {
           "title": "美国蜜雪冰城含糖量",
@@ -600,15 +628,16 @@
           "time_info": "[18时11分 ~ 20时20分]"
         },
         {
-          "title": "日本防卫大臣参与自卫队空降演习，从11米高塔台跳下",
-          "url": "https://news.ifeng.com/c/8ppeDC8AO0V",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
+          "url": "https://flash.jin10.com/detail/20260111203059463800",
+          "source": "金十数据",
           "ranks": [
+            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 21时24分]"
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时11分]"
         },
         {
           "title": "德国财长：国际法适用于包括美国在内的所有国家。",
@@ -637,17 +666,6 @@
           "time_info": "[19时10分 ~ 21时24分]"
         },
         {
-          "title": "英媒：欧洲计划向格陵兰岛派兵，若美国拒绝，欧盟考虑制裁美企",
-          "url": "https://news.ifeng.com/c/8ppUNN6cE6N",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 21时24分]"
-        },
-        {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
           "url": "https://wallstreetcn.com/livenews/3034579",
           "source": "华尔街见闻-快讯",
@@ -670,6 +688,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时10分 ~ 20时20分]"
+        },
+        {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”，美国总统特朗普随后截图并评论称：“听起来不错！”",
+          "url": "https://flash.jin10.com/detail/20260111195052467800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时11分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte声称：需要调查住房开发商KB Home库存缩水问题。",
@@ -696,18 +727,6 @@
           "time_info": "[15时14分 ~ 16时15分]"
         },
         {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时24分]"
-        },
-        {
           "title": "伊朗警告美方：若伊朗遭袭 必将对以色列与美国实施打击",
           "url": "https://flash.jin10.com/detail/20260111143012383800",
           "source": "金十数据",
@@ -730,18 +749,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时09分 ~ 21时24分]"
-        },
-        {
-          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”，美国总统特朗普随后截图并评论称：“听起来不错！”",
-          "url": "https://flash.jin10.com/detail/20260111195052467800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时24分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -797,6 +804,44 @@
           "time_info": "[04时11分 ~ 07时11分]"
         },
         {
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
+          "url": "https://wallstreetcn.com/livenews/3034723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时11分]"
+        },
+        {
+          "title": "特朗普自称从不觉得快乐 直至让美国再次伟大",
+          "url": "https://flash.jin10.com/detail/20260111194008167800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时11分]"
+        },
+        {
+          "title": "中国出手反制日本“再军事化”意图",
+          "url": "https://www.toutiao.com/trending/7593294923076845604/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 22时11分]"
+        },
+        {
           "title": "委内瑞拉否认美国安全警告，称国内局势保持和平稳定",
           "url": "https://wallstreetcn.com/livenews/3034606",
           "source": "华尔街见闻-快讯",
@@ -808,6 +853,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时08分 ~ 13时18分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬表示，美国和以色列正指使“暴乱分子”在伊朗制造不稳定。",
+          "url": "https://flash.jin10.com/detail/20260111192502756800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时11分]"
         },
         {
           "title": "美国密西西比州发生大规模枪击事件",
@@ -823,6 +881,17 @@
           "time_info": "[11时08分 ~ 13时18分]"
         },
         {
+          "title": "格陵兰岛即将成为美国第 51 个州吗？",
+          "url": "https://www.zhihu.com/question/1991508157164439003",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 22时11分]"
+        },
+        {
           "title": "朝媒：新军国主义只会给日本带来毁灭",
           "url": "https://www.toutiao.com/trending/7592834289672044586/",
           "source": "今日头条",
@@ -833,18 +902,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时12分 ~ 18时12分]"
-        },
-        {
-          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
-          "url": "https://wallstreetcn.com/livenews/3034723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时24分]"
         },
         {
           "title": "美媒：美国就算拿到格陵兰岛也没用",
@@ -858,18 +915,6 @@
           "time_info": "[19时09分 ~ 19时10分]"
         },
         {
-          "title": "特朗普自称从不觉得快乐 直至让美国再次伟大",
-          "url": "https://flash.jin10.com/detail/20260111194008167800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时24分]"
-        },
-        {
           "title": "中方加严管制两用物项，坚决遏制日本军国主义图谋",
           "url": "https://wallstreetcn.com/articles/3763003",
           "source": "华尔街见闻",
@@ -879,18 +924,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬表示，美国和以色列正指使“暴乱分子”在伊朗制造不稳定。",
-          "url": "https://flash.jin10.com/detail/20260111192502756800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时24分]"
         },
         {
           "title": "美国12月非农喜忧参半 美联储6月前降息概率全面走低",
@@ -913,6 +946,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "日本朝野各党加速选举准备，高市早苗避谈解散众议院",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32363271",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
           "title": "美国移民执法射杀女子案持续发酵",
@@ -972,28 +1016,6 @@
           "time_info": "12时40分"
         },
         {
-          "title": "中国出手反制日本“再军事化”意图",
-          "url": "https://www.toutiao.com/trending/7593294923076845604/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "格陵兰岛即将成为美国第 51 个州吗？",
-          "url": "https://www.zhihu.com/question/1991508157164439003",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
           "title": "美国一男子枪杀6人",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E6%9E%AA%E6%9D%806%E4%BA%BA%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1033,7 +1055,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         }
@@ -1071,8 +1093,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时18分 ~ 21时24分]"
+          "appearance_count": 14,
+          "time_info": "[13时18分 ~ 22时11分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -1088,8 +1110,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时13分 ~ 21时24分]"
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 22时11分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -1105,8 +1127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时10分 ~ 21时24分]"
+          "appearance_count": 26,
+          "time_info": "[01时10分 ~ 22时11分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -1119,8 +1141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 21时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 22时11分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -1144,8 +1166,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 21时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 22时11分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时12分 ~ 22时11分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -1199,18 +1233,6 @@
           "time_info": "[12时40分 ~ 16时15分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时12分 ~ 21时24分]"
-        },
-        {
           "title": "AI时代还有学画画的必要吗",
           "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
           "source": "百度热搜",
@@ -1240,6 +1262,20 @@
           "time_info": "[08时59分 ~ 14时17分]"
         },
         {
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时09分 ~ 22时11分]"
+        },
+        {
           "title": "中国首个金融气象AI模型“熵机”在穗发布",
           "url": "https://flash.jin10.com/detail/20260111185158665800",
           "source": "金十数据",
@@ -1264,19 +1300,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时15分 ~ 18时12分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时09分 ~ 21时24分]"
         },
         {
           "title": "疑似马斯克AI账号登顶LOL韩服",
