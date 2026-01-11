@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T04:13:06.794894+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-12T05:10:46.927487+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 05时10分]"
         },
         {
           "title": "日本防卫大臣参与自卫队空降演习，从11米高塔台跳下",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "英媒：欧洲计划向格陵兰岛派兵，若美国拒绝，欧盟考虑制裁美企",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "格陵兰岛即将成为美国第 51 个州吗？",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -85,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "石油巨头裹足不前的心理阴影：委内瑞拉与美国的百年石油恩怨",
@@ -98,8 +98,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "日本朝野各党加速选举准备，高市早苗避谈解散众议院",
@@ -111,8 +111,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "俄精准断供材料,日本产业被反杀",
@@ -122,8 +122,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -133,8 +133,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "瑞典首相公开声援丹麦，谴责美国对格陵兰岛的扩张性威胁",
@@ -142,11 +142,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
@@ -154,44 +155,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
-        },
-        {
-          "title": "美国能源部长：可将委内瑞拉石油用于填充SPR",
-          "url": "https://wallstreetcn.com/livenews/3034761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗政府宣布全国哀悼三天：悼念在伊朗抵抗美国和以色列斗争中牺牲的人员",
-          "url": "https://wallstreetcn.com/livenews/3034759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3034760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "古巴外长：美国的行为如同“罪犯和失控的霸权”",
@@ -199,11 +168,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "古巴外交部长在社交媒体平台上表示，该国尚未因向任何国家提供安全服务而获得补偿，古巴政府不会屈服于美国的勒索或军事胁迫。",
@@ -211,11 +181,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
@@ -223,11 +194,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "总部位于美国、关注人权状况的媒体机构HRANA称，与抗议活动相关的伊朗死亡人数已升至203人。",
@@ -235,11 +207,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
@@ -247,11 +220,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国12月贸易帐、美国12月CPI及美联储官员密集发声",
@@ -259,11 +233,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "为什么克里米亚战争和第二次鸦片战争，英国和法国能联合起来？",
@@ -275,8 +250,30 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时16分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时16分 ~ 05时10分]"
+        },
+        {
+          "title": "消息人士：以英国和德国为首的部分欧洲国家正在讨论在格陵兰岛建立军事存在的计划，试图遏制美国接管格陵兰岛的威胁。德国将提议设立一个北约联合特派团，以保护北极地区。",
+          "url": "https://flash.jin10.com/detail/20260112041036447800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "古巴外长要求美国停止非法拘留马杜罗",
+          "url": "https://wallstreetcn.com/livenews/3034765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
@@ -303,6 +300,42 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
+          "title": "美国能源部长：可将委内瑞拉石油用于填充SPR",
+          "url": "https://wallstreetcn.com/livenews/3034761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
+        },
+        {
+          "title": "伊朗政府宣布全国哀悼三天：悼念在伊朗抵抗美国和以色列斗争中牺牲的人员",
+          "url": "https://wallstreetcn.com/livenews/3034759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
+        },
+        {
+          "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3034760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
+        },
+        {
           "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
           "url": "https://wallstreetcn.com/livenews/3034723",
           "source": "华尔街见闻-快讯",
@@ -312,6 +345,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时09分]"
+        },
+        {
+          "title": "美国土安全部部长称将向明尼苏达州增派数百名警员",
+          "url": "https://flash.jin10.com/detail/20260112040343010800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美国系外行星研究卫星发射升空",
+          "url": "https://wallstreetcn.com/livenews/3034772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     },
@@ -327,8 +382,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -338,8 +393,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -347,23 +402,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
-        },
-        {
-          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
-          "url": "https://wallstreetcn.com/livenews/3034757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -373,8 +417,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
+        },
+        {
+          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
+          "url": "https://wallstreetcn.com/livenews/3034757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -385,8 +442,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -397,8 +454,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -408,8 +465,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
@@ -420,8 +477,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -438,26 +506,16 @@
           "time_info": "[00时13分 ~ 04时13分]"
         },
         {
-          "title": "Deepseek或将发布新AI模型",
-          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 04时13分]"
-        },
-        {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
           "url": "https://wallstreetcn.com/livenews/3034762",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 05时10分]"
         }
       ]
     }
