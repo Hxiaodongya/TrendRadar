@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T18:16:31.165811+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-01-12T19:12:59.553021+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 98,
+      "match_count": 108,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时57分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[08时57分 ~ 19时12分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时02分 ~ 19时12分]"
         },
         {
           "title": "一场新的战争，已是一触即发",
@@ -162,11 +162,12 @@
             13,
             12,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时41分 ~ 18时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时41分 ~ 19时12分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -258,6 +259,17 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
+          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
+          "url": "https://news.ifeng.com/c/8pqzcww1ile",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时12分]"
+        },
+        {
           "title": "古巴外长：美国的行为如同“罪犯和失控的霸权”",
           "url": "https://flash.jin10.com/detail/20260111222624496800",
           "source": "金十数据",
@@ -287,15 +299,33 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
-          "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
-          "url": "https://news.ifeng.com/c/8pqzcww1ile",
-          "source": "凤凰网",
+          "title": "美国多地爆发游行示威",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81",
+          "source": "百度热搜",
           "ranks": [
-            5
+            28,
+            24,
+            23,
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 19时12分]"
+        },
+        {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时12分]"
         },
         {
           "title": "古巴外交部长在社交媒体平台上表示，该国尚未因向任何国家提供安全服务而获得补偿，古巴政府不会屈服于美国的勒索或军事胁迫。",
@@ -367,20 +397,6 @@
           "time_info": "[02时16分 ~ 06时11分]"
         },
         {
-          "title": "美国多地爆发游行示威",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 18时16分]"
-        },
-        {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
           "url": "https://www.cls.cn/detail/2254115",
           "source": "财联社热门",
@@ -392,6 +408,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时57分 ~ 13时22分]"
+        },
+        {
+          "title": "俄乌战争2026将何去何从",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%892026%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
         },
         {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
@@ -422,18 +450,15 @@
           "time_info": "[14时22分 ~ 17时23分]"
         },
         {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
+          "title": "美国共和党议员支持加强议员股票交易监管 议员将不得进行新增个股购买",
+          "url": "https://flash.jin10.com/detail/20260112190541744800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            17,
-            7,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 18时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国12月贸易帐、美国12月CPI及美联储官员密集发声",
@@ -460,15 +485,15 @@
           "time_info": "16时19分"
         },
         {
-          "title": "俄乌战争2026将何去何从",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%892026%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-          "source": "bilibili 热搜",
+          "title": "美国参议院报告发现，联合健康利用激进策略提高联邦医保支付额。",
+          "url": "https://flash.jin10.com/detail/20260112190156085800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时12分"
         },
         {
           "title": "市场消息：墨西哥总统辛鲍姆将于周一与美国总统特朗普通电话。",
@@ -477,20 +502,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
         {
-          "title": "外交部：奉劝台湾当局认清现实",
-          "url": "https://www.toutiao.com/trending/7593940107260297266/",
-          "source": "今日头条",
+          "title": "美国共和党议员支持出台禁令，禁止国会议员进行新的股票购买。",
+          "url": "https://flash.jin10.com/detail/20260112190111356800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时12分"
         },
         {
           "title": "比尔·阿克曼呼吁美国借鉴澳大利亚养老金模式",
@@ -619,6 +644,18 @@
           "time_info": "[12时41分 ~ 14时22分]"
         },
         {
+          "title": "外交部：奉劝台湾当局认清现实",
+          "url": "https://www.toutiao.com/trending/7593940107260297266/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
+        },
+        {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
           "url": "https://wallstreetcn.com/livenews/3035153",
           "source": "华尔街见闻-快讯",
@@ -629,6 +666,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 18时16分]"
+        },
+        {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时12分]"
         },
         {
           "title": "日本“第一代不婚族”死后无人收尸",
@@ -664,17 +712,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时09分]"
-        },
-        {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时16分]"
         },
         {
           "title": "美国土安全部部长称将向明尼苏达州增派数百名警员",
@@ -714,6 +751,18 @@
           "time_info": "[13时22分 ~ 14时22分]"
         },
         {
+          "title": "美企业家：特朗普正在损害美国实力",
+          "url": "https://www.toutiao.com/trending/7593575351952343059/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
+        },
+        {
           "title": "委内瑞拉多地举行集会 呼吁美国释放马杜罗及其夫人",
           "url": "https://wallstreetcn.com/livenews/3034983",
           "source": "华尔街见闻-快讯",
@@ -735,6 +784,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 17时23分]"
+        },
+        {
+          "title": "日本第一代“不婚族”开始后悔了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
         },
         {
           "title": "美总统称美国靠战争赚钱",
@@ -796,6 +857,18 @@
           "time_info": "[14时22分 ~ 15时20分]"
         },
         {
+          "title": "美国向高糖发出挑战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%90%91%E9%AB%98%E7%B3%96%E5%8F%91%E5%87%BA%E6%8C%91%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
+        },
+        {
           "title": "格陵兰岛坚称“不做美国人”",
           "url": "https://www.toutiao.com/trending/7594298795236544043/",
           "source": "今日头条",
@@ -835,7 +908,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -873,6 +946,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "委内瑞拉变局对OPEC是“大麻烦”，美国有望控制“全球30%储量”",
+          "url": "https://wallstreetcn.com/articles/3763065",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。",
           "url": "https://flash.jin10.com/detail/20260112082857634800",
           "source": "金十数据",
@@ -893,6 +977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：我们的敌人不了解伊朗。过去，美国失败是因为计划不周。即使在今天，他们错误的策略也必将导致失败。",
+          "url": "https://flash.jin10.com/detail/20260112185212711800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "特朗普称伊朗提议谈判但美国或“先行动”",
@@ -948,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "德国总理默茨预计美国将参与北约对格陵兰岛的保护。",
+          "url": "https://flash.jin10.com/detail/20260112185123483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国总统特朗普：我们可能会让互联网（在伊朗）恢复运行，会与马斯克沟通。",
@@ -1027,6 +1133,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美国总统特朗普：正安排与伊朗举行会议。",
           "url": "https://wallstreetcn.com/livenews/3034892",
           "source": "华尔街见闻-快讯",
@@ -1047,28 +1164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
-        },
-        {
-          "title": "美企业家：特朗普正在损害美国实力",
-          "url": "https://www.toutiao.com/trending/7593575351952343059/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美国向高糖发出挑战",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%90%91%E9%AB%98%E7%B3%96%E5%8F%91%E5%87%BA%E6%8C%91%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "美国将主持G7部长级会议 讨论稀土问题",
@@ -1126,6 +1221,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "蒋万安：台湾民众都希望两岸交流",
+          "url": "https://www.toutiao.com/trending/7593986632313897002/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "特朗普：伊朗昨日呼吁就核问题进行谈判。美国可能和伊朗会面。",
           "url": "https://wallstreetcn.com/livenews/3034881",
           "source": "华尔街见闻-快讯",
@@ -1137,15 +1243,15 @@
           "time_info": "11时02分"
         },
         {
-          "title": "日本第一代“不婚族”开始后悔了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E2%80%9C%E4%B8%8D%E5%A9%9A%E6%97%8F%E2%80%9D%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86",
-          "source": "百度热搜",
+          "title": "日本派船出海探查海底稀土",
+          "url": "https://www.toutiao.com/trending/7593573829776326692/",
+          "source": "今日头条",
           "ranks": [
-            28
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时12分"
         },
         {
           "title": "伊朗或很快遭美国以色列攻击",
@@ -1170,6 +1276,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "郭正亮：赖清德想拉着全台湾“陪葬”",
+          "url": "https://www.toutiao.com/trending/7594112638821695534/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "日本派船出海探查海底稀土",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B4%BE%E8%88%B9%E5%87%BA%E6%B5%B7%E6%8E%A2%E6%9F%A5%E6%B5%B7%E5%BA%95%E7%A8%80%E5%9C%9F%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1184,7 +1301,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -1208,8 +1325,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 19时12分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -1222,11 +1339,12 @@
             12,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时13分 ~ 18时16分]"
+          "appearance_count": 24,
+          "time_info": "[00时13分 ~ 19时12分]"
         },
         {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
@@ -1256,6 +1374,17 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时13分 ~ 18时16分]"
+        },
+        {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时12分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -1360,38 +1489,69 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 18时16分]"
-        },
-        {
           "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
           "url": "https://www.cls.cn/detail/2254695",
           "source": "财联社热门",
           "ranks": [
             10,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 18时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 19时12分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时12分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时12分]"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            20,
+            28,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时20分 ~ 19时12分]"
+        },
+        {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
         },
         {
           "title": "AI会取代演员吗",
@@ -1405,43 +1565,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时41分 ~ 17时23分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 18时16分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            20,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 18时16分]"
-        },
-        {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
         },
         {
           "title": "用户与AI聊黄开发者获刑",
@@ -1469,6 +1592,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时13分 ~ 07时11分]"
+        },
+        {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时12分]"
         },
         {
           "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
@@ -1508,27 +1643,17 @@
           "time_info": "[11时02分 ~ 13时22分]"
         },
         {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时16分]"
-        },
-        {
           "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
           "url": "https://www.cls.cn/detail/2254903",
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时12分]"
         },
         {
           "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
@@ -1552,6 +1677,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时02分 ~ 12时42分]"
+        },
+        {
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 19时12分]"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -1622,15 +1759,15 @@
           "time_info": "15时20分"
         },
         {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "19时12分"
         },
         {
           "title": "汉得信息：公司AI产品与服务业务目前尚处起步阶段，仍不占整体营业收入的主体",
@@ -1639,7 +1776,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1683,7 +1820,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -1710,6 +1847,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "星环科技：截至本公告披露日，公司并不实际开展商业航天业务且与上海星环聚能科技有限公司无关。公司目前正就AI数据库等相关技术开展前期研发与联合调优，上述工作尚处于初期探索阶段，相关技术方案、应用场景及市场效益均存在不确定性，暂未对公司业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3035220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "深成指涨超1%，北证50涨近4%，沪指涨0.52%，创业板指涨0.63%，商业航天、AI应用两大方向领涨市场，沪深京三市上涨个股超3400只。",
           "url": "https://wallstreetcn.com/livenews/3034939",
           "source": "华尔街见闻-快讯",
@@ -1719,6 +1867,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "值得买：公司注意到近期市场对MiniMax相关概念关注度较高，部分平台将公司股票纳入MiniMax概念股。MiniMax旗下大模型产品海螺AI现已接入值得买“消费大模型增强工具集”，基于海螺AI比价策略，用户可通过海螺AI“悬浮球”功能实现快速比价及跳转购买。目前，该合作事项对公司当前主营业务未构成实质性影响。",
+          "url": "https://wallstreetcn.com/livenews/3035215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "恒为科技：公司关注到近期AI应用概念市场热度较高，公司不涉及AI应用相关业务。",
+          "url": "https://wallstreetcn.com/livenews/3035208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         }
       ]
     }
