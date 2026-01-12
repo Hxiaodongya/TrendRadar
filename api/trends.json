@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T13:22:49.194967+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-01-12T14:22:25.324045+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 65,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -43,6 +43,19 @@
           "time_info": "[00时13分 ~ 07时11分]"
         },
         {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时22分]"
+        },
+        {
           "title": "英媒：欧洲计划向格陵兰岛派兵，若美国拒绝，欧盟考虑制裁美企",
           "url": "https://news.ifeng.com/c/8ppUNN6cE6N",
           "source": "凤凰网",
@@ -52,6 +65,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时13分 ~ 07时11分]"
+        },
+        {
+          "title": "一场新的战争，已是一触即发",
+          "url": "https://news.ifeng.com/c/8pqX9ztGGoz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时22分]"
         },
         {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
@@ -64,6 +88,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 08时57分]"
+        },
+        {
+          "title": "外媒：美国悄悄撤回对中国无人机限制计划",
+          "url": "https://news.ifeng.com/c/8pqXuCMrQ6F",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时22分]"
         },
         {
           "title": "格陵兰岛即将成为美国第 51 个州吗？",
@@ -144,41 +179,6 @@
           "time_info": "[00时13分 ~ 11时02分]"
         },
         {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时22分]"
-        },
-        {
-          "title": "一场新的战争，已是一触即发",
-          "url": "https://news.ifeng.com/c/8pqX9ztGGoz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时22分]"
-        },
-        {
-          "title": "外媒：美国悄悄撤回对中国无人机限制计划",
-          "url": "https://news.ifeng.com/c/8pqXuCMrQ6F",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时22分]"
-        },
-        {
           "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
           "url": "https://wallstreetcn.com/articles/3763056",
           "source": "华尔街见闻",
@@ -188,8 +188,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 14时22分]"
+        },
+        {
+          "title": "日本造船巨头并购，能追赶中韩吗",
+          "url": "https://news.ifeng.com/c/8pqUK16yYUX",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时22分]"
         },
         {
           "title": "瑞典首相公开声援丹麦，谴责美国对格陵兰岛的扩张性威胁",
@@ -233,18 +245,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时13分 ~ 06时11分]"
-        },
-        {
-          "title": "日本造船巨头并购，能追赶中韩吗",
-          "url": "https://news.ifeng.com/c/8pqUK16yYUX",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时22分]"
         },
         {
           "title": "古巴外交部长在社交媒体平台上表示，该国尚未因向任何国家提供安全服务而获得补偿，古巴政府不会屈服于美国的勒索或军事胁迫。",
@@ -329,6 +329,18 @@
           "time_info": "[08时57分 ~ 13时22分]"
         },
         {
+          "title": "瑞典首相要求美国“感谢”丹麦：丹麦是极为忠诚的盟友",
+          "url": "https://news.ifeng.com/c/8pqXuCMrQHk",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时22分]"
+        },
+        {
           "title": "金十数据整理：下周重要事件与数据预告——中国12月贸易帐、美国12月CPI及美联储官员密集发声",
           "url": "https://flash.jin10.com/detail/20260111215247371800",
           "source": "金十数据",
@@ -342,16 +354,40 @@
           "time_info": "[00时13分 ~ 05时10分]"
         },
         {
-          "title": "瑞典首相要求美国“感谢”丹麦：丹麦是极为忠诚的盟友",
-          "url": "https://news.ifeng.com/c/8pqXuCMrQHk",
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
           "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时22分]"
+          "time_info": "[11时02分 ~ 14时22分]"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 14时22分]"
+        },
+        {
+          "title": "比尔·阿克曼呼吁美国借鉴澳大利亚养老金模式",
+          "url": "https://flash.jin10.com/detail/20260112135820873800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "美国能源部长：可将委内瑞拉石油用于填充SPR",
@@ -433,17 +469,6 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 13时22分]"
-        },
-        {
           "title": "消息人士：以英国和德国为首的部分欧洲国家正在讨论在格陵兰岛建立军事存在的计划，试图遏制美国接管格陵兰岛的威胁。德国将提议设立一个北约联合特派团，以保护北极地区。",
           "url": "https://flash.jin10.com/detail/20260112041036447800",
           "source": "金十数据",
@@ -457,17 +482,39 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
+          "title": "日本第一代不婚族开始后悔了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%8D%E5%A9%9A%E6%97%8F%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            6,
-            8
+            17,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时02分 ~ 13时22分]"
+          "time_info": "[12时41分 ~ 14时22分]"
+        },
+        {
+          "title": "人皮制品风靡美国,场景堪比地狱",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348976&amp;topic_name=%E4%BA%BA%E7%9A%AE%E5%88%B6%E5%93%81%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD%2C%E5%9C%BA%E6%99%AF%E5%A0%AA%E6%AF%94%E5%9C%B0%E7%8B%B1",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 14时22分]"
+        },
+        {
+          "title": "日本“第一代不婚族”死后无人收尸",
+          "url": "https://www.toutiao.com/trending/7594281390498123305/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 14时22分]"
         },
         {
           "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
@@ -479,29 +526,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时09分]"
-        },
-        {
-          "title": "日本第一代不婚族开始后悔了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%B8%8D%E5%A9%9A%E6%97%8F%E5%BC%80%E5%A7%8B%E5%90%8E%E6%82%94%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时22分]"
-        },
-        {
-          "title": "人皮制品风靡美国,场景堪比地狱",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348976&amp;topic_name=%E4%BA%BA%E7%9A%AE%E5%88%B6%E5%93%81%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD%2C%E5%9C%BA%E6%99%AF%E5%A0%AA%E6%AF%94%E5%9C%B0%E7%8B%B1",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时22分]"
         },
         {
           "title": "美国土安全部部长称将向明尼苏达州增派数百名警员",
@@ -517,15 +541,28 @@
           "time_info": "[05时10分 ~ 07时11分]"
         },
         {
-          "title": "日本“第一代不婚族”死后无人收尸",
-          "url": "https://www.toutiao.com/trending/7594281390498123305/",
-          "source": "今日头条",
+          "title": "报道：美国联邦住房金融局局长Bill Pulte是美联储传票一事的主要推手",
+          "url": "https://wallstreetcn.com/livenews/3034984",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时22分]"
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时22分]"
+        },
+        {
+          "title": "委内瑞拉多地举行集会 呼吁美国释放马杜罗及其夫人",
+          "url": "https://wallstreetcn.com/livenews/3034983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时22分]"
         },
         {
           "title": "委官员：绑架委内瑞拉总统是“战争罪”",
@@ -563,6 +600,17 @@
           "time_info": "[12时41分 ~ 12时42分]"
         },
         {
+          "title": "美国将讨论干涉伊朗方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "委内瑞拉官员称美国的入侵是21世纪的战争罪",
           "url": "https://wallstreetcn.com/livenews/3034785",
           "source": "华尔街见闻-快讯",
@@ -574,17 +622,6 @@
           "time_info": "07时11分"
         },
         {
-          "title": "报道：美国联邦住房金融局局长Bill Pulte是美联储传票一事的主要推手",
-          "url": "https://wallstreetcn.com/livenews/3034984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
           "title": "美国总统特朗普：我们谈论的是获取（格陵兰岛），而不是短期拥有。",
           "url": "https://flash.jin10.com/detail/20260112083009294800",
           "source": "金十数据",
@@ -594,17 +631,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
-        },
-        {
-          "title": "委内瑞拉多地举行集会 呼吁美国释放马杜罗及其夫人",
-          "url": "https://wallstreetcn.com/livenews/3034983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         },
         {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。",
@@ -640,6 +666,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "美国多地爆发游行示威",
+          "url": "https://www.douyin.com/hot/2364865",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
           "url": "https://wallstreetcn.com/livenews/3034828",
           "source": "华尔街见闻-快讯",
@@ -649,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高0.9%报30,567.29点。",
+          "url": "https://wallstreetcn.com/livenews/3035000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "美国总统特朗普：我听说周二或周三将与委内瑞拉的马查多会面。",
@@ -673,6 +721,17 @@
           "time_info": "08时57分"
         },
         {
+          "title": "台湾证交所加权股价指数收涨0.9%报30,567.29点。",
+          "url": "https://wallstreetcn.com/livenews/3035004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国总统特朗普：我不喜欢埃克森美孚的回应，可能会将埃克森美孚拒之门外。",
           "url": "https://flash.jin10.com/detail/20260112082340589800",
           "source": "金十数据",
@@ -682,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "据悉美国联邦住房金融局局长是美联储传票一事的主要推手",
+          "url": "https://flash.jin10.com/detail/20260112130105372800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "美国总统特朗普：我们正在研究针对伊朗非常强硬的选项。军方正在研究此事。",
@@ -783,6 +853,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "美国多地爆发游行示威",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "伊朗或很快遭美国以色列攻击",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%88%96%E5%BE%88%E5%BF%AB%E9%81%AD%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97%E6%94%BB%E5%87%BB%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -792,12 +873,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "多名美国名人佩戴胸针抗议ICE",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%90%8D%E4%BA%BA%E4%BD%A9%E6%88%B4%E8%83%B8%E9%92%88%E6%8A%97%E8%AE%AEICE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -817,11 +909,12 @@
           "ranks": [
             3,
             5,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 14时22分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -834,8 +927,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 14时22分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -926,6 +1019,20 @@
           "time_info": "[00时13分 ~ 08时57分]"
         },
         {
+          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2254168",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 14时22分]"
+        },
+        {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
           "source": "华尔街见闻-快讯",
@@ -940,28 +1047,28 @@
           "time_info": "[00时13分 ~ 06时11分]"
         },
         {
-          "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
-          "url": "https://www.cls.cn/detail/2254168",
-          "source": "财联社热门",
+          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3035027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 13时22分]"
-        },
-        {
-          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
-          "url": "https://flash.jin10.com/detail/20260112123727337800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时22分"
+        },
+        {
+          "title": "用户与AI聊黄开发者获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 14时22分]"
         },
         {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
@@ -978,16 +1085,28 @@
           "time_info": "[04时13分 ~ 07时11分]"
         },
         {
-          "title": "用户与AI聊黄开发者获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E4%B8%8EAI%E8%81%8A%E9%BB%84%E5%BC%80%E5%8F%91%E8%80%85%E8%8E%B7%E5%88%91%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
+          "url": "https://www.cls.cn/detail/2254504",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            5
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 13时22分]"
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时22分]"
+        },
+        {
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时22分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -1026,6 +1145,18 @@
           "time_info": "[12时41分 ~ 12时42分]"
         },
         {
+          "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
+          "url": "https://flash.jin10.com/detail/20260112123157179800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时22分]"
+        },
+        {
           "title": "1月12日午间收评：深成指、创业板指均涨超1%，商业航天、AI应用方向持续爆发",
           "url": "https://wallstreetcn.com/livenews/3034956",
           "source": "华尔街见闻-快讯",
@@ -1038,17 +1169,6 @@
           "time_info": "[12时42分 ~ 13时22分]"
         },
         {
-          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
-          "url": "https://www.cls.cn/detail/2254504",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
           "title": "疑似LOL马斯克AI英雄有多强",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCLOL%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%8B%B1%E9%9B%84%E6%9C%89%E5%A4%9A%E5%BC%BA",
           "source": "bilibili 热搜",
@@ -1058,17 +1178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
-          "url": "https://flash.jin10.com/detail/20260112123157179800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
         },
         {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
