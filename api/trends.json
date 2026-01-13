@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T05:12:52.592001+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-01-14T06:13:07.321315+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 136,
+      "match_count": 161,
       "titles": [
         {
           "title": "梅德韦杰夫讽刺：美国再不抓紧，格陵兰就要入俄了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "“驻韩国台北代表部”人员妄谈台湾问题，中方表态",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "日本专家：稀土短期仍需依赖中国，南鸟岛开发难解燃眉之急",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
@@ -75,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "日本女市长与下属开房辞职后再当选",
@@ -88,8 +88,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "李在明访问日本！高市早苗尖声喊“您好”，又行90度鞠躬礼迎接",
@@ -99,8 +99,20 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
+        },
+        {
+          "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
+          "url": "https://wallstreetcn.com/articles/3763207",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "time_info": "[01时19分 ~ 06时13分]"
         },
         {
           "title": "格陵兰岛矿产资源部长：我们感到被美国背叛了，这不是我们寻求的，也不认为我们应得的。",
@@ -114,16 +126,15 @@
           "time_info": "00时19分"
         },
         {
-          "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
-          "url": "https://wallstreetcn.com/articles/3763207",
-          "source": "华尔街见闻",
+          "title": "纽约期金跌超0.4%，美国CPI数据带来的历史新高没能维持太久",
+          "url": "https://wallstreetcn.com/livenews/3036420",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 05时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "格陵兰岛矿产资源部长：我们无意成为美国的一部分，但希望与美国合作。",
@@ -148,15 +159,37 @@
           "time_info": "00时19分"
         },
         {
-          "title": "美国总统特朗普上周在一场活动上称美国的检察官软弱。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3036391",
+          "title": "美国总统特朗普：格陵兰岛总理因坚持与丹麦保持关系而面临困境。",
+          "url": "https://flash.jin10.com/detail/20260114060351977800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存增约530万桶，汽油库存激增超820万桶",
+          "url": "https://wallstreetcn.com/livenews/3036418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国里士满联储主席Barkin：央行独立性有利于促进经济成果。",
+          "url": "https://wallstreetcn.com/livenews/3036417",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "EIA短期能源展望报告：美国天然气产量1月份平均为1202亿立方英尺/天，低于12月份的1205亿立方英尺/天；2月份平均为1198亿立方英尺/天。",
@@ -170,15 +203,26 @@
           "time_info": "01时19分"
         },
         {
-          "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
-          "url": "https://wallstreetcn.com/livenews/3036390",
+          "title": "据日经新闻：日本首相高市早苗将于周三宣布解散众议院的意向。",
+          "url": "https://flash.jin10.com/detail/20260114060032432800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
+          "url": "https://wallstreetcn.com/livenews/3036416",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -438,6 +482,18 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "美国总统特朗普上周在一场活动上称美国的检察官软弱。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3036391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
           "title": "美国至1月13日30年期国债竞拍-得标利率配置百分比 32.35%，前值97.76%。",
           "url": "https://flash.jin10.com/detail/20260114020204620800",
           "source": "金十数据",
@@ -472,6 +528,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
+          "url": "https://wallstreetcn.com/livenews/3036390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
         },
         {
           "title": "美国12月政府预算 -1447亿美元，预期 -1525亿美元，前值 -1733亿美元。",
@@ -520,6 +588,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
+          "url": "https://wallstreetcn.com/livenews/3036389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
@@ -592,6 +672,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "得益于关税收入激增，2025年美国财政赤字缩减至1.7万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3036386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时13分]"
         },
         {
           "title": "今晚美国CPI：政府停摆扰动消退，核心通胀或回到2.7%，但反弹才刚开始？",
@@ -728,7 +820,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
@@ -742,17 +834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "美元指数涨约0.3%，美国CPI数据发布后强势V型反转",
-          "url": "https://wallstreetcn.com/livenews/3036389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
         },
         {
           "title": "美国1月EIA次年天然气产量预期 1097亿立方英尺/日，前值1091.1亿立方英尺/日。",
@@ -805,9 +886,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗最好老实点。",
+          "url": "https://flash.jin10.com/detail/20260114055446897800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国CPI通胀报告并给德债带来明显影响，30年期德债收益率涨超1个基点",
@@ -819,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3036412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国1月EIA当年天然气产量预期 1088亿立方英尺/日，前值1077.4亿立方英尺/日。",
@@ -852,6 +955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
+          "url": "https://wallstreetcn.com/livenews/3036411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国1月EIA次年短期前景美国原油产量预期 1325万桶/日，前值1353万桶/日。",
@@ -904,20 +1018,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
         },
         {
-          "title": "得益于关税收入激增，2025年美国财政赤字缩减至1.7万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3036386",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：将与保险公司会面讨论医疗保健事宜。",
+          "url": "https://flash.jin10.com/detail/20260114055312582800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "美国1月EIA当年短期前景美国原油产量预期 1359万桶/日，前值1361万桶/日。",
@@ -970,9 +1084,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "白宫顾问哈塞特：美国正处于抗击通胀的道路上。",
+          "url": "https://wallstreetcn.com/livenews/3036409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国1月EIA当年布伦特原油均价预期 55.87美元/千立方英尺，前值68.91美元/千立方英尺。",
@@ -1019,6 +1144,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国总统特朗普：我认为摩根大通CEO戴蒙在美联储问题上是错的。",
+          "url": "https://flash.jin10.com/detail/20260114055225359800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国1月EIA当年WTI原油均价预期 52.21美元/桶，前值65.32美元/桶。",
           "url": "https://flash.jin10.com/detail/20260114010353575800",
           "source": "金十数据",
@@ -1039,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国国务院：美国公民应立即离开伊朗，如安全可行，可考虑经陆路前往土耳其或亚美尼亚。",
+          "url": "https://flash.jin10.com/detail/20260114055223204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "加拿大贸易部长：我们正寻求在蒙特利尔等现有港口增加更多产能，以提振对非美国市场的出口。",
@@ -1072,6 +1219,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：当我看到那里正在发生的死亡事件时，伊朗始终萦绕在我的脑海中。很快就会拿到伊朗的死亡数据。",
+          "url": "https://flash.jin10.com/detail/20260114055131078800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美国国家航空航天局（NASA）与能源部（DOE）将在2030年之前开发月球表面反应堆（LSR）。",
+          "url": "https://wallstreetcn.com/livenews/3036405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国官员：美国数月内或就收购格陵兰岛采取具体行动",
@@ -1129,6 +1298,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国CPI发布日+华尔街大行拉开季度财报序幕之际，标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。",
+          "url": "https://wallstreetcn.com/livenews/3036399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
           "url": "https://flash.jin10.com/detail/20260114024731670800",
           "source": "金十数据",
@@ -1184,6 +1364,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "特朗普：美国正处于去通胀式经济繁荣",
+          "url": "https://flash.jin10.com/detail/20260114054427229800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国众议院议长约翰逊：格陵兰岛关乎“国家安全”，关乎矿物利益。",
           "url": "https://wallstreetcn.com/livenews/3036282",
           "source": "华尔街见闻-快讯",
@@ -1228,6 +1419,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国至1月9日当周API库欣原油库存 94.5万桶，前值66.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260114054205899800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国众议院议长约翰逊：如果美联储主席鲍威尔是无辜的，调查结果将给出证明。 必须让司法部调查鲍威尔。",
           "url": "https://wallstreetcn.com/livenews/3036281",
           "source": "华尔街见闻-快讯",
@@ -1259,6 +1461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国至1月9日当周API投产原油量 -3.3万桶/日，前值6.2万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114054153889800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -1316,6 +1529,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美国至1月9日当周API成品油进口 -12.1万桶/日，前值11.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260114054143100800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国参议院多数党领袖John Thune：并不建议实施（特朗普政府主张的）信用卡利率上限政策。 这样的政策可能会让许多人丧失获取信用（融资）的渠道。 预计将对信用卡竞争法案投票。",
           "url": "https://wallstreetcn.com/livenews/3036279",
           "source": "华尔街见闻-快讯",
@@ -1347,6 +1571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "美国至1月9日当周API原油进口 35.2万桶，前值77万桶。",
+          "url": "https://flash.jin10.com/detail/20260114054134254800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -1399,9 +1634,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国至1月9日当周API取暖油库存 -38.7万桶，前值49.1万桶。",
+          "url": "https://flash.jin10.com/detail/20260114054125296800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国参议院共和党领袖图恩：预计信用卡竞争法案将付诸表决。",
@@ -1426,6 +1672,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "美国至1月9日当周API精炼油库存 434.4万桶，预期-17.6万桶，前值492.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260114054110958800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔要么无能，要么不正直。鲍威尔的工作做得并不好。",
           "url": "https://flash.jin10.com/detail/20260113233652947800",
           "source": "金十数据",
@@ -1443,9 +1700,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国至1月9日当周API汽油库存 823.3万桶，预期399.7万桶，前值441万桶。",
+          "url": "https://flash.jin10.com/detail/20260114054059085800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国新屋销量维持在2023年以来最快增速附近",
@@ -1468,6 +1736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "美国至1月9日当周API原油库存 527.8万桶，预期-223.8万桶，前值-276.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260114054043582800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国圣路易联储主席Musalem：那些美联储主席候选人都是高度合格的。 预计下一任主席将遵守双重职责（国会山批准的实现充分就业+实现价格稳定）。",
@@ -1561,7 +1840,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1571,8 +1850,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -1580,11 +1859,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -1606,11 +1886,12 @@
             10,
             7,
             5,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1621,11 +1902,12 @@
             13,
             12,
             17,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1634,11 +1916,12 @@
           "ranks": [
             27,
             23,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1648,11 +1931,12 @@
             19,
             15,
             17,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1709,6 +1993,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 02时20分]"
+        },
+        {
+          "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
+          "url": "https://wallstreetcn.com/livenews/3036406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
