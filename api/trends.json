@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T14:19:34.446340+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-01-13T15:18:20.643944+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 194,
+      "match_count": 198,
       "titles": [
         {
           "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
@@ -20,6 +20,17 @@
           "time_info": "[00时16分 ~ 08时50分]"
         },
         {
+          "title": "美国为“夺岛”拉中俄挡枪，外交部：美谋私利别拿他国当借口",
+          "url": "https://news.ifeng.com/c/8ps76smonk7",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时49分 ~ 15时18分]"
+        },
+        {
           "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
           "url": "https://news.ifeng.com/c/8pqzcww1ile",
           "source": "凤凰网",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时10分]"
-        },
-        {
-          "title": "美国为“夺岛”拉中俄挡枪，外交部：美谋私利别拿他国当借口",
-          "url": "https://news.ifeng.com/c/8ps76smonk7",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时49分 ~ 14时19分]"
         },
         {
           "title": "奉劝台湾当局停止拙劣政治表演",
@@ -148,8 +148,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -183,11 +183,12 @@
             21,
             23,
             26,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -198,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 15时18分]"
         },
         {
           "title": "2026版美国膳食指南解读",
@@ -209,11 +210,52 @@
             5,
             9,
             23,
-            8
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 15时18分]"
+        },
+        {
+          "title": "台湾甜品店因用“青提”二字被骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%94%9C%E5%93%81%E5%BA%97%E5%9B%A0%E7%94%A8%E2%80%9C%E9%9D%92%E6%8F%90%E2%80%9D%E4%BA%8C%E5%AD%97%E8%A2%AB%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            12,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 15时18分]"
+        },
+        {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 15时18分]"
+        },
+        {
+          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
+          "url": "https://www.zhihu.com/question/1994338886751625788",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时51分 ~ 14时19分]"
+          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -225,6 +267,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 08时50分]"
+        },
+        {
+          "title": "郑丽文喊话：我们是台湾人也是中国人，这两个身份从不抵触",
+          "url": "https://news.ifeng.com/c/8psTQkcc1G4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "美国至1月12日3年期国债竞拍-得标利率 3.609%，前值3.61%。",
@@ -293,45 +346,6 @@
           "time_info": "08时50分"
         },
         {
-          "title": "日本10年期国债收益率上行7BP至2.16%。",
-          "url": "https://wallstreetcn.com/livenews/3035856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "台湾甜品店因用“青提”二字被骂",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E7%94%9C%E5%93%81%E5%BA%97%E5%9B%A0%E7%94%A8%E2%80%9C%E9%9D%92%E6%8F%90%E2%80%9D%E4%BA%8C%E5%AD%97%E8%A2%AB%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 14时19分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 14时19分]"
-        },
-        {
           "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368032",
           "source": "澎湃新闻",
@@ -343,6 +357,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时51分 ~ 14时19分]"
+        },
+        {
+          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            26,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "据日经新闻：三井物产将推出日本首批飞机及船舶数字证券。",
@@ -373,20 +402,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        },
-        {
-          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
-          "url": "https://www.zhihu.com/question/1994338886751625788",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 14时19分]"
         },
         {
           "title": "美国至1月12日10年期国债竞拍-投标倍数 2.55，前值2.55。",
@@ -439,7 +457,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -494,34 +512,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        },
-        {
-          "title": "郑丽文喊话：我们是台湾人也是中国人，这两个身份从不抵触",
-          "url": "https://news.ifeng.com/c/8psTQkcc1G4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 14时19分]"
-        },
-        {
-          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 14时19分]"
         },
         {
           "title": "美国内政部长Burgum：低油价为填充战略石油储备（SPR）提供了契机。",
@@ -584,6 +577,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "日本10年期国债收益率上行7BP至2.16%。",
+          "url": "https://wallstreetcn.com/livenews/3035856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时18分]"
         },
         {
           "title": "白宫：外交是美国应对伊朗局势的“首选”方案",
@@ -777,6 +782,17 @@
           "time_info": "[08时49分 ~ 08时50分]"
         },
         {
+          "title": "台甜品店因用青提二字被骂滚出台湾",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%94%9C%E5%93%81%E5%BA%97%E5%9B%A0%E7%94%A8%E9%9D%92%E6%8F%90%E4%BA%8C%E5%AD%97%E8%A2%AB%E9%AA%82%E6%BB%9A%E5%87%BA%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时18分]"
+        },
+        {
           "title": "美国国家运输安全委员会将于1月27日举行听证会，以确定美国航空客机与陆军直升机致命相撞事故的可能原因。",
           "url": "https://flash.jin10.com/detail/20260113000750045800",
           "source": "金十数据",
@@ -835,6 +851,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时19分]"
+        },
+        {
+          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。 我们需要仔细观察包括工资增长可持续性等各种因素，以确保日本不会再次陷入通缩。",
+          "url": "https://wallstreetcn.com/livenews/3035848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时18分]"
         },
         {
           "title": "美国参议员Murkowski：在问题解决之前，Tillis参议员阻挠任何美联储提名人选的做法是正确的。",
@@ -1068,7 +1096,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1082,28 +1110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时50分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：目前日本经济尚未达到可以宣布摆脱通缩状态的程度。 我们需要仔细观察包括工资增长可持续性等各种因素，以确保日本不会再次陷入通缩。",
-          "url": "https://wallstreetcn.com/livenews/3035848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "台甜品店因用青提二字被骂滚出台湾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%94%9C%E5%93%81%E5%BA%97%E5%9B%A0%E7%94%A8%E9%9D%92%E6%8F%90%E4%BA%8C%E5%AD%97%E8%A2%AB%E9%AA%82%E6%BB%9A%E5%87%BA%E5%8F%B0%E6%B9%BE%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
         },
         {
           "title": "美国至1月12日3个月国债竞拍-得标利率配置百分比 12.52%，前值77.13%。",
@@ -1145,7 +1151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1200,9 +1206,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "罗素投资：劳动力与地产市场制约 美国通胀上行空间有限",
+          "url": "https://flash.jin10.com/detail/20260113143829992800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国参议员Murkowski：如果司法部认为有必要基于项目成本超支对鲍威尔主席展开调查，那么国会就有必要对司法部展开调查。",
@@ -1244,7 +1261,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1288,9 +1305,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "日本经济团体联合会筒井义信：日元的疲软程度有些过度。 日本股市的上涨反映了全球趋势。",
+          "url": "https://wallstreetcn.com/livenews/3035877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国参议院银行业委员会共和党籍议员Cramer：鲍威尔并非罪犯，应尽快结束针对美联储的调查，以“恢复对美联储的信心”。",
@@ -1354,7 +1382,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1563,7 +1591,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1585,7 +1613,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -1698,6 +1726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "特朗普称「不管用什么办法，美国都要拿下格陵兰岛」，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/1994011447575982654",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "诺和诺德(NVO.N)CEO：同意美国药品价格过高，欧洲药品价格过低，但欧洲各国政府持有不同观点。",
@@ -1819,6 +1858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "10年期日本国债收益率继续走高，上涨7个基点至2.160%。",
+          "url": "https://flash.jin10.com/detail/20260113140548693800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：伊朗政府的支持率正在上升，这对美国而言是一个警告。",
@@ -2231,7 +2281,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -2242,8 +2292,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -2266,8 +2316,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -2316,11 +2366,12 @@
             9,
             14,
             16,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -2352,8 +2403,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
@@ -2381,8 +2432,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -2393,11 +2444,12 @@
             23,
             25,
             28,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 15时18分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -2427,20 +2479,6 @@
           "time_info": "[08时49分 ~ 14时19分]"
         },
         {
-          "title": "张文宏称拒绝把AI引入医院病历系统",
-          "url": "https://www.toutiao.com/trending/7594611746107854346/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时49分 ~ 12时37分]"
-        },
-        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -2453,8 +2491,22 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时10分 ~ 13时18分]"
+          "appearance_count": 9,
+          "time_info": "[07时10分 ~ 15时18分]"
+        },
+        {
+          "title": "张文宏称拒绝把AI引入医院病历系统",
+          "url": "https://www.toutiao.com/trending/7594611746107854346/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时49分 ~ 12时37分]"
         },
         {
           "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
@@ -2481,6 +2533,34 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "如何看待马斯克AI预言",
+          "url": "https://www.douyin.com/hot/2366116",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 15时18分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 15时18分]"
+        },
+        {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
           "url": "https://wallstreetcn.com/livenews/3035759",
           "source": "华尔街见闻-快讯",
@@ -2504,32 +2584,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时19分]"
-        },
-        {
-          "title": "如何看待马斯克AI预言",
-          "url": "https://www.douyin.com/hot/2366116",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时19分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时19分]"
         },
         {
           "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
@@ -2601,6 +2655,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
           "url": "https://flash.jin10.com/detail/20260113044327822800",
           "source": "金十数据",
@@ -2621,6 +2686,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
