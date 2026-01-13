@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T15:18:20.643944+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-01-13T16:17:55.940446+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 198,
+      "match_count": 204,
       "titles": [
         {
           "title": "美国司法部对美联储主席开启“刑事调查”，鲍威尔“这是美联储不听话的结果”",
@@ -24,11 +24,12 @@
           "url": "https://news.ifeng.com/c/8ps76smonk7",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时49分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时49分 ~ 16时17分]"
         },
         {
           "title": "为摆脱对华稀土依赖，日本派船出海探查海底稀土",
@@ -56,6 +57,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 10时51分]"
+        },
+        {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://www.cls.cn/detail/2255607",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时17分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -148,8 +162,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -184,23 +198,12 @@
             23,
             26,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 15时18分]"
-        },
-        {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://www.cls.cn/detail/2255607",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "2026版美国膳食指南解读",
@@ -211,11 +214,12 @@
             9,
             23,
             8,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时17分]"
         },
         {
           "title": "台湾甜品店因用“青提”二字被骂",
@@ -226,11 +230,12 @@
             9,
             12,
             15,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时17分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -240,11 +245,12 @@
             14,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时17分]"
         },
         {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
@@ -254,8 +260,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时17分]"
+        },
+        {
+          "title": "郑丽文喊话：我们是台湾人也是中国人，这两个身份从不抵触",
+          "url": "https://news.ifeng.com/c/8psTQkcc1G4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时17分]"
+        },
+        {
+          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            26,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 16时17分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -267,17 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时49分 ~ 08时50分]"
-        },
-        {
-          "title": "郑丽文喊话：我们是台湾人也是中国人，这两个身份从不抵触",
-          "url": "https://news.ifeng.com/c/8psTQkcc1G4",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "美国至1月12日3年期国债竞拍-得标利率 3.609%，前值3.61%。",
@@ -357,21 +378,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时51分 ~ 14时19分]"
-        },
-        {
-          "title": "日本餐厅墙壁内藏尸 店铺正常经营",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%A2%99%E5%A3%81%E5%86%85%E8%97%8F%E5%B0%B8+%E5%BA%97%E9%93%BA%E6%AD%A3%E5%B8%B8%E7%BB%8F%E8%90%A5",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            26,
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 15时18分]"
         },
         {
           "title": "据日经新闻：三井物产将推出日本首批飞机及船舶数字证券。",
@@ -1217,7 +1223,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1316,7 +1322,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1420,6 +1426,17 @@
           "time_info": "10时51分"
         },
         {
+          "title": "韩国总统李在明：韩国与日本就朝鲜事务保持密切沟通。",
+          "url": "https://flash.jin10.com/detail/20260113154305996800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国财政部拍卖六个月期国债，得标利率3.490%，投标倍数3.17。",
           "url": "https://wallstreetcn.com/livenews/3035467",
           "source": "华尔街见闻-快讯",
@@ -1508,6 +1525,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "韩国总统李在明：韩国与日本将合作打击网络诈骗。",
+          "url": "https://flash.jin10.com/detail/20260113154103283800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.609%，投标倍数2.65。",
           "url": "https://wallstreetcn.com/livenews/3035466",
           "source": "华尔街见闻-快讯",
@@ -1528,6 +1556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "日本首相高市早苗：与韩国总统李在明就供应链合作进行了深入讨论。",
+          "url": "https://wallstreetcn.com/livenews/3035928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国至1月12日6个月国债竞拍-投标倍数 3.17，前值3.28。",
@@ -1596,6 +1635,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "#美国开年狂飙特朗普到底想干嘛#",
+          "url": "https://www.baidu.com/s?wd=%23%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%B4%E7%8B%82%E9%A3%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%BA%95%E6%83%B3%E5%B9%B2%E5%98%9B%23",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国至1月12日6个月国债竞拍-得标利率配置百分比 42.32%，前值12.96%。",
           "url": "https://flash.jin10.com/detail/20260113003205340800",
           "source": "金十数据",
@@ -1616,6 +1666,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "韩国总统李在明：韩国、日本将就人工智能和知识产权寻求合作。",
+          "url": "https://flash.jin10.com/detail/20260113153952079800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "日本三重县确认一起高致病性禽流感疫情",
@@ -1734,7 +1795,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1866,7 +1927,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -2168,6 +2229,17 @@
           "time_info": "08时50分"
         },
         {
+          "title": "日本经济团体联合会会长筒井义信：认为日元的跌势有点过头了，相信向日元升值的方向调整是必要的。 在极端环境下，外汇干预可能是合理的。 汇率波动应该反映基本面。 汇率总体上应该由市场力量驱动。",
+          "url": "https://wallstreetcn.com/livenews/3035907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "墨西哥总统克劳迪娅·辛鲍姆12日表示，她当天与美国总统特朗普通电话，已明确排除美国在墨境内采取军事行动的可能性。她告诉特朗普，向墨西哥派遣美军打击贩毒集团的提议“不在讨论范围内”。",
           "url": "https://flash.jin10.com/detail/20260113012423463800",
           "source": "金十数据",
@@ -2281,7 +2353,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -2292,8 +2364,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 15时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
@@ -2316,8 +2388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 15时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -2432,8 +2504,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 15时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 16时17分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -2540,11 +2612,23 @@
             8,
             10,
             18,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时17分]"
+        },
+        {
+          "title": "【百川智能王小川：百川智能预计2027年启动IPO】今日举办的Baichuan-M3模型发布媒体沟通会上，百川智能创始人兼CEO王小川透露称，公司预计将于2027年启动IPO上市。谈及近期备受关注的AI大模型企业上市，王小川表示，“他们主要还是踩在通用模型技术红利和政策支持的基础上，但目前他们的市值和商业化能力并不匹配，但AI医疗今天也是大模型竞争中的一个范式，虽然它的成熟会晚一点，在后面我们的路径，肯定也是奔着上市去的。”（新浪科技）",
+          "url": "https://wallstreetcn.com/livenews/3035955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -2557,8 +2641,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时17分]"
+        },
+        {
+          "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
+          "url": "https://flash.jin10.com/detail/20260113161050388800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
@@ -2598,6 +2693,18 @@
           "time_info": "[03时14分 ~ 04时14分]"
         },
         {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时17分]"
+        },
+        {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
           "url": "https://wallstreetcn.com/livenews/3035563",
           "source": "华尔街见闻-快讯",
@@ -2608,6 +2715,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时17分]"
+        },
+        {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时17分]"
+        },
+        {
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时17分]"
         },
         {
           "title": "辉瑞计划在所有业务中加强AI的应用。",
@@ -2655,17 +2797,6 @@
           "time_info": "07时10分"
         },
         {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
           "url": "https://flash.jin10.com/detail/20260113044327822800",
           "source": "金十数据",
@@ -2677,6 +2808,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "OpenAI：我们收购了Torch，一家整合实验室结果、药物和就诊记录的医疗初创公司。",
           "url": "https://flash.jin10.com/detail/20260113044010049800",
           "source": "金十数据",
@@ -2686,39 +2828,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
-          "url": "https://www.cls.cn/detail/2255569",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -2818,6 +2927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "复旦教授：AI可能让人类变得更低能",
+          "url": "https://www.toutiao.com/trending/7594631018695364137/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }
