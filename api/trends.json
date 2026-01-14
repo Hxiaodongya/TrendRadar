@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:14:11.854612+08:00",
-  "total_titles_processed": 1783,
+  "generated_at": "2026-01-14T20:23:18.302759+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 265,
+      "match_count": 280,
       "titles": [
         {
           "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时00分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时00分 ~ 20时23分]"
         },
         {
           "title": "核心通胀降温！美国12月核心CPI涨幅2.6%，持平四年来最低水平，CPI同比上涨2.7%符合预期",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时19分 ~ 19时14分]"
+          "appearance_count": 24,
+          "time_info": "[01时19分 ~ 20时23分]"
         },
         {
           "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
@@ -99,6 +99,24 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11,
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时16分 ~ 20时23分]"
         },
         {
           "title": "日本专家：稀土短期仍需依赖中国，南鸟岛开发难解燃眉之急",
@@ -154,23 +172,6 @@
           "time_info": "[08时56分 ~ 19时14分]"
         },
         {
-          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11,
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时16分 ~ 19时14分]"
-        },
-        {
           "title": "美国12月CPI同比增长2.7% 三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2256676",
           "source": "财联社热门",
@@ -213,6 +214,35 @@
           "time_info": "[00时18分 ~ 08时56分]"
         },
         {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时23分]"
+        },
+        {
+          "title": "“古德之死”引爆美国",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28,
+            21,
+            7,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 20时23分]"
+        },
+        {
           "title": "美国即将正式退出世卫组织",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%B3%E5%B0%86%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -223,18 +253,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时19分 ~ 15时19分]"
-        },
-        {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时14分]"
         },
         {
           "title": "国台办：解决台湾问题是中国人自己的事",
@@ -270,21 +288,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时00分 ~ 15时19分]"
-        },
-        {
-          "title": "“古德之死”引爆美国",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28,
-            21,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 19时14分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -334,6 +337,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美国总统特朗普：自2月1日起，联邦政府将不再向各州支付用于其腐败的犯罪保护中心（即所谓的“庇护城市”）的款项。",
+          "url": "https://flash.jin10.com/detail/20260114195407071800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
           "url": "https://wallstreetcn.com/livenews/3036450",
           "source": "华尔街见闻-快讯",
@@ -365,6 +379,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "美国银行：我们预计未来一年经济将继续增长。",
+          "url": "https://flash.jin10.com/detail/20260114195241216800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "重要突破！我国首台海底地层空间钻探与监测机器人研发成功",
@@ -400,6 +425,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "美国银行：尽管仍存在诸多风险，但我们对2026年美国经济持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260114195231893800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "行业周报：美国上周API原油库存增约530万桶，汽油库存激增超820万桶",
           "url": "https://wallstreetcn.com/livenews/3036418",
           "source": "华尔街见闻-快讯",
@@ -420,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "日本公明党与立宪民主党将商讨组建新政党。（朝日新闻）",
+          "url": "https://wallstreetcn.com/livenews/3037022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "奥迪：美国关税政策影响整个行业并塑造消费者行为。",
@@ -972,6 +1019,30 @@
           "time_info": "[14时19分 ~ 15时19分]"
         },
         {
+          "title": "台湾禁用“立马”用语被批",
+          "url": "https://www.toutiao.com/trending/7594900626543296575/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时23分]"
+        },
+        {
+          "title": "魔幻美国:杀人探员获400万捐款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 20时23分]"
+        },
+        {
           "title": "美国12月政府预算 -1447亿美元，预期 -1525亿美元，前值 -1733亿美元。",
           "url": "https://wallstreetcn.com/livenews/3036360",
           "source": "华尔街见闻-快讯",
@@ -997,16 +1068,16 @@
           "time_info": "[11时00分 ~ 12时09分]"
         },
         {
-          "title": "台湾禁用“立马”用语被批",
-          "url": "https://www.toutiao.com/trending/7594900626543296575/",
+          "title": "日本央行行长：通胀达标就会继续加息",
+          "url": "https://www.toutiao.com/trending/7595133959109873215/",
           "source": "今日头条",
           "ranks": [
-            24,
-            20
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时14分]"
+          "time_info": "[19时13分 ~ 20时23分]"
         },
         {
           "title": "台湾大多数民众拒绝当“台独”炮灰",
@@ -1065,17 +1136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时17分 ~ 17时20分]"
-        },
-        {
-          "title": "魔幻美国:杀人探员获400万捐款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：伊朗最好老实点。",
@@ -1270,17 +1330,6 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
-          "title": "日本央行行长：通胀达标就会继续加息",
-          "url": "https://www.toutiao.com/trending/7595133959109873215/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
           "title": "美国国会山领导人特朗普的信用卡利率上限设想表示怀疑",
           "url": "https://wallstreetcn.com/livenews/3036352",
           "source": "华尔街见闻-快讯",
@@ -1463,6 +1512,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "美国总统特朗普：北约应该为我们获得格陵兰岛发挥带头作用。",
+          "url": "https://flash.jin10.com/detail/20260114194043935800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国可能会在数周、或者数月内对格陵兰岛采取行动。（今日美国）",
           "url": "https://wallstreetcn.com/livenews/3036328",
           "source": "华尔街见闻-快讯",
@@ -1546,9 +1606,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "美国总统特朗普：有了格陵兰岛，北约将变得强大且高效得多。",
+          "url": "https://flash.jin10.com/detail/20260114194015127800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国CPI通胀报告并给德债带来明显影响，30年期德债收益率涨超1个基点",
@@ -1571,6 +1642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国1月9日当周MBA抵押贷款申请活动指数周环比 28.5%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3037017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国1月EIA当年天然气产量预期 1088亿立方英尺/日，前值1077.4亿立方英尺/日。",
@@ -1612,9 +1694,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛对“金穹”导弹防御系统至关重要。",
+          "url": "https://flash.jin10.com/detail/20260114194006362800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "白宫顾问哈塞特：（美国白宫）正围绕所谓的信用卡利率上限研究各不相同的选项。",
@@ -1716,6 +1809,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260114193933373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国参议院农业委员会将于1月27日“起草”加密货币立法草案。",
           "url": "https://wallstreetcn.com/livenews/3036442",
           "source": "华尔街见闻-快讯",
@@ -1747,6 +1851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3763230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国1月EIA当年短期前景美国原油产量预期 1359万桶/日，前值1361万桶/日。",
@@ -2035,6 +2150,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美国银行：第四季度净利息收入157.5亿美元，市场预期为154.8亿美元。 第四季度每股收益0.98美元。 第四季度净利息收益率2.08%，市场预期为2.04%。 第四季度投资银行收入16.7亿美元，市场预期为16.6亿美元。 第四季度债务承销收入8.1亿美元，市场预期为8.64亿美元。 第四季度股权承销收入2.97亿美元，市场预期为3.01亿美元。 美国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3037009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国官员：美国数月内或就收购格陵兰岛采取具体行动",
           "url": "https://flash.jin10.com/detail/20260114014627334800",
           "source": "金十数据",
@@ -2200,6 +2326,17 @@
           "time_info": "17时20分"
         },
         {
+          "title": "在油轮遇袭后，哈萨克斯坦与欧盟、美国举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260114192621817800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国CPI发布日+华尔街大行拉开季度财报序幕之际，标普500指数收跌13.53点，跌幅0.19%，报6963.74点。 道琼斯工业平均指数收跌398.21点，跌幅0.80%，报49191.99点。 纳斯达克综合指数（纳指）收跌24.032点，跌幅0.10%，报23709.873点。 纳斯达克100指数收跌45.711点，跌幅0.18%，报25741.952点。",
           "url": "https://wallstreetcn.com/livenews/3036399",
           "source": "华尔街见闻-快讯",
@@ -2209,6 +2346,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。 格陵兰岛对“金穹”导弹防御系统至关重要。 北约应当牵头以便美国取得格陵兰。 如果格陵兰在美国手中，北约将强大得多。",
+          "url": "https://wallstreetcn.com/livenews/3037002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "为什么美国人自己也厌烦英制单位却一直还使用呢？",
+          "url": "https://www.zhihu.com/question/27559895",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
@@ -2558,7 +2717,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -2860,6 +3019,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "日本天后死后被卖裸照引网友愤怒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E5%90%8E%E6%AD%BB%E5%90%8E%E8%A2%AB%E5%8D%96%E8%A3%B8%E7%85%A7%E5%BC%95%E7%BD%91%E5%8F%8B%E6%84%A4%E6%80%92%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国众议院议长约翰逊：格陵兰岛有美国的国家安全和矿产利益。",
           "url": "https://flash.jin10.com/detail/20260113233626975800",
           "source": "金十数据",
@@ -3050,7 +3220,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -3116,11 +3286,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时00分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时00分 ~ 20时23分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -3139,6 +3310,18 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 20时23分]"
+        },
+        {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
           "url": "https://www.zhihu.com/question/1994088546865284778",
           "source": "知乎",
@@ -3151,8 +3334,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时00分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时00分 ~ 20时23分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -3193,8 +3376,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 18时15分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 20时23分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -3211,18 +3394,6 @@
           "time_info": "[00时18分 ~ 06时13分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时14分]"
-        },
-        {
           "title": "韩服登顶账号是AI操作的吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
@@ -3231,11 +3402,25 @@
             28,
             14,
             19,
-            29
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 19时14分]"
+          "appearance_count": 9,
+          "time_info": "[13时16分 ~ 20时23分]"
+        },
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 20时23分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -3251,17 +3436,18 @@
           "time_info": "[08时56分 ~ 14时20分]"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
           "ranks": [
-            9,
-            6,
-            5
+            19,
+            20,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 20时23分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -3281,23 +3467,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时14分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -3306,11 +3478,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时23分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -3469,6 +3642,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "王自如说荣耀Air补齐iPhoneAir短板",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AF%B4%E8%8D%A3%E8%80%80Air%E8%A1%A5%E9%BD%90iPhoneAir%E7%9F%AD%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "银河证券：生成式搜索兴起，AI应用催化密集",
           "url": "https://wallstreetcn.com/livenews/3036486",
           "source": "华尔街见闻-快讯",
@@ -3486,7 +3670,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -3508,7 +3692,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
