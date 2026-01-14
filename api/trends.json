@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T03:12:23.571660+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-15T04:14:24.503712+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 78,
+      "match_count": 93,
       "titles": [
         {
           "title": "沙特带头，劝美国不要对伊朗动武",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -40,8 +40,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
@@ -50,20 +63,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
         {
-          "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
-          "url": "https://wallstreetcn.com/livenews/3037258",
+          "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3037278",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时14分"
         },
         {
           "title": "美国考虑招募私营公司协助应对网络攻击。",
@@ -77,19 +90,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
           "title": "美国地质勘探局：巴布亚新几内亚莱城以北119公里处发生5.1级地震。",
           "url": "https://flash.jin10.com/detail/20260114234421077800",
           "source": "金十数据",
@@ -99,6 +99,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
+          "url": "https://wallstreetcn.com/livenews/3037276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "美国将暂停对75个国家的所有签证",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3763230",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐强烈谴责美国官员的挑衅性言论。",
@@ -123,27 +170,115 @@
           "time_info": "00时17分"
         },
         {
-          "title": "周三（1月14日），韩元兑美元最终涨0.76%，报1464.70韩元。 北京时间22:00，美国财行贝森特置评韩元而从1475.40一线飙升至1461.23。",
-          "url": "https://wallstreetcn.com/livenews/3037252",
-          "source": "华尔街见闻-快讯",
+          "title": "美国将暂停对俄罗斯等75国签证",
+          "url": "https://www.douyin.com/hot/2367945",
+          "source": "抖音",
           "ranks": [
-            4
+            10,
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "美媒：美国将暂停对75个国家的所有签证",
+          "url": "https://wallstreetcn.com/articles/3763308",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "升级！美国向英国发出严厉威胁",
+          "url": "https://news.ifeng.com/c/8pupBJUaDqI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "为什么美国人自己也厌烦英制单位却一直还使用呢？",
+          "url": "https://www.zhihu.com/question/27559895",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18,
+            13,
+            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "“古德之死”引爆美国",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "斩杀线登美国头条,牢A连夜跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "魔幻美国:杀人探员获400万捐款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "日本深海开采稀土无法规避哪些挑战",
+          "url": "https://www.toutiao.com/trending/7595036144396406310/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "美国正从中东主要基地撤出人员",
+          "url": "https://www.douyin.com/hot/2367901",
+          "source": "抖音",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
@@ -159,27 +294,29 @@
           "time_info": "[01时20分 ~ 03时12分]"
         },
         {
-          "title": "美国将暂停对75个国家的所有签证",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
-          "source": "百度热搜",
+          "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
+          "url": "https://wallstreetcn.com/livenews/3037258",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时14分]"
         },
         {
-          "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3763230",
-          "source": "华尔街见闻",
+          "title": "美联储Kashkari：美联储独立性对美国经济做出贡献。 下一任美联储主席将不得不向FOMC提供最具说服力的说明。 每个官员都只有一票，论据最充分的获胜。",
+          "url": "https://wallstreetcn.com/livenews/3037243",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            4,
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 04时14分]"
         },
         {
           "title": "欧盟议会领导人“毫不含糊地”谴责美国总统特朗普政府关于格陵兰岛的言论。",
@@ -194,125 +331,28 @@
           "time_info": "[02时19分 ~ 03时12分]"
         },
         {
-          "title": "美国将暂停对俄罗斯等75国签证",
-          "url": "https://www.douyin.com/hot/2367945",
-          "source": "抖音",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "美媒：美国将暂停对75个国家的所有签证",
-          "url": "https://wallstreetcn.com/articles/3763308",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "升级！美国向英国发出严厉威胁",
-          "url": "https://news.ifeng.com/c/8pupBJUaDqI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "美联储Kashkari：美联储独立性对美国经济做出贡献。 下一任美联储主席将不得不向FOMC提供最具说服力的说明。 每个官员都只有一票，论据最充分的获胜。",
-          "url": "https://wallstreetcn.com/livenews/3037243",
+          "title": "周三（1月14日），韩元兑美元最终涨0.76%，报1464.70韩元。 北京时间22:00，美国财行贝森特置评韩元而从1475.40一线飙升至1461.23。",
+          "url": "https://wallstreetcn.com/livenews/3037252",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时12分]"
-        },
-        {
-          "title": "“古德之死”引爆美国",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "为什么美国人自己也厌烦英制单位却一直还使用呢？",
-          "url": "https://www.zhihu.com/question/27559895",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "斩杀线登美国头条,牢A连夜跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "魔幻美国:杀人探员获400万捐款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "日本深海开采稀土无法规避哪些挑战",
-          "url": "https://www.toutiao.com/trending/7595036144396406310/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "美国正从中东主要基地撤出人员",
-          "url": "https://www.douyin.com/hot/2367901",
-          "source": "抖音",
-          "ranks": [
-            19,
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时14分]"
+        },
+        {
+          "title": "美国将暂停办理俄罗斯等 75 个国家的所有签证，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1994904104011588707",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时14分]"
         },
         {
           "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
@@ -323,8 +363,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时14分]"
         },
         {
           "title": "美国正从中东主要基地撤出人员",
@@ -333,11 +373,12 @@
           "ranks": [
             27,
             25,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时14分]"
         },
         {
           "title": "美国国务院：确认对伊朗等国暂停签证受理。",
@@ -350,6 +391,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时19分]"
+        },
+        {
+          "title": "冰火两重天：美国电价要爆了，中国电价开跌了",
+          "url": "https://wallstreetcn.com/articles/3763238",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时12分 ~ 04时14分]"
         },
         {
           "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
@@ -434,6 +486,28 @@
           "time_info": "01时20分"
         },
         {
+          "title": "有家连涨五天，美国原油期货收涨超1.4%站上62美元",
+          "url": "https://wallstreetcn.com/livenews/3037272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
+          "url": "https://flash.jin10.com/detail/20260115040624036800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "TJM Institutional Services LLC利率策略师David Robin：美国就业形势有点不明确，同时我们又有通胀问题。从数据角度看，美联储至少按兵不动到3月的概率上升了。 而随着每一次会议从日程表上划去，美联储继续维持不动的概率就变得更大。” Robin说：“无论市场是否相信美联储会按兵不动 —— 无论这个概率是5%、10%还是20% —— 这些交易都很便宜；如果你是纪律严明的风险管理者，你就会有需求。”",
           "url": "https://wallstreetcn.com/livenews/3037188",
           "source": "华尔街见闻-快讯",
@@ -456,17 +530,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "冰火两重天：美国电价要爆了，中国电价开跌了",
-          "url": "https://wallstreetcn.com/articles/3763238",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
           "title": "美国参议院共和党领袖图恩：不确定是否有足够票数阻止今天就《战争权力决议》进行表决。",
           "url": "https://flash.jin10.com/detail/20260114233514403800",
           "source": "金十数据",
@@ -478,6 +541,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20260115040309665800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：不确定我是否会在今天投票，该议事日程要求表决停止战争权利法案。 美国在委内瑞拉并没有地面部队。",
           "url": "https://wallstreetcn.com/livenews/3037186",
           "source": "华尔街见闻-快讯",
@@ -487,6 +561,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "丹麦：同意与美国就格陵兰问题成立工作组。",
+          "url": "https://wallstreetcn.com/livenews/3037265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国总统特朗普：已被告知伊朗的“杀戮”正在停止，没有处决计划。",
+          "url": "https://flash.jin10.com/detail/20260115040252991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美联储理事米兰：“雄心勃勃”的美国放松监管支持美联储进一步宽松",
@@ -511,6 +607,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国总统特朗普签署关键矿物行政命令。",
+          "url": "https://flash.jin10.com/detail/20260115040151639800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：美国与古巴需要达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/3037183",
           "source": "华尔街见闻-快讯",
@@ -531,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
+          "url": "https://flash.jin10.com/detail/20260115040150606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加339万桶，彭博用户预计下降37.8万桶、分析师预期下降157.267万桶，之前一周减少383.2万桶。",
@@ -566,17 +684,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "美国将暂停办理俄罗斯等 75 个国家的所有签证，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1994904104011588707",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
           "title": "美国至1月9日当周EIA车用汽油总产量引伸需求数据 916.3万桶/日，前值913.66万桶/日。",
           "url": "https://flash.jin10.com/detail/20260114233146976800",
           "source": "金十数据",
@@ -597,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "提醒：北京时间03:00，美联储将发布经济状况“褐皮书”，美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯做开场白讲话。",
+          "url": "https://wallstreetcn.com/livenews/3037259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国至1月9日当周EIA原油产量引伸需求数据 2036.1万桶/日，前值2069.7万桶/日。",
@@ -665,6 +783,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "美国财政部：美国延长通用许可证，授权与卢克石油国际有限公司销售相关的谈判和合同的某些交易，有效期至2月28日。",
+          "url": "https://flash.jin10.com/detail/20260115035832516800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "美国1月9日当周EIA库欣地区原油库存变动 74.5万桶，前值 72.8万桶。",
           "url": "https://wallstreetcn.com/livenews/3037177",
           "source": "华尔街见闻-快讯",
@@ -718,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国财政部更新与俄罗斯卢克石油许可相关的指引，已授权涉及卢克石油公司的某些出售交易活动。",
+          "url": "https://flash.jin10.com/detail/20260115034750233800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国司法部长Bondi：美国五角大楼一位泄漏保密信息的承包商被收监。",
@@ -819,6 +959,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美银CEO：美联储的独立性对美国经济至关重要。",
+          "url": "https://flash.jin10.com/detail/20260115033041089800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3037168",
           "source": "华尔街见闻-快讯",
@@ -839,6 +990,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "石油行业消息人士：雪佛龙预计将于本周获得美国颁发的扩大版委内瑞拉经营许可。",
+          "url": "https://flash.jin10.com/detail/20260115032830450800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国至1月9日当周EIA原油进口 71万桶，前值56.3万桶。",
@@ -885,6 +1047,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "媒体：高市谬论害苦日本汽车业",
+          "url": "https://www.toutiao.com/trending/7594740076321865766/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "美国至1月9日当周EIA取暖油库存 -74.5万桶，前值67.2万桶。",
           "url": "https://flash.jin10.com/detail/20260114233003536800",
           "source": "金十数据",
@@ -899,7 +1072,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "浙江用AI抓出贪官",
@@ -909,8 +1082,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -922,8 +1095,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -934,8 +1107,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
+          "url": "https://flash.jin10.com/detail/20260115041052630800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
+          "url": "https://wallstreetcn.com/livenews/3037274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -944,11 +1139,12 @@
           "ranks": [
             23,
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时14分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -958,21 +1154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -981,11 +1164,26 @@
           "ranks": [
             29,
             20,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -996,8 +1194,31 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 04时14分]"
+        },
+        {
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时20分 ~ 03时12分]"
+          "time_info": "[02时19分 ~ 04时14分]"
+        },
+        {
+          "title": "浙江用AI抓出贪官",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 04时14分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -1018,17 +1239,6 @@
           "ranks": [
             9,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时12分]"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1095,26 +1305,37 @@
           "time_info": "[02时19分 ~ 03时12分]"
         },
         {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时12分]"
-        },
-        {
           "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
           "url": "https://flash.jin10.com/detail/20260115021524216800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
+          "url": "https://flash.jin10.com/detail/20260115040115164800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115040037235800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "美国佛州州长加大对AI与数据中心“现实风险”的警告力度",
