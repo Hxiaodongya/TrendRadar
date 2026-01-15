@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T07:11:45.742548+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-01-15T08:52:58.305934+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 138,
+      "match_count": 164,
       "titles": [
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -34,6 +34,47 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
+          "title": "美媒：美国将暂停对75个国家的所有签证",
+          "url": "https://wallstreetcn.com/articles/3763308",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
+        },
+        {
+          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
+        },
+        {
+          "title": "美国将暂停对俄罗斯等75国签证",
+          "url": "https://www.douyin.com/hot/2367945",
+          "source": "抖音",
+          "ranks": [
+            10,
+            6,
+            8,
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
+        },
+        {
           "title": "沙特带头，劝美国不要对伊朗动武",
           "url": "https://news.ifeng.com/c/8puV4iW19Yi",
           "source": "凤凰网",
@@ -45,31 +86,87 @@
           "time_info": "[00时17分 ~ 04时14分]"
         },
         {
-          "title": "美智库妄称中国大陆通过“攻击”台湾实现统一将付出多重代价，国台办答澎湃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32381480",
-          "source": "澎湃新闻",
+          "title": "美国将暂停办理俄罗斯等 75 个国家的所有签证，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1994904104011588707",
+          "source": "知乎",
           "ranks": [
-            4,
-            6,
-            8
+            15,
+            5,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 6,
+          "time_info": "[03时12分 ~ 08时52分]"
         },
         {
-          "title": "美国将暂停对俄罗斯等75国签证",
-          "url": "https://www.douyin.com/hot/2367945",
-          "source": "抖音",
+          "title": "美国将暂停对75个国家的所有签证",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
+          "source": "百度热搜",
           "ranks": [
-            10,
             6,
             8,
-            1
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
+        },
+        {
+          "title": "“古德之死”引爆美国",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9,
+            13,
+            15,
+            17,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
+        },
+        {
+          "title": "斩杀线登美国头条,牢A连夜跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
+        },
+        {
+          "title": "魔幻美国:杀人探员获400万捐款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            22,
+            29,
+            20,
+            18,
+            27
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "如果今天美国高院的关税裁决“再度跳票”，这意味着什么？",
@@ -102,43 +199,6 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
-          "title": "美国将暂停对75个国家的所有签证",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
-          "title": "美国将暂停办理俄罗斯等 75 个国家的所有签证，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1994904104011588707",
-          "source": "知乎",
-          "ranks": [
-            15,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 07时11分]"
-        },
-        {
-          "title": "美媒：美国将暂停对75个国家的所有签证",
-          "url": "https://wallstreetcn.com/articles/3763308",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
           "title": "升级！美国向英国发出严厉威胁",
           "url": "https://news.ifeng.com/c/8pupBJUaDqI",
           "source": "凤凰网",
@@ -150,42 +210,17 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
-          "title": "“古德之死”引爆美国",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%A4%E5%BE%B7%E4%B9%8B%E6%AD%BB%E2%80%9D%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
+          "url": "https://wallstreetcn.com/articles/3763257",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
+            10,
             9,
-            13,
-            15,
-            17,
-            22
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
-          "title": "斩杀线登美国头条,牢A连夜跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
-        },
-        {
-          "title": "魔幻美国:杀人探员获400万捐款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "time_info": "[01时20分 ~ 08时52分]"
         },
         {
           "title": "美国正从中东主要基地撤出人员",
@@ -219,32 +254,29 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "title": "国台办回应台湾女孩寻味刨猪汤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%A9%E5%AF%BB%E5%91%B3%E5%88%A8%E7%8C%AA%E6%B1%A4",
           "source": "bilibili 热搜",
           "ranks": [
+            27,
+            16,
             5,
-            7,
-            22,
-            29,
-            20,
-            18
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时52分]"
         },
         {
-          "title": "交付即正义！高盛：高龄的美国电网，正为中国电力产业链提供历史性机遇",
-          "url": "https://wallstreetcn.com/articles/3763257",
-          "source": "华尔街见闻",
+          "title": "美国宣布对特定半导体等加征25%关税",
+          "url": "https://news.ifeng.com/c/8pvSblFxE83",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 07时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
@@ -264,7 +296,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -275,9 +307,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "人民日报钟声：三问日本，撕开其所谓“和平国家”的假面",
+          "url": "https://wallstreetcn.com/livenews/3037392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "冰火两重天：美国电价要爆了，中国电价开跌了",
+          "url": "https://wallstreetcn.com/articles/3763238",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时12分 ~ 08时52分]"
         },
         {
           "title": "美国正从中东主要基地撤出人员",
@@ -334,7 +389,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -345,7 +400,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -383,13 +438,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美伊冲突升级！10大信号暗示战争临近",
+          "url": "https://news.ifeng.com/c/8pvW3NU2WsR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
           "url": "https://flash.jin10.com/detail/20260115062858254800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -400,20 +466,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "冰火两重天：美国电价要爆了，中国电价开跌了",
-          "url": "https://wallstreetcn.com/articles/3763238",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 07时11分]"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -440,6 +495,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时12分]"
+        },
+        {
+          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
+          "url": "https://news.ifeng.com/c/8put47t4u2M",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时52分]"
         },
         {
           "title": "据知情人士透露，摩根大通考虑从美国高评级债券市场融资大约50亿美元，这将是本轮财报季以来华尔街大行第一单美元债融资。（彭博）",
@@ -590,19 +657,6 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
-          "title": "国台办回应台湾女孩寻味刨猪汤",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%A9%E5%AF%BB%E5%91%B3%E5%88%A8%E7%8C%AA%E6%B1%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            16,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时11分]"
-        },
-        {
           "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
           "url": "https://flash.jin10.com/detail/20260115053341985800",
           "source": "金十数据",
@@ -651,15 +705,15 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
-          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
-          "url": "https://news.ifeng.com/c/8put47t4u2M",
+          "title": "敏感时刻，美国媒体突然怒斥：双标",
+          "url": "https://news.ifeng.com/c/8pv02Y49QkE",
           "source": "凤凰网",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时11分]"
+          "appearance_count": 4,
+          "time_info": "[05时12分 ~ 08时52分]"
         },
         {
           "title": "有家连涨五天，美国原油期货收涨超1.4%站上62美元",
@@ -673,17 +727,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 06时12分]"
-        },
-        {
-          "title": "敏感时刻，美国媒体突然怒斥：双标",
-          "url": "https://news.ifeng.com/c/8pv02Y49QkE",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时11分]"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -842,6 +885,18 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "美媒：美国将暂停对75个国家的所有签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32385206",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时52分]"
+        },
+        {
           "title": "美国驻沙特使馆要求工作人员“提高警惕”",
           "url": "https://wallstreetcn.com/livenews/3037242",
           "source": "华尔街见闻-快讯",
@@ -852,6 +907,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时12分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "EIA报告：美国墨西哥湾沿岸汽油库存在最新一周上升至2020年1月以来的最高水平。",
@@ -893,9 +959,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "伊朗军事专家：美国和以色列正对伊朗发动“混合战争”",
+          "url": "https://wallstreetcn.com/livenews/3037385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国宣布对特定半导体等加征25%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%89%B9%E5%AE%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
@@ -907,6 +995,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "人民日报钟声三问日本",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%E4%B8%89%E9%97%AE%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国驻卡塔尔大使馆：美国驻卡塔尔使团继续密切关注局势。",
+          "url": "https://flash.jin10.com/detail/20260115075512336800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "TJM Institutional Services LLC利率策略师David Robin：美国就业形势有点不明确，同时我们又有通胀问题。从数据角度看，美联储至少按兵不动到3月的概率上升了。 而随着每一次会议从日程表上划去，美联储继续维持不动的概率就变得更大。” Robin说：“无论市场是否相信美联储会按兵不动 —— 无论这个概率是5%、10%还是20% —— 这些交易都很便宜；如果你是纪律严明的风险管理者，你就会有需求。”",
@@ -926,7 +1036,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -953,6 +1063,50 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美国驻卡塔尔大使馆：目前大使馆的人员配置和运作保持不变，领事服务照常提供。",
+          "url": "https://flash.jin10.com/detail/20260115075440428800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "为什么日本寿司郎在国内如此火爆，甚至出现「黄牛号」现象？是物有所值还是营销过头？",
+          "url": "https://www.zhihu.com/question/1994731719882925954",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "人民日报钟声三问日本",
+          "url": "https://www.toutiao.com/trending/7595112097663483940/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国白宫宣布对特定半导体等加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3763322",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国参议院共和党领袖图恩：不确定是否有足够票数阻止今天就《战争权力决议》进行表决。",
           "url": "https://flash.jin10.com/detail/20260114233514403800",
           "source": "金十数据",
@@ -975,15 +1129,37 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国11月PPI同比上升3% 三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2257962",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国参议员蒂利斯：如果美军出现在格陵兰，将支持《战争权力法》（限制总统在未经国会授权的情况下动用武装力量）。",
           "url": "https://flash.jin10.com/detail/20260115060932349800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "日本12月国内企业商品物价指数月率 0.1%，预期0.10%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260115075003591800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国官员：美国已完成首笔价值5亿美元的委内瑞拉石油销售。未来几天和几周内预计委内瑞拉石油的额外销量将增加。",
@@ -997,6 +1173,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "日本12月国内企业商品物价指数年率 2.4%，预期2.40%，前值2.70%。",
+          "url": "https://flash.jin10.com/detail/20260115075003566800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美联储理事米兰：“雄心勃勃”的美国放松监管支持美联储进一步宽松",
           "url": "https://wallstreetcn.com/livenews/3037184",
           "source": "华尔街见闻-快讯",
@@ -1006,6 +1193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国将暂停对75个国家的所有签证",
+          "url": "https://www.toutiao.com/trending/7595353123414117939/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美联储理事米兰：放松监管应给价格带来下行压力，这是美国央行降息的又一理由。",
@@ -1028,6 +1226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国驻卡塔尔大使馆：建议使馆人员提高警惕，并限制前往乌代德空军基地的非必要出行。",
+          "url": "https://flash.jin10.com/detail/20260115074857874800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "墨西哥总统辛鲍姆：美国与古巴需要达成一份协议。",
@@ -1085,6 +1294,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "10年期日本国债收益率下行2.5个基点至2.155%。",
+          "url": "https://wallstreetcn.com/livenews/3037375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国至1月9日当周EIA蒸馏燃油产量引伸需求数据 552.01万桶/日，前值472.29万桶/日。",
           "url": "https://flash.jin10.com/detail/20260114233220217800",
           "source": "金十数据",
@@ -1113,7 +1333,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1234,7 +1454,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1256,7 +1476,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -1311,20 +1531,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
         {
-          "title": "美媒：美国将暂停对75个国家的所有签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32385206",
-          "source": "澎湃新闻",
+          "title": "聂卫平曾连胜多名日本超一流棋手",
+          "url": "https://www.toutiao.com/trending/7595151255786294820/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国参议院以51票对50票否决了阻止特朗普在未经国会授权的情况下进一步对委内瑞拉采取军事行动的动议，副总统万斯投下了打破平局的一票。",
+          "url": "https://flash.jin10.com/detail/20260115073207708800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "AgiBank申请美国IPO，寻求按代码“AGBK”在纽交所挂牌交易其股票。 彭博援引知情人士报道称，巴西AgiBank计划通过美国IPO融资10亿美元。",
@@ -1399,9 +1630,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "美国一航母打击群正被调往中东和中亚地区",
+          "url": "https://wallstreetcn.com/livenews/3037367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国至1月9日当周EIA精炼厂设备利用率 95.3%，预期94%，前值94.7%。",
@@ -1446,6 +1688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国对特定半导体等加征25%关税",
+          "url": "https://www.toutiao.com/trending/7595358438268358198/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国至1月9日当周EIA汽油库存 897.7万桶，预期356.5万桶，前值770.2万桶。",
@@ -1536,6 +1789,28 @@
           "time_info": "04时14分"
         },
         {
+          "title": "日本12月国内企业商品物价指数环比 0.1%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3037362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.douyin.com/hot/2367947",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国至1月9日当周EIA原油进口 71万桶，前值56.3万桶。",
           "url": "https://flash.jin10.com/detail/20260114233003562800",
           "source": "金十数据",
@@ -1567,6 +1842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "日本12月国内企业商品物价指数同比 2.4%，预期 2.4%，前值 2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "美国至1月9日当周EIA成品油进口 4.1万桶/日，前值49万桶/日。",
@@ -1602,6 +1888,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "格陵兰为什么不选美国",
+          "url": "https://www.toutiao.com/trending/7595358636411457087/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国至1月9日当周EIA取暖油库存 -74.5万桶，前值67.2万桶。",
           "url": "https://flash.jin10.com/detail/20260114233003536800",
           "source": "金十数据",
@@ -1616,18 +1913,19 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "浙江用AI抓出贪官",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -1652,8 +1950,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -1663,11 +1961,12 @@
             23,
             2,
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 07时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 08时52分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -1677,8 +1976,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 07时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 08时52分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1712,6 +2011,20 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
+          "title": "巴菲特再发警示：AI的危险不亚于核武器",
+          "url": "https://www.cls.cn/detail/2258013",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时19分 ~ 08时52分]"
+        },
+        {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
           "url": "https://www.cls.cn/detail/2257499",
           "source": "财联社热门",
@@ -1722,19 +2035,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 07时11分]"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 07时11分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -1881,6 +2181,17 @@
           "time_info": "05时12分"
         },
         {
+          "title": "中信证券：“自主可控、AI算力”有望成为电子行业贯穿全年的绝对强主线",
+          "url": "https://wallstreetcn.com/livenews/3037380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
           "title": "美国主要电网运营商因AI热潮过热调低用电需求预测",
           "url": "https://wallstreetcn.com/livenews/3037291",
           "source": "华尔街见闻-快讯",
@@ -1912,6 +2223,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "阿里要做全球第一个AI电商？淘宝、飞猪等已接入千问App",
+          "url": "https://wallstreetcn.com/livenews/3037373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "办案人员通过AI提示揪出贪官",
+          "url": "https://www.toutiao.com/trending/7595197160711946266/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时52分"
         },
         {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
