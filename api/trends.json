@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-15T13:19:10.735934+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-01-15T14:19:46.931591+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 197,
+      "match_count": 204,
       "titles": [
+        {
+          "title": "美国宣布对特定半导体等加征25%关税",
+          "url": "https://news.ifeng.com/c/8pvSblFxE83",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 14时19分]"
+        },
         {
           "title": "美国将暂停办理俄罗斯等 75 个国家的所有签证，将带来哪些影响？",
           "url": "https://www.zhihu.com/question/1994904104011588707",
@@ -18,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时12分 ~ 13时19分]"
+          "appearance_count": 14,
+          "time_info": "[03时12分 ~ 14时19分]"
         },
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -34,6 +47,17 @@
           "time_info": "[00时17分 ~ 08时52分]"
         },
         {
+          "title": "美伊冲突升级！10大信号暗示战争临近",
+          "url": "https://news.ifeng.com/c/8pvW3NU2WsR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 14时19分]"
+        },
+        {
           "title": "美媒：美国将暂停对75个国家的所有签证",
           "url": "https://wallstreetcn.com/articles/3763308",
           "source": "华尔街见闻",
@@ -43,32 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时19分]"
-        },
-        {
-          "title": "美国宣布对特定半导体等加征25%关税",
-          "url": "https://news.ifeng.com/c/8pvSblFxE83",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 13时19分]"
-        },
-        {
-          "title": "美伊冲突升级！10大信号暗示战争临近",
-          "url": "https://news.ifeng.com/c/8pvW3NU2WsR",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 14时19分]"
         },
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -97,6 +97,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 10时54分]"
+        },
+        {
+          "title": "美国白宫宣布对特定半导体等加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3763322",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 14时19分]"
         },
         {
           "title": "美国将暂停对75个国家的所有签证",
@@ -137,77 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时20分 ~ 13时19分]"
-        },
-        {
-          "title": "美国正从中东主要基地撤出人员",
-          "url": "https://www.douyin.com/hot/2367901",
-          "source": "抖音",
-          "ranks": [
-            19,
-            20,
-            18,
-            21,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 12时02分]"
-        },
-        {
-          "title": "斩杀线登美国头条,牢A连夜跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            17,
-            21,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时19分]"
-        },
-        {
-          "title": "魔幻美国:杀人探员获400万捐款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时19分]"
-        },
-        {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时14分]"
-        },
-        {
-          "title": "美国白宫宣布对特定半导体等加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3763322",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 13时19分]"
+          "time_info": "[01时20分 ~ 14时19分]"
         },
         {
           "title": "美媒：美国将暂停对75个国家的所有签证",
@@ -221,8 +166,134 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 14时19分]"
+        },
+        {
+          "title": "美国正从中东主要基地撤出人员",
+          "url": "https://www.douyin.com/hot/2367901",
+          "source": "抖音",
+          "ranks": [
+            19,
+            20,
+            18,
+            21,
+            17,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 14时19分]"
+        },
+        {
+          "title": "斩杀线登美国头条,牢A连夜跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349097&amp;topic_name=%E6%96%A9%E6%9D%80%E7%BA%BF%E7%99%BB%E7%BE%8E%E5%9B%BD%E5%A4%B4%E6%9D%A1%2C%E7%89%A2A%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 14时19分]"
+        },
+        {
+          "title": "魔幻美国:杀人探员获400万捐款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349155&amp;topic_name=%E9%AD%94%E5%B9%BB%E7%BE%8E%E5%9B%BD%3A%E6%9D%80%E4%BA%BA%E6%8E%A2%E5%91%98%E8%8E%B7400%E4%B8%87%E6%8D%90%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 14时19分]"
+        },
+        {
+          "title": "聂卫平曾连胜多位日本超一流棋手",
+          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 14时19分]"
+        },
+        {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时11分 ~ 13时19分]"
+          "time_info": "[08时52分 ~ 14时19分]"
+        },
+        {
+          "title": "为什么日本寿司郎在国内如此火爆，甚至出现「黄牛号」现象？是物有所值还是营销过头？",
+          "url": "https://www.zhihu.com/question/1994731719882925954",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 14时19分]"
+        },
+        {
+          "title": "人民日报钟声三问日本",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%E4%B8%89%E9%97%AE%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 14时19分]"
+        },
+        {
+          "title": "国台办回应台湾女孩寻味刨猪汤",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%A9%E5%AF%BB%E5%91%B3%E5%88%A8%E7%8C%AA%E6%B1%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            16,
+            5,
+            3,
+            30,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时12分 ~ 14时19分]"
         },
         {
           "title": "“古德之死”引爆美国",
@@ -242,17 +313,19 @@
           "time_info": "[00时17分 ~ 08时52分]"
         },
         {
-          "title": "聂卫平曾连胜多位日本超一流棋手",
-          "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
-          "source": "bilibili 热搜",
+          "title": "美国将暂停对75个国家的所有签证",
+          "url": "https://www.toutiao.com/trending/7595353123414117939/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            6,
-            7
+            13,
+            18,
+            16,
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 13时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 14时19分]"
         },
         {
           "title": "美国会对伊朗动武吗",
@@ -302,58 +375,15 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
+          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
+          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 13时19分]"
-        },
-        {
-          "title": "国台办回应台湾女孩寻味刨猪汤",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%A9%E5%AF%BB%E5%91%B3%E5%88%A8%E7%8C%AA%E6%B1%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            16,
-            5,
-            3,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时12分 ~ 12时42分]"
-        },
-        {
-          "title": "人民日报钟声三问日本",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%E4%B8%89%E9%97%AE%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 13时19分]"
-        },
-        {
-          "title": "为什么日本寿司郎在国内如此火爆，甚至出现「黄牛号」现象？是物有所值还是营销过头？",
-          "url": "https://www.zhihu.com/question/1994731719882925954",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时19分]"
         },
         {
           "title": "升级！美国向英国发出严厉威胁",
@@ -367,18 +397,17 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
-          "title": "美国将暂停对75个国家的所有签证",
-          "url": "https://www.toutiao.com/trending/7595353123414117939/",
-          "source": "今日头条",
+          "title": "美国一航母打击群正被调往中东和中亚地区",
+          "url": "https://www.cls.cn/detail/2258217",
+          "source": "财联社热门",
           "ranks": [
+            12,
             13,
-            18,
-            16,
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时52分 ~ 13时19分]"
+          "time_info": "[10时53分 ~ 14时19分]"
         },
         {
           "title": "日本深海开采稀土无法规避哪些挑战",
@@ -397,38 +426,17 @@
           "time_info": "[00时17分 ~ 07时11分]"
         },
         {
-          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
-          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时19分]"
-        },
-        {
-          "title": "聂卫平当年迎战日本特意穿国乒球衣",
-          "url": "https://www.toutiao.com/trending/7595203430948343339/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时19分]"
-        },
-        {
           "title": "聂卫平迎战日本特意穿国乒球衣",
           "url": "https://www.baidu.com/s?wd=%E8%81%82%E5%8D%AB%E5%B9%B3%E8%BF%8E%E6%88%98%E6%97%A5%E6%9C%AC%E7%89%B9%E6%84%8F%E7%A9%BF%E5%9B%BD%E4%B9%92%E7%90%83%E8%A1%A3",
           "source": "百度热搜",
           "ranks": [
             10,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
         },
         {
           "title": "关税让美国制造业回流了吗",
@@ -436,24 +444,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
-        },
-        {
-          "title": "美国一航母打击群正被调往中东和中亚地区",
-          "url": "https://www.cls.cn/detail/2258217",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
         },
         {
           "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
@@ -468,6 +464,19 @@
           "time_info": "[05时12分 ~ 10时54分]"
         },
         {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
+        },
+        {
           "title": "美国宣布对特定半导体等加征25%关税",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E7%89%B9%E5%AE%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%AD%89%E5%8A%A0%E5%BE%8125%25%E5%85%B3%E7%A8%8E",
           "source": "百度热搜",
@@ -479,6 +488,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时52分 ~ 12时42分]"
+        },
+        {
+          "title": "聂卫平当年迎战日本特意穿国乒球衣",
+          "url": "https://www.toutiao.com/trending/7595203430948343339/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时19分]"
         },
         {
           "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
@@ -501,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "据韩联社：韩国副财长表示，美国财长贝森特关于韩元的言论凸显了外汇在3500亿美元美国投资计划中的重要性。",
+          "url": "https://flash.jin10.com/detail/20260115140301479800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
@@ -535,6 +567,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时12分 ~ 08时52分]"
+        },
+        {
+          "title": "美国人开始认同中式生活",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A4%E5%90%8C%E4%B8%AD%E5%BC%8F%E7%94%9F%E6%B4%BB&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
+          "url": "https://www.zhihu.com/question/1994760082911675910",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
         },
         {
           "title": "美国正从中东主要基地撤出人员",
@@ -640,17 +698,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "野村资产管理预计日本日经225指数有望在2040年达到20万点",
-          "url": "https://wallstreetcn.com/livenews/3037538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
           "url": "https://flash.jin10.com/detail/20260115062858254800",
           "source": "金十数据",
@@ -707,43 +754,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时52分 ~ 12时02分]"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
-        },
-        {
-          "title": "美国人开始认同中式生活",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%A7%8B%E8%AE%A4%E5%90%8C%E4%B8%AD%E5%BC%8F%E7%94%9F%E6%B4%BB&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
-          "url": "https://www.zhihu.com/question/1994760082911675910",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
         },
         {
           "title": "路透调查：52%经济学家表示，日本央行在通胀问题上落后于曲线的风险既不高也不低。",
@@ -1030,6 +1040,18 @@
           "time_info": "[12时42分 ~ 13时19分]"
         },
         {
+          "title": "野村资产管理预计日本日经225指数有望在2040年达到20万点",
+          "url": "https://wallstreetcn.com/livenews/3037538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时19分]"
+        },
+        {
           "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
           "url": "https://flash.jin10.com/detail/20260115052805367800",
           "source": "金十数据",
@@ -1063,6 +1085,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时53分 ~ 12时02分]"
+        },
+        {
+          "title": "聂卫平封神战连克日本名将",
+          "url": "https://www.baidu.com/s?wd=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%B0%81%E7%A5%9E%E6%88%98%E8%BF%9E%E5%85%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%B0%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时19分]"
         },
         {
           "title": "日本央行行长植田和男：调整货币支持力度将有助于我们平稳实现物价目标，并带来可持续增长。",
@@ -1141,16 +1176,16 @@
           "time_info": "[08时52分 ~ 10时54分]"
         },
         {
-          "title": "聂卫平封神战连克日本名将",
-          "url": "https://www.baidu.com/s?wd=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%B0%81%E7%A5%9E%E6%88%98%E8%BF%9E%E5%85%8B%E6%97%A5%E6%9C%AC%E5%90%8D%E5%B0%86",
-          "source": "百度热搜",
+          "title": "日本立宪民主党或与公明党成立新党",
+          "url": "https://wallstreetcn.com/livenews/3037535",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26,
-            25
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时19分]"
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时19分]"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -1422,17 +1457,6 @@
           "time_info": "08时52分"
         },
         {
-          "title": "日本立宪民主党或与公明党成立新党",
-          "url": "https://wallstreetcn.com/livenews/3037535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "美国总统特朗普：（谈伊朗“杀戮”已停止）我是从对方的消息来源那里得知此事的。",
           "url": "https://flash.jin10.com/detail/20260115043746236800",
           "source": "金十数据",
@@ -1587,6 +1611,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "劳埃德银行：美联储或成美国就业市场疲软的替罪羊",
+          "url": "https://flash.jin10.com/detail/20260115133524756800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美联储理事米兰：“雄心勃勃”的美国放松监管支持美联储进一步宽松",
           "url": "https://wallstreetcn.com/livenews/3037184",
           "source": "华尔街见闻-快讯",
@@ -1596,6 +1631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "日本公明党称公明党和立宪民主党领导人将于当地时间下午3时会面。 据此前报道，日本立宪民主党或与公明党成立新党。",
+          "url": "https://wallstreetcn.com/livenews/3037572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美联储理事米兰：放松监管应给价格带来下行压力，这是美国央行降息的又一理由。",
@@ -1697,6 +1743,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "台湾证交所加权股价指数收跌0.4%报30,810.58点。",
+          "url": "https://wallstreetcn.com/livenews/3037568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国至1月9日当周EIA蒸馏燃油产量引伸需求数据 552.01万桶/日，前值472.29万桶/日。",
           "url": "https://flash.jin10.com/detail/20260114233220217800",
           "source": "金十数据",
@@ -1739,6 +1796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "台积电：第四季度每股盈余为新台币19.50元（折合美国存托凭证每单位为3.14美元）。",
+          "url": "https://flash.jin10.com/detail/20260115133402061800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国1月9日当周EIA精炼厂设备利用率变化 0.6%，预期 -0.5%，前值 0%。",
@@ -1873,6 +1941,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "美国向英国发出严厉威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%91%E8%8B%B1%E5%9B%BD%E5%8F%91%E5%87%BA%E4%B8%A5%E5%8E%89%E5%A8%81%E8%83%81%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
           "url": "https://flash.jin10.com/detail/20260114233051004800",
           "source": "金十数据",
@@ -2003,6 +2082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "台湾女孩看重庆刨猪汤视频感慨",
+          "url": "https://www.toutiao.com/trending/7594581156508090395/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国至1月9日当周EIA战略石油储备库存 21.4万桶，前值24.5万桶。",
@@ -2338,8 +2428,20 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 14时19分]"
+        },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
           "url": "https://wallstreetcn.com/articles/3763239",
@@ -2350,8 +2452,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 14时19分]"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -2366,8 +2468,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时19分 ~ 13时19分]"
+          "appearance_count": 15,
+          "time_info": "[02时19分 ~ 14时19分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -2382,18 +2484,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时17分 ~ 12时02分]"
-        },
-        {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 13时19分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -2419,8 +2509,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 13时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 14时19分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -2437,8 +2527,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 13时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时19分]"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -2454,19 +2557,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时20分 ~ 08时52分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -2496,6 +2586,20 @@
           "time_info": "[01时20分 ~ 07时11分]"
         },
         {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            12,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
+        },
+        {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -2507,19 +2611,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时20分 ~ 07时11分]"
-        },
-        {
-          "title": "复盘苹果AI为何转投谷歌",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -2560,6 +2651,18 @@
           "time_info": "[12时02分 ~ 13时19分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时19分]"
+        },
+        {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
           "url": "https://flash.jin10.com/detail/20260115041052630800",
           "source": "金十数据",
@@ -2572,16 +2675,16 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
           "ranks": [
-            8,
-            7
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时19分]"
         },
         {
           "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
@@ -2595,17 +2698,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 13时19分]"
-        },
-        {
-          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
-          "url": "https://www.zhihu.com/question/1994356851211515794",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时19分]"
         },
         {
           "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
@@ -2855,6 +2947,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "聂卫平曾谈AI对围棋的影响",
+          "url": "https://www.toutiao.com/trending/7595183245084835903/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
@@ -2870,8 +2973,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时01分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 14时19分]"
         }
       ]
     }
