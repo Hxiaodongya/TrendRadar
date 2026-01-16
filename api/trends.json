@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T19:12:04.168252+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2026-01-16T20:22:43.422473+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 213,
+      "match_count": 220,
       "titles": [
         {
           "title": "“强卖”委内瑞拉石油，美国得失几何？",
@@ -25,11 +25,12 @@
           "ranks": [
             20,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 19时12分]"
+          "appearance_count": 11,
+          "time_info": "[08时55分 ~ 20时22分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -45,8 +46,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时24分 ~ 19时12分]"
+          "appearance_count": 25,
+          "time_info": "[01时24分 ~ 20时22分]"
         },
         {
           "title": "美国白宫宣布对特定半导体等加征25%关税",
@@ -68,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 20时22分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -135,8 +136,34 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时22分]"
+        },
+        {
+          "title": "外交部：坚决反对建交国与中国台湾地区商签任何具有主权意涵和官方性质的协定",
+          "url": "https://www.cls.cn/detail/2260218",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时16分 ~ 20时22分]"
+        },
+        {
+          "title": "欧洲悄悄讨论反击：切断与美国的军事合作，收回美军基地",
+          "url": "https://news.ifeng.com/c/8pxoIN8xmTK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时12分]"
+          "time_info": "[18时13分 ~ 20时22分]"
         },
         {
           "title": "美国正向中东派兵",
@@ -150,40 +177,39 @@
           "time_info": "[08时55分 ~ 10时55分]"
         },
         {
-          "title": "欧洲悄悄讨论反击：切断与美国的军事合作，收回美军基地",
-          "url": "https://news.ifeng.com/c/8pxoIN8xmTK",
+          "title": "日本前高官窜访台湾，外交部回应",
+          "url": "https://news.ifeng.com/c/8pxm2HXdslD",
           "source": "凤凰网",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时12分]"
-        },
-        {
-          "title": "外交部：坚决反对建交国与中国台湾地区商签任何具有主权意涵和官方性质的协定",
-          "url": "https://www.cls.cn/detail/2260218",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 19时12分]"
-        },
-        {
-          "title": "刘翔回应移民美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
+            6,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时22分]"
+        },
+        {
+          "title": "战争警戒PC端首曝",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E8%AD%A6%E6%88%92PC%E7%AB%AF%E9%A6%96%E6%9B%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时16分 ~ 20时22分]"
+        },
+        {
+          "title": "美国施压意大利：中企合同，给我撤了",
+          "url": "https://news.ifeng.com/c/8pxL9f4bN2R",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时22分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁",
@@ -215,51 +241,17 @@
           "time_info": "[00时22分 ~ 06时13分]"
         },
         {
-          "title": "日本前高官窜访台湾，外交部回应",
-          "url": "https://news.ifeng.com/c/8pxm2HXdslD",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时12分]"
-        },
-        {
-          "title": "战争警戒PC端首曝",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E8%AD%A6%E6%88%92PC%E7%AB%AF%E9%A6%96%E6%9B%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 19时12分]"
-        },
-        {
-          "title": "美国施压意大利：中企合同，给我撤了",
-          "url": "https://news.ifeng.com/c/8pxL9f4bN2R",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时12分]"
-        },
-        {
           "title": "国防部：日本野心一旦失控将造成灾难",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E4%B8%80%E6%97%A6%E5%A4%B1%E6%8E%A7%E5%B0%86%E9%80%A0%E6%88%90%E7%81%BE%E9%9A%BE",
           "source": "百度热搜",
           "ranks": [
             2,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时22分]"
         },
         {
           "title": "美国总统特朗普：我们已经正式进入加沙“20点和平计划”的下一阶段。",
@@ -324,6 +316,17 @@
           "time_info": "[00时22分 ~ 08时55分]"
         },
         {
+          "title": "美战机在日本近海消失 曾发求救信号",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E6%B6%88%E5%A4%B1+%E6%9B%BE%E5%8F%91%E6%B1%82%E6%95%91%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
           "url": "https://flash.jin10.com/detail/20260115235739581800",
           "source": "金十数据",
@@ -363,9 +366,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "美国格陵兰岛特使兰德里：计划会见官员。",
+          "url": "https://flash.jin10.com/detail/20260116195359731800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "据The Kobeissi Letter：2025年，日本的黄金储备达到了创纪录的1200亿美元，较上年增长了60%。目前，黄金储备占日本总储备资产的比例为9%，自2022年以来已增长了一倍多。",
@@ -390,6 +404,17 @@
           "time_info": "08时55分"
         },
         {
+          "title": "美国格陵兰岛特使兰德里：美国总统特朗普是认真的。",
+          "url": "https://flash.jin10.com/detail/20260116195309335800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美媒披露美国对伊朗动武顾虑：难以“一击制胜”",
           "url": "https://wallstreetcn.com/livenews/3038508",
           "source": "华尔街见闻-快讯",
@@ -399,6 +424,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "刘翔回应移民美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时22分]"
+        },
+        {
+          "title": "刘翔回应移民美国传言",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%BC%A0%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "市场消息：特朗普将指示美国一家关键电网运营机构举行紧急拍卖。",
@@ -421,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "美国格陵兰岛特使兰德里：相信格陵兰岛问题有交易可谈。",
+          "url": "https://flash.jin10.com/detail/20260116195301416800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "美国财政部宣布对伊朗实施新制裁",
@@ -1458,9 +1517,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "美国指责欧盟在南方共同市场协议中寻求奶酪“垄断”。",
+          "url": "https://flash.jin10.com/detail/20260116193312307800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "2年期日本国债收益率上行1.5个基点至1.195%。",
@@ -1667,7 +1737,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1733,9 +1803,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "市场消息：日本外务省发言人表示，印度和日本将组建关键矿产联盟。",
+          "url": "https://flash.jin10.com/detail/20260116191943633800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "民调称近半数美国人支持废除ICE",
@@ -1821,7 +1902,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -2426,7 +2507,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -2467,7 +2548,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -2553,8 +2634,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时54分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[10时54分 ~ 20时22分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -2632,6 +2713,21 @@
           "time_info": "[12时38分 ~ 18时13分]"
         },
         {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 20时22分]"
+        },
+        {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
           "url": "https://www.zhihu.com/question/1995085840762758424",
           "source": "知乎",
@@ -2658,20 +2754,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时54分 ~ 15时18分]"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 19时12分]"
         },
         {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
@@ -2761,6 +2843,18 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 20时22分]"
+        },
+        {
           "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3763354",
           "source": "华尔街见闻",
@@ -2797,16 +2891,27 @@
           "time_info": "[11时59分 ~ 13时18分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时12分]"
+          "time_info": "[19时11分 ~ 20时22分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时22分]"
         },
         {
           "title": "马斯克儿子的妈妈起诉马斯克AI公司",
@@ -2819,17 +2924,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 19时12分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "理想万里晖建成面向太空的超薄柔性HJT电池AI示范线",
@@ -2854,17 +2948,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时55分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
@@ -2976,6 +3059,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "【胜宏科技：预计2025年净利润41.6亿元-45.6亿元，同比增长260.35%-295.00%】胜宏科技：预计2025年净利润41.6亿元-45.6亿元，同比增长260.35%-295.00%；在AI算力、数据中心、高性能计算等关键领域，多款高端产品已实现大规模量产，带动产品结构向高价值量、高技术复杂度方向升级，高端产品占比显著提升，推动公司业绩高速增长。",
+          "url": "https://wallstreetcn.com/livenews/3038744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
+          "title": "胜宏科技：预计2025年净利润41.6亿元-45.6亿元，同比增长260.35%-295.00%；在AI算力、数据中心、高性能计算等关键领域，多款高端产品已实现大规模量产，带动产品结构向高价值量、高技术复杂度方向升级，高端产品占比显著提升，推动公司业绩高速增长。",
+          "url": "https://wallstreetcn.com/livenews/3038742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "内存暴涨背后的AI硬件争夺战",
