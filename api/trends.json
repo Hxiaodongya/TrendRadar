@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T00:16:24.330351+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-17T01:17:22.887343+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
         {
           "title": "日本网帖煽动对高考考生性骚扰",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "刘翔回应移民美国传言",
@@ -26,30 +26,76 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "特朗普：我是关税之王，如果最高法院的官司输了将是美国之耻",
-          "url": "https://wallstreetcn.com/livenews/3038926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "冰岛就美官员“第52个州”玩笑向美国讨说法",
           "url": "https://news.ifeng.com/c/8pxeTtF2mQD",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "美国宾夕法尼亚州长威胁称：如果电网运营商PJM不改变策略，将退出与该公司的合同。",
+          "url": "https://wallstreetcn.com/livenews/3038950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
+          "url": "https://wallstreetcn.com/livenews/3038949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国财政部考虑按季度拍卖七年期国债。",
+          "url": "https://wallstreetcn.com/livenews/3038947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，前波多黎各总督Wanda Vazquez Garced正获得特朗普的赦免。",
+          "url": "https://flash.jin10.com/detail/20260117004233862800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：我是关税之王，如果最高法院的官司输了将是美国之耻",
+          "url": "https://wallstreetcn.com/livenews/3038926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "美商务部长直说了：台湾必须让我们的总统高兴",
@@ -59,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "战争警戒PC端首曝",
@@ -70,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
@@ -81,30 +127,137 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "美联储理事鲍曼：美国经济一直具有韧性。",
           "url": "https://flash.jin10.com/detail/20260117000156433800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
           "url": "https://wallstreetcn.com/livenews/3038921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "美国总统特朗普：如果无法在最高法院赢得关税官司，将是“国家的”耻辱。",
+          "url": "https://wallstreetcn.com/livenews/3038918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3038917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "美国总统特朗普：可能会因为格陵兰问题而对其他国家加征关税。 如果某些国家在格陵兰问题上“不配合”（美方要求），将考虑实施关税。 重申美国因“国家安全”而需要（吞并）格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3038916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "火药味拉满,美国酝酿搞伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "委代总统会见美国中情局局长",
+          "url": "https://www.toutiao.com/trending/7595065593578160182/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "台湾同胞到“呆呆”家串门",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E5%88%B0%E2%80%9C%E5%91%86%E5%91%86%E2%80%9D%E5%AE%B6%E4%B8%B2%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "美国总统特朗普：明尼苏达州问题很快就会得到解决。",
+          "url": "https://flash.jin10.com/detail/20260117004054081800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国马里兰州长Wes Moore：电网运营商PJM必须在电力价格拍卖之外采取更多行动。",
+          "url": "https://wallstreetcn.com/livenews/3038943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国宾夕法尼亚州长Josh Shapiro：电网运营商PJM计划包含为期两年的店家上限延期方案。",
+          "url": "https://wallstreetcn.com/livenews/3038940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "中方批日本加速推进再军事化",
@@ -118,48 +271,15 @@
           "time_info": "00时16分"
         },
         {
-          "title": "美国总统特朗普：如果无法在最高法院赢得关税官司，将是“国家的”耻辱。",
-          "url": "https://wallstreetcn.com/livenews/3038918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国总统特朗普赞赏股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3038917",
+          "title": "铜矿概念股普遍下跌，特朗普不愿意让白宫顾问哈塞特担任美联储主席。 泰克资源跌2.99%，美国铜指数基金跌2.77%，自由港跌2.33%，铜矿ETF跌1.9%，必和必拓ADR、力拓ADR、南方铜业、淡水河谷ADR至多跌1.9%，McEwen涨1.57%，Gold Com涨4.43%。",
+          "url": "https://wallstreetcn.com/livenews/3038937",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国总统特朗普：可能会因为格陵兰问题而对其他国家加征关税。 如果某些国家在格陵兰问题上“不配合”（美方要求），将考虑实施关税。 重申美国因“国家安全”而需要（吞并）格陵兰。",
-          "url": "https://wallstreetcn.com/livenews/3038916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "火药味拉满,美国酝酿搞伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349223&amp;topic_name=%E7%81%AB%E8%8D%AF%E5%91%B3%E6%8B%89%E6%BB%A1%2C%E7%BE%8E%E5%9B%BD%E9%85%9D%E9%85%BF%E6%90%9E%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "01时17分"
         },
         {
           "title": "美国总统特朗普赞赏礼来制药。",
@@ -173,22 +293,22 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美国最高法院将下周二定为下一个关税意见日，如不发布将至少再等一个月",
+          "url": "https://wallstreetcn.com/livenews/3038933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
           "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
           "url": "https://wallstreetcn.com/livenews/3038909",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "委代总统会见美国中情局局长",
-          "url": "https://www.toutiao.com/trending/7595065593578160182/",
-          "source": "今日头条",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -292,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "台湾同胞到“呆呆”家串门",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E5%88%B0%E2%80%9C%E5%91%86%E5%91%86%E2%80%9D%E5%AE%B6%E4%B8%B2%E9%97%A8",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
@@ -318,19 +427,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
           "url": "https://www.cls.cn/detail/2260421",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -340,8 +450,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
@@ -351,19 +461,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "梁朝伟白酒广告被网友怀疑是AI",
           "url": "https://www.toutiao.com/trending/7595066643185696822/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
