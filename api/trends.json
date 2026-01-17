@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T08:53:06.863830+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-01-17T10:46:09.502858+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 105,
+      "match_count": 113,
       "titles": [
         {
           "title": "日本网帖煽动对高考考生性骚扰",
@@ -20,18 +20,6 @@
           "time_info": "[00时16分 ~ 08时53分]"
         },
         {
-          "title": "刘翔回应移民美国传言",
-          "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%BC%A0%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时53分]"
-        },
-        {
           "title": "女星吴佩慈婆婆在美国被捕，涉嫌违反美国移民法规则，她将承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/1995414971920638365",
           "source": "知乎",
@@ -39,11 +27,25 @@
             6,
             3,
             2,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时13分 ~ 08时53分]"
+          "appearance_count": 11,
+          "time_info": "[03时13分 ~ 10时46分]"
+        },
+        {
+          "title": "刘翔回应移民美国传言",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E7%A7%BB%E6%B0%91%E7%BE%8E%E5%9B%BD%E4%BC%A0%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时46分]"
         },
         {
           "title": "美商务部长直说了：台湾必须让我们的总统高兴",
@@ -53,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时46分]"
         },
         {
           "title": "战争警戒PC端首曝",
@@ -76,8 +78,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时46分]"
         },
         {
           "title": "台湾同胞到“呆呆”家串门",
@@ -102,11 +104,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时46分]"
         },
         {
           "title": "委代总统会见美国中情局局长",
@@ -132,8 +135,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 08时53分]"
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 10时46分]"
+        },
+        {
+          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
+          "url": "https://wallstreetcn.com/articles/3763450",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 10时46分]"
         },
         {
           "title": "冰岛就美官员“第52个州”玩笑向美国讨说法",
@@ -148,15 +162,38 @@
           "time_info": "[00时16分 ~ 02时18分]"
         },
         {
-          "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
+          "title": "彻底失控!美国ICE毒杀婴儿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349276&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%21%E7%BE%8E%E5%9B%BDICE%E6%AF%92%E6%9D%80%E5%A9%B4%E5%84%BF",
+          "source": "贴吧",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 10时46分]"
+        },
+        {
+          "title": "世卫组织：美国有权退出 但须缴纳欠费",
+          "url": "https://flash.jin10.com/detail/20260117101439876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月13日当周，投机者所持COMEX黄金净多头头寸增加12,292手合约，至136,548手合约，创三周新高。 所持COMEX白银净多头头寸降低至15,045手合约，创逾22个月新低。 所持COMEX铜净多头头寸减少至62,175手合约，创七周新低。 所持NYMEX铂金净多头头寸增至7,536手合约，所持NYMEX钯金净多头头寸降低至198手合约。",
@@ -184,17 +221,6 @@
           "time_info": "[05时12分 ~ 08时53分]"
         },
         {
-          "title": "美国白宫考虑采取行政措施限制信用卡利率",
-          "url": "https://flash.jin10.com/detail/20260117081411929800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：1月13日当周，投机者所持NYMEX WTI原油净多头头寸增加19,927手合约，至42,507手合约，创五个月新高。 所持布伦特和WTI原油净多头头寸增至235,199手合约，创17周新高。",
           "url": "https://wallstreetcn.com/livenews/3038995",
           "source": "华尔街见闻-快讯",
@@ -206,15 +232,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "美国正加快扩大雪佛龙在委内瑞拉的石油经营许可授权",
-          "url": "https://flash.jin10.com/detail/20260117081100497800",
-          "source": "金十数据",
+          "title": "世卫组织：美国有权退出 但须缴纳欠费",
+          "url": "https://wallstreetcn.com/livenews/3039072",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时46分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，COMEX黄金投机客将净多头头寸增加了12,292手，达到136,548手，COMEX白银投机客将净多头头寸减少了2,613手，至15,045手。",
@@ -252,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "url": "https://wallstreetcn.com/livenews/3039061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，CBOT玉米投机客的净空头头寸增加了75,221手，至201,335手。",
@@ -397,6 +412,19 @@
           "time_info": "[03时14分 ~ 05时12分]"
         },
         {
+          "title": "国防企业York Space Systems寻求通过美国IPO融资5.44亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时46分]"
+        },
+        {
           "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
           "url": "https://wallstreetcn.com/livenews/3038949",
           "source": "华尔街见闻-快讯",
@@ -408,6 +436,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时14分]"
+        },
+        {
+          "title": "厄瓜多尔准备实施2019年以来首次在国际债务市场融资，已经为了向投资者路演而聘请了美国银行证券和花旗集团。",
+          "url": "https://wallstreetcn.com/livenews/3039050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时46分]"
         },
         {
           "title": "美国参议院Warren等民主党成员就委内瑞拉石油问题质询多家大型银行。",
@@ -436,16 +477,17 @@
           "time_info": "[06时12分 ~ 08时53分]"
         },
         {
-          "title": "国防企业York Space Systems寻求通过美国IPO融资5.44亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3039051",
+          "title": "美国公布加沙“和平委员会”成员名单",
+          "url": "https://wallstreetcn.com/livenews/3039049",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            13
+            3,
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 08时53分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时46分]"
         },
         {
           "title": "美国财政部考虑按季度拍卖七年期国债。",
@@ -473,16 +515,16 @@
           "time_info": "[04时13分 ~ 05时12分]"
         },
         {
-          "title": "厄瓜多尔准备实施2019年以来首次在国际债务市场融资，已经为了向投资者路演而聘请了美国银行证券和花旗集团。",
-          "url": "https://wallstreetcn.com/livenews/3039050",
-          "source": "华尔街见闻-快讯",
+          "title": "美国白宫考虑采取行政措施限制信用卡利率",
+          "url": "https://flash.jin10.com/detail/20260117081411929800",
+          "source": "金十数据",
           "ranks": [
             2,
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时11分 ~ 08时53分]"
+          "time_info": "[08时53分 ~ 10时46分]"
         },
         {
           "title": "日本失控将给日本人民造成毁灭性灾难",
@@ -498,16 +540,16 @@
           "time_info": "[05时12分 ~ 07时11分]"
         },
         {
-          "title": "美国公布加沙“和平委员会”成员名单",
-          "url": "https://wallstreetcn.com/livenews/3039049",
-          "source": "华尔街见闻-快讯",
+          "title": "美国正加快扩大雪佛龙在委内瑞拉的石油经营许可授权",
+          "url": "https://flash.jin10.com/detail/20260117081100497800",
+          "source": "金十数据",
           "ranks": [
             3,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时11分 ~ 08时53分]"
+          "time_info": "[08时53分 ~ 10时46分]"
         },
         {
           "title": "特朗普：我是关税之王，如果最高法院的官司输了将是美国之耻",
@@ -520,6 +562,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
+          "url": "https://wallstreetcn.com/livenews/3039061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时46分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，ICE棉花投机客的净空头头寸减少了454手，至50,638手。",
@@ -546,6 +600,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时12分 ~ 08时53分]"
+        },
+        {
+          "title": "日本网帖煽动对高考考生性骚扰",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 10时46分]"
+        },
+        {
+          "title": "委防长：美国袭击致委方47名官兵身亡",
+          "url": "https://www.toutiao.com/trending/7595828129412136979/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 10时46分]"
+        },
+        {
+          "title": "古巴国家主席：美国无法迫使古巴妥协",
+          "url": "https://www.toutiao.com/trending/7595848703458443315/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 10时46分]"
         },
         {
           "title": "美国至1月16日当周天然气钻井总数 122口，前值124口。",
@@ -752,15 +842,39 @@
           "time_info": "[05时12分 ~ 07时11分]"
         },
         {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
+          "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/1995580476212082609",
+          "source": "知乎",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
+          "url": "https://flash.jin10.com/detail/20260117080610569800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时46分]"
+        },
+        {
+          "title": "美国明尼苏达州发生天然气管道爆炸事故",
+          "url": "https://wallstreetcn.com/livenews/3039059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时46分]"
         },
         {
           "title": "美联储理事鲍曼：美国经济一直具有韧性。",
@@ -787,6 +901,18 @@
           "time_info": "[03时14分 ~ 04时13分]"
         },
         {
+          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
+          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时46分]"
+        },
+        {
           "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
           "url": "https://wallstreetcn.com/livenews/3038921",
           "source": "华尔街见闻-快讯",
@@ -799,15 +925,16 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "日本网帖煽动对高考考生性骚扰",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[08时53分 ~ 10时46分]"
         },
         {
           "title": "美国总统特朗普：如果无法在最高法院赢得关税官司，将是“国家的”耻辱。",
@@ -882,15 +1009,15 @@
           "time_info": "[07时11分 ~ 08时53分]"
         },
         {
-          "title": "委防长：美国袭击致委方47名官兵身亡",
-          "url": "https://www.toutiao.com/trending/7595828129412136979/",
-          "source": "今日头条",
+          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
+          "url": "https://www.cls.cn/detail/2261022",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
           "title": "美国总统特朗普：现在没有理由在明尼苏达州使用叛乱法。",
@@ -939,17 +1066,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时11分]"
-        },
-        {
-          "title": "古巴国家主席：美国无法迫使古巴妥协",
-          "url": "https://www.toutiao.com/trending/7595848703458443315/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
@@ -1012,6 +1128,17 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "斩杀线折射美国制度弊端下的脆弱民生",
+          "url": "https://www.toutiao.com/trending/7595958797340835859/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
           "title": "美国格陵兰岛特使计划3月访问该岛",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%89%B9%E4%BD%BF%E8%AE%A1%E5%88%923%E6%9C%88%E8%AE%BF%E9%97%AE%E8%AF%A5%E5%B2%9B",
           "source": "百度热搜",
@@ -1034,48 +1161,26 @@
           "time_info": "01时17分"
         },
         {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "url": "https://flash.jin10.com/detail/20260117080610569800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "美国明尼苏达州发生天然气管道爆炸事故",
-          "url": "https://wallstreetcn.com/livenews/3039059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
-          "url": "https://flash.jin10.com/detail/20260117080445022800",
+          "title": "美国公布加沙“和平委员会”成员名单",
+          "url": "https://flash.jin10.com/detail/20260117091811650800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时46分"
         },
         {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
+          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
+          "url": "https://wallstreetcn.com/livenews/3039067",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时46分"
         },
         {
           "title": "中方批日本加速推进再军事化",
@@ -1279,7 +1384,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -1291,8 +1396,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 08时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 10时46分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -1330,17 +1435,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
@@ -1382,6 +1476,18 @@
           "time_info": "[02时18分 ~ 04时13分]"
         },
         {
+          "title": "美政府推动科技巨头为AI用电买单",
+          "url": "https://flash.jin10.com/detail/20260117082311101800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时46分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
           "url": "https://flash.jin10.com/detail/20260117020212481800",
           "source": "金十数据",
@@ -1393,6 +1499,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时13分]"
+        },
+        {
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 10时46分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1409,15 +1527,28 @@
           "time_info": "[02时18分 ~ 05时12分]"
         },
         {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
+          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
+          "url": "https://wallstreetcn.com/livenews/3039057",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "time_info": "[08时53分 ~ 10时46分]"
+        },
+        {
+          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3039052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时46分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
@@ -1444,26 +1575,15 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时46分"
         },
         {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
