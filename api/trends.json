@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-17T12:24:17.747586+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-01-17T13:13:34.000415+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 119,
+      "match_count": 122,
       "titles": [
+        {
+          "title": "“重大转变”，加总理直说了：中国确实比美国更可靠",
+          "url": "https://news.ifeng.com/c/8pyAeFUhWg0",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 13时13分]"
+        },
         {
           "title": "日本网帖煽动对高考考生性骚扰",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=1&Refer=top",
@@ -31,20 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时13分 ~ 12时24分]"
-        },
-        {
-          "title": "“重大转变”，加总理直说了：中国确实比美国更可靠",
-          "url": "https://news.ifeng.com/c/8pyAeFUhWg0",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时11分 ~ 12时24分]"
+          "appearance_count": 14,
+          "time_info": "[03时13分 ~ 13时13分]"
         },
         {
           "title": "美联储主席人选生变，美国股债齐跌，美元走V收平，金银铜盘中跌",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时13分]"
         },
         {
           "title": "刘翔回应移民美国传言",
@@ -157,11 +157,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349276&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%21%E7%BE%8E%E5%9B%BDICE%E6%AF%92%E6%9D%80%E5%A9%B4%E5%84%BF",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时13分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -173,8 +174,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时13分]"
+        },
+        {
+          "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
+          "url": "https://www.zhihu.com/question/1995580476212082609",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时13分]"
         },
         {
           "title": "冰岛就美官员“第52个州”玩笑向美国讨说法",
@@ -189,17 +203,30 @@
           "time_info": "[00时16分 ~ 02时18分]"
         },
         {
-          "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/1995580476212082609",
-          "source": "知乎",
+          "title": "日本网帖煽动对高考考生性骚扰",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            4,
-            3
+            10,
+            20,
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时13分]"
+        },
+        {
+          "title": "委防长：美国袭击致委方47名官兵身亡",
+          "url": "https://www.toutiao.com/trending/7595828129412136979/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时13分]"
         },
         {
           "title": "国防企业York Space Systems寻求通过美国IPO融资5.44亿美元。",
@@ -252,29 +279,18 @@
           "time_info": "05时12分"
         },
         {
-          "title": "日本网帖煽动对高考考生性骚扰",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%BD%91%E5%B8%96%E7%85%BD%E5%8A%A8%E5%AF%B9%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E6%80%A7%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
+          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
+          "url": "https://wallstreetcn.com/livenews/3039061",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
+            4,
+            13,
             20,
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 12时24分]"
-        },
-        {
-          "title": "委防长：美国袭击致委方47名官兵身亡",
-          "url": "https://www.toutiao.com/trending/7595828129412136979/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时13分]"
         },
         {
           "title": "美媒：委代总统会见美国中情局局长",
@@ -289,6 +305,36 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时12分 ~ 08时53分]"
+        },
+        {
+          "title": "美国白宫考虑采取行政措施限制信用卡利率",
+          "url": "https://flash.jin10.com/detail/20260117081411929800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            21,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时13分]"
+        },
+        {
+          "title": "美国正加快扩大雪佛龙在委内瑞拉的石油经营许可授权",
+          "url": "https://flash.jin10.com/detail/20260117081100497800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16,
+            22,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时13分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月13日当周，投机者所持NYMEX WTI原油净多头头寸增加19,927手合约，至42,507手合约，创五个月新高。 所持布伦特和WTI原油净多头头寸增至235,199手合约，创17周新高。",
@@ -328,6 +374,33 @@
           "time_info": "[05时12分 ~ 08时53分]"
         },
         {
+          "title": "世卫组织：美国有权退出 但须缴纳欠费",
+          "url": "https://wallstreetcn.com/livenews/3039072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 13时13分]"
+        },
+        {
+          "title": "世卫组织：美国有权退出 但须缴纳欠费",
+          "url": "https://flash.jin10.com/detail/20260117101439876800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 13时13分]"
+        },
+        {
           "title": "美国电网运营商JPM提议，为支持电网可靠性提供后备方案。",
           "url": "https://wallstreetcn.com/livenews/3039040",
           "source": "华尔街见闻-快讯",
@@ -337,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美国商务部长：韩国存储芯片企业若不在美国投资，可能面临高达100%的关税",
+          "url": "https://wallstreetcn.com/livenews/3039083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，CBOT玉米投机客的净空头头寸增加了75,221手，至201,335手。",
@@ -350,19 +434,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时12分 ~ 08时53分]"
-        },
-        {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "url": "https://wallstreetcn.com/livenews/3039061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时24分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，CBOT小麦投机客的净空头头寸减少了4,073手，至105,576手。",
@@ -392,18 +463,6 @@
           "time_info": "[02时18分 ~ 05时12分]"
         },
         {
-          "title": "世卫组织：美国有权退出 但须缴纳欠费",
-          "url": "https://wallstreetcn.com/livenews/3039072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 12时24分]"
-        },
-        {
           "title": "美国1月16日当周石油钻井数 410，前值 409。",
           "url": "https://wallstreetcn.com/livenews/3038967",
           "source": "华尔街见闻-快讯",
@@ -429,20 +488,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "美国白宫考虑采取行政措施限制信用卡利率",
-          "url": "https://flash.jin10.com/detail/20260117081411929800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时24分]"
-        },
-        {
           "title": "美国1月16日当周天然气钻井数 122，前值 124。",
           "url": "https://wallstreetcn.com/livenews/3038966",
           "source": "华尔街见闻-快讯",
@@ -457,18 +502,18 @@
           "time_info": "[02时18分 ~ 05时12分]"
         },
         {
-          "title": "美国正加快扩大雪佛龙在委内瑞拉的石油经营许可授权",
-          "url": "https://flash.jin10.com/detail/20260117081100497800",
-          "source": "金十数据",
+          "title": "美国明尼苏达州发生天然气管道爆炸事故",
+          "url": "https://wallstreetcn.com/livenews/3039059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            16,
+            6,
+            15,
             22,
-            23
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时13分]"
         },
         {
           "title": "美国1月16日当周总钻井数 543，前值 544。",
@@ -485,17 +530,31 @@
           "time_info": "[02时18分 ~ 05时12分]"
         },
         {
-          "title": "世卫组织：美国有权退出 但须缴纳欠费",
-          "url": "https://flash.jin10.com/detail/20260117101439876800",
-          "source": "金十数据",
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            8
+            9,
+            18,
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时13分]"
+        },
+        {
+          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
+          "url": "https://www.cls.cn/detail/2261022",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 13时13分]"
         },
         {
           "title": "欧洲航空安全局：美国可能采取军事行动已使伊朗防空部队进入高度戒备状态，目前德黑兰飞行情报区发生误判的可能性正在上升。",
@@ -535,6 +594,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时14分 ~ 05时12分]"
+        },
+        {
+          "title": "中信证券：预计未来美国通胀进一步上行的压力可控",
+          "url": "https://flash.jin10.com/detail/20260117103512109800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 13时13分]"
         },
         {
           "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
@@ -587,18 +659,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时11分 ~ 10时46分]"
-        },
-        {
-          "title": "中信证券：预计未来美国通胀进一步上行的压力可控",
-          "url": "https://flash.jin10.com/detail/20260117103512109800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时24分]"
         },
         {
           "title": "美国财政部考虑按季度拍卖七年期国债。",
@@ -664,19 +724,6 @@
           "time_info": "[05时12分 ~ 08时53分]"
         },
         {
-          "title": "美国明尼苏达州发生天然气管道爆炸事故",
-          "url": "https://wallstreetcn.com/livenews/3039059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时24分]"
-        },
-        {
           "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
           "url": "https://flash.jin10.com/detail/20260117080610569800",
           "source": "金十数据",
@@ -704,6 +751,19 @@
           "time_info": "[05时12分 ~ 08时53分]"
         },
         {
+          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
+          "url": "https://wallstreetcn.com/livenews/3039067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 13时13分]"
+        },
+        {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
           "url": "https://flash.jin10.com/detail/20260117080445022800",
           "source": "金十数据",
@@ -718,29 +778,18 @@
           "time_info": "[08时53分 ~ 12时24分]"
         },
         {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
-          "source": "华尔街见闻-快讯",
+          "title": "美国公布加沙“和平委员会”成员名单",
+          "url": "https://flash.jin10.com/detail/20260117091811650800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            18,
-            25
+            8,
+            14,
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时24分]"
-        },
-        {
-          "title": "马杜罗之子：委内瑞拉应与美国建交并设立大使馆",
-          "url": "https://www.cls.cn/detail/2261022",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 12时24分]"
+          "time_info": "[10时46分 ~ 13时13分]"
         },
         {
           "title": "古巴国家主席：美国无法迫使古巴妥协",
@@ -755,16 +804,16 @@
           "time_info": "[08时52分 ~ 10时46分]"
         },
         {
-          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
-          "url": "https://wallstreetcn.com/livenews/3039067",
+          "title": "相当于两个美国！我国年用电量首超10万亿千瓦时",
+          "url": "https://wallstreetcn.com/livenews/3039076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            15
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时46分 ~ 12时24分]"
+          "time_info": "[11时51分 ~ 13时13分]"
         },
         {
           "title": "美国至1月16日当周天然气钻井总数 122口，前值124口。",
@@ -778,19 +827,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时13分]"
-        },
-        {
-          "title": "美国公布加沙“和平委员会”成员名单",
-          "url": "https://flash.jin10.com/detail/20260117091811650800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 12时24分]"
         },
         {
           "title": "美国马里兰州长Wes Moore：电网运营商PJM必须在电力价格拍卖之外采取更多行动。",
@@ -982,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时12分 ~ 07时11分]"
-        },
-        {
-          "title": "相当于两个美国！我国年用电量首超10万亿千瓦时",
-          "url": "https://wallstreetcn.com/livenews/3039076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时24分]"
         },
         {
           "title": "美联储理事鲍曼：美国经济一直具有韧性。",
@@ -1199,6 +1224,18 @@
           "time_info": "[06时12分 ~ 07时11分]"
         },
         {
+          "title": "美国想得到的格陵兰岛到底有什么",
+          "url": "https://www.toutiao.com/trending/7596158472471711283/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时13分]"
+        },
+        {
           "title": "美国财长贝森特谈及白宫顾问哈塞特不会去美联储，声称：这是总统特朗普的特权。 特朗普并没有告诉我“他自己对美联储主席人选的想法”。",
           "url": "https://wallstreetcn.com/livenews/3039021",
           "source": "华尔街见闻-快讯",
@@ -1267,6 +1304,17 @@
           "time_info": "11时51分"
         },
         {
+          "title": "在美国闲逛偶遇纽约市长",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%97%B2%E9%80%9B%E5%81%B6%E9%81%87%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "中方批日本加速推进再军事化",
           "url": "https://www.toutiao.com/trending/7595854571856216100/",
           "source": "今日头条",
@@ -1298,6 +1346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "世卫组织：美国有权退出但须缴纳欠费",
+          "url": "https://www.toutiao.com/trending/7595091654849118271/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
@@ -1410,17 +1469,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "美国想得到的格陵兰岛到底有什么",
-          "url": "https://www.toutiao.com/trending/7596158472471711283/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
           "title": "美国总统特朗普：可能对在格陵兰岛问题上持不同意见的国家征收关税。",
           "url": "https://flash.jin10.com/detail/20260116234042826800",
           "source": "金十数据",
@@ -1491,8 +1539,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 12时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时13分]"
         },
         {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
@@ -1540,8 +1588,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 12时24分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时13分]"
+        },
+        {
+          "title": "美政府推动科技巨头为AI用电买单",
+          "url": "https://flash.jin10.com/detail/20260117082311101800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            20,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时13分]"
         },
         {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
@@ -1557,18 +1620,18 @@
           "time_info": "[05时12分 ~ 08时53分]"
         },
         {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
+          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
+          "url": "https://wallstreetcn.com/livenews/3039057",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            14,
-            20,
-            21
+            8,
+            17,
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 13时13分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -1610,6 +1673,19 @@
           "time_info": "[02时18分 ~ 04时13分]"
         },
         {
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 13时13分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
           "url": "https://wallstreetcn.com/livenews/3038964",
           "source": "华尔街见闻-快讯",
@@ -1624,19 +1700,6 @@
           "time_info": "[02时18分 ~ 05时12分]"
         },
         {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时24分]"
-        },
-        {
           "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
           "url": "https://wallstreetcn.com/livenews/3039052",
           "source": "华尔街见闻-快讯",
@@ -1648,18 +1711,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时53分 ~ 12时24分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 12时24分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
