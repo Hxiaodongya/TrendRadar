@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:23:44.457433+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-01-18T22:11:07.466411+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时13分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时13分 ~ 22时11分]"
         },
         {
           "title": "加拿大总理：中国比美国更可靠可预测",
@@ -104,11 +104,12 @@
             10,
             8,
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时05分 ~ 21时23分]"
+          "appearance_count": 15,
+          "time_info": "[11时05分 ~ 22时11分]"
         },
         {
           "title": "以色列总理公开叫板美国",
@@ -197,8 +198,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时05分 ~ 21时23分]"
+          "appearance_count": 15,
+          "time_info": "[11时05分 ~ 22时11分]"
         },
         {
           "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
@@ -215,8 +216,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时59分 ~ 21时23分]"
+          "appearance_count": 16,
+          "time_info": "[08时59分 ~ 22时11分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -265,11 +266,12 @@
             9,
             11,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 21时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 22时11分]"
         },
         {
           "title": "芬兰总统：美国应通过对话解决分歧",
@@ -316,11 +318,12 @@
             12,
             13,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 21时23分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 22时11分]"
         },
         {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
@@ -613,17 +616,6 @@
           "time_info": "15时13分"
         },
         {
-          "title": "下周重要事件与数据预告：中国GDP/社零/LPR、美国PCE、达沃斯论坛、日央行议息",
-          "url": "https://flash.jin10.com/detail/20260118210049250800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "东部战区回应美舰艇过航台湾海峡",
           "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E8%89%87%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
@@ -692,6 +684,20 @@
           "time_info": "08时59分"
         },
         {
+          "title": "警惕！美媒：卫星图像揭露日本“出云”级舰艇“航母化”改造最新进展",
+          "url": "https://wallstreetcn.com/livenews/3039238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时10分 ~ 22时11分]"
+        },
+        {
           "title": "据华盛顿邮报：美国国防部官员表示，美国国防部已下令约1500名现役军人做好前往明尼苏达州执行任务的准备。",
           "url": "https://flash.jin10.com/detail/20260118131718912800",
           "source": "金十数据",
@@ -706,17 +712,17 @@
           "time_info": "[14时17分 ~ 17时12分]"
         },
         {
-          "title": "警惕！美媒：卫星图像揭露日本“出云”级舰艇“航母化”改造最新进展",
-          "url": "https://wallstreetcn.com/livenews/3039238",
-          "source": "华尔街见闻-快讯",
+          "title": "德国财政部长：欧洲必须作出明确而统一的回应，这一立场必须向美国清晰传达。",
+          "url": "https://flash.jin10.com/detail/20260118194000438800",
+          "source": "金十数据",
           "ranks": [
             1,
-            15,
-            23
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时10分 ~ 21时23分]"
+          "time_info": "[20时20分 ~ 22时11分]"
         },
         {
           "title": "俄历史学家评估美国因格陵兰问题直接军事干预的可能性",
@@ -745,6 +751,19 @@
           "time_info": "[17时12分 ~ 19时10分]"
         },
         {
+          "title": "德国财政部长谈特朗普关税威胁：这一点我们无法认同，不会接受胁迫。我们始终愿向美国伸出合作之手，期待共同寻求解决方案。",
+          "url": "https://flash.jin10.com/detail/20260118193942749800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时11分]"
+        },
+        {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
           "url": "https://flash.jin10.com/detail/20260118081338309800",
           "source": "金十数据",
@@ -771,16 +790,16 @@
           "time_info": "[18时12分 ~ 20时20分]"
         },
         {
-          "title": "德国财政部长：欧洲必须作出明确而统一的回应，这一立场必须向美国清晰传达。",
-          "url": "https://flash.jin10.com/detail/20260118194000438800",
+          "title": "下周重要事件与数据预告：中国GDP/社零/LPR、美国PCE、达沃斯论坛、日央行议息",
+          "url": "https://flash.jin10.com/detail/20260118210049250800",
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时23分]"
+          "time_info": "[21时23分 ~ 22时11分]"
         },
         {
           "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
@@ -794,18 +813,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 12时35分]"
-        },
-        {
-          "title": "德国财政部长谈特朗普关税威胁：这一点我们无法认同，不会接受胁迫。我们始终愿向美国伸出合作之手，期待共同寻求解决方案。",
-          "url": "https://flash.jin10.com/detail/20260118193942749800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时23分]"
         },
         {
           "title": "以色列总理办公室：美国宣布加沙执行委员会隶属于和平委员会的决定未经与以色列协调，且与以色列政策相悖。以色列将向美国国务卿提出此事。",
@@ -953,6 +960,19 @@
           "time_info": "[16时15分 ~ 18时12分]"
         },
         {
+          "title": "日本政界人士：政府官员“日本拥核”言论完全不可接受",
+          "url": "https://wallstreetcn.com/livenews/3039243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时11分]"
+        },
+        {
           "title": "俄乌战争还要持续多久",
           "url": "https://www.toutiao.com/trending/7596540133029973567/",
           "source": "今日头条",
@@ -1003,6 +1023,18 @@
           "time_info": "[08时59分 ~ 11时05分]"
         },
         {
+          "title": "巴基斯坦外交部发言人：巴基斯坦总理已收到美国总统关于加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118202111286800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时11分]"
+        },
+        {
           "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
           "url": "https://flash.jin10.com/detail/20260118080920006800",
           "source": "金十数据",
@@ -1013,18 +1045,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 11时05分]"
-        },
-        {
-          "title": "日本政界人士：政府官员“日本拥核”言论完全不可接受",
-          "url": "https://wallstreetcn.com/livenews/3039243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时23分]"
         },
         {
           "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
@@ -1071,17 +1091,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "巴基斯坦外交部发言人：巴基斯坦总理已收到美国总统关于加入加沙和平委员会的邀请。",
-          "url": "https://flash.jin10.com/detail/20260118202111286800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
         },
         {
           "title": "瑞典首相：绝不允许美国“勒索”",
@@ -1178,33 +1187,6 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 21时23分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 21时23分]"
-        },
-        {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
@@ -1216,8 +1198,35 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时12分 ~ 21时23分]"
+          "appearance_count": 9,
+          "time_info": "[17时12分 ~ 22时11分]"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时35分 ~ 22时11分]"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时35分 ~ 22时11分]"
         },
         {
           "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
@@ -1286,6 +1295,19 @@
           "time_info": "[12时35分 ~ 17时12分]"
         },
         {
+          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
+          "url": "https://wallstreetcn.com/livenews/3039251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时11分]"
+        },
+        {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
           "url": "https://wallstreetcn.com/livenews/3039234",
           "source": "华尔街见闻-快讯",
@@ -1309,18 +1331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 11时05分]"
-        },
-        {
-          "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
-          "url": "https://wallstreetcn.com/livenews/3039251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时23分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
