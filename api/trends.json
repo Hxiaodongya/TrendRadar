@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T02:15:44.027086+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-01-19T03:09:58.695954+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国童星疑闯红灯被拖行致死",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
           "url": "https://m.thepaper.cn/newsDetail_forward_32409469",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "白宫经济顾问哈塞特：美国总统特朗普关于“白宫是我最好的去处”的说法可能是正确的。 特朗普说他希望我继续担任助理， 不相信特朗普已经针对美联储主席人选做出了最终决定。 特朗普还没有就住房支持（措施）做最终决定。 特朗普将购房速度放慢归咎于更高的首付款。",
@@ -41,15 +42,37 @@
           "time_info": "01时10分"
         },
         {
-          "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
-          "url": "https://wallstreetcn.com/livenews/3039294",
+          "title": "欧盟准备（货值）930亿欧元关税方案，来反制美国总统特朗普借口格陵兰问题发出的关税威胁。 上周日，欧盟27个成员国的大使们讨论了对特朗普关税威胁的反制方案。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3039301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "英镑兑美元报价跌0.3%，投资者关注美国总统特朗普（在吞并格陵兰方面）对欧洲多国发出的关税威胁。",
+          "url": "https://wallstreetcn.com/livenews/3039298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
+          "url": "https://wallstreetcn.com/livenews/3039297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。 美联储拥有神奇的资金，为何不进行一些监管呢？ 或许市场希望从美联储获得一些政策透明度。 我们有四位出色的美联储主席候选人。 认为参议院会满意于这四位候选人的任何一位当选。 参议院银行委员会即将就美联储人选发表意见。 市场对司法部调查美联储事件未予过度关注。",
@@ -58,11 +81,24 @@
           "ranks": [
             5,
             8,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
+        },
+        {
+          "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
+          "url": "https://wallstreetcn.com/livenews/3039294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时09分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -70,11 +106,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时09分]"
         },
         {
           "title": "增长幻象下的民生之困：解析美国“斩杀线”的成因链",
@@ -85,8 +122,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国因格陵兰岛问题对欧洲8国加征关税 多国回应：不可接受",
@@ -96,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国宾夕法尼亚州比弗县阿姆布里奇发生一起枪击案，造成2人死亡。目前警方仍在现场调查。",
@@ -107,8 +144,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
@@ -117,11 +154,12 @@
           "ranks": [
             6,
             9,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "意大利总理梅洛尼：向反对美国得到格陵兰岛的欧洲国家加征关税是一个错误。",
@@ -131,8 +169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
@@ -142,8 +180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国财长贝森特：最高法院推翻特朗普关税的可能性不大。",
@@ -153,8 +191,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国财长贝森特：我们将继续留在北约。",
@@ -164,8 +202,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "两代弄潮儿：谁在书写美国的财政规则？",
@@ -177,8 +215,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国财长贝森特：与欧盟的贸易协定尚未敲定。特朗普拥有动用关税的紧急权力。",
@@ -188,8 +226,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "美国财长贝森特：格陵兰岛对美国国家安全至关重要。美国必须控制该岛。特朗普在这一问题上的做法具有战略考量。",
@@ -199,8 +237,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -211,8 +249,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "彻底失控!美国ICE毒杀婴儿",
@@ -223,8 +261,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "下周重要事件与数据预告：中国GDP/社零/LPR、美国PCE、达沃斯论坛、日央行议息",
@@ -234,8 +272,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -245,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时09分]"
         },
         {
           "title": "马杜罗政府实权人物被曝曾长期与美国接触",
@@ -254,11 +292,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时09分]"
         },
         {
           "title": "世界周刊谈美国收紧移民政策",
@@ -266,11 +305,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时09分]"
         },
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
@@ -281,30 +321,43 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时09分]"
         },
         {
           "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
           "url": "https://wallstreetcn.com/livenews/3039289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时09分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
           "url": "https://wallstreetcn.com/livenews/3039287",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时09分]"
+        },
+        {
+          "title": "伊朗总统：袭击最高领袖等同“发动全面战争”",
+          "url": "https://wallstreetcn.com/livenews/3039296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "03时09分"
         }
       ]
     },
@@ -320,8 +373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -331,8 +384,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -351,11 +404,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时15分 ~ 03时09分]"
         }
       ]
     }
