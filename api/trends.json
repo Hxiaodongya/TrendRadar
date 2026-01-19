@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T08:58:58.251910+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-01-19T11:05:18.548683+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 57,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
@@ -42,11 +42,12 @@
             7,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 08时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 11时05分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -110,11 +111,12 @@
             18,
             19,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 08时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 11时05分]"
         },
         {
           "title": "两代弄潮儿：谁在书写美国的财政规则？",
@@ -127,8 +129,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 11时05分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -136,11 +138,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 11时05分]"
         },
         {
           "title": "彻底失控!美国ICE毒杀婴儿",
@@ -148,11 +151,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 11时05分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -183,6 +187,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时11分]"
+        },
+        {
+          "title": "“美国佬，滚回家！”",
+          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 11时05分]"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -300,17 +315,6 @@
           "time_info": "[00时13分 ~ 05时11分]"
         },
         {
-          "title": "“美国佬，滚回家！”",
-          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
           "title": "唐宁街：英国首相斯塔默与丹麦首相、欧盟委员会主席冯德莱恩、美国总统特朗普等国际领导人对话。 斯塔姆重申自己在格陵兰问题上的立场。 特朗普对北约盟友们发出关税威胁的做法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3039305",
           "source": "华尔街见闻-快讯",
@@ -356,7 +360,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -367,7 +371,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -494,6 +498,18 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
+          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
+          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 11时05分]"
+        },
+        {
           "title": "复兴欧洲党团呼吁欧盟启用反胁迫工具应对美国关税施压",
           "url": "https://flash.jin10.com/detail/20260119051019435800",
           "source": "金十数据",
@@ -578,13 +594,36 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 11时05分]"
+        },
+        {
+          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
+          "url": "https://wallstreetcn.com/articles/3763553",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
           "title": "10年期日本国债收益率升至2.215%，创1999年2月以来新高。",
           "url": "https://flash.jin10.com/detail/20260119082228138800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -600,15 +639,37 @@
           "time_info": "07时11分"
         },
         {
-          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
-          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
-          "source": "凤凰网",
+          "title": "日经225指数早盘收跌1%，报53412.88点。日本东证指数早盘收跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3039471",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "11时05分"
+        },
+        {
+          "title": "因设备警报设置错误 日本最大核电站机组将延期启动",
+          "url": "https://flash.jin10.com/detail/20260119104424858800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "人民日报评美国“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7596857185708019206/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         },
         {
           "title": "美国天然气期货盘初一度大涨超14%，现涨幅收窄至11%。",
@@ -617,7 +678,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -628,7 +689,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -639,9 +700,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：对美国在格陵兰问题上的举动不予置评。正在密切关注事态发展，将适时作出适当应对。",
+          "url": "https://wallstreetcn.com/livenews/3039458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         },
         {
           "title": "日本SEVEN & I 股价上涨3.7%，此前有报道称日本自民党正在考虑暂停征收食品税。",
@@ -650,9 +722,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "据日本放送协会NHK：东京电力公司将推迟重启柏崎刈羽核电站。",
+          "url": "https://flash.jin10.com/detail/20260119102634231800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "日本反对党官员称可永久取消食品消费税",
+          "url": "https://flash.jin10.com/detail/20260119101354097800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         },
         {
           "title": "日本11月核心机械订单年率 -6.4%，预期4.9%，前值12.50%。",
@@ -661,7 +755,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -672,20 +766,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
         {
-          "title": "伊朗总统：袭击最高领袖等同全面战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "title": "美国童星疑闯红灯被拖行致死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AB%A5%E6%98%9F%E7%96%91%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB",
           "source": "百度热搜",
           "ranks": [
-            26
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "11时05分"
         },
         {
           "title": "日本11月核心机械订单环比 -11%，预期 -6.4%，前值 7%。",
@@ -694,7 +788,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -705,9 +799,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "日本30年期国债收益率上升10个基点至3.58%。",
+          "url": "https://wallstreetcn.com/livenews/3039418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时05分"
         }
       ]
     },
@@ -723,8 +828,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 11时05分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -734,8 +839,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 11时05分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -781,7 +886,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -803,7 +908,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -814,7 +919,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         }
