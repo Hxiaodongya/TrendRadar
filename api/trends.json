@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T05:12:00.604916+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-01-20T06:12:51.835705+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,25 @@
           "url": "https://wallstreetcn.com/articles/3763553",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "日本迎半世纪来首次零熊猫",
@@ -26,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时12分]"
         },
         {
           "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
@@ -35,11 +49,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时12分]"
         },
         {
           "title": "人民日报评美国斩杀线",
@@ -52,20 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "台湾博主柳杰克：两岸终将走向统一",
@@ -75,11 +78,12 @@
             2,
             1,
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时12分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -89,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "圆脸评美国对欧洲8国加税",
@@ -100,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "美国近7成流浪汉曾是中产",
@@ -114,8 +118,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "日本政府统计数据：去年12月赴日中国游客同比下降40%",
@@ -129,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "人民日报评美国“斩杀线”",
@@ -142,11 +146,12 @@
             25,
             18,
             20,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "古巴启动“战争状态”",
@@ -156,11 +161,12 @@
             12,
             11,
             10,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
@@ -170,8 +176,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
@@ -182,8 +188,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "美财长：欧洲太软弱，格陵兰岛只有属于美国才对大家都好",
@@ -193,8 +199,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "中国无意与美国搞“中美共治”",
@@ -204,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 05时12分]"
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 06时12分]"
         },
         {
           "title": "美国主播力挺牢A",
@@ -215,11 +221,12 @@
             19,
             20,
             25,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "联合国秘书长：美国正肆无忌惮行事",
@@ -230,8 +237,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 06时12分]"
         },
         {
           "title": "日本新政党“中道改革联合”发布政纲，坚持“无核三原则”",
@@ -241,19 +248,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时18分 ~ 05时12分]"
-        },
-        {
-          "title": "委内瑞拉“反对派”人士Machado：希望委内瑞拉成为美国“最坚定的”盟友。",
-          "url": "https://wallstreetcn.com/livenews/3039919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "appearance_count": 7,
+          "time_info": "[02时18分 ~ 06时12分]"
         },
         {
           "title": "芬兰总统斯图布：在我看来，芬兰与美国的双边关系比以往任何时候都更加牢固。",
@@ -320,6 +316,19 @@
           "time_info": "[03时13分 ~ 05时12分]"
         },
         {
+          "title": "美国地质勘探局（USGS）：菲律宾桑盖西南偏西32公里发生5.3级地震。",
+          "url": "https://wallstreetcn.com/livenews/3039906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时12分]"
+        },
+        {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
           "url": "https://flash.jin10.com/detail/20260120000400334800",
           "source": "金十数据",
@@ -332,24 +341,24 @@
           "time_info": "[00时17分 ~ 01时16分]"
         },
         {
+          "title": "委内瑞拉“反对派”人士Machado：希望委内瑞拉成为美国“最坚定的”盟友。",
+          "url": "https://wallstreetcn.com/livenews/3039919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥周一与沙特外交大臣通电话，谈论伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260120031631993800",
           "source": "金十数据",
           "ranks": [
             5,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
-        },
-        {
-          "title": "美国地质勘探局（USGS）：菲律宾桑盖西南偏西32公里发生5.3级地震。",
-          "url": "https://wallstreetcn.com/livenews/3039906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -379,6 +388,19 @@
           "time_info": "[00时16分 ~ 01时16分]"
         },
         {
+          "title": "沙特外交大臣与美国国务卿讨论地区局势。（沙特SPA）",
+          "url": "https://wallstreetcn.com/livenews/3039905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时12分]"
+        },
+        {
           "title": "“斩杀线”：美国民生的残酷真相",
           "url": "https://news.ifeng.com/c/8q3AgQAtIiS",
           "source": "凤凰网",
@@ -401,16 +423,16 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
-          "title": "沙特外交大臣与美国国务卿讨论地区局势。（沙特SPA）",
-          "url": "https://wallstreetcn.com/livenews/3039905",
+          "title": "摩洛哥外交部：摩洛哥将加入美国总统特朗普所谓的“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
+            8,
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
+          "time_info": "[05时12分 ~ 06时12分]"
         },
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
@@ -422,6 +444,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
+          "url": "https://flash.jin10.com/detail/20260120035612237800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
         },
         {
           "title": "丹麦国防部长：丹麦和格陵兰岛坚持与美国开展对话。",
@@ -448,6 +482,18 @@
           "time_info": "[03时13分 ~ 04时14分]"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：在达沃斯，我会见了美国国会的两党代表团。我们讨论了为在乌克兰实现公正持久和平所做的共同努力。",
+          "url": "https://flash.jin10.com/detail/20260120034124185800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时12分]"
+        },
+        {
           "title": "古巴启动“战争状态”",
           "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
           "source": "百度热搜",
@@ -459,28 +505,6 @@
           "time_info": "[04时13分 ~ 04时14分]"
         },
         {
-          "title": "摩洛哥外交部：摩洛哥将加入美国总统特朗普所谓的“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3039914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
-          "url": "https://flash.jin10.com/detail/20260120035612237800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
           "url": "https://flash.jin10.com/detail/20260119235643384800",
           "source": "金十数据",
@@ -490,17 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：在达沃斯，我会见了美国国会的两党代表团。我们讨论了为在乌克兰实现公正持久和平所做的共同努力。",
-          "url": "https://flash.jin10.com/detail/20260120034124185800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
         },
         {
           "title": "法国计划周三召集G7会议，讨论美国关税威胁",
@@ -605,7 +618,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "李稻葵：马斯克的预言是“AI乌托邦”",
@@ -617,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -636,11 +660,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时12分]"
+        },
+        {
+          "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
+          "url": "https://wallstreetcn.com/livenews/3039907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时12分]"
         },
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
@@ -654,18 +692,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时14分]"
-        },
-        {
-          "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
-          "url": "https://wallstreetcn.com/livenews/3039907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
