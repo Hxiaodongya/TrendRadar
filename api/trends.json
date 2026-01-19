@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-19T20:24:59.786863+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-01-19T21:39:11.106042+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 161,
+      "match_count": 175,
       "titles": [
+        {
+          "title": "被日本掠夺的唐碑重宝，理应归还中国！",
+          "url": "https://news.ifeng.com/c/8q2bh2k8wQo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时22分 ~ 21时39分]"
+        },
         {
           "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
           "url": "https://m.thepaper.cn/newsDetail_forward_32409469",
@@ -44,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 20时24分]"
+          "appearance_count": 16,
+          "time_info": "[08时58分 ~ 21时39分]"
         },
         {
           "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
@@ -57,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时05分 ~ 20时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时05分 ~ 21时39分]"
         },
         {
           "title": "“美国佬，滚回家！”",
@@ -70,20 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 20时24分]"
-        },
-        {
-          "title": "被日本掠夺的唐碑重宝，理应归还中国！",
-          "url": "https://news.ifeng.com/c/8q2bh2k8wQo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 20时24分]"
+          "appearance_count": 16,
+          "time_info": "[08时58分 ~ 21时39分]"
         },
         {
           "title": "马杜罗政府实权人物被曝曾长期与美国接触",
@@ -132,6 +132,18 @@
           "time_info": "[01时10分 ~ 18时18分]"
         },
         {
+          "title": "日本专家：高市解散众议院缺乏正当性，或严重影响民生",
+          "url": "https://news.ifeng.com/c/8q2Yk0W0b2I",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时23分 ~ 21时39分]"
+        },
+        {
           "title": "增长幻象下的民生之困：解析美国“斩杀线”的成因链",
           "url": "https://news.ifeng.com/c/8q10rzeaW5e",
           "source": "凤凰网",
@@ -171,8 +183,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时10分 ~ 20时24分]"
+          "appearance_count": 25,
+          "time_info": "[01时10分 ~ 21时39分]"
+        },
+        {
+          "title": "人民日报评美国斩杀线",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 21时39分]"
         },
         {
           "title": "两代弄潮儿：谁在书写美国的财政规则？",
@@ -220,28 +244,20 @@
           "time_info": "[00时13分 ~ 13时24分]"
         },
         {
-          "title": "日本专家：高市解散众议院缺乏正当性，或严重影响民生",
-          "url": "https://news.ifeng.com/c/8q2Yk0W0b2I",
-          "source": "凤凰网",
+          "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413494",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
+            16,
+            14,
+            12,
+            15,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时23分 ~ 20时24分]"
-        },
-        {
-          "title": "人民日报评美国斩杀线",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时24分]"
+          "time_info": "[16时20分 ~ 21时39分]"
         },
         {
           "title": "美国童星疑闯红灯被拖行致死",
@@ -269,6 +285,32 @@
           "time_info": "[18时18分 ~ 19时15分]"
         },
         {
+          "title": "人民日报评美国“斩杀线”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 21时39分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 21时39分]"
+        },
+        {
           "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
           "source": "澎湃新闻",
@@ -281,21 +323,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时43分 ~ 16时21分]"
-        },
-        {
-          "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413494",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 20时24分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -326,6 +353,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 05时11分]"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于23日解散众议院",
+          "url": "https://www.cls.cn/detail/2262332",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 21时39分]"
+        },
+        {
+          "title": "高市解散众议院,豪赌日本国运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349377&amp;topic_name=%E9%AB%98%E5%B8%82%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2%2C%E8%B1%AA%E8%B5%8C%E6%97%A5%E6%9C%AC%E5%9B%BD%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
@@ -426,7 +477,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -462,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
+          "url": "https://wallstreetcn.com/livenews/3039789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "意大利总理梅洛尼：向反对美国得到格陵兰岛的欧洲国家加征关税是一个错误。",
@@ -584,32 +646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "人民日报评美国“斩杀线”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时24分]"
-        },
-        {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时24分]"
         },
         {
           "title": "华泰宏观：如果美国对北约成员加征关税",
@@ -988,18 +1024,6 @@
           "time_info": "[12时43分 ~ 14时23分]"
         },
         {
-          "title": "日本首相高市早苗宣布将于23日解散众议院",
-          "url": "https://www.cls.cn/detail/2262332",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时24分]"
-        },
-        {
           "title": "日本11月设备利用指数环比 -5.3%，前值 3.3%。",
           "url": "https://wallstreetcn.com/livenews/3039519",
           "source": "华尔街见闻-快讯",
@@ -1036,6 +1060,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时05分 ~ 12时44分]"
+        },
+        {
+          "title": "古巴启动“战争状态”",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时39分]"
         },
         {
           "title": "复兴欧洲党团呼吁欧盟启用反胁迫工具应对美国关税施压",
@@ -1134,6 +1170,18 @@
           "time_info": "[17时24分 ~ 18时18分]"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 21时39分]"
+        },
+        {
           "title": "一名欧盟外交官表示，价值930亿欧元的针对美国商品的报复性关税将于2月6日自动生效。",
           "url": "https://flash.jin10.com/detail/20260119041306444800",
           "source": "金十数据",
@@ -1194,6 +1242,29 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "高盛：美国最新关税威胁对欧洲经济冲击料有限 其中德国恐受最大影响",
+          "url": "https://wallstreetcn.com/livenews/3039741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 21时39分]"
+        },
+        {
+          "title": "如何看待日本 20 年期国债收益率升至 3.165% 创历史新高？将对全球金融市场产生哪些「蝴蝶效应」？",
+          "url": "https://www.zhihu.com/question/1994713115321995889",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
           "title": "日本全家便利店宣布换帅",
           "url": "https://www.toutiao.com/trending/7596910561037795369/",
           "source": "今日头条",
@@ -1218,6 +1289,28 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "联合国秘书长：美国正肆无忌惮行事",
+          "url": "https://www.toutiao.com/trending/7596157489122820102/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
+          "title": "最后两只旅日大熊猫27日离开日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%90%8E%E4%B8%A4%E5%8F%AA%E6%97%85%E6%97%A5%E5%A4%A7%E7%86%8A%E7%8C%AB27%E6%97%A5%E7%A6%BB%E5%BC%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
           "title": "美媒赞叹中国发电量超美国两倍",
           "url": "https://www.toutiao.com/trending/7596955822488292907/",
           "source": "今日头条",
@@ -1227,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "美国斩杀线惨状",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%83%A8%E7%8A%B6&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "10年期日本国债收益率升至2.215%，创1999年2月以来新高。",
@@ -1361,17 +1465,6 @@
           "time_info": "18时18分"
         },
         {
-          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3039755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
           "title": "日本在野党联盟中道改革联合：将推动针对灾害救援和基础设施的定向投资。通过设立日本主权财富基金所创造的收入来取消食品销售的消费税。",
           "url": "https://flash.jin10.com/detail/20260119124223462800",
           "source": "金十数据",
@@ -1455,7 +1548,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1482,6 +1575,17 @@
           "time_info": "14时23分"
         },
         {
+          "title": "德国总理默茨：北约伙伴国必须采取更多措施确保北极安全。 贸易关税威胁损害跨大西洋关系。 新的关税带来局势升级的风险，损害消费者利益。 欧盟将审慎回应美国最新的关税威胁。 德国经济尚未真正加速。 德国及其欧盟盟友决心避免关税升级。 欧盟和德国必要时将捍卫自身利益。 我们不希望爆发贸易战，但如有必要可以采取行动。 我们将寻求解决方案，以避免增加关税负担。",
+          "url": "https://wallstreetcn.com/livenews/3039771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "日本央行12月季度调查：日本家庭中，86.0%预计一年后物价将上涨，上一次调查为88.0%。83.0%的日本家庭预计五年后物价将上涨，高于上一次调查的84.8%。日本家庭预计从现在起一年后通胀率平均将上升11.6%，中位数为10.0%。日本家庭预计五年后通胀率平均将上升9.8%，中位数为5.0%。",
           "url": "https://flash.jin10.com/detail/20260119123459727800",
           "source": "金十数据",
@@ -1499,9 +1603,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "美国天然气期货日内暴涨15.00%，现报3.569美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260119211834183800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "日本SEVEN & I 股价上涨3.7%，此前有报道称日本自民党正在考虑暂停征收食品税。",
@@ -1565,7 +1680,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -1612,17 +1727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
-        },
-        {
-          "title": "高盛：美国最新关税威胁对欧洲经济冲击料有限 其中德国恐受最大影响",
-          "url": "https://wallstreetcn.com/livenews/3039741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "日本10年期国债收益率升至2.240%。",
@@ -1678,6 +1782,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "德国总理默茨：北约理事会已讨论了前往格陵兰岛的侦察任务，因此美国不可能感到意外。",
+          "url": "https://flash.jin10.com/detail/20260119211038312800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "英国首相喊话美国：贸易战不符合任何一方利益",
@@ -1768,6 +1883,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "德国化学工业协会：欧盟与美国之间的关税螺旋式升级将在欧洲和美国都造成高昂的经济成本。",
+          "url": "https://flash.jin10.com/detail/20260119210744336800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "日本11月核心机械订单月率 -11%，预期-5.1%，前值7.00%。",
           "url": "https://flash.jin10.com/detail/20260119075002652800",
           "source": "金十数据",
@@ -1790,6 +1916,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "德国化学工业协会：欧盟对美国关税的回应应保持一致、坚定且全面应对。",
+          "url": "https://flash.jin10.com/detail/20260119210736417800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "俄罗斯总统普京的特使Dmitriev本周将前往达沃斯，Dmitriev将在达沃斯与美国代表团会晤。（路透）",
           "url": "https://wallstreetcn.com/livenews/3039696",
           "source": "华尔街见闻-快讯",
@@ -1799,17 +1936,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
-        },
-        {
-          "title": "古巴启动“战争状态”",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "英国首相斯塔默：我们不应在美国和欧洲之间做出选择。",
@@ -1823,6 +1949,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "德国化学品游说团体VCI：欧盟与美国之间的关税螺旋式升级将在欧洲和美国都造成高昂的经济成本。",
+          "url": "https://flash.jin10.com/detail/20260119210711885800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "英国首相斯塔默：核威慑要求我们与美国保持良好关系。",
           "url": "https://flash.jin10.com/detail/20260119173703295800",
           "source": "金十数据",
@@ -1834,6 +1971,17 @@
           "time_info": "18时18分"
         },
         {
+          "title": "德国总理默茨：我与马克龙密切协调；法国受美国关税打击更重，我理解采取更强硬立场的必要性。",
+          "url": "https://flash.jin10.com/detail/20260119210223200800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "英国首相斯塔默：毫无疑问，未来几天将再次与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260119173510782800",
           "source": "金十数据",
@@ -1843,6 +1991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "德国总理默茨：我们知道，美国总统特朗普威胁要征收关税，但谈判也促使他放弃实施这些关税。这一直是我的策略，我将继续坚持这一策略。",
+          "url": "https://flash.jin10.com/detail/20260119210126922800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "日本首相高市早苗：执政党正瞄准多数席位。",
@@ -1936,7 +2095,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -2024,6 +2183,18 @@
           "time_info": "[05时11分 ~ 07时11分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 21时39分]"
+        },
+        {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
           "url": "https://wallstreetcn.com/livenews/3039528",
           "source": "华尔街见闻-快讯",
@@ -2084,6 +2255,28 @@
           "time_info": "[17时24分 ~ 18时18分]"
         },
         {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
           "title": "Grok要开始认真在AI编程上发力了吗",
           "url": "https://www.toutiao.com/trending/7596935030992014875/",
           "source": "今日头条",
@@ -2105,6 +2298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时10分]"
+        },
+        {
+          "title": "如何评价荣耀Magic8ProAir",
+          "url": "https://www.douyin.com/hot/2373059",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -2152,6 +2356,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "荣耀Magic 8 Pro Air 售价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3039775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "AI算力竞赛的关键是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E7%AB%9E%E8%B5%9B%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -2161,17 +2376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
-        },
-        {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         },
         {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
