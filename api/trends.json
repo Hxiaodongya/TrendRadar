@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T11:05:18.548683+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-01-19T12:44:20.660528+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 66,
+      "match_count": 83,
       "titles": [
         {
           "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
@@ -46,8 +46,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 11时05分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 12时44分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -74,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 08时58分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 12时44分]"
         },
         {
           "title": "增长幻象下的民生之困：解析美国“斩杀线”的成因链",
@@ -115,8 +115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 11时05分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 12时44分]"
         },
         {
           "title": "两代弄潮儿：谁在书写美国的财政规则？",
@@ -129,8 +129,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 11时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 12时44分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -139,11 +139,12 @@
           "ranks": [
             18,
             19,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 11时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 12时44分]"
         },
         {
           "title": "彻底失控!美国ICE毒杀婴儿",
@@ -152,11 +153,23 @@
           "ranks": [
             21,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 11时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 12时44分]"
+        },
+        {
+          "title": "“美国佬，滚回家！”",
+          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时44分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -189,17 +202,6 @@
           "time_info": "[00时13分 ~ 05时11分]"
         },
         {
-          "title": "“美国佬，滚回家！”",
-          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时05分]"
-        },
-        {
           "title": "欧元兑美元报价跌0.1%，此前美国总统特朗普围绕格陵兰问题向欧洲八个国家发出关税威胁。",
           "url": "https://wallstreetcn.com/livenews/3039294",
           "source": "华尔街见闻-快讯",
@@ -226,6 +228,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时11分]"
+        },
+        {
+          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
+          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时44分]"
         },
         {
           "title": "美国财长贝森特：欧美贸易协议尚未达成最终协议。 特朗普拥有使用关税的紧急权力。 特朗普在处理格陵兰问题时采取了“策略性”的做法。 我们将继续留在北约内。 最高法院不大可能推翻特朗普的关税政策。",
@@ -267,6 +281,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时09分 ~ 07时11分]"
+        },
+        {
+          "title": "日本11月工业产出月率终值 -2.7%，前值-2.60%。",
+          "url": "https://flash.jin10.com/detail/20260119123110432800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "白宫经济顾问哈塞特：美国总统特朗普关于“白宫是我最好的去处”的说法可能是正确的。 特朗普说他希望我继续担任助理， 不相信特朗普已经针对美联储主席人选做出了最终决定。 特朗普还没有就住房支持（措施）做最终决定。 特朗普将购房速度放慢归咎于更高的首付款。",
@@ -315,6 +340,28 @@
           "time_info": "[00时13分 ~ 05时11分]"
         },
         {
+          "title": "日本11月设备利用指数月率 -5.3%，前值3.30%。",
+          "url": "https://flash.jin10.com/detail/20260119123057834800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本央行调查：日本家庭平均预期未来一年通胀率为11.6%，预估中值为10.0%。 日本家庭平均预期未来五年通胀率10.0%，预估中值为5.0%。",
+          "url": "https://wallstreetcn.com/livenews/3039525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "唐宁街：英国首相斯塔默与丹麦首相、欧盟委员会主席冯德莱恩、美国总统特朗普等国际领导人对话。 斯塔姆重申自己在格陵兰问题上的立场。 特朗普对北约盟友们发出关税威胁的做法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3039305",
           "source": "华尔街见闻-快讯",
@@ -341,6 +388,29 @@
           "time_info": "[04时13分 ~ 07时11分]"
         },
         {
+          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
+          "url": "https://wallstreetcn.com/articles/3763553",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时05分 ~ 12时44分]"
+        },
+        {
+          "title": "日本11月工业产出年率终值 -2.2%，前值-2.10%。",
+          "url": "https://flash.jin10.com/detail/20260119123047545800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "以色列总理办公室：总理内塔尼亚胡会见美国证券交易委员会（SEC）主席Paul Atkins。 双方讨论了监管重叠问题。 围绕证券登记注册讨论了新的路径。",
           "url": "https://wallstreetcn.com/livenews/3039302",
           "source": "华尔街见闻-快讯",
@@ -352,6 +422,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时13分 ~ 07时11分]"
+        },
+        {
+          "title": "日本11月第三产业活动指数月率 -0.2%，前值0.90%。",
+          "url": "https://flash.jin10.com/detail/20260119123034842800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "台湾证交所加权股价指数上涨1%至31,737.20点。",
+          "url": "https://wallstreetcn.com/livenews/3039523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "欧盟报复美国",
@@ -374,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "日本11月第三产业活动指数环比 -0.2%，预期 0%，前值 0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3039522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "伊朗总统：袭击最高领袖等同“发动全面战争”",
@@ -498,16 +601,41 @@
           "time_info": "[06时11分 ~ 07时11分]"
         },
         {
-          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
-          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
-          "source": "凤凰网",
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            5
+            26,
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时05分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 12时44分]"
+        },
+        {
+          "title": "人民日报评美国“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7596857185708019206/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时05分 ~ 12时44分]"
+        },
+        {
+          "title": "美国童星疑闯红灯被拖行致死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AB%A5%E6%98%9F%E7%96%91%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时05分 ~ 12时44分]"
         },
         {
           "title": "复兴欧洲党团呼吁欧盟启用反胁迫工具应对美国关税施压",
@@ -582,6 +710,17 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
+          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
           "title": "欧盟多国考虑对930亿欧元输欧美国商品加征关税",
           "url": "https://flash.jin10.com/detail/20260119040303872800",
           "source": "金十数据",
@@ -594,27 +733,15 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
-          "title": "伊朗总统：袭击最高领袖等同全面战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
+          "title": "专家：格陵兰岛难逃美国魔爪",
+          "url": "https://www.toutiao.com/trending/7596629092015803923/",
+          "source": "今日头条",
           "ranks": [
-            26,
             21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时05分]"
-        },
-        {
-          "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
-          "url": "https://wallstreetcn.com/articles/3763553",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时05分"
+          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "10年期日本国债收益率升至2.215%，创1999年2月以来新高。",
@@ -645,9 +772,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "日本11月设备利用指数环比 -5.3%，前值 3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3039519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "因设备警报设置错误 日本最大核电站机组将延期启动",
@@ -656,20 +794,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
         {
-          "title": "人民日报评美国“斩杀线”",
-          "url": "https://www.toutiao.com/trending/7596857185708019206/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
+          "url": "https://flash.jin10.com/detail/20260119121744013800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本11月工业产出环比终值 -2.7%，初值 -2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3039521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本40年期国债收益率升至3.895%，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260119121302543800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时05分"
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本11月工业产出同比终值 -2.2%，初值 -2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3039520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         },
         {
           "title": "美国天然气期货盘初一度大涨超14%，现涨幅收窄至11%。",
@@ -711,7 +882,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -727,13 +898,35 @@
           "time_info": "08时58分"
         },
         {
+          "title": "日本40年期国债收益率上行9.5个基点至3.895%，创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3039513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "日本10年期国债收益率升至2.240%。",
+          "url": "https://flash.jin10.com/detail/20260119114239153800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
           "title": "据日本放送协会NHK：东京电力公司将推迟重启柏崎刈羽核电站。",
           "url": "https://flash.jin10.com/detail/20260119102634231800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -744,7 +937,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
         },
@@ -769,17 +962,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "美国童星疑闯红灯被拖行致死",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AB%A5%E6%98%9F%E7%96%91%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%8B%96%E8%A1%8C%E8%87%B4%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时05分"
         },
         {
           "title": "日本11月核心机械订单环比 -11%，预期 -6.4%，前值 7%。",
@@ -810,26 +992,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "日本最后2只大熊猫下周一回中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%80%E5%90%8E2%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%9B%9E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 11时05分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 12时44分]"
         },
         {
           "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
@@ -856,6 +1050,28 @@
           "time_info": "[05时11分 ~ 07时11分]"
         },
         {
+          "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
+          "url": "https://wallstreetcn.com/articles/3763537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
+          "url": "https://www.cls.cn/detail/2261597",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
           "url": "https://wallstreetcn.com/livenews/3039251",
           "source": "华尔街见闻-快讯",
@@ -878,6 +1094,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 03时09分]"
+        },
+        {
+          "title": "UP主手搓可食用的AI海洋方块",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E5%8F%AF%E9%A3%9F%E7%94%A8%E7%9A%84AI%E6%B5%B7%E6%B4%8B%E6%96%B9%E5%9D%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”",
