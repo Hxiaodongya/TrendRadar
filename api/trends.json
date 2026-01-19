@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T16:21:02.747030+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-01-19T17:24:58.224739+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 112,
+      "match_count": 124,
       "titles": [
         {
           "title": "美国因格陵兰岛问题对欧洲8国加征关税，多国回应：不可接受",
@@ -34,6 +34,32 @@
           "time_info": "[00时13分 ~ 08时58分]"
         },
         {
+          "title": "“美国佬，滚回家！”",
+          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 17时24分]"
+        },
+        {
+          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
+          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 17时24分]"
+        },
+        {
           "title": "马杜罗政府实权人物被曝曾长期与美国接触",
           "url": "https://m.thepaper.cn/newsDetail_forward_32411112",
           "source": "澎湃新闻",
@@ -50,32 +76,6 @@
           "time_info": "[01时10分 ~ 15时22分]"
         },
         {
-          "title": "“美国佬，滚回家！”",
-          "url": "https://news.ifeng.com/c/8q1WrXOaRdK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 16时21分]"
-        },
-        {
-          "title": "美国明尼阿波利斯市市长：从未想过会被联邦政府入侵",
-          "url": "https://news.ifeng.com/c/8q2C37WCxP5",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 16时21分]"
-        },
-        {
           "title": "开年最惨！美国软件股崩了，因为Claude Code太火了",
           "url": "https://wallstreetcn.com/articles/3763553",
           "source": "华尔街见闻",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时05分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 17时24分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -111,11 +111,12 @@
             13,
             7,
             4,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时10分 ~ 15时22分]"
+          "appearance_count": 16,
+          "time_info": "[01时10分 ~ 17时24分]"
         },
         {
           "title": "增长幻象下的民生之困：解析美国“斩杀线”的成因链",
@@ -156,8 +157,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时10分 ~ 16时21分]"
+          "appearance_count": 19,
+          "time_info": "[01时10分 ~ 17时24分]"
         },
         {
           "title": "两代弄潮儿：谁在书写美国的财政规则？",
@@ -168,11 +169,12 @@
             16,
             17,
             15,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 16时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时13分 ~ 17时24分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -211,8 +213,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时24分]"
         },
         {
           "title": "美国童星疑闯红灯被拖行致死",
@@ -354,6 +356,17 @@
           "time_info": "[14时23分 ~ 16时21分]"
         },
         {
+          "title": "日本首相高市早苗：战略性财政支出将增加就业和家庭收入，从而带来更高的税收收入。",
+          "url": "https://flash.jin10.com/detail/20260119171116381800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "白宫经济顾问哈塞特：美国总统特朗普关于“白宫是我最好的去处”的说法可能是正确的。 特朗普说他希望我继续担任助理， 不相信特朗普已经针对美联储主席人选做出了最终决定。 特朗普还没有就住房支持（措施）做最终决定。 特朗普将购房速度放慢归咎于更高的首付款。",
           "url": "https://wallstreetcn.com/livenews/3039285",
           "source": "华尔街见闻-快讯",
@@ -376,15 +389,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "德国财长Klingbeil：欧洲不会因格陵兰岛问题被美国勒索。 欧洲在准备应对美国威胁的反制措施。 无意令贸易局势升级，也不寻求升级。 欧洲愿意与美国在贸易问题上折中。 欧洲应该研究如何利用现有工具。 由于特朗普的挑衅，已经触及了“红线”。",
-          "url": "https://wallstreetcn.com/livenews/3039634",
+          "title": "日本首相高市早苗：必须大胆投资风险管理。 必须摆脱过度紧缩的束缚。 食品通胀预计将维持高企。 计划暂停征收食品消费税两年。",
+          "url": "https://wallstreetcn.com/livenews/3039665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "17时24分"
         },
         {
           "title": "意大利总理梅洛尼：向反对美国得到格陵兰岛的欧洲国家加征关税是一个错误。",
@@ -458,9 +471,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "日本首相高市早苗：我的政府将结束过度紧缩的财政政策。",
+          "url": "https://flash.jin10.com/detail/20260119171020622800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "以色列总理办公室：总理内塔尼亚胡会见美国证券交易委员会（SEC）主席Paul Atkins。 双方讨论了监管重叠问题。 围绕证券登记注册讨论了新的路径。",
@@ -476,6 +500,17 @@
           "time_info": "[04时13分 ~ 07时11分]"
         },
         {
+          "title": "日本首相高市早苗：在即将召开的会议上，将会有具有重大影响的法案进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260119170851193800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "欧盟报复美国",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E6%8A%A5%E5%A4%8D%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -485,6 +520,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "日本专家：高市解散众议院缺乏正当性，或严重影响民生",
+          "url": "https://news.ifeng.com/c/8q2Yk0W0b2I",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 17时24分]"
         },
         {
           "title": "华泰宏观：如果美国对北约成员加征关税",
@@ -504,9 +551,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "日本首相高市早苗：我将请求获得继续担任首相的授权。",
+          "url": "https://flash.jin10.com/detail/20260119170820639800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "伊朗总统：袭击最高领袖等同“发动全面战争”",
@@ -656,6 +714,18 @@
           "time_info": "[13时24分 ~ 14时23分]"
         },
         {
+          "title": "德国财长Klingbeil：欧洲不会因格陵兰岛问题被美国勒索。 欧洲在准备应对美国威胁的反制措施。 无意令贸易局势升级，也不寻求升级。 欧洲愿意与美国在贸易问题上折中。 欧洲应该研究如何利用现有工具。 由于特朗普的挑衅，已经触及了“红线”。",
+          "url": "https://wallstreetcn.com/livenews/3039634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 17时24分]"
+        },
+        {
           "title": "欧盟外交官：欧盟目前没有计划就格陵兰岛问题对美国采取反制措施。欧盟全力致力于为格陵兰岛争端寻找外交解决方案。",
           "url": "https://flash.jin10.com/detail/20260119044505820800",
           "source": "金十数据",
@@ -680,18 +750,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时44分 ~ 14时23分]"
-        },
-        {
-          "title": "日本专家：高市解散众议院缺乏正当性，或严重影响民生",
-          "url": "https://news.ifeng.com/c/8q2Yk0W0b2I",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 16时21分]"
         },
         {
           "title": "日本11月设备利用指数月率 -5.3%，前值3.30%。",
@@ -791,6 +849,18 @@
           "time_info": "[12时43分 ~ 14时23分]"
         },
         {
+          "title": "名嘴：大陆正用执法手段“法统”台湾",
+          "url": "https://www.toutiao.com/trending/7595960110608236580/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 17时24分]"
+        },
+        {
           "title": "日本11月设备利用指数环比 -5.3%，前值 3.3%。",
           "url": "https://wallstreetcn.com/livenews/3039519",
           "source": "华尔街见闻-快讯",
@@ -827,6 +897,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时05分 ~ 12时44分]"
+        },
+        {
+          "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413494",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 17时24分]"
         },
         {
           "title": "复兴欧洲党团呼吁欧盟启用反胁迫工具应对美国关税施压",
@@ -961,28 +1043,6 @@
           "time_info": "[05时11分 ~ 06时11分]"
         },
         {
-          "title": "名嘴：大陆正用执法手段“法统”台湾",
-          "url": "https://www.toutiao.com/trending/7595960110608236580/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
-        },
-        {
-          "title": "北约秘书长与美国总统通话，讨论格陵兰岛问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413494",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 16时21分]"
-        },
-        {
           "title": "欧盟多国考虑对930亿欧元输欧美国商品加征关税",
           "url": "https://flash.jin10.com/detail/20260119040303872800",
           "source": "金十数据",
@@ -1039,6 +1099,39 @@
           "time_info": "11时05分"
         },
         {
+          "title": "日本首相高市早苗：将于1月23日解散众议院并提前举行大选。",
+          "url": "https://flash.jin10.com/detail/20260119170209250800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "日本首相高市早苗：将请求获得继续担任首相的授权。 我的首相生涯取决于这次选举。 在即将召开的会议上将讨论一些影响深远的法案。 认为选举是民众选择首相的机会。 执政联盟保持多数席位将意味我将继续担任首相。 曾担心我的政府还没有经受过选举的考验。 我的财政政策是对经济政策的根本性改变。",
+          "url": "https://wallstreetcn.com/livenews/3039659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于23日解散众议院",
+          "url": "https://wallstreetcn.com/livenews/3039657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美国天然气期货盘初一度大涨超14%，现涨幅收窄至11%。",
           "url": "https://flash.jin10.com/detail/20260119081414898800",
           "source": "金十数据",
@@ -1067,9 +1160,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "日本在野党联盟中道改革联合：将推动针对灾害救援和基础设施的定向投资。通过设立日本主权财富基金所创造的收入来取消食品销售的消费税。",
@@ -1221,9 +1325,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "美财长：欧洲太软弱，格陵兰岛只有属于美国才对大家都好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414255",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "日本10年期国债收益率升至2.240%。",
@@ -1243,7 +1358,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
         },
@@ -1265,9 +1380,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "日本全家便利店宣布换帅",
+          "url": "https://www.toutiao.com/trending/7596910561037795369/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "日本反对党官员称可永久取消食品消费税",
@@ -1367,12 +1493,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "美国一客机掉轮胎画面曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%AE%A2%E6%9C%BA%E6%8E%89%E8%BD%AE%E8%83%8E%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -1392,22 +1529,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时43分 ~ 16时21分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 11时05分]"
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 17时24分]"
         },
         {
           "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
@@ -1419,8 +1546,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时43分 ~ 17时24分]"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时43分 ~ 16时21分]"
+          "time_info": "[00时13分 ~ 11时05分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -1550,6 +1688,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "AI算力竞赛的关键是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E7%AB%9E%E8%B5%9B%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "美光科技称AI热潮驱动“前所未见”的内存短缺",
+          "url": "https://wallstreetcn.com/livenews/3039654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
+          "url": "https://www.zhihu.com/question/1995464531351135851",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
