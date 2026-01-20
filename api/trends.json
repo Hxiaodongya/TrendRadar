@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T17:24:22.981271+08:00",
-  "total_titles_processed": 1526,
+  "generated_at": "2026-01-20T18:18:16.125876+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 152,
+      "match_count": 162,
       "titles": [
         {
           "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
@@ -45,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 17时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 18时18分]"
         },
         {
           "title": "“照我们的来”，美国想碰英国这条红线",
@@ -129,8 +129,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 17时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 18时18分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -329,6 +329,19 @@
           "time_info": "[08时54分 ~ 15时20分]"
         },
         {
+          "title": "中方代表：日本从没真正认罪悔过",
+          "url": "https://www.douyin.com/hot/2373937",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 18时18分]"
+        },
+        {
           "title": "日本40年期国债收益率自2007年发行以来首次触及4%",
           "url": "https://flash.jin10.com/detail/20260120084617691800",
           "source": "金十数据",
@@ -346,9 +359,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "英国央行副行长拉姆斯登：今年迄今，英国央行的核心市场——英国国债、美国国债和欧元区债券的波动性几乎没有迹象，日本债券则是个例外。",
+          "url": "https://flash.jin10.com/detail/20260120181555498800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1996630471031928598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时20分 ~ 18时18分]"
         },
         {
           "title": "日本30年期国债收益率上升26.5个基点至3.875%；日本40年期国债收益率上升27个基点至4.215%。",
@@ -395,15 +430,15 @@
           "time_info": "15时20分"
         },
         {
-          "title": "美国黄金股盘前普涨，哈莫尼黄金上涨5.8%，黄金原野上涨5%，巴里克矿业上涨3.9%，纽蒙特股价上涨3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3040348",
+          "title": "美国众议院议长约翰逊：“美国优先”绝不意味着“美国孤立”。 美国无意独自行动。",
+          "url": "https://wallstreetcn.com/livenews/3040384",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "18时18分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：美国国务卿鲁比奥表示需要利用共同利益。",
@@ -412,9 +447,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：与市场保持密切沟通。 与日本央行也保持着非常好的关系。 有信心能在债券市场提供稳定性。 债券市场形势应会改善。",
+          "url": "https://wallstreetcn.com/livenews/3040383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "花旗：日元疲软或导致日本央行在2026年加息三次",
@@ -448,6 +494,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "韩元在有关美国投资延迟的报告发布后收复部分失地。",
+          "url": "https://flash.jin10.com/detail/20260120181432932800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "美国特工破门误抓一老挝裔美公民",
+          "url": "https://www.toutiao.com/trending/7597320741830410294/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 18时18分]"
         },
         {
           "title": "委内瑞拉“反对派”人士Machado：希望委内瑞拉成为美国“最坚定的”盟友。",
@@ -564,6 +634,18 @@
           "time_info": "[16时19分 ~ 17时24分]"
         },
         {
+          "title": "美国黄金股盘前普涨，哈莫尼黄金上涨5.8%，黄金原野上涨5%，巴里克矿业上涨3.9%，纽蒙特股价上涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3040348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时18分]"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥周一与沙特外交大臣通电话，谈论伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260120031631993800",
           "source": "金十数据",
@@ -586,17 +668,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 15时20分]"
-        },
-        {
-          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1996630471031928598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时24分]"
         },
         {
           "title": "中方代表：日本从来没真正认罪悔过",
@@ -659,28 +730,16 @@
           "time_info": "[00时16分 ~ 01时16分]"
         },
         {
-          "title": "中方代表：日本从没真正认罪悔过",
-          "url": "https://www.douyin.com/hot/2373937",
-          "source": "抖音",
+          "title": "美国为何成立和平委员会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%88%90%E7%AB%8B%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            21,
-            15
+            25,
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时24分]"
-        },
-        {
-          "title": "美国特工破门误抓一老挝裔美公民",
-          "url": "https://www.toutiao.com/trending/7597320741830410294/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时24分]"
+          "time_info": "[17时24分 ~ 18时18分]"
         },
         {
           "title": "中方代表在联合国当场质问日本",
@@ -693,6 +752,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时21分 ~ 14时21分]"
+        },
+        {
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "日本首相高市早苗宣布将于23日解散众议院",
@@ -836,6 +906,17 @@
           "time_info": "[07时11分 ~ 07时12分]"
         },
         {
+          "title": "如果美国真的拿下了加拿大、巴拿马运河和格陵兰岛，实力大增，是不是再也无法撼动美国世界霸主地位了？",
+          "url": "https://www.zhihu.com/question/9131960101",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
+        },
+        {
           "title": "古巴启动“战争状态”",
           "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%90%AF%E5%8A%A8%E2%80%9C%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%E2%80%9D",
           "source": "百度热搜",
@@ -931,9 +1012,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯对北约与日本在俄罗斯边境附近的联合活动表示关切。",
+          "url": "https://flash.jin10.com/detail/20260120181414650800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "美国总统特朗普：北约20年来一直在就俄罗斯威胁向丹麦发出警告。",
@@ -1085,7 +1177,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1184,7 +1276,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1233,6 +1325,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯没有夺取格陵兰岛的计划。 美国知道俄罗斯对格陵兰岛没有计划。",
+          "url": "https://wallstreetcn.com/livenews/3040370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
           "url": "https://flash.jin10.com/detail/20260119235643384800",
           "source": "金十数据",
@@ -1272,7 +1375,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1382,7 +1485,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1404,7 +1507,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -1607,6 +1710,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国众议院议长约翰逊：美国无意孤军奋战。",
+          "url": "https://flash.jin10.com/detail/20260120180309614800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "美国10年期国债收益率升至4.259%，创去年9月初以来新高。",
           "url": "https://wallstreetcn.com/livenews/3039966",
           "source": "华尔街见闻-快讯",
@@ -1662,6 +1776,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "日本财务大臣片山皋月：我们有信心为债券市场提供稳定性。",
+          "url": "https://flash.jin10.com/detail/20260120180148631800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
           "url": "https://wallstreetcn.com/livenews/3039827",
           "source": "华尔街见闻-快讯",
@@ -1693,17 +1818,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "美国为何成立和平委员会",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E6%88%90%E7%AB%8B%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "日本30年期国债收益率上涨15个基点至3.760%。",
@@ -1786,7 +1900,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -1853,6 +1967,19 @@
           "time_info": "02时18分"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 18时18分]"
+        },
+        {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
           "url": "https://www.cls.cn/detail/2262334",
           "source": "财联社热门",
@@ -1863,6 +1990,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时16分 ~ 03时13分]"
+        },
+        {
+          "title": "外媒谈AI竞争：中国会笑到最后",
+          "url": "https://www.douyin.com/hot/2373802",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时18分]"
         },
         {
           "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
@@ -1916,18 +2056,6 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时24分]"
-        },
-        {
           "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
           "url": "https://www.cls.cn/detail/2262717",
           "source": "财联社热门",
@@ -1953,16 +2081,15 @@
           "time_info": "[12时03分 ~ 13时22分]"
         },
         {
-          "title": "外媒谈AI竞争：中国会笑到最后",
-          "url": "https://www.douyin.com/hot/2373802",
-          "source": "抖音",
+          "title": "H200对AI产业影响如何",
+          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            17
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时19分]"
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
@@ -2010,6 +2137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时11分 ~ 07时12分]"
+        },
+        {
+          "title": "阿里云PolarDB数据库发布一系列全新AI能力，包括AI数据湖库",
+          "url": "https://wallstreetcn.com/livenews/3040373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "Randstad调查：五分之四的员工认为AI将影响工作岗位，Z世代最为担忧",
