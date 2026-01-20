@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T19:16:19.602748+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-01-20T20:24:51.092897+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 175,
+      "match_count": 186,
       "titles": [
         {
           "title": "国际奥委会拒绝禁止美国参加冬奥会，并称「我们不能直接介入政治事务」，如何看待此事？",
@@ -45,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时16分 ~ 19时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时16分 ~ 20时24分]"
         },
         {
           "title": "“照我们的来”，美国想碰英国这条红线",
@@ -183,11 +183,12 @@
             9,
             10,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 19时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 20时24分]"
         },
         {
           "title": "人民日报评美国“斩杀线”",
@@ -314,6 +315,30 @@
           "time_info": "[02时18分 ~ 07时12分]"
         },
         {
+          "title": "中方代表：日本从没真正认罪悔过",
+          "url": "https://www.douyin.com/hot/2373937",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 20时24分]"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1996630471031928598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时20分 ~ 20时24分]"
+        },
+        {
           "title": "中国无意与美国搞“中美共治”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%97%A0%E6%84%8F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%90%9E%E2%80%9C%E4%B8%AD%E7%BE%8E%E5%85%B1%E6%B2%BB%E2%80%9D",
           "source": "百度热搜",
@@ -330,28 +355,16 @@
           "time_info": "[08时54分 ~ 15时20分]"
         },
         {
-          "title": "中方代表：日本从没真正认罪悔过",
-          "url": "https://www.douyin.com/hot/2373937",
-          "source": "抖音",
+          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
+          "url": "https://wallstreetcn.com/articles/3763675",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
-            15,
-            2
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时16分]"
-        },
-        {
-          "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1996630471031928598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时24分]"
         },
         {
           "title": "日本40年期国债收益率自2007年发行以来首次触及4%",
@@ -385,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "比利时首相：将于周三在达沃斯会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260120201831086800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "日本30年期国债收益率上升26.5个基点至3.875%；日本40年期国债收益率上升27个基点至4.215%。",
@@ -442,18 +466,6 @@
           "time_info": "18时18分"
         },
         {
-          "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
-          "url": "https://wallstreetcn.com/articles/3763675",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时16分]"
-        },
-        {
           "title": "俄罗斯外长拉夫罗夫：美国国务卿鲁比奥表示需要利用共同利益。",
           "url": "https://flash.jin10.com/detail/20260120171305733800",
           "source": "金十数据",
@@ -474,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "联合国会议上，中方痛批日本从未真正认罪悔过",
+          "url": "https://news.ifeng.com/c/8q4ZfIaBfxg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "花旗：日元疲软或导致日本央行在2026年加息三次",
@@ -520,15 +543,15 @@
           "time_info": "18时18分"
         },
         {
-          "title": "美国驻北约大使Whitaker：我们需要降低关于格陵兰岛的言论温度。",
-          "url": "https://wallstreetcn.com/livenews/3040438",
+          "title": "加拿大百年来首次模拟美国军事入侵",
+          "url": "https://wallstreetcn.com/livenews/3040466",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "20时24分"
         },
         {
           "title": "美国特工破门误抓一老挝裔美公民",
@@ -682,6 +705,18 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "美国驻北约大使Whitaker：我们需要降低关于格陵兰岛的言论温度。",
+          "url": "https://wallstreetcn.com/livenews/3040438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时24分]"
+        },
+        {
           "title": "美国数十个城市爆发大规模示威游行",
           "url": "https://www.toutiao.com/trending/7596514107835088922/",
           "source": "今日头条",
@@ -692,6 +727,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 15时20分]"
+        },
+        {
+          "title": "如果美国真的拿下了加拿大、巴拿马运河和格陵兰岛，实力大增，是不是再也无法撼动美国世界霸主地位了？",
+          "url": "https://www.zhihu.com/question/9131960101",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 20时24分]"
         },
         {
           "title": "中方代表：日本从来没真正认罪悔过",
@@ -767,18 +815,6 @@
           "time_info": "[00时16分 ~ 01时16分]"
         },
         {
-          "title": "如果美国真的拿下了加拿大、巴拿马运河和格陵兰岛，实力大增，是不是再也无法撼动美国世界霸主地位了？",
-          "url": "https://www.zhihu.com/question/9131960101",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时16分]"
-        },
-        {
           "title": "中方代表在联合国当场质问日本",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%BB%A3%E8%A1%A8%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E5%BD%93%E5%9C%BA%E8%B4%A8%E9%97%AE%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
@@ -836,6 +872,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时22分 ~ 14时21分]"
+        },
+        {
+          "title": "美国30年期掉期利差下跌4个基点，有望创下自4月以来的最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3040434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时24分]"
         },
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
@@ -1043,6 +1091,28 @@
           "time_info": "18时18分"
         },
         {
+          "title": "美国30年期国债收益率跳升10个基点至4.94%；10年期国债收益率攀升7个基点至4.29%，此前日债遭抛售。",
+          "url": "https://wallstreetcn.com/livenews/3040464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "为什么“斩杀线”理论让美国破防",
+          "url": "https://www.toutiao.com/trending/7597372681050164774/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美国总统特朗普：北约20年来一直在就俄罗斯威胁向丹麦发出警告。",
           "url": "https://flash.jin10.com/detail/20260120124833622800",
           "source": "金十数据",
@@ -1082,7 +1152,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1098,13 +1168,24 @@
           "time_info": "16时19分"
         },
         {
+          "title": "美国合众银行第四季度调整后每股收益为1.26美元，预估1.19美元。 第四季度净利息收入为43.1亿美元，预估42.8亿美元。 美国合众银行盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3040463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "媒体：台万亿军购是把台湾往绝路上推",
           "url": "https://www.toutiao.com/trending/7597284048545366042/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1137,18 +1218,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "美国30年期掉期利差下跌4个基点，有望创下自4月以来的最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3040434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1184,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "U23亚洲杯日本vs韩国",
+          "url": "https://www.douyin.com/hot/2374386",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "30年期美国国债收益率上涨3.8个基点，至4.879%，为去年9月初以来最高水平。",
@@ -1346,7 +1427,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1478,7 +1559,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1569,6 +1650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "美国30年期国债收益率上涨10个基点，此前日债遭抛售。",
+          "url": "https://flash.jin10.com/detail/20260120194922711800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "花旗集团预计，由于日元疲软，日本央行2026年有3次加息的风险。",
@@ -1692,6 +1784,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "美国财长贝森特：在信用卡的使用习惯和行为方面，我们有很多可以关注的地方。",
+          "url": "https://flash.jin10.com/detail/20260120194606444800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "日本30年期国债收益率上行10BP至3.71%。",
           "url": "https://wallstreetcn.com/livenews/3040131",
           "source": "华尔街见闻-快讯",
@@ -1701,6 +1804,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "为对抗ICE“逐户上门”，美国男子拿起AR步枪守护社区",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32416371",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美国总统特朗普近日宣布成立所谓加沙「和平委员会」，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1996500531343026047",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：北极安全是跨大西洋共同利益，我们可以与美国盟友就此进行讨论，但关税威胁并非解决之道。",
@@ -1764,7 +1889,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1797,7 +1922,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1929,7 +2054,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1951,7 +2076,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1984,7 +2109,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -2017,7 +2142,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -2047,7 +2172,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -2078,6 +2203,20 @@
           "time_info": "[08时54分 ~ 15时20分]"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时18分 ~ 20时24分]"
+        },
+        {
           "title": "医生给1岁娃开小众药被AI提醒慎用",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -2088,19 +2227,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时21分 ~ 15时20分]"
-        },
-        {
-          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
-          "url": "https://www.cls.cn/detail/2263371",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时18分 ~ 19时16分]"
         },
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
@@ -2203,6 +2329,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "H200对AI产业影响如何",
+          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时24分]"
+        },
+        {
           "title": "股票异动停牌核查完毕 400亿AI概念股明起复牌||盘后公告集锦",
           "url": "https://www.cls.cn/detail/2262717",
           "source": "财联社热门",
@@ -2226,17 +2364,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时03分 ~ 13时22分]"
-        },
-        {
-          "title": "H200对AI产业影响如何",
-          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
@@ -2295,6 +2422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "百时美施贵宝宣布与微软合作，共同推进AI驱动的肺癌早期检测。",
+          "url": "https://flash.jin10.com/detail/20260120195938474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "Randstad调查：五分之四的员工认为AI将影响工作岗位，Z世代最为担忧",
