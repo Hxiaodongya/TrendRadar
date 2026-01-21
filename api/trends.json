@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T08:56:20.604787+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-01-21T10:55:28.501479+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 169,
+      "match_count": 190,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 08时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 10时55分]"
         },
         {
           "title": "U23国足将同日本队争冠",
@@ -25,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 08时56分]"
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 10时55分]"
         },
         {
           "title": "联合国会议上，中方痛批日本从未真正认罪悔过",
@@ -99,11 +100,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 08时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 10时55分]"
         },
         {
           "title": "日本U23男足取胜韩国杀入决赛",
@@ -114,11 +116,12 @@
             30,
             15,
             16,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 08时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 10时55分]"
         },
         {
           "title": "日本首相高市早苗宣布将于 23 日解散众议院，这一决定出于哪些考虑？会产生哪些影响？",
@@ -148,6 +151,17 @@
           "time_info": "[00时22分 ~ 06时13分]"
         },
         {
+          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 10时55分]"
+        },
+        {
           "title": "U23国足决赛将对阵日本",
           "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E5%86%B3%E8%B5%9B%E5%B0%86%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -161,15 +175,15 @@
           "time_info": "[04时05分 ~ 07时12分]"
         },
         {
-          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
+          "title": "U23 亚洲杯半决赛，国足 3-0 十人越南，首进决赛与日本争冠，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1996942837732827694",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时56分]"
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "中方代表：日本从没真正认罪悔过",
@@ -198,15 +212,26 @@
           "time_info": "04时06分"
         },
         {
-          "title": "U23 亚洲杯半决赛，国足 3-0 十人越南，首进决赛与日本争冠，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1996942837732827694",
-          "source": "知乎",
+          "title": "日本内阁官房长官木原稔：正在研究和平委员会的细节，并将决定是否加入。",
+          "url": "https://flash.jin10.com/detail/20260121103041130800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本确定众议院解散的会议具体时间",
+          "url": "https://wallstreetcn.com/livenews/3040882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国商务部长卢特尼克：如果欧洲以关税进行报复，那么我们将重回针锋相对的局面。",
@@ -240,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
+          "url": "https://news.ifeng.com/c/8q4dfuUNG75",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国官员：白宫正密切关注叙利亚局势发展，对此深表关切。",
@@ -286,6 +322,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "日本银行股下跌，因国债波动加剧损失担忧",
+          "url": "https://flash.jin10.com/detail/20260121102953707800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国商务部长卢特尼克：美国与欧洲和英国的贸易协议都是“持久的”。",
           "url": "https://wallstreetcn.com/livenews/3040582",
           "source": "华尔街见闻-快讯",
@@ -303,20 +350,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
         {
-          "title": "U23国足主帅：会和日本队战斗到底",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E4%BC%9A%E5%92%8C%E6%97%A5%E6%9C%AC%E9%98%9F%E6%88%98%E6%96%97%E5%88%B0%E5%BA%95",
-          "source": "百度热搜",
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            8,
+            6,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 10时55分]"
         },
         {
           "title": "美国商务部长卢特尼克：美国与欧洲以及英国之间的贸易协议是持久有效的。",
@@ -412,6 +462,18 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "U23国足主帅：会和日本队战斗到底",
+          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E4%BC%9A%E5%92%8C%E6%97%A5%E6%9C%AC%E9%98%9F%E6%88%98%E6%96%97%E5%88%B0%E5%BA%95",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时55分]"
+        },
+        {
           "title": "瑞银：抛售美国资产是危险的赌博，把配置完全移出美国是不可能的",
           "url": "https://wallstreetcn.com/livenews/3040628",
           "source": "华尔街见闻-快讯",
@@ -472,19 +534,6 @@
           "time_info": "[04时06分 ~ 05时14分]"
         },
         {
-          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
-          "url": "https://wallstreetcn.com/articles/3763734",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时13分 ~ 08时56分]"
-        },
-        {
           "title": "加拿大百年来首次模拟美国军事入侵",
           "url": "https://www.toutiao.com/trending/7597410381380157483/",
           "source": "今日头条",
@@ -497,6 +546,30 @@
           "time_info": "[02时21分 ~ 05时14分]"
         },
         {
+          "title": "U23 亚洲杯半决赛国足 3:0 战胜越南，打进决赛创造历史，将迎战日本，U23 国足夺冠可能性有多大？",
+          "url": "https://www.zhihu.com/question/1997118334769071695",
+          "source": "知乎",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时55分]"
+        },
+        {
+          "title": "美国政府首次回应“斩杀线”困境",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D%E5%9B%B0%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时55分]"
+        },
+        {
           "title": "美国能源部长Wright：我们处于吞并格陵兰的谈判初期。 最终解决并不确定，但我们将带来重大结果。",
           "url": "https://wallstreetcn.com/livenews/3040611",
           "source": "华尔街见闻-快讯",
@@ -507,6 +580,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时21分]"
+        },
+        {
+          "title": "美国狮子大开口，“印尼有其他选择”",
+          "url": "https://news.ifeng.com/c/8q4lq7tkG8j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "美国国防部：美国已在加勒比海扣押了油轮“萨吉塔”号。",
@@ -531,6 +615,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时06分 ~ 05时14分]"
+        },
+        {
+          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
+          "url": "https://www.cls.cn/detail/2264207",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时55分]"
         },
         {
           "title": "欧洲央行行长拉加德：与美国关系恶化将加速欧盟一体化。",
@@ -658,7 +754,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -696,6 +792,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美国总统特朗普：美国将在达沃斯得到充分代表——由我亲自代表。",
+          "url": "https://flash.jin10.com/detail/20260121102837513800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国总统特朗普：（谈及关于美国留在北约的承诺）如果北约没有美国，北约就不够强大。",
           "url": "https://flash.jin10.com/detail/20260121043306922800",
           "source": "金十数据",
@@ -707,6 +814,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "日本内阁官房长官木原稔：日本首相高市早苗已受邀加入特朗普就加沙问题成立的和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260121102828725800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国参议院民主党成员们寻求关于特朗普司法部调查美联储主席鲍威尔的卷宗。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3040665",
           "source": "华尔街见闻-快讯",
@@ -716,17 +834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "U23 亚洲杯半决赛国足 3:0 战胜越南，打进决赛创造历史，将迎战日本，U23 国足夺冠可能性有多大？",
-          "url": "https://www.zhihu.com/question/1997118334769071695",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         },
         {
           "title": "日本晋级U23男足亚洲杯决赛",
@@ -746,7 +853,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -801,7 +908,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -834,7 +941,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -883,6 +990,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美国总统特朗普：不知道达沃斯此行会如何进行。将很快听取简报。",
+          "url": "https://flash.jin10.com/detail/20260121102725670800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国总统特朗普：（美国吞并）格陵兰的结果将让北约非常高兴。",
           "url": "https://wallstreetcn.com/livenews/3040663",
           "source": "华尔街见闻-快讯",
@@ -892,28 +1010,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "美国政府首次回应“斩杀线”困境",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E2%80%9C%E6%96%A9%E6%9D%80%E7%BA%BF%E2%80%9D%E5%9B%B0%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美国狮子大开口，“印尼有其他选择”",
-          "url": "https://news.ifeng.com/c/8q4lq7tkG8j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         },
         {
           "title": "美国至1月20日1年期国债竞拍-得标利率 3.39%，前值3.38%。",
@@ -955,9 +1051,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "玉渊谭天丨美国政府首次回应“斩杀线困境”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32427269",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
@@ -1004,6 +1111,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "日本内阁官房长官木原稔：不会对金融市场发表评论。",
+          "url": "https://flash.jin10.com/detail/20260121102245561800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉石油将有助于降低美国油价。",
           "url": "https://wallstreetcn.com/livenews/3040661",
           "source": "华尔街见闻-快讯",
@@ -1043,9 +1161,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：正以高度紧迫感密切关注全球和日本金融市场。",
+          "url": "https://flash.jin10.com/detail/20260121102210508800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
@@ -1065,20 +1194,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
         {
-          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
-          "url": "https://www.cls.cn/detail/2264207",
-          "source": "财联社热门",
+          "title": "U23男足将与日本争冠",
+          "url": "https://search.bilibili.com/all?keyword=U23%E7%94%B7%E8%B6%B3%E5%B0%86%E4%B8%8E%E6%97%A5%E6%9C%AC%E4%BA%89%E5%86%A0",
+          "source": "bilibili 热搜",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时55分"
         },
         {
           "title": "特朗普：我们国家如今面临的所有犯罪问题，都是“昏睡乔（美国前总统拜登）”和围在白宫椭圆形办公室决策桌旁的激进左翼暴徒一手造成的——当然，还包括对自动签字笔（Auto Pen）的非法使用！！！他们都该进监狱！",
@@ -1131,7 +1260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1153,9 +1282,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：首相收到了加入和平委员会的邀请。正在评估是否加入。",
+          "url": "https://wallstreetcn.com/livenews/3040864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美国的“斩杀线”意味着什么",
+          "url": "https://www.toutiao.com/trending/7597607905008815657/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国商务部长卢特尼克：我们认为本季度GDP增长率将超过5%。",
@@ -1197,9 +1348,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "国台办回应日本学者涉台言论：停止向“台独”分裂势力发出任何错误信号",
+          "url": "https://wallstreetcn.com/livenews/3040863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国总统特朗普：如果一个国家不接受人们返回家园，那它就有问题。",
@@ -1224,13 +1386,24 @@
           "time_info": "05时14分"
         },
         {
+          "title": "日本反对党领袖称应“果断”应对债券抛售",
+          "url": "https://flash.jin10.com/detail/20260121102027677800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "韩国总理将于1月22日起访问美国。（韩联社）",
           "url": "https://wallstreetcn.com/livenews/3040747",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1241,9 +1414,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "U23国足主帅：会和日本队战斗到底",
+          "url": "https://www.toutiao.com/trending/7597371840503320118/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国商务部长卢特尼克：我们的目标是降低美国人的电力成本。",
@@ -1285,7 +1469,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1307,7 +1491,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1378,6 +1562,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美国总统特朗普：与土耳其总统埃尔多安进行了非常愉快的通话。",
+          "url": "https://flash.jin10.com/detail/20260121101751879800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国总统特朗普：希望最高法院在关税问题上做正确的决定。 福特汽车表现如此出色，全因关税之缘故。",
           "url": "https://wallstreetcn.com/livenews/3040658",
           "source": "华尔街见闻-快讯",
@@ -1387,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "日本国民民主党党首玉木雄一郎：不主张进一步发行债券。 政府与日本央行应对收益率飙升需采取坚定立场。 债券收益率出现了非常不正常的情况。",
+          "url": "https://wallstreetcn.com/livenews/3040855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国商务部长卢特尼克：我们没有通货膨胀。",
@@ -1444,6 +1650,28 @@
           "time_info": "06时13分"
         },
         {
+          "title": "国台办：所谓美台贸易及供应链合作只会把台湾榨干",
+          "url": "https://wallstreetcn.com/livenews/3040854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "日本又要选首相了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%88%E8%A6%81%E9%80%89%E9%A6%96%E7%9B%B8%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国商务部长卢特尼克：可以与盟友意见相左，但这并不意味着就不是盟友。",
           "url": "https://flash.jin10.com/detail/20260121004204980800",
           "source": "金十数据",
@@ -1464,6 +1692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：密切关注全球和日本市场趋势。",
+          "url": "https://wallstreetcn.com/livenews/3040853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国商务部长卢特尼克：利率需要降低，以便年轻人更容易负担得起购房。",
@@ -1681,7 +1920,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1920,7 +2159,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "上海中小学开设AI课程",
@@ -2004,6 +2243,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "工信部：AI已渗透领航级智能工厂70%以上业务场景",
+          "url": "https://wallstreetcn.com/livenews/3040856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "OpenAI：年龄预测功能正面向全球推广，欧盟将在未来几周跟进。",
           "url": "https://flash.jin10.com/detail/20260121030605835800",
           "source": "金十数据",
@@ -2024,6 +2274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，人工智能初创公司Thinking Machines（由前OpenAI员工创立）首席技术官Barret Zoph在披露与一名员工的关系后，其工作职责发生调整。Zoph在一次会议上表示自己正考虑离职并寻求更多权力后被解雇。Zoph及同事随后离职并重新加盟OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260121100758131800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     }
