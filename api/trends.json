@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T01:46:38.838841+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-01-22T02:31:18.981682+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 71,
+      "match_count": 82,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "美国贸易代表：想和中国再谈谈，但不谈稀土",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "美国赢学升级,懂王天天开赢趴",
@@ -37,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
+        },
+        {
+          "title": "U23国足决赛对阵日本胜算几何",
+          "url": "https://www.toutiao.com/trending/7596734371148349483/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "美财长：我对中国稀土交付相当满意，日本那是自己作",
@@ -52,15 +64,26 @@
           "time_info": "00时24分"
         },
         {
-          "title": "美国众议院议长约翰逊：支持弹劾特定联邦法官的那些尝试。 法官们的判决结果已经激怒了共和党。 他们存在“极其恶劣的职权滥用”。",
-          "url": "https://wallstreetcn.com/livenews/3041447",
+          "title": "美国至1月21日20年期国债竞拍-得标利率 4.846%，前值4.80%。",
+          "url": "https://flash.jin10.com/detail/20260122020203873800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "北约秘书长吕特：与美国的盟友关系比以往任何时候都更强大。 如果美国遭到打击，盟友们将支持美国。",
+          "url": "https://wallstreetcn.com/livenews/3041470",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时31分"
         },
         {
           "title": "市场消息：美国总统特朗普今天还将与埃及和比利时领导人会晤。",
@@ -74,15 +97,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "日本自民党公布竞选承诺 修订“安保三文件”赫然在列",
-          "url": "https://flash.jin10.com/detail/20260122012518048800",
+          "title": "美国至1月21日20年期国债竞拍-得标利率配置百分比 3.89%，前值3.16%。",
+          "url": "https://flash.jin10.com/detail/20260122020203846800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时31分"
         },
         {
           "title": "美国总统特朗普即将在达沃斯会见北约主管吕特。 在那之前，特朗普将在达沃斯对企业主管们讲话。",
@@ -96,6 +119,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国总统特朗普：赞赏北约秘书长吕特。 （我们俩）将讨论格陵兰。",
+          "url": "https://wallstreetcn.com/livenews/3041469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "玉渊谭天丨美国政府首次回应“斩杀线困境”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32427269",
           "source": "澎湃新闻",
@@ -107,27 +141,50 @@
           "time_info": "00时24分"
         },
         {
-          "title": "美国国会议员：白宫预算申请提交日期可能延迟",
-          "url": "https://wallstreetcn.com/livenews/3041445",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务院官员：恢复美委外交的计划正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260122020145846800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时31分"
         },
         {
-          "title": "U23国足决赛对阵日本胜算几何",
-          "url": "https://www.toutiao.com/trending/7596734371148349483/",
-          "source": "今日头条",
+          "title": "白宫顾问Leavitt：美国总统特朗普将会见北约秘书长吕特。 双方将讨论格陵兰问题。 特朗普在（吞并且）拥有格陵兰方面是顽固的。",
+          "url": "https://wallstreetcn.com/livenews/3041467",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：支持弹劾特定联邦法官的那些尝试。 法官们的判决结果已经激怒了共和党。 他们存在“极其恶劣的职权滥用”。",
+          "url": "https://wallstreetcn.com/livenews/3041447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "日本自民党公布竞选承诺 修订“安保三文件”赫然在列",
+          "url": "https://flash.jin10.com/detail/20260122012518048800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
         },
         {
           "title": "股债汇三杀！“抛售美国”交易重回，习惯了TACO的市场为何突变？",
@@ -137,8 +194,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "中国还会租借大熊猫给日本吗？外交部：欢迎日本民众来中国看大熊猫",
@@ -148,8 +205,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
+        },
+        {
+          "title": "美国国会议员：白宫预算申请提交日期可能延迟",
+          "url": "https://wallstreetcn.com/livenews/3041445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "time_info": "[01时46分 ~ 02时31分]"
         },
         {
           "title": "日本最大核电站重启",
@@ -160,8 +229,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "日本最大核电站柏崎刈羽核电站重启",
@@ -171,8 +240,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "加拿大总理卡尼：中等强国再不“上桌”，恐成美国霸权盘中餐",
@@ -180,11 +249,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
@@ -192,11 +262,25 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
+        },
+        {
+          "title": "台湾一男子被指为大陆向陆委会官员刺探秘密，国台办答澎湃：赖清德当局一再渲染“大陆威胁”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32431575",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "矮大紧狂吹美国,牢A一击KO",
@@ -206,20 +290,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
-        },
-        {
-          "title": "台湾一男子被指为大陆向陆委会官员刺探秘密，国台办答澎湃：赖清德当局一再渲染“大陆威胁”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32431575",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "美国现在连尸体脂肪都不放过",
@@ -229,19 +301,152 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
+        },
+        {
+          "title": "日本最大核电站柏崎刈羽核电站重启",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32433659",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 02时31分]"
         },
         {
           "title": "美国最高法院或拒绝特朗普罢免美联储理事库克的请求",
           "url": "https://flash.jin10.com/detail/20260122010443055800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "日本自民党公布竞选承诺，修订“安保三文件”赫然在列",
+          "url": "https://wallstreetcn.com/livenews/3041442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "中国地震台网正式测定：01月22日00时37分在日本火山列岛地区发生6.0级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260122010235178800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：一项重大住房政策即将出台。",
+          "url": "https://flash.jin10.com/detail/20260122010051753800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：很高兴有这么多优秀的美联储候选人 ，预计美联储的调查会迅速推进。",
+          "url": "https://flash.jin10.com/detail/20260122010023437800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
+          "url": "https://flash.jin10.com/detail/20260122005938386800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美联储成员似乎对所有事情都想发表意见。",
+          "url": "https://flash.jin10.com/detail/20260122005919961800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "日本火山列岛地区发生6.0级地震，震源深度10公里",
+          "url": "https://wallstreetcn.com/livenews/3041437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：预计明年将进一步减少赤字。",
+          "url": "https://flash.jin10.com/detail/20260122005859122800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：美国GDP增速可能连续两个季度超过5%。",
+          "url": "https://flash.jin10.com/detail/20260122005831019800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
+        },
+        {
+          "title": "市场消息：美国最高法院似乎很可能拒绝特朗普立即罢免美联储理事库克的请求。",
+          "url": "https://flash.jin10.com/detail/20260122005246949800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 02时31分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普现在会见波兰领导人。",
@@ -255,48 +460,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "日本自民党公布竞选承诺，修订“安保三文件”赫然在列",
-          "url": "https://wallstreetcn.com/livenews/3041442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "中国地震台网正式测定：01月22日00时37分在日本火山列岛地区发生6.0级地震，震源深度10千米。",
-          "url": "https://flash.jin10.com/detail/20260122010235178800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：一项重大住房政策即将出台。",
-          "url": "https://flash.jin10.com/detail/20260122010051753800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：很高兴有这么多优秀的美联储候选人 ，预计美联储的调查会迅速推进。",
-          "url": "https://flash.jin10.com/detail/20260122010023437800",
+          "title": "美国总统特朗普：我们正接近解决乌克兰战争。",
+          "url": "https://flash.jin10.com/detail/20260122014604447800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时31分"
         },
         {
           "title": "丹麦：美国总统特朗普不会对格陵兰动武的论调“是正面的”。",
@@ -308,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.846%（12月17日为4.798%），投标倍数2.86（前次为2.67）。",
+          "url": "https://wallstreetcn.com/livenews/3041461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "贝森特称日债抛售波及美债、已与日本对口官员沟通，日财相呼吁市场冷静",
@@ -327,31 +510,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
-          "url": "https://flash.jin10.com/detail/20260122005938386800",
-          "source": "金十数据",
+          "title": "1月21日美国最高法院大法官对特朗普罢免美联储理事库克的庭辩要点总结",
+          "url": "https://wallstreetcn.com/livenews/3041460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：美联储成员似乎对所有事情都想发表意见。",
-          "url": "https://flash.jin10.com/detail/20260122005919961800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "time_info": "02时31分"
         },
         {
           "title": "Citadel（城堡）的Ken Griffin：美国总统特朗普在为美国工人而努力。 特朗普必须弄明白，美国（应该）欢迎合法移民。 特朗普针对南部边境的那些政策“取得巨大成功”。 住房市场的真正问题在于缺乏供应。 住房许可太低，建筑规范臃肿冗长。（彭博电视）",
@@ -365,17 +537,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "日本火山列岛地区发生6.0级地震，震源深度10公里",
-          "url": "https://wallstreetcn.com/livenews/3041437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
           "title": "白宫“人工智能沙皇”萨克斯：认为美国仍在人工智能竞赛中处于领先地位。",
           "url": "https://flash.jin10.com/detail/20260121235423435800",
           "source": "金十数据",
@@ -385,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：预计明年将进一步减少赤字。",
-          "url": "https://flash.jin10.com/detail/20260122005859122800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：担心美国会因“自我造成的伤害”而在人工智能竞赛中落败。",
@@ -409,24 +559,13 @@
           "time_info": "00时24分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：美国GDP增速可能连续两个季度超过5%。",
-          "url": "https://flash.jin10.com/detail/20260122005831019800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
           "title": "白宫经济顾问哈塞特：美联储成员们似乎希望对所有事都有一个意见。 美联储谴责美国总统特朗普，这与他们自身的独立性不一致。 美联储主席候选人是如此之多。 预计对美联储的调查将迅速推进。",
           "url": "https://wallstreetcn.com/livenews/3041433",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -437,7 +576,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -448,18 +587,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        },
-        {
-          "title": "市场消息：美国最高法院似乎很可能拒绝特朗普立即罢免美联储理事库克的请求。",
-          "url": "https://flash.jin10.com/detail/20260122005246949800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -475,13 +603,24 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国总统特朗普赞扬苹果和丰田的投资。",
+          "url": "https://wallstreetcn.com/livenews/3041454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
           "title": "白宫经济顾问哈塞特：美国经济增速可能会有两个季度超过5%。 总统特朗普正在搅局一个必须被打乱的（国际）秩序。 预计下一年对（财政/贸易）赤字的削减幅度将更大。",
           "url": "https://wallstreetcn.com/livenews/3041430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -495,17 +634,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "日本最大核电站柏崎刈羽核电站重启",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32433659",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
         },
         {
           "title": "城堡基金CEO格里芬：美国总统特朗普正在为美国工人而战。",
@@ -536,9 +664,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "日本最大核电站柏崎刈羽核电站重启",
+          "url": "https://wallstreetcn.com/livenews/3041448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "丹麦外交大臣：美国总统“雄心未减”。",
@@ -569,7 +708,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -591,7 +730,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -602,7 +741,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -624,7 +763,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -635,7 +774,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -646,7 +785,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -668,7 +807,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -679,7 +818,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -712,7 +851,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -745,7 +884,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -767,7 +906,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -789,7 +928,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
@@ -797,7 +936,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -807,8 +946,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -829,8 +968,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -838,11 +977,35 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            16
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 02时31分]"
+        },
+        {
+          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
+          "url": "https://wallstreetcn.com/articles/3763773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "time_info": "[02时30分 ~ 02时31分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -856,16 +1019,15 @@
           "time_info": "[00时24分 ~ 01时46分]"
         },
         {
-          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
-          "source": "澎湃新闻",
+          "title": "疑似AI玩家确认是Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            18
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时46分]"
+          "time_info": "[02时30分 ~ 02时31分]"
         },
         {
           "title": "美国众议院监督管理委员会主席James Comer：本委员会将作废2月9日针对Ghislaine Maxwell的安排。 代理律师称Ghislaine Maxwell将保持沉默（在宣誓证词/录取口供时援引宪法第五修正案拒绝回答）。",
@@ -885,9 +1047,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "黄仁勋称AI时代蓝领更吃香，水管工、电工能拿六位数薪水",
+          "url": "https://wallstreetcn.com/livenews/3041458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国白宫AI主管David Sacks：美国（各州凳面）“拼凑的”AI制度威胁到创新。 儿童（数据隐私）安全必须是监管框架的一部分。",
@@ -907,7 +1080,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
