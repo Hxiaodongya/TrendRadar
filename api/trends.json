@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T15:20:03.022119+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2026-01-22T16:18:25.803219+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 241,
+      "match_count": 249,
       "titles": [
         {
           "title": "美国贸易代表：想和中国再谈谈，但不谈稀土",
@@ -31,19 +31,6 @@
           "time_info": "[00时24分 ~ 06时15分]"
         },
         {
-          "title": "美国正式退出世卫组织",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时20分]"
-        },
-        {
           "title": "美国正式退出世卫组织，仍欠2.6亿美元会费",
           "url": "https://news.ifeng.com/c/8q779STJZau",
           "source": "凤凰网",
@@ -52,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "特朗普称“美国拥有无人知晓的武器”，克宫表态",
@@ -63,8 +50,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时18分]"
+        },
+        {
+          "title": "美国正式退出世卫组织",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%BC%8F%E9%80%80%E5%87%BA%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "美国赢学升级,懂王天天开赢趴",
@@ -79,8 +80,35 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
+          "url": "https://www.cls.cn/detail/2265890",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时18分]"
+        },
+        {
+          "title": "美国退出世卫组织，仍欠 2.6 亿美元会费，世卫组织能要回这笔钱吗？美国退出对公共卫生体系有哪些影响？",
+          "url": "https://www.zhihu.com/question/1997579003989553651",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时18分]"
         },
         {
           "title": "U23国足决赛对阵日本胜算几何",
@@ -94,24 +122,52 @@
             15,
             8,
             23,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时18分]"
         },
         {
-          "title": "美国退出世卫组织，仍欠 2.6 亿美元会费，世卫组织能要回这笔钱吗？美国退出对公共卫生体系有哪些影响？",
-          "url": "https://www.zhihu.com/question/1997579003989553651",
-          "source": "知乎",
+          "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
+          "url": "https://wallstreetcn.com/articles/3763851",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
+            7,
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
+        },
+        {
+          "title": "美国正式退出世卫组织",
+          "url": "https://www.douyin.com/hot/2375680",
+          "source": "抖音",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时18分]"
+        },
+        {
+          "title": "三观震碎,美国食人竟不违法",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349508&amp;topic_name=%E4%B8%89%E8%A7%82%E9%9C%87%E7%A2%8E%2C%E7%BE%8E%E5%9B%BD%E9%A3%9F%E4%BA%BA%E7%AB%9F%E4%B8%8D%E8%BF%9D%E6%B3%95",
+          "source": "贴吧",
+          "ranks": [
+            2,
             3,
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时20分]"
+          "time_info": "[12时09分 ~ 16时18分]"
         },
         {
           "title": "股债汇三杀！“抛售美国”交易重回，习惯了TACO的市场为何突变？",
@@ -137,19 +193,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时24分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普演绎“TACO星期三”！美国市场“雷阵雨转晴” 华尔街如何看？",
-          "url": "https://www.cls.cn/detail/2265890",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时20分]"
         },
         {
           "title": "日本最大核电站重启",
@@ -215,11 +258,12 @@
             15,
             14,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时18分]"
         },
         {
           "title": "矮大紧狂吹美国,牢A一击KO",
@@ -234,8 +278,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时24分 ~ 15时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 16时18分]"
         },
         {
           "title": "日本最大核电站柏崎刈羽核电站重启",
@@ -281,43 +325,29 @@
           "time_info": "[00时24分 ~ 08时54分]"
         },
         {
-          "title": "美国正式退出世卫组织",
-          "url": "https://www.douyin.com/hot/2375680",
+          "title": "中方：日本根本没资格“入常”",
+          "url": "https://www.douyin.com/hot/2375667",
           "source": "抖音",
           "ranks": [
-            1,
-            13
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
-          "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
-          "url": "https://wallstreetcn.com/articles/3763851",
-          "source": "华尔街见闻",
+          "title": "牢 A 言论会影响美国留学中介，以及国人赴美留学的意愿吗？",
+          "url": "https://www.zhihu.com/question/1996028184605528079",
+          "source": "知乎",
           "ranks": [
-            8,
-            7,
-            6,
-            5
+            18,
+            19,
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时20分]"
-        },
-        {
-          "title": "三观震碎,美国食人竟不违法",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349508&amp;topic_name=%E4%B8%89%E8%A7%82%E9%9C%87%E7%A2%8E%2C%E7%BE%8E%E5%9B%BD%E9%A3%9F%E4%BA%BA%E7%AB%9F%E4%B8%8D%E8%BF%9D%E6%B3%95",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时54分 ~ 16时18分]"
         },
         {
           "title": "美国正式退出世卫组织",
@@ -336,29 +366,31 @@
           "time_info": "[08时54分 ~ 15时20分]"
         },
         {
-          "title": "中方：日本根本没资格“入常”",
-          "url": "https://www.douyin.com/hot/2375667",
-          "source": "抖音",
+          "title": "美国正式退出世卫组织",
+          "url": "https://www.cls.cn/detail/2265802",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时20分]"
-        },
-        {
-          "title": "牢 A 言论会影响美国留学中介，以及国人赴美留学的意愿吗？",
-          "url": "https://www.zhihu.com/question/1996028184605528079",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19,
-            17,
-            16
+            13,
+            12,
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时20分]"
+          "time_info": "[11时01分 ~ 16时18分]"
+        },
+        {
+          "title": "中方重申：日本根本没有资格“入常”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32438337",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时18分]"
         },
         {
           "title": "中方重申：日本根本没有资格“入常”",
@@ -375,29 +407,30 @@
           "time_info": "[08时54分 ~ 13时21分]"
         },
         {
-          "title": "中方重申：日本根本没有资格“入常”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32438337",
+          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
           "source": "澎湃新闻",
           "ranks": [
-            11,
             12,
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时20分]"
+          "time_info": "[12时09分 ~ 16时18分]"
         },
         {
-          "title": "美国正式退出世卫组织",
-          "url": "https://www.cls.cn/detail/2265802",
-          "source": "财联社热门",
+          "title": "中方重申日本根本没有资格入常",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%85%A5%E5%B8%B8",
+          "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            17,
+            30,
+            21
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时20分]"
+          "time_info": "[12时09分 ~ 16时18分]"
         },
         {
           "title": "美财长：我对中国稀土交付相当满意，日本那是自己作",
@@ -431,32 +464,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "观察｜夺岛风波中集体炮轰特朗普，欧洲这次真要硬刚美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32434094",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时20分]"
-        },
-        {
-          "title": "中方重申日本根本没有资格入常",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%85%A5%E5%B8%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            17,
-            30,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时20分]"
         },
         {
           "title": "市场消息：美国总统特朗普今天还将与埃及和比利时领导人会晤。",
@@ -610,7 +617,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -656,7 +663,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -670,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "中方回应日本驻重庆总领事空缺",
+          "url": "https://www.toutiao.com/trending/7598026028653084722/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "中方重申：日本根本没有资格“入常”",
@@ -692,6 +710,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "日本最大核电站重启后响起警报",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E9%87%8D%E5%90%AF%E5%90%8E%E5%93%8D%E8%B5%B7%E8%AD%A6%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时18分]"
         },
         {
           "title": "北约秘书长吕特：与美国的盟友关系比以往任何时候都更强大。 如果美国遭到打击，盟友们将支持美国。",
@@ -819,6 +849,17 @@
           "time_info": "[13时21分 ~ 14时20分]"
         },
         {
+          "title": "美媒：美国试图“年底前颠覆古巴政权”",
+          "url": "https://news.ifeng.com/c/8q7Oeik5anO",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时18分]"
+        },
+        {
           "title": "华尔街巨擘格里芬：日本国债大甩卖对美国政客可谓当头棒喝",
           "url": "https://wallstreetcn.com/livenews/3041476",
           "source": "华尔街见闻-快讯",
@@ -916,16 +957,16 @@
           "time_info": "[12时10分 ~ 13时21分]"
         },
         {
-          "title": "日本最大核电站重启后响起警报",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E9%87%8D%E5%90%AF%E5%90%8E%E5%93%8D%E8%B5%B7%E8%AD%A6%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "格陵兰“框架协议”流出：丹麦出让“格陵兰小块土地”主权，美国将建军事基地",
+          "url": "https://wallstreetcn.com/articles/3763885",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            30
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时20分]"
+          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
           "title": "美国暂时取消对欧洲8国加征关税",
@@ -939,28 +980,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时54分 ~ 12时10分]"
-        },
-        {
-          "title": "美媒：美国试图“年底前颠覆古巴政权”",
-          "url": "https://news.ifeng.com/c/8q7Oeik5anO",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时20分]"
-        },
-        {
-          "title": "格陵兰“框架协议”流出：丹麦出让“格陵兰小块土地”主权，美国将建军事基地",
-          "url": "https://wallstreetcn.com/articles/3763885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时20分]"
         },
         {
           "title": "马克龙称美国企图削弱和控制欧洲",
@@ -1451,6 +1470,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "牛津经济研究院：预计日本央行年中前仅加息一次",
+          "url": "https://flash.jin10.com/detail/20260122160718516800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "日本中部地区确认一起高致病性禽流感疫情",
           "url": "https://wallstreetcn.com/livenews/3041695",
           "source": "华尔街见闻-快讯",
@@ -1765,7 +1795,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1985,7 +2015,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2051,9 +2081,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "中国台湾12月失业率 3.35%，前值3.35%。",
+          "url": "https://flash.jin10.com/detail/20260122160004574800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：明天将会见乌克兰总统泽连斯基。",
@@ -2117,7 +2158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2320,6 +2361,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "日本维持谨慎的经济展望，并警告美国贸易政策带来的风险",
+          "url": "https://flash.jin10.com/detail/20260122155623435800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国总统特朗普：格陵兰框架是一项长期协议，将永久适用于格陵兰。 格陵兰框架让所有人都处于有利地位。 其中涉及矿物（开采/占有）权益，美国将“涉足”格陵兰矿物权。",
           "url": "https://wallstreetcn.com/livenews/3041499",
           "source": "华尔街见闻-快讯",
@@ -2395,6 +2447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "日本政府在月度报告中维持基本经济观点。",
+          "url": "https://flash.jin10.com/detail/20260122155421364800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：我在达沃斯的讲话得到很不错的关注。",
@@ -2529,13 +2592,24 @@
           "time_info": "08时54分"
         },
         {
+          "title": "据日经新闻：日本超市游说团体呼吁至少五年减税。",
+          "url": "https://flash.jin10.com/detail/20260122155258388800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "日经225指数收涨1.7%，报53688.89点。 日本东证指数收涨0.7%，报3616.38点。 韩国首尔综指收涨0.9%，报4952.53点。",
           "url": "https://wallstreetcn.com/livenews/3041820",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2694,6 +2768,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "台湾仁宝电脑：预计2026年整体笔记本电脑和个人电脑出货量将出现低个位数降幅。",
+          "url": "https://flash.jin10.com/detail/20260122154903299800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "法国推迟举行可能讨论美国关税威胁的G7财长会议，此前特朗普拒绝参加G7紧急会议的邀请",
           "url": "https://wallstreetcn.com/livenews/3041384",
           "source": "华尔街见闻-快讯",
@@ -2736,6 +2821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "台湾仁宝电脑：DRAM高价格态势将持续至2027年，并将对整个行业产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20260122154825558800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普在达沃斯演讲中誓言：美国绝不会成为“租房者之国”",
@@ -2807,7 +2903,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -2911,6 +3007,19 @@
           "time_info": "[02时30分 ~ 08时54分]"
         },
         {
+          "title": "黄仁勋谈AI如何改变经济",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时18分]"
+        },
+        {
           "title": "UP主带你玩转全球顶级AI现场",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -2925,17 +3034,16 @@
           "time_info": "[01时46分 ~ 11时01分]"
         },
         {
-          "title": "黄仁勋谈AI如何改变经济",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
-          "source": "bilibili 热搜",
+          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
+          "url": "https://www.cls.cn/detail/2265956",
+          "source": "财联社热门",
           "ranks": [
-            5,
             9,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
@@ -2947,6 +3055,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
           "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
@@ -3008,29 +3129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 13时21分]"
-        },
-        {
-          "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
-          "url": "https://www.cls.cn/detail/2265956",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时20分]"
-        },
-        {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时20分]"
         },
         {
           "title": "黄仁勋称AI时代蓝领更吃香，水管工、电工能拿六位数薪水",
@@ -3099,6 +3197,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "切入生成式AI赛道！苹果战略转向：首款AI聊天机器人要来了？",
+          "url": "https://www.cls.cn/detail/2265865",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
@@ -3206,7 +3326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -3220,6 +3340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "AI能否替代创作者",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%83%BD%E5%90%A6%E6%9B%BF%E4%BB%A3%E5%88%9B%E4%BD%9C%E8%80%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     }
