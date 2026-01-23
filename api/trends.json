@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T05:12:50.105509+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-01-24T06:10:43.956398+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 71,
+      "match_count": 77,
       "titles": [
         {
           "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "与日本决赛在即 中领馆提醒",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "美国正调集重兵前往伊朗",
@@ -38,11 +38,12 @@
             24,
             16,
             20,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
@@ -52,19 +53,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
-        },
-        {
-          "title": "日本首相的反常操作藏着何种算计",
-          "url": "https://www.toutiao.com/trending/7598561521072868900/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "美国超1400架次航班被取消",
@@ -77,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -90,8 +80,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
+        },
+        {
+          "title": "日本首相的反常操作藏着何种算计",
+          "url": "https://www.toutiao.com/trending/7598561521072868900/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
@@ -101,8 +103,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "美国十几个州宣布进入紧急状态",
@@ -113,8 +115,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "美国证交会：高盛CEO所罗门2025年薪酬定为4700万美元。",
@@ -123,9 +125,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时10分]"
         },
         {
           "title": "U23国足战日本队 转播计划来了",
@@ -136,8 +138,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "格陵兰框架协议曝光，不涉及主权转移，要求部署美国金穹导弹防御系统、更新 1951 年防务协议，如何解读？",
@@ -147,8 +149,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "U23国足vs日本",
@@ -159,19 +161,59 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时12分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时10分]"
         },
         {
-          "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
-          "url": "https://wallstreetcn.com/livenews/3043121",
+          "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
+          "url": "https://wallstreetcn.com/livenews/3043151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
+        },
+        {
+          "title": "与日本队争冠 U23国足胜算几何",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E6%97%A5%E6%9C%AC%E9%98%9F%E4%BA%89%E5%86%A0+U23%E5%9B%BD%E8%B6%B3%E8%83%9C%E7%AE%97%E5%87%A0%E4%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            28,
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时10分]"
+        },
+        {
+          "title": "消息人士：墨西哥正评估是否因担心美国报复而停止向古巴输送石油。",
+          "url": "https://flash.jin10.com/detail/20260124033038808800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 06时10分]"
+        },
+        {
+          "title": "美国投资级信用利差降至本世纪最低水平",
+          "url": "https://flash.jin10.com/detail/20260124023739011800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时10分]"
         },
         {
           "title": "央视转播U23国足与日本比赛",
@@ -186,32 +228,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时14分]"
-        },
-        {
-          "title": "与日本队争冠 U23国足胜算几何",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E6%97%A5%E6%9C%AC%E9%98%9F%E4%BA%89%E5%86%A0+U23%E5%9B%BD%E8%B6%B3%E8%83%9C%E7%AE%97%E5%87%A0%E4%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时12分]"
-        },
-        {
-          "title": "消息人士：墨西哥正评估是否因担心美国报复而停止向古巴输送石油。",
-          "url": "https://flash.jin10.com/detail/20260124033038808800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 05时12分]"
         },
         {
           "title": "美国1月23日当周天然气钻井数 122，前值 122。",
@@ -278,19 +294,6 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
-          "title": "美国投资级信用利差降至本世纪最低水平",
-          "url": "https://flash.jin10.com/detail/20260124023739011800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时12分]"
-        },
-        {
           "title": "阿达尼旗下Adani Green：本公司与美国证券交易委员会（SEC）起诉董事会无关。 SEC并没有起诉本公司。",
           "url": "https://wallstreetcn.com/livenews/3043092",
           "source": "华尔街见闻-快讯",
@@ -340,6 +343,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时19分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
+          "url": "https://wallstreetcn.com/livenews/3043121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时10分]"
         },
         {
           "title": "美国11月谘商会同步指标月率 0.3%。",
@@ -402,6 +417,59 @@
           "time_info": "[04时14分 ~ 05时12分]"
         },
         {
+          "title": "在美国和加拿大，新购的特斯拉车辆将继续配备交通感知巡航控制系统。",
+          "url": "https://flash.jin10.com/detail/20260124022417840800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时10分]"
+        },
+        {
+          "title": "在美国和加拿大，新购的特斯拉车辆的自动转向功能将仅面向FSD（需人工监督）版本。",
+          "url": "https://flash.jin10.com/detail/20260124022350622800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时10分]"
+        },
+        {
+          "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
+          "url": "https://flash.jin10.com/detail/20260124021424985800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时10分]"
+        },
+        {
+          "title": "丹麦称已开始与美国合作",
+          "url": "https://www.douyin.com/hot/2376734",
+          "source": "抖音",
+          "ranks": [
+            29,
+            21,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时10分]"
+        },
+        {
           "title": "美国至1月23日当周总钻井总数 544口，前值543口。",
           "url": "https://flash.jin10.com/detail/20260124020101708800",
           "source": "金十数据",
@@ -428,56 +496,15 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
-          "title": "在美国和加拿大，新购的特斯拉车辆将继续配备交通感知巡航控制系统。",
-          "url": "https://flash.jin10.com/detail/20260124022417840800",
+          "title": "消息人士：因担心美国报复 墨西哥评估是否停止向古巴输送石油",
+          "url": "https://flash.jin10.com/detail/20260124034227280800",
           "source": "金十数据",
           "ranks": [
-            10,
-            18,
-            25
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时12分]"
-        },
-        {
-          "title": "在美国和加拿大，新购的特斯拉车辆的自动转向功能将仅面向FSD（需人工监督）版本。",
-          "url": "https://flash.jin10.com/detail/20260124022350622800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时12分]"
-        },
-        {
-          "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
-          "url": "https://flash.jin10.com/detail/20260124021424985800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时12分]"
-        },
-        {
-          "title": "丹麦称已开始与美国合作",
-          "url": "https://www.douyin.com/hot/2376734",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时12分]"
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时10分]"
         },
         {
           "title": "美国11月谘商会领先指标月率 -0.3%，预期-0.2%。",
@@ -514,6 +541,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "美国Wrasse：下周一的参议院投票延后至下周二。",
+          "url": "https://wallstreetcn.com/livenews/3043118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 06时10分]"
         },
         {
           "title": "特斯拉在美国和加拿大停用基本驾驶辅助系统Autopilot",
@@ -648,26 +687,15 @@
           "time_info": "[02时19分 ~ 03时17分]"
         },
         {
-          "title": "美国Wrasse：下周一的参议院投票延后至下周二。",
-          "url": "https://wallstreetcn.com/livenews/3043118",
+          "title": "华尔街大行普遍下挫，高盛跌3.75%，摩根士丹利跌2.21%，摩根大通、花旗集团、美国银行、富国银行至多跌1.95%。",
+          "url": "https://wallstreetcn.com/livenews/3043141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "消息人士：因担心美国报复 墨西哥评估是否停止向古巴输送石油",
-          "url": "https://flash.jin10.com/detail/20260124034227280800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持NYMEX WTI原油净多头头寸增加10,927手合约，至53,434手合约，创五个月新高。",
@@ -676,9 +704,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国14个州和华盛顿特区宣布进入紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3043139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持COMEX黄金净多头头寸增加2,614手合约，至139,162手合约，创16周新高。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创八周新低。 所持NYMEX铂金净多头头寸创三周新低，转而持有NYMEX钯金净空头头寸。",
@@ -687,9 +726,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.623万亿美元，之前一周18.611万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3043138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "美国能源部长：冬季风暴可能引发停电风险 考虑必要时动用数据中心的备用电源",
@@ -709,9 +759,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美国现货天然气恐将创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3043135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "俄罗斯、乌克兰、美国开始在阿布扎比会谈。（塔斯社）",
@@ -745,6 +806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）主席：认为奈飞与华纳兄弟探索公司的交易存在“竞争问题”。",
+          "url": "https://wallstreetcn.com/livenews/3043129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "意大利总理梅洛尼：我已询问美国，是否有空间讨论和平委员会的条款，现行章程与我们的宪法不相容。",
@@ -870,22 +942,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -896,11 +954,27 @@
             7,
             5,
             6,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
+        },
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            10,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 06时10分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
