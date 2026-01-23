@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T01:19:20.123081+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-01-24T02:19:25.876533+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 41,
+      "match_count": 53,
       "titles": [
         {
           "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "与日本决赛在即 中领馆提醒",
@@ -26,19 +26,74 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
-          "title": "美国国务院：美国将确保那些支持凶残帮派、在海地制造恐怖主义的腐败政客付出沉重代价。",
-          "url": "https://flash.jin10.com/detail/20260124004957914800",
+          "title": "美国1月23日当周天然气钻井数 122，前值 122。",
+          "url": "https://wallstreetcn.com/livenews/3043086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰、美国和俄罗斯代表团已在阿联酋举行会谈，正在讨论结束战争的各项问题。",
+          "url": "https://flash.jin10.com/detail/20260124020428949800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美国1月23日当周石油钻井数 411，前值 410。",
+          "url": "https://wallstreetcn.com/livenews/3043085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "贝克休斯油服：美国钻井公司三周来首次增加石油和天然气钻机。",
+          "url": "https://flash.jin10.com/detail/20260124020155042800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美国至1月23日当周天然气钻井总数 122口，前值122口。",
+          "url": "https://flash.jin10.com/detail/20260124020113143800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "美国1月23日当周总钻井数 544，前值 543。",
+          "url": "https://wallstreetcn.com/livenews/3043083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "美国宣布对与伊朗相关实体及油轮实施新一轮制裁",
@@ -77,6 +132,18 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
+          "title": "美国国务院：美国将确保那些支持凶残帮派、在海地制造恐怖主义的腐败政客付出沉重代价。",
+          "url": "https://flash.jin10.com/detail/20260124004957914800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时19分]"
+        },
+        {
           "title": "美国11月领先指标环比下降0.3%，预期下降0.2%。",
           "url": "https://wallstreetcn.com/livenews/3043049",
           "source": "华尔街见闻-快讯",
@@ -108,8 +175,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "央视转播U23国足与日本比赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BD%AC%E6%92%ADU23%E5%9B%BD%E8%B6%B3%E4%B8%8E%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "日本首相的反常操作藏着何种算计",
@@ -119,19 +198,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
-          "title": "央视转播U23国足与日本比赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BD%AC%E6%92%ADU23%E5%9B%BD%E8%B6%B3%E4%B8%8E%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "美国超1400架次航班被取消",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B6%851400%E6%9E%B6%E6%AC%A1%E8%88%AA%E7%8F%AD%E8%A2%AB%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
           "ranks": [
-            7
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -139,11 +220,71 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
+          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "美国十几个州宣布进入紧急状态",
+          "url": "https://www.cls.cn/detail/2268133",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "U23国足战日本队 转播计划来了",
+          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F+%E8%BD%AC%E6%92%AD%E8%AE%A1%E5%88%92%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "格陵兰框架协议曝光，不涉及主权转移，要求部署美国金穹导弹防御系统、更新 1951 年防务协议，如何解读？",
+          "url": "https://www.zhihu.com/question/1997699067581588527",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "美国11月谘商会领先指标月率 -0.3%，预期-0.2%。",
@@ -158,27 +299,16 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
-          "title": "美国超1400架次航班被取消",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B6%851400%E6%9E%B6%E6%AC%A1%E8%88%AA%E7%8F%AD%E8%A2%AB%E5%8F%96%E6%B6%88",
-          "source": "百度热搜",
+          "title": "美国国务院：美国国务卿鲁比奥表示，海地总理必须在2月7日前解散过渡总统委员会（TPC）。",
+          "url": "https://flash.jin10.com/detail/20260124004815398800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
+            6,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
-        },
-        {
-          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
-          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时19分]"
         },
         {
           "title": "瑞士财长：瑞士纳税人不应为瑞银在美国的扩张行为负责。",
@@ -193,15 +323,16 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
-          "title": "美国十几个州宣布进入紧急状态",
-          "url": "https://www.cls.cn/detail/2268133",
-          "source": "财联社热门",
+          "title": "美国领先经济指标在10月和11月再次下滑 消费者信心疲弱是主要原因",
+          "url": "https://flash.jin10.com/detail/20260124004043992800",
+          "source": "金十数据",
           "ranks": [
-            9
+            9,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时19分]"
         },
         {
           "title": "瑞士财长：在达沃斯与美国代表团会晤期间并未深入讨论细节。",
@@ -240,39 +371,16 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
-          "title": "U23国足战日本队 转播计划来了",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F+%E8%BD%AC%E6%92%AD%E8%AE%A1%E5%88%92%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "Walgreens开始在美国的某些门店销售电子烟产品，为2019年以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3043059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            15
+            12,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
-        },
-        {
-          "title": "格陵兰框架协议曝光，不涉及主权转移，要求部署美国金穹导弹防御系统、更新 1951 年防务协议，如何解读？",
-          "url": "https://www.zhihu.com/question/1997699067581588527",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
-        },
-        {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时19分]"
         },
         {
           "title": "与日本队争冠 U23国足胜算几何",
@@ -286,37 +394,48 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
-          "title": "美国国务院：美国国务卿鲁比奥表示，海地总理必须在2月7日前解散过渡总统委员会（TPC）。",
-          "url": "https://flash.jin10.com/detail/20260124004815398800",
+          "title": "美国至1月23日当周总钻井总数 544口，前值543口。",
+          "url": "https://flash.jin10.com/detail/20260124020101708800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "02时19分"
         },
         {
-          "title": "美国领先经济指标在10月和11月再次下滑 消费者信心疲弱是主要原因",
-          "url": "https://flash.jin10.com/detail/20260124004043992800",
+          "title": "美国至1月23日当周石油钻井总数 411口，前值410口。",
+          "url": "https://flash.jin10.com/detail/20260124020055059800",
           "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "02时19分"
         },
         {
-          "title": "Walgreens开始在美国的某些门店销售电子烟产品，为2019年以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3043059",
-          "source": "华尔街见闻-快讯",
+          "title": "美国至1月23日当周石油钻井总数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260124015000000800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "02时19分"
+        },
+        {
+          "title": "丰田：在美国召回约16.2万辆坦途和坦途混动车。在特定情况下，车辆的多媒体显示屏可能会卡在摄像头画面或显示黑色图像。",
+          "url": "https://flash.jin10.com/detail/20260124014519769800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "美国能源部长：冬季风暴可能引发停电风险 考虑必要时动用数据中心的备用电源",
@@ -325,9 +444,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "新兴市场股市有望创5月以来最长连涨周数，投资者不声不响撤出美国资产",
+          "url": "https://wallstreetcn.com/livenews/3043074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "俄罗斯、乌克兰、美国开始在阿布扎比会谈。（塔斯社）",
@@ -339,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
+          "url": "https://wallstreetcn.com/livenews/3043069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "美国北达科他州：11月石油产量118.9104万桶/日。",
@@ -476,7 +617,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -486,19 +627,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
-        },
-        {
-          "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
-          "url": "https://flash.jin10.com/detail/20260124010639315800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -509,8 +639,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -518,11 +648,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
+        },
+        {
+          "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
+          "url": "https://flash.jin10.com/detail/20260124010639315800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时19分]"
+          "time_info": "[01时19分 ~ 02时19分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -548,13 +691,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/3043073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：未来一个月将推出大量与Codex相关的激动人心的新功能，将从下周开始公布。",
           "url": "https://flash.jin10.com/detail/20260124001800277800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
