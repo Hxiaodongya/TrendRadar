@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T13:20:33.505541+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-01-23T14:19:51.621993+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 249,
+      "match_count": 263,
       "titles": [
         {
           "title": "美国财长这句话，让日本极为尴尬",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
         },
         {
           "title": "U23国足vs日本战术推演",
@@ -57,17 +68,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 10时55分]"
-        },
-        {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时20分]"
         },
         {
           "title": "格陵兰“框架协议”流出：丹麦出让“格陵兰小块土地”主权，美国将建军事基地",
@@ -136,8 +136,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 13时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 14时19分]"
         },
         {
           "title": "中方重申日本根本没有资格入常",
@@ -156,8 +156,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时19分]"
         },
         {
           "title": "美国正式退出世卫组织",
@@ -197,8 +197,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 13时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 14时19分]"
         },
         {
           "title": "俄媒：中国应对美国威胁迎来新机遇",
@@ -214,6 +214,18 @@
           "time_info": "[01时21分 ~ 07时12分]"
         },
         {
+          "title": "美国Q3实际GDP季环比终值小幅上修至4.4%，创两年来最快增速，核心PCE通胀保持在2.9%",
+          "url": "https://wallstreetcn.com/articles/3763953",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
+        },
+        {
           "title": "美国要格陵兰岛矿产优先采购权",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%9F%BF%E4%BA%A7%E4%BC%98%E5%85%88%E9%87%87%E8%B4%AD%E6%9D%83",
           "source": "bilibili 热搜",
@@ -226,16 +238,29 @@
           "time_info": "[08时55分 ~ 10时55分]"
         },
         {
-          "title": "美国Q3实际GDP季环比终值小幅上修至4.4%，创两年来最快增速，核心PCE通胀保持在2.9%",
-          "url": "https://wallstreetcn.com/articles/3763953",
-          "source": "华尔街见闻",
+          "title": "日本众议院正式解散",
+          "url": "https://www.douyin.com/hot/2376945",
+          "source": "抖音",
           "ranks": [
-            9,
-            8
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时19分]"
+        },
+        {
+          "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
+          "url": "https://www.cls.cn/detail/2267117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时20分]"
+          "time_info": "[08时55分 ~ 14时19分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -264,17 +289,6 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
-          "title": "日本众议院正式解散",
-          "url": "https://www.douyin.com/hot/2376945",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时20分]"
-        },
-        {
           "title": "市场消息：美国众议院在共和党克服内部分歧后，推进了包含美国移民和海关执法局资金在内的1.2万亿美元方案。",
           "url": "https://flash.jin10.com/detail/20260123010258032800",
           "source": "金十数据",
@@ -284,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "日本拟2026财年上调公共养老金给付水平",
+          "url": "https://flash.jin10.com/detail/20260123140856329800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -317,20 +342,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
-          "url": "https://www.cls.cn/detail/2267117",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 13时20分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -381,6 +392,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本首相高市早苗：如果食品销售税减免措施仅限两年，我们就能确保足够的资金来源来资助该措施。",
+          "url": "https://flash.jin10.com/detail/20260123140708091800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "日本内阁通过众议院解散决议",
           "url": "https://wallstreetcn.com/livenews/3042417",
           "source": "华尔街见闻-快讯",
@@ -390,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "日本40年期国债收益率下跌5.5个基点至3.94%。",
-          "url": "https://wallstreetcn.com/livenews/3042583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "日本众议院已正式解散",
@@ -431,7 +442,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -445,6 +456,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "日本众议院正式解散",
+          "url": "https://www.toutiao.com/trending/7598110606285213238/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时19分]"
         },
         {
           "title": "美国至1月16日当周EIA精炼厂设备利用率 93.3%，预期94.5%，前值95.3%。",
@@ -526,6 +549,18 @@
           "time_info": "06时13分"
         },
         {
+          "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
+          "url": "https://wallstreetcn.com/articles/3763970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时19分]"
+        },
+        {
           "title": "美国批量“退群”图什么",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%B9%E9%87%8F%E2%80%9C%E9%80%80%E7%BE%A4%E2%80%9D%E5%9B%BE%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
@@ -587,18 +622,6 @@
           "time_info": "[12时46分 ~ 13时20分]"
         },
         {
-          "title": "日本众议院正式解散",
-          "url": "https://www.toutiao.com/trending/7598110606285213238/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时20分]"
-        },
-        {
           "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率1.940%（11月20日为1.843%），投标倍数2.38（前次为2.41）。",
           "url": "https://wallstreetcn.com/livenews/3042249",
           "source": "华尔街见闻-快讯",
@@ -646,6 +669,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 13时20分]"
+        },
+        {
+          "title": "日本40年期国债收益率下跌5.5个基点至3.94%。",
+          "url": "https://wallstreetcn.com/livenews/3042583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时19分]"
         },
         {
           "title": "北欧养老金负责人：由于债务担忧和地缘政治因素，持有美国资产的风险溢价已上升。",
@@ -780,17 +815,6 @@
           "time_info": "[01时21分 ~ 02时18分]"
         },
         {
-          "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
-          "url": "https://wallstreetcn.com/articles/3763970",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时20分]"
-        },
-        {
           "title": "中方：日本根本没资格“入常”",
           "url": "https://www.douyin.com/hot/2375667",
           "source": "抖音",
@@ -819,6 +843,30 @@
           "time_info": "[04时15分 ~ 06时13分]"
         },
         {
+          "title": "日本众议院正式解散",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E6%AD%A3%E5%BC%8F%E8%A7%A3%E6%95%A3",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时19分]"
+        },
+        {
+          "title": "流浪在美国的中国女子",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时19分]"
+        },
+        {
           "title": "日本首相高市早苗宣布解散众议院",
           "url": "https://www.toutiao.com/trending/7598210015144463913/",
           "source": "今日头条",
@@ -828,17 +876,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
-        },
-        {
-          "title": "日本众议院正式解散",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E6%AD%A3%E5%BC%8F%E8%A7%A3%E6%95%A3",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时20分]"
         },
         {
           "title": "英媒：美国推动俄罗斯和乌克兰在阿布扎比举行直接会谈",
@@ -1212,18 +1249,6 @@
           "time_info": "[12时02分 ~ 12时46分]"
         },
         {
-          "title": "流浪在美国的中国女子",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时20分]"
-        },
-        {
           "title": "世卫组织让美国结了账再退群",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E8%AE%A9%E7%BE%8E%E5%9B%BD%E7%BB%93%E4%BA%86%E8%B4%A6%E5%86%8D%E9%80%80%E7%BE%A4",
           "source": "bilibili 热搜",
@@ -1477,15 +1502,37 @@
           "time_info": "10时55分"
         },
         {
+          "title": "台湾证交所加权股价指数收涨0.7%报31,961.51点。",
+          "url": "https://wallstreetcn.com/livenews/3042594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国拖欠会费联合国有没有办法应对",
           "url": "https://www.toutiao.com/trending/7598370272940412462/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "美国“斩杀线”究竟“斩杀”了谁",
+          "url": "https://www.toutiao.com/trending/7598202268298513939/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国至1月16日当周EIA原油进口 -2.7万桶，前值71万桶。",
@@ -1620,6 +1667,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "英国金融科技公司Revolut：我们继续积极探讨所有选项，包括在美国申请全新银行牌照。",
+          "url": "https://flash.jin10.com/detail/20260123133413672800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国1月16日当周EIA精炼油库存变动 334.8万桶，预期 0万桶，前值 -2.9万桶。",
           "url": "https://wallstreetcn.com/livenews/3042218",
           "source": "华尔街见闻-快讯",
@@ -1670,7 +1728,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -1774,6 +1832,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "日本30年期国债收益率下行3BP至3.635%。",
+          "url": "https://wallstreetcn.com/livenews/3042588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国至1月16日当周EIA精炼油产量 -20.9万桶/日，前值-1.9万桶/日。",
           "url": "https://flash.jin10.com/detail/20260123010003478801",
           "source": "金十数据",
@@ -1840,6 +1909,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "日本2年期国债收益率升至1.245%，创1996年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3042587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国至1月16日当周EIA投产原油量 -35.4万桶/日，前值4.9万桶/日。",
           "url": "https://flash.jin10.com/detail/20260123010003451800",
           "source": "金十数据",
@@ -1882,6 +1962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "据华尔街日报：美国信息通信技术与服务办公室（OICTS）执行主任Liz Cannon于周三递交了辞呈，这是高层官员施压迫使她离职的最终结果。知情人士称，在她宣布离职之前，她的一名副手已于上周被停职。",
+          "url": "https://flash.jin10.com/detail/20260123132510216800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "日本1月综合PMI初值 52.8，前值 51.1。",
@@ -1945,7 +2036,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -2044,7 +2135,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -2121,7 +2212,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -2198,9 +2289,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌3个基点，至3.635%。",
+          "url": "https://flash.jin10.com/detail/20260123132039963800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "特朗普：美国将申办2035年世博会",
@@ -2267,6 +2369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "分析师：在日本央行行动之前，更可能先进行货币干预",
+          "url": "https://flash.jin10.com/detail/20260123132004338800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国经济分析局：10月价格由9月至11月CPI的几何平均值推算得出。",
@@ -2368,13 +2481,24 @@
           "time_info": "12时02分"
         },
         {
+          "title": "日本2年期国债收益率升至1.245%，创1996年以来新高。",
+          "url": "https://flash.jin10.com/detail/20260123131704483800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "美国批量“退群”图什么",
           "url": "https://www.toutiao.com/trending/7598203075370683913/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -2456,6 +2580,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "欧洲终于醒悟：美国真渣",
+          "url": "https://www.toutiao.com/trending/7597669166555955209/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "马克龙称美国企图削弱和控制欧洲",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%BC%81%E5%9B%BE%E5%89%8A%E5%BC%B1%E5%92%8C%E6%8E%A7%E5%88%B6%E6%AC%A7%E6%B4%B2",
           "source": "bilibili 热搜",
@@ -2487,6 +2622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "瑞穗：日本央行不认为加息落后于形势的风险特别高",
+          "url": "https://flash.jin10.com/detail/20260123131543709800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.630%，投标倍数2.86。 拍卖八周期国债，得标利率3.630%，投标倍数2.84。",
@@ -2555,13 +2701,24 @@
           "time_info": "12时02分"
         },
         {
+          "title": "日本40年期国债收益率继续下跌，最新下跌5.5个基点，报3.940%。",
+          "url": "https://flash.jin10.com/detail/20260123131207127800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "日本公布新一代远程打击武器",
           "url": "https://www.toutiao.com/trending/7598063085684788763/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -2866,7 +3023,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -2902,8 +3059,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 14时19分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -3000,6 +3157,18 @@
           "time_info": "[03时18分 ~ 04时15分]"
         },
         {
+          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
+          "url": "https://www.zhihu.com/question/1997937872972505781",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时19分]"
+        },
+        {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
           "url": "https://wallstreetcn.com/livenews/3042186",
           "source": "华尔街见闻-快讯",
@@ -3009,6 +3178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
+          "url": "https://www.cls.cn/detail/2267470",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "谷歌：在谷歌搜索中将个人智能扩展至AI模式。",
@@ -3055,15 +3235,15 @@
           "time_info": "03时18分"
         },
         {
-          "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
-          "url": "https://www.zhihu.com/question/1997937872972505781",
-          "source": "知乎",
+          "title": "马来西亚通信监管机构：在社交媒体平台X采取额外安全措施后，对Grok AI的访问已恢复。",
+          "url": "https://flash.jin10.com/detail/20260123131650409800",
+          "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "14时19分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：上个月API业务新增了约10亿美元的年度经常性收入(ARR)。",
