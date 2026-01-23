@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:36:59.515675+08:00",
-  "total_titles_processed": 2116,
+  "generated_at": "2026-01-23T22:16:58.331477+08:00",
+  "total_titles_processed": 2184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 342,
+      "match_count": 356,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -96,8 +96,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时55分 ~ 21时36分]"
+          "appearance_count": 17,
+          "time_info": "[08时55分 ~ 22时16分]"
         },
         {
           "title": "日本众议院正式解散",
@@ -115,6 +115,24 @@
           "time_info": "[12时46分 ~ 21时36分]"
         },
         {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            5,
+            6,
+            16,
+            20,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 22时16分]"
+        },
+        {
           "title": "朝鲜代表反对日本“入常”",
           "url": "https://www.douyin.com/hot/2376065",
           "source": "抖音",
@@ -128,6 +146,31 @@
           "time_info": "[00时21分 ~ 10时55分]"
         },
         {
+          "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
+          "url": "https://news.ifeng.com/c/8q9QZP2fRDr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时16分]"
+        },
+        {
+          "title": "中方回应美国调重兵前往伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            4,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 22时16分]"
+        },
+        {
           "title": "引爆日本债市、吓崩全球市场、点燃高市“特拉斯时刻”，只需2.8亿美元！",
           "url": "https://wallstreetcn.com/articles/3763970",
           "source": "华尔街见闻",
@@ -139,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时01分 ~ 21时36分]"
+          "appearance_count": 14,
+          "time_info": "[12时01分 ~ 22时16分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -152,36 +195,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 08时56分]"
-        },
-        {
-          "title": "中方回应美国调重兵前往伊朗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E8%B0%83%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 21时36分]"
-        },
-        {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            5,
-            6,
-            16,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 21时36分]"
         },
         {
           "title": "美国正式退出世卫组织",
@@ -217,8 +230,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时21分 ~ 21时36分]"
+          "appearance_count": 27,
+          "time_info": "[00时21分 ~ 22时16分]"
         },
         {
           "title": "中方重申日本根本没有资格入常",
@@ -281,17 +294,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时21分 ~ 15时18分]"
-        },
-        {
-          "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
-          "url": "https://news.ifeng.com/c/8q9QZP2fRDr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时36分]"
         },
         {
           "title": "日本众议院正式解散",
@@ -390,6 +392,17 @@
           "time_info": "[16时17分 ~ 21时36分]"
         },
         {
+          "title": "高市解散日本众议院是在回避什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E8%A7%A3%E6%95%A3%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E6%98%AF%E5%9C%A8%E5%9B%9E%E9%81%BF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时16分]"
+        },
+        {
           "title": "美国十几个州宣布进入紧急状态",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8D%81%E5%87%A0%E4%B8%AA%E5%B7%9E%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -400,6 +413,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时17分 ~ 18时15分]"
+        },
+        {
+          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
+          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时16分]"
+        },
+        {
+          "title": "U23国足战日本队 转播计划来了",
+          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F+%E8%BD%AC%E6%92%AD%E8%AE%A1%E5%88%92%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时16分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -472,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "市场消息：美国纽约州州长Hochul因风暴宣布全州进入紧急状态。",
+          "url": "https://flash.jin10.com/detail/20260123220721512800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -588,6 +634,17 @@
           "time_info": "18时15分"
         },
         {
+          "title": "美国向伊拉克发出威胁：若不遏制亲伊武装，将对其切断美元供应",
+          "url": "https://flash.jin10.com/detail/20260123220543864800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "日本内阁通过众议院解散决议",
           "url": "https://wallstreetcn.com/livenews/3042417",
           "source": "华尔街见闻-快讯",
@@ -608,17 +665,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
-        },
-        {
-          "title": "高市解散日本众议院是在回避什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E8%A7%A3%E6%95%A3%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E6%98%AF%E5%9C%A8%E5%9B%9E%E9%81%BF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "美国至1月16日当周EIA战略石油储备库存 80.6万桶，前值21.4万桶。",
@@ -654,17 +700,6 @@
           "time_info": "15时18分"
         },
         {
-          "title": "据美媒MS NOW：美国总统特朗普政府计划驱逐至少40名伊朗人，伊朗遣返航班最早将于周日启程。",
-          "url": "https://flash.jin10.com/detail/20260123211920762800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "美国银行、花旗集团考虑执行10%这一新版信用卡利率。",
           "url": "https://wallstreetcn.com/livenews/3042226",
           "source": "华尔街见闻-快讯",
@@ -685,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "美国纽约州州长Hochul宣布因冬季风暴进入紧急状态。",
+          "url": "https://wallstreetcn.com/livenews/3042988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国至1月16日当周EIA精炼厂设备利用率 93.3%，预期94.5%，前值95.3%。",
@@ -720,6 +766,17 @@
           "time_info": "16时17分"
         },
         {
+          "title": "乌克兰表示，美国将提供4亿美元人道主义援助用于能源领域。",
+          "url": "https://flash.jin10.com/detail/20260123220017439800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国1月堪萨斯联储制造业综合指数 0，预期 4，前值 1。",
           "url": "https://wallstreetcn.com/livenews/3042188",
           "source": "华尔街见闻-快讯",
@@ -742,28 +799,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时55分 ~ 12时46分]"
-        },
-        {
-          "title": "美媒惊讶：万斯一本正经将美国经济比作泰坦尼克号",
-          "url": "https://news.ifeng.com/c/8q9KkztYYOk",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时36分]"
-        },
-        {
-          "title": "U23国足战日本队 转播计划来了",
-          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F+%E8%BD%AC%E6%92%AD%E8%AE%A1%E5%88%92%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "美国1月堪萨斯联储制造业产出指数 -2，前值-3。",
@@ -830,6 +865,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "英国国债价格跌幅扩大，两年期英债收益率涨5个基点，报3.74%。 美国国债价格回吐涨幅，投资者关注油价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3042986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "日媒感叹：日本选举何其多",
@@ -1027,6 +1073,18 @@
           "time_info": "[12时02分 ~ 12时46分]"
         },
         {
+          "title": "据美媒MS NOW：美国总统特朗普政府计划驱逐至少40名伊朗人，伊朗遣返航班最早将于周日启程。",
+          "url": "https://flash.jin10.com/detail/20260123211920762800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时16分]"
+        },
+        {
           "title": "美国总统特朗普谈及美联储主席人选，声称：面试已经结束，很快会公布，心中有人选。",
           "url": "https://wallstreetcn.com/livenews/3042332",
           "source": "华尔街见闻-快讯",
@@ -1150,6 +1208,19 @@
           "time_info": "[18时14分 ~ 19时13分]"
         },
         {
+          "title": "欧盟外长就美国启动和平委员会表态",
+          "url": "https://www.toutiao.com/trending/7597708182946332735/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时16分]"
+        },
+        {
           "title": "老鼠干火到美国了",
           "url": "https://s.weibo.com/weibo?q=%E8%80%81%E9%BC%A0%E5%B9%B2%E7%81%AB%E5%88%B0%E7%BE%8E%E5%9B%BD%E4%BA%86&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -1259,6 +1330,18 @@
           "time_info": "[17时20分 ~ 18时15分]"
         },
         {
+          "title": "美国陆军部长Driscoll将参加与乌克兰和俄罗斯方面的会议。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3042964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时16分]"
+        },
+        {
           "title": "美国总统特朗普：很快就会宣布美联储主席人选。",
           "url": "https://flash.jin10.com/detail/20260123060127994800",
           "source": "金十数据",
@@ -1343,18 +1426,6 @@
           "time_info": "[03时18分 ~ 04时15分]"
         },
         {
-          "title": "欧盟外长就美国启动和平委员会表态",
-          "url": "https://www.toutiao.com/trending/7597708182946332735/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时36分]"
-        },
-        {
           "title": "美国1月16日当周EIA原油库存变动 360.2万桶，预期 -10.8万桶，前值 339.1万桶。",
           "url": "https://wallstreetcn.com/livenews/3042220",
           "source": "华尔街见闻-快讯",
@@ -1389,6 +1460,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时46分]"
+        },
+        {
+          "title": "美国十几个州进入紧急状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%81%E5%87%A0%E4%B8%AA%E5%B7%9E%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时16分]"
         },
         {
           "title": "北欧养老基金加速离场：丹麦清仓美债，瑞典跟卖，格陵兰考虑抛售美国股票",
@@ -1460,6 +1543,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时46分]"
+        },
+        {
+          "title": "美国SEC拟就欺诈指控问询创始人，阿达尼集团股价暴跌",
+          "url": "https://wallstreetcn.com/livenews/3042957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时16分]"
+        },
+        {
+          "title": "与日本决赛在即 中领馆提醒",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%B3%E8%B5%9B%E5%9C%A8%E5%8D%B3+%E4%B8%AD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时16分]"
         },
         {
           "title": "日本央行：日本经济可能会持续温和复苏。 消费者通胀或将逐步加速。 维持薪资与通胀同步上升的机制。 产出缺口可望随着趋势改善，温和扩张。 中长期通胀预期可能持续温和上升。",
@@ -1707,6 +1814,17 @@
           "time_info": "12时46分"
         },
         {
+          "title": "据英国金融时报：美国威胁称，若伊拉克不遏制亲伊武装，将对其切断美元供应。",
+          "url": "https://flash.jin10.com/detail/20260123215743404800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国总统特朗普声称：认为法国会希望加入所谓的“和平委员会”。 意大利希望加入。",
           "url": "https://wallstreetcn.com/livenews/3042329",
           "source": "华尔街见闻-快讯",
@@ -1738,17 +1856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
-        },
-        {
-          "title": "美国陆军部长Driscoll将参加与乌克兰和俄罗斯方面的会议。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3042964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "特朗普起诉美国最大银行",
@@ -1905,6 +2012,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "美国原油涨3%，报道称特朗普企图阻挠伊拉克出口石油",
+          "url": "https://wallstreetcn.com/livenews/3042982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国至1月16日当周EIA成品油进口 -39.7万桶/日，前值4.1万桶/日。",
           "url": "https://flash.jin10.com/detail/20260123010003638800",
           "source": "金十数据",
@@ -1949,6 +2067,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "强风暴逼近 美国超1400架次航班被取消",
+          "url": "https://flash.jin10.com/detail/20260123214522130800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "日经225指数早盘收涨0.3%，日本东证指数收涨0.6%。",
           "url": "https://wallstreetcn.com/livenews/3042499",
           "source": "华尔街见闻-快讯",
@@ -1969,17 +2098,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        },
-        {
-          "title": "美国十几个州进入紧急状态",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8D%81%E5%87%A0%E4%B8%AA%E5%B7%9E%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "美国拖欠会费联合国有没有办法应对",
@@ -2076,9 +2194,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报5.200美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260123214440552800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国1月16日当周EIA精炼厂设备利用率变化 -2%，预期 -0.65%，前值 0.6%。",
@@ -2123,6 +2252,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "央视转播U23国足与日本比赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BD%AC%E6%92%ADU23%E5%9B%BD%E8%B6%B3%E4%B8%8E%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美国十几个州宣布进入紧急状态",
+          "url": "https://www.cls.cn/detail/2268133",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国至1月16日当周EIA取暖油库存 27.9万桶，前值-74.5万桶。",
@@ -2200,6 +2351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "据Politico：欧盟与美国正在探讨建立一个规模高达8000亿美元的乌克兰战后重建基金。美欧正探讨一项为期10年的乌克兰“繁荣计划”，其中明确包含了将乌克兰纳入欧盟成员国身份的路径。",
+          "url": "https://flash.jin10.com/detail/20260123214402469800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国1月16日当周EIA精炼油库存变动 334.8万桶，预期 0万桶，前值 -2.9万桶。",
@@ -2299,17 +2461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "美国SEC拟就欺诈指控问询创始人，阿达尼集团股价暴跌",
-          "url": "https://wallstreetcn.com/livenews/3042957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "美国至1月16日当周EIA汽油产量 -24.6万桶/日，前值2.9万桶/日。",
@@ -2708,17 +2859,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "与日本决赛在即 中领馆提醒",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%B3%E8%B5%9B%E5%9C%A8%E5%8D%B3+%E4%B8%AD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "爱尔兰总理：我们不能忽视乌克兰局势。丹麦和美国之间现有的条约为格陵兰岛谈判提供了框架。",
           "url": "https://flash.jin10.com/detail/20260123005834365800",
           "source": "金十数据",
@@ -2939,6 +3079,17 @@
           "time_info": "20时24分"
         },
         {
+          "title": "日本“闪电”大选：政客寒风中求关注",
+          "url": "https://www.toutiao.com/trending/7598538203410222618/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "“和平委员会”标志被指和联合国相似，但主打金色、聚焦美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_32447553",
           "source": "澎湃新闻",
@@ -3047,6 +3198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普称「美国正调集重兵前往伊朗」，具体情况如何？伊朗局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/1998037091121140500",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "荷兰首相斯胡夫：坚信若就对乌克兰的安全保障达成一致，美国将予以落实。",
@@ -3209,7 +3371,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -3967,8 +4129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时55分 ~ 21时36分]"
+          "appearance_count": 17,
+          "time_info": "[08时55分 ~ 22时16分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -4009,8 +4171,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 21时36分]"
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 22时16分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -4019,11 +4181,12 @@
           "ranks": [
             14,
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时17分 ~ 21时36分]"
+          "appearance_count": 8,
+          "time_info": "[16时17分 ~ 22时16分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -4057,6 +4220,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 22时16分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -4095,18 +4271,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时17分 ~ 18时15分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 21时36分]"
         },
         {
           "title": "咻咻满COS翻唱icantwait",
@@ -4230,7 +4394,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
