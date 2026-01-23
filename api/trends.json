@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-23T08:56:00.878178+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-01-23T10:55:50.776622+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 185,
+      "match_count": 195,
       "titles": [
-        {
-          "title": "教授神评:美国公平度碾压国内",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349550&amp;topic_name=%E6%95%99%E6%8E%88%E7%A5%9E%E8%AF%84%3A%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B9%B3%E5%BA%A6%E7%A2%BE%E5%8E%8B%E5%9B%BD%E5%86%85",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 08时56分]"
-        },
         {
           "title": "美国财长这句话，让日本极为尴尬",
           "url": "https://news.ifeng.com/c/8q81yazj0KD",
@@ -28,20 +17,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 08时56分]"
-        },
-        {
-          "title": "U23国足vs日本战术推演",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%E6%88%98%E6%9C%AF%E6%8E%A8%E6%BC%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3,
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时12分]"
         },
         {
           "title": "中方重申：日本根本没有资格“入常”",
@@ -57,6 +32,33 @@
           "time_info": "[00时21分 ~ 06时13分]"
         },
         {
+          "title": "U23国足vs日本战术推演",
+          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B3vs%E6%97%A5%E6%9C%AC%E6%88%98%E6%9C%AF%E6%8E%A8%E6%BC%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3,
+            1,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时55分]"
+        },
+        {
+          "title": "教授神评:美国公平度碾压国内",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349550&amp;topic_name=%E6%95%99%E6%8E%88%E7%A5%9E%E8%AF%84%3A%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B9%B3%E5%BA%A6%E7%A2%BE%E5%8E%8B%E5%9B%BD%E5%86%85",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 10时55分]"
+        },
+        {
           "title": "格陵兰“框架协议”流出：丹麦出让“格陵兰小块土地”主权，美国将建军事基地",
           "url": "https://wallstreetcn.com/articles/3763885",
           "source": "华尔街见闻",
@@ -67,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时21分 ~ 08时56分]"
+          "appearance_count": 12,
+          "time_info": "[01时21分 ~ 10时55分]"
         },
         {
           "title": "朝鲜代表反对日本“入常”",
@@ -80,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 10时55分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -117,11 +119,29 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 10时55分]"
+        },
+        {
+          "title": "中方重申日本根本没有资格入常",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%85%A5%E5%B8%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            30,
+            16,
+            21,
+            27,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 10时55分]"
         },
         {
           "title": "美国正式退出世卫组织",
@@ -138,32 +158,17 @@
           "time_info": "[00时21分 ~ 07时12分]"
         },
         {
-          "title": "中方重申日本根本没有资格入常",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%85%A5%E5%B8%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            30,
-            16,
-            21,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时12分]"
-        },
-        {
           "title": "格陵兰岛蛋糕印美国国旗，美国政客聚会持刀瓜分",
           "url": "https://m.thepaper.cn/newsDetail_forward_32439911",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 10时55分]"
         },
         {
           "title": "美国赢学升级,懂王天天开赢趴",
@@ -171,11 +176,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 08时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 10时55分]"
         },
         {
           "title": "俄媒：中国应对美国威胁迎来新机遇",
@@ -191,17 +197,6 @@
           "time_info": "[01时21分 ~ 07时12分]"
         },
         {
-          "title": "美国要格陵兰岛矿产优先采购权",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%9F%BF%E4%BA%A7%E4%BC%98%E5%85%88%E9%87%87%E8%B4%AD%E6%9D%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
-        },
-        {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
           "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
           "source": "凤凰网",
@@ -209,8 +204,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "美国要格陵兰岛矿产优先采购权",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%9F%BF%E4%BA%A7%E4%BC%98%E5%85%88%E9%87%87%E8%B4%AD%E6%9D%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时55分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -263,7 +270,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -311,7 +318,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -322,7 +329,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -369,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "日本U23门将：不会过度敬畏李昊",
+          "url": "https://www.toutiao.com/trending/7597627910098436122/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国1月堪萨斯联储制造业产出指数 -2，前值-3。",
@@ -589,6 +607,40 @@
           "time_info": "[04时15分 ~ 06时13分]"
         },
         {
+          "title": "美国Q3实际GDP季环比终值小幅上修至4.4%，创两年来最快增速，核心PCE通胀保持在2.9%",
+          "url": "https://wallstreetcn.com/articles/3763953",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
+          "title": "美国批量“退群”图什么",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%B9%E9%87%8F%E2%80%9C%E9%80%80%E7%BE%A4%E2%80%9D%E5%9B%BE%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
           "title": "日本首相高市早苗宣布解散众议院",
           "url": "https://www.toutiao.com/trending/7598210015144463913/",
           "source": "今日头条",
@@ -708,17 +760,6 @@
           "time_info": "[03时18分 ~ 04时15分]"
         },
         {
-          "title": "美国Q3实际GDP季环比终值小幅上修至4.4%，创两年来最快增速，核心PCE通胀保持在2.9%",
-          "url": "https://wallstreetcn.com/articles/3763953",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
-        },
-        {
           "title": "美国1月16日当周EIA原油库存变动 360.2万桶，预期 -10.8万桶，前值 339.1万桶。",
           "url": "https://wallstreetcn.com/livenews/3042220",
           "source": "华尔街见闻-快讯",
@@ -753,17 +794,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
         },
         {
           "title": "马斯克亮相达沃斯：批评美国太阳能关税 透露特斯拉自动驾驶进展",
@@ -806,17 +836,6 @@
           "source": "微博",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
-        },
-        {
-          "title": "美国批量“退群”图什么",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%B9%E9%87%8F%E2%80%9C%E9%80%80%E7%BE%A4%E2%80%9D%E5%9B%BE%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -890,6 +909,17 @@
           "time_info": "06时13分"
         },
         {
+          "title": "日本央行利率决议看点",
+          "url": "https://wallstreetcn.com/livenews/3042502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "美国至1月16日当周EIA汽油库存 597.7万桶，预期170.5万桶，前值897.7万桶。",
           "url": "https://flash.jin10.com/detail/20260123010003672800",
           "source": "金十数据",
@@ -929,7 +959,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -951,7 +981,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1017,9 +1047,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "日经225指数早盘收涨0.3%，日本东证指数收涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3042499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国至1月16日当周EIA原油进口 -2.7万桶，前值71万桶。",
@@ -1072,7 +1113,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1094,7 +1135,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1138,7 +1179,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1160,7 +1201,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1215,7 +1256,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1347,7 +1388,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1402,7 +1443,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1490,7 +1531,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1515,6 +1556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国关税外交搅动达沃斯，各国加速“去美国化”贸易布局",
+          "url": "https://flash.jin10.com/detail/20260123102115785800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国PCE通胀数据发布后，标普500指数维持大约0.3%的涨幅，持稳于日低附近。 美国10年期国债收益率回落至接近4.26%的水平，涨幅收窄至不足2个基点，北京时间22:55（美联储青睐的PCE通胀指标发布前五分钟）还曾刷新日高至4.2747%。 两年期美债收益率维持超过2.3个基点的涨幅，持稳于日高3.6143%附近。 现货黄金维持0.1%的涨幅，持稳于4840美元下方。 美元指数维持0.2%的跌幅，持稳于日低98.528点附近，处于14:55以来持续下挫的“趋势”之中。",
@@ -1545,7 +1597,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1567,9 +1619,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "据知情人士透露，过去一周，日本金融厅已向包括日本生命保险公司在内的多家保险公司发出调查问卷。监管机构发出问询的时间，早于本周日本国债遭遇抛售、超长期国债收益率一度飙升至纪录高位、随后市场趋稳之前。",
+          "url": "https://flash.jin10.com/detail/20260123102107088800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "芬兰总理：必须承认，我们与美国的关系已经发生变化。 欧洲必须团结一致，必要时利用那些贸易工具（来打击报复美国总统特朗普）。 美国仍然是欧洲最重要的盟友。",
@@ -1622,9 +1685,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "据知情人士透露，日本金融监管机构已提前对大型寿险公司的财务状况进行例行检查，以了解在利率上升背景下，这些机构所面临的未实现投资损失情况。",
+          "url": "https://flash.jin10.com/detail/20260123102042123800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "特朗普：美国将申办2035年世博会",
@@ -1677,7 +1751,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1713,6 +1787,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：债券市场的恐慌抛售似乎已经缓解。 降低消费税的时机和如何弥补收入尚未确定。 将继续关注债券市场投资者动向。 避免对具体市场走势发表评论。 警惕全球及日本市场的波动性。 格陵兰岛交易后，市场平静下来，这很好。",
+          "url": "https://wallstreetcn.com/livenews/3042460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "据福克斯新闻记者：将支出法案提交美国议会审议的程序性投票陷入僵局。投票仍在进行中。程序性投票面临失败。共和党众议员斯帕茨是唯一投反对票的共和党人。另有6名共和党人尚未投票。",
@@ -1754,7 +1839,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1803,13 +1888,24 @@
           "time_info": "06时13分"
         },
         {
+          "title": "美元兑日元USD/JPY在日本央行政策决议前上涨0.19%，现报158.66。",
+          "url": "https://flash.jin10.com/detail/20260123101114263800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "克里姆林宫称，俄罗斯总统普京与美国特使的会谈结束。",
           "url": "https://wallstreetcn.com/livenews/3042396",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -1845,6 +1941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "特朗普提出动用北约保护美国南部边境",
+          "url": "https://wallstreetcn.com/livenews/3042452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美国至1月16日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
@@ -2029,7 +2136,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -2065,6 +2172,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：本季度美国GDP增长率将超过5%。",
+          "url": "https://wallstreetcn.com/livenews/3042443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "马斯克：美国的太阳能关税壁垒极高，壁垒人为推高了部署太阳能的经济成本。",
@@ -2114,7 +2232,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -2211,6 +2329,18 @@
           "time_info": "[04时15分 ~ 07时12分]"
         },
         {
+          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763967",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 10时55分]"
+        },
+        {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
           "url": "https://wallstreetcn.com/livenews/3042264",
           "source": "华尔街见闻-快讯",
@@ -2221,17 +2351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时15分]"
-        },
-        {
-          "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763967",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 08时56分]"
         },
         {
           "title": "OpenAI拟从客户AI辅助研发成果中分成",
@@ -2321,6 +2440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "王玉雯陈星旭撒糖给AI上了一课",
+          "url": "https://www.douyin.com/hot/2376144",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "英特尔四季度营收136.7亿美元，分析师预期134.3亿美元。 四季度数据中心和AI营收47.4亿美元，分析师预期44.2亿美元。 四季度客户计算营收81.9亿美元，分析师预期83.0亿美元。 四季度英特尔代工（Intel Foundry）营收45.1亿美元，分析师预期43.6亿美元。 预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。 英特尔（INTC）美股盘后跌4.62%。",
