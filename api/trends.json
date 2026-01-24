@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T08:53:34.260065+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-01-24T10:50:23.108375+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 89,
+      "match_count": 104,
       "titles": [
         {
           "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时50分]"
         },
         {
           "title": "中方回应美国调重兵前往伊朗",
@@ -85,8 +85,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时50分]"
         },
         {
           "title": "格陵兰框架协议曝光，不涉及主权转移，要求部署美国金穹导弹防御系统、更新 1951 年防务协议，如何解读？",
@@ -96,8 +96,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时50分]"
         },
         {
           "title": "美国超1400架次航班被取消",
@@ -160,6 +160,20 @@
           "time_info": "[00时17分 ~ 06时10分]"
         },
         {
+          "title": "消息人士：墨西哥正评估是否因担心美国报复而停止向古巴输送石油。",
+          "url": "https://flash.jin10.com/detail/20260124033038808800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时14分 ~ 10时50分]"
+        },
+        {
           "title": "美国投资级信用利差降至本世纪最低水平",
           "url": "https://flash.jin10.com/detail/20260124023739011800",
           "source": "金十数据",
@@ -195,35 +209,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 08时53分]"
-        },
-        {
-          "title": "消息人士：墨西哥正评估是否因担心美国报复而停止向古巴输送石油。",
-          "url": "https://flash.jin10.com/detail/20260124033038808800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            14
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[04时14分 ~ 08时53分]"
+          "time_info": "[05时12分 ~ 10时50分]"
         },
         {
           "title": "日本U23主帅：中国队有强大优点",
           "url": "https://www.toutiao.com/trending/7598695230568664586/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时50分]"
         },
         {
           "title": "与日本队争冠 U23国足胜算几何",
@@ -241,15 +244,48 @@
           "time_info": "[00时17分 ~ 06时10分]"
         },
         {
-          "title": "美国正调遣重兵前往伊朗，伊朗军方警告：“随时准备扣动扳机”",
-          "url": "https://wallstreetcn.com/livenews/3043184",
-          "source": "华尔街见闻-快讯",
+          "title": "范志毅谈国足战日本制胜点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E5%88%B6%E8%83%9C%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "韩国贸易特使：已告知美国贸易代表格里尔，Coupang事件不应被视为贸易问题。",
+          "url": "https://flash.jin10.com/detail/20260124095152150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "美国防部发布《国家防务战略》 将国土防御列为首要任务",
+          "url": "https://flash.jin10.com/detail/20260124094954292800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时50分"
+        },
+        {
+          "title": "韩国贸易特使：已告知美国贸易代表格里尔，政府对Coupang的调查与对任何韩国公司进行的调查并无二致。",
+          "url": "https://flash.jin10.com/detail/20260124094802506800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "央视转播U23国足与日本比赛",
@@ -264,6 +300,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "消息人士：因担心美国报复 墨西哥评估是否停止向古巴输送石油",
+          "url": "https://flash.jin10.com/detail/20260124034227280800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时12分 ~ 10时50分]"
         },
         {
           "title": "在美国和加拿大，新购的特斯拉车辆将继续配备交通感知巡航控制系统。",
@@ -456,16 +505,16 @@
           "time_info": "[05时12分 ~ 06时10分]"
         },
         {
-          "title": "消息人士：因担心美国报复 墨西哥评估是否停止向古巴输送石油",
-          "url": "https://flash.jin10.com/detail/20260124034227280800",
-          "source": "金十数据",
+          "title": "美国正调遣重兵前往伊朗，伊朗军方警告：“随时准备扣动扳机”",
+          "url": "https://wallstreetcn.com/livenews/3043184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            13
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 08时53分]"
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时50分]"
         },
         {
           "title": "美国11月谘商会同步指标月率 0.3%。",
@@ -554,6 +603,29 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
+          "title": "今夜决战日本队！为中国U23男足加油",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%9C%E5%86%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%EF%BC%81%E4%B8%BA%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E5%8A%A0%E6%B2%B9",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时50分]"
+        },
+        {
+          "title": "高市早苗选择“政治豪赌”，日本迎来最匆忙大选",
+          "url": "https://news.ifeng.com/c/8qAFbbrvTZw",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时50分]"
+        },
+        {
           "title": "美国11月谘商会领先指标月率 -0.3%，预期-0.2%。",
           "url": "https://flash.jin10.com/detail/20260123235422059800",
           "source": "金十数据",
@@ -600,6 +672,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时10分]"
+        },
+        {
+          "title": "U23中国对战日本转播计划出炉",
+          "url": "https://www.douyin.com/hot/2377607",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时50分]"
         },
         {
           "title": "特斯拉在美国和加拿大停用基本驾驶辅助系统Autopilot",
@@ -770,6 +853,17 @@
           "time_info": "[06时10分 ~ 07时13分]"
         },
         {
+          "title": "日本U23主帅：中国队有强大优点",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%ACU23%E4%B8%BB%E5%B8%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%89%E5%BC%BA%E5%A4%A7%E4%BC%98%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时50分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -782,37 +876,26 @@
           "time_info": "[02时19分 ~ 03时17分]"
         },
         {
-          "title": "今夜决战日本队！为中国U23男足加油",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%9C%E5%86%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%EF%BC%81%E4%B8%BA%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E5%8A%A0%E6%B2%B9",
-          "source": "百度热搜",
+          "title": "美国防部发布《国家防务战略》 将国土防御列为首要任务",
+          "url": "https://wallstreetcn.com/livenews/3043203",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时50分"
         },
         {
-          "title": "高市早苗选择“政治豪赌”，日本迎来最匆忙大选",
-          "url": "https://news.ifeng.com/c/8qAFbbrvTZw",
+          "title": "日本众议院解散现场，四位前首相同框，石破茂拒绝跟喊“万岁”",
+          "url": "https://v.ifeng.com/c/8qAYkEI9nJt",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "U23中国对战日本转播计划出炉",
-          "url": "https://www.douyin.com/hot/2377607",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时50分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持NYMEX WTI原油净多头头寸增加10,927手合约，至53,434手合约，创五个月新高。",
@@ -826,13 +909,24 @@
           "time_info": "05时12分"
         },
         {
+          "title": "中国 U23 对日本 U23 有什么优势吗？本场你最期待谁的发挥？",
+          "url": "https://www.zhihu.com/question/1998081035548717108",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "日本四位前首相同框",
           "url": "https://www.toutiao.com/trending/7598695175405489715/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -854,9 +948,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "加州州长称在达沃斯被美国“禁言”",
+          "url": "https://www.toutiao.com/trending/7598503292125265962/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "美国能源部长：冬季风暴可能引发停电风险 考虑必要时动用数据中心的备用电源",
@@ -870,13 +975,24 @@
           "time_info": "01时19分"
         },
         {
+          "title": "日本市场震荡促使美国财政部考虑干预汇市",
+          "url": "https://flash.jin10.com/detail/20260124085052472800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "为什么某些日本动画题材能持续在全球范围内保持高热度？",
           "url": "https://www.zhihu.com/question/1954265940465279965",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -890,17 +1006,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "日本U23主帅：中国队有强大优点",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%ACU23%E4%B8%BB%E5%B8%85%EF%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%9C%89%E5%BC%BA%E5%A4%A7%E4%BC%98%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时53分"
         },
         {
           "title": "俄罗斯、乌克兰、美国开始在阿布扎比会谈。（塔斯社）",
@@ -920,9 +1025,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "与日本决赛在即 中领馆提醒",
+          "url": "https://www.toutiao.com/trending/7598568000461766692/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32455284",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "美国北达科他州：11月石油产量118.9104万桶/日。",
@@ -934,6 +1061,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "特大冬季风暴逼近，美国25日航班取消数量超2900架次",
+          "url": "https://wallstreetcn.com/livenews/3043189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "日本妄图把导弹瞄准中国军舰",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A6%84%E5%9B%BE%E6%8A%8A%E5%AF%BC%E5%BC%B9%E7%9E%84%E5%87%86%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "从解散众议院到投票仅隔16天，日本创战后最短纪录",
@@ -958,13 +1107,24 @@
           "time_info": "06时10分"
         },
         {
+          "title": "报道：美国财政部采取行动干预外汇市场",
+          "url": "https://wallstreetcn.com/livenews/3043188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "美国法院：阿斯利康、强生、辉瑞、罗氏等制药商必须面对援助伊拉克恐怖组织的指控",
           "url": "https://wallstreetcn.com/livenews/3043165",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         },
@@ -1077,12 +1237,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "特朗普2.0对日本有何影响",
+          "url": "https://www.toutiao.com/trending/7598484923627867702/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -1109,8 +1280,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 08时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时50分]"
         },
         {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
@@ -1127,6 +1298,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -1153,6 +1335,18 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
+          "title": "AI驱动高端产品规模量产，PCB公司2025年业绩强势预增",
+          "url": "https://wallstreetcn.com/livenews/3043179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 10时50分]"
+        },
+        {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043073",
           "source": "华尔街见闻-快讯",
@@ -1165,15 +1359,15 @@
           "time_info": "[02时19分 ~ 03时17分]"
         },
         {
-          "title": "AI驱动高端产品规模量产，PCB公司2025年业绩强势预增",
-          "url": "https://wallstreetcn.com/livenews/3043179",
+          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
+          "url": "https://wallstreetcn.com/livenews/3043198",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时53分"
+          "time_info": "10时50分"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
