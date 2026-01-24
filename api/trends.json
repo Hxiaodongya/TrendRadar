@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-24T17:12:14.656744+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-01-24T18:12:20.348335+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 135,
+      "match_count": 141,
       "titles": [
+        {
+          "title": "U23国足vs日本",
+          "url": "https://www.douyin.com/hot/2377895",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 18时12分]"
+        },
         {
           "title": "丹麦军人携实弹登上格陵兰岛：如果美国进攻，立即战斗",
           "url": "https://news.ifeng.com/c/8q9QZP2fRDr",
@@ -31,17 +42,6 @@
           "time_info": "[00时17分 ~ 08时53分]"
         },
         {
-          "title": "U23国足vs日本",
-          "url": "https://www.douyin.com/hot/2377895",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 17时12分]"
-        },
-        {
           "title": "美国正调集重兵前往伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -57,6 +57,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "范志毅谈国足战日本制胜点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E5%88%B6%E8%83%9C%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时50分 ~ 18时12分]"
         },
         {
           "title": "美国十几个州宣布进入紧急状态",
@@ -95,21 +109,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时53分 ~ 17时12分]"
-        },
-        {
-          "title": "范志毅谈国足战日本制胜点",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8C%83%E5%BF%97%E6%AF%85%E8%B0%88%E5%9B%BD%E8%B6%B3%E6%88%98%E6%97%A5%E6%9C%AC%E5%88%B6%E8%83%9C%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时50分 ~ 14时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时53分 ~ 18时12分]"
         },
         {
           "title": "中国 U23 对日本 U23 有什么优势吗？本场你最期待谁的发挥？",
@@ -124,8 +125,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 17时12分]"
+          "appearance_count": 11,
+          "time_info": "[10时50分 ~ 18时12分]"
         },
         {
           "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
@@ -137,11 +138,12 @@
             14,
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时50分 ~ 17时12分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 18时12分]"
         },
         {
           "title": "明查｜美国将以7000亿美元买下格陵兰岛？谁说的？靠谱吗？",
@@ -151,11 +153,12 @@
             16,
             17,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时55分 ~ 17时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时55分 ~ 18时12分]"
         },
         {
           "title": "U23国足战日本队 转播计划来了",
@@ -289,6 +292,19 @@
           "time_info": "[10时50分 ~ 15时13分]"
         },
         {
+          "title": "日本网民热议中国U23",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE%E4%B8%AD%E5%9B%BDU23",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时12分]"
+        },
+        {
           "title": "美方向台湾公开催逼“保护费”",
           "url": "https://www.toutiao.com/trending/7598079118248788006/",
           "source": "今日头条",
@@ -387,19 +403,6 @@
           "time_info": "[05时12分 ~ 11时55分]"
         },
         {
-          "title": "日本网民热议中国U23",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE%E4%B8%AD%E5%9B%BDU23",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时12分]"
-        },
-        {
           "title": "消息人士：墨西哥正评估是否因担心美国报复而停止向古巴输送石油。",
           "url": "https://flash.jin10.com/detail/20260124033038808800",
           "source": "金十数据",
@@ -444,6 +447,18 @@
           "time_info": "[03时17分 ~ 08时53分]"
         },
         {
+          "title": "日本百货店去年12月中国内地顾客同比减少约四成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32450080",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 18时12分]"
+        },
+        {
           "title": "美国航空：为应对风暴费恩的影响，将于1月24日（周六）在公司夏洛特-芝加哥奥黑尔航线增加3000个额外座位。",
           "url": "https://flash.jin10.com/detail/20260124123052204800",
           "source": "金十数据",
@@ -471,6 +486,35 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时28分 ~ 16时15分]"
+        },
+        {
+          "title": "美方向台湾公开催逼“保护费”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E5%90%91%E5%8F%B0%E6%B9%BE%E5%85%AC%E5%BC%80%E5%82%AC%E9%80%BC%E2%80%9C%E4%BF%9D%E6%8A%A4%E8%B4%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            24,
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 18时12分]"
+        },
+        {
+          "title": "谷爱凌说美国已经有代表了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E7%BE%8E%E5%9B%BD%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BB%A3%E8%A1%A8%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时17分 ~ 18时12分]"
         },
         {
           "title": "与日本队争冠 U23国足胜算几何",
@@ -503,39 +547,28 @@
           "time_info": "[11时55分 ~ 15时13分]"
         },
         {
-          "title": "日本百货店去年12月中国内地顾客同比减少约四成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32450080",
-          "source": "澎湃新闻",
+          "title": "专家称日本想打的不是一般小仗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%83%B3%E6%89%93%E7%9A%84%E4%B8%8D%E6%98%AF%E4%B8%80%E8%88%AC%E5%B0%8F%E4%BB%97%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            7
+            7,
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 17时12分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时12分]"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
+          "title": "美国考虑全面封锁古巴石油进口 古巴斥美“野蛮攻击”",
+          "url": "https://wallstreetcn.com/livenews/3043267",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "专家称日本想打的不是一般小仗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%83%B3%E6%89%93%E7%9A%84%E4%B8%8D%E6%98%AF%E4%B8%80%E8%88%AC%E5%B0%8F%E4%BB%97%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时12分]"
+          "time_info": "18时12分"
         },
         {
           "title": "央视转播U23国足与日本比赛",
@@ -648,20 +681,6 @@
           "time_info": "[03时17分 ~ 07时13分]"
         },
         {
-          "title": "美方向台湾公开催逼“保护费”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E5%90%91%E5%8F%B0%E6%B9%BE%E5%85%AC%E5%BC%80%E5%82%AC%E9%80%BC%E2%80%9C%E4%BF%9D%E6%8A%A4%E8%B4%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            24,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 17时12分]"
-        },
-        {
           "title": "日本市场震荡促使美国财政部考虑干预汇市",
           "url": "https://flash.jin10.com/detail/20260124085052472800",
           "source": "金十数据",
@@ -688,19 +707,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时17分 ~ 07时13分]"
-        },
-        {
-          "title": "谷爱凌说美国已经有代表了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E7%BE%8E%E5%9B%BD%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%BB%A3%E8%A1%A8%E4%BA%86%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 17时12分]"
         },
         {
           "title": "美国1月23日当周天然气钻井数 122，前值 122。",
@@ -902,6 +908,18 @@
           "time_info": "[00时17分 ~ 01时19分]"
         },
         {
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
           "title": "美国防部发布《国家防务战略》 将国土防御列为首要任务",
           "url": "https://wallstreetcn.com/livenews/3043203",
           "source": "华尔街见闻-快讯",
@@ -965,6 +983,18 @@
           "time_info": "[10时50分 ~ 12时28分]"
         },
         {
+          "title": "美国多地进入紧急状态",
+          "url": "https://www.douyin.com/hot/2377837",
+          "source": "抖音",
+          "ranks": [
+            22,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时12分]"
+        },
+        {
           "title": "日本适龄U23共24人身价100万欧+",
           "url": "https://www.toutiao.com/trending/7597784247403905070/",
           "source": "今日头条",
@@ -1015,16 +1045,15 @@
           "time_info": "[02时19分 ~ 04时14分]"
         },
         {
-          "title": "美国多地进入紧急状态",
-          "url": "https://www.douyin.com/hot/2377837",
-          "source": "抖音",
+          "title": "“保卫本土！”美国新版国防战略出炉，一次没提“台湾”",
+          "url": "https://news.ifeng.com/c/8qB2j2n2O93",
+          "source": "凤凰网",
           "ranks": [
-            22,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时12分]"
+          "time_info": "[17时11分 ~ 18时12分]"
         },
         {
           "title": "美国11月谘商会领先指标月率 -0.3%，预期-0.2%。",
@@ -1075,6 +1104,18 @@
           "time_info": "[05时12分 ~ 06时10分]"
         },
         {
+          "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
+          "url": "https://flash.jin10.com/detail/20260124164256739800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
           "title": "特斯拉在美国和加拿大停用基本驾驶辅助系统Autopilot",
           "url": "https://wallstreetcn.com/livenews/3043100",
           "source": "华尔街见闻-快讯",
@@ -1097,6 +1138,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时19分]"
+        },
+        {
+          "title": "外界对日本将干预汇市的猜测升温 美国甚至可能罕见协助",
+          "url": "https://wallstreetcn.com/livenews/3043254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
         },
         {
           "title": "美国领先经济指标在10月和11月再次下滑 消费者信心疲弱是主要原因",
@@ -1138,17 +1191,6 @@
           "title": "日元剧烈反弹！市场怀疑官方出手，日本财务大臣拒绝承认：“时刻保持紧迫关注”",
           "url": "https://wallstreetcn.com/articles/3764038",
           "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 17时12分]"
-        },
-        {
-          "title": "“保卫本土！”美国新版国防战略出炉，一次没提“台湾”",
-          "url": "https://news.ifeng.com/c/8qB2j2n2O93",
-          "source": "凤凰网",
           "ranks": [
             10
           ],
@@ -1215,6 +1257,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时13分]"
+        },
+        {
+          "title": "美国邀意大利加入加沙稳定部队 梅洛尼权衡外交平衡策略",
+          "url": "https://flash.jin10.com/detail/20260124161514788800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
         },
         {
           "title": "美国北达科他州石油产量因严寒天气而减少8万-11万桶/日。",
@@ -1288,6 +1342,18 @@
           "time_info": "[08时53分 ~ 10时50分]"
         },
         {
+          "title": "民调显示多数美国人不满ICE执法 驱逐移民政策引发严重分歧",
+          "url": "https://flash.jin10.com/detail/20260124160949982800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时12分 ~ 18时12分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -1359,26 +1425,26 @@
           "time_info": "[14时17分 ~ 15时13分]"
         },
         {
-          "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
-          "url": "https://flash.jin10.com/detail/20260124164256739800",
-          "source": "金十数据",
+          "title": "专家：日本想打的不是一般的小仗，它想打大战",
+          "url": "https://news.ifeng.com/c/8qB4UDU3L6N",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "罕见！美国首次召集34国军方高级官员举行会议",
+          "url": "https://news.ifeng.com/c/8qB9QgrIkRk",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "外界对日本将干预汇市的猜测升温 美国甚至可能罕见协助",
-          "url": "https://wallstreetcn.com/livenews/3043254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "18时12分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持NYMEX WTI原油净多头头寸增加10,927手合约，至53,434手合约，创五个月新高。",
@@ -1401,17 +1467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
-        },
-        {
-          "title": "美国邀意大利加入加沙稳定部队 梅洛尼权衡外交平衡策略",
-          "url": "https://flash.jin10.com/detail/20260124161514788800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时12分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：1月20日当周，投机者所持COMEX黄金净多头头寸增加2,614手合约，至139,162手合约，创16周新高。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创八周新低。 所持NYMEX铂金净多头头寸创三周新低，转而持有NYMEX钯金净空头头寸。",
@@ -1469,15 +1524,15 @@
           "time_info": "05时12分"
         },
         {
-          "title": "民调显示多数美国人不满ICE执法 驱逐移民政策引发严重分歧",
-          "url": "https://flash.jin10.com/detail/20260124160949982800",
-          "source": "金十数据",
+          "title": "日本U23后卫：以最大尊重对待比赛",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%ACU23%E5%90%8E%E5%8D%AB%EF%BC%9A%E4%BB%A5%E6%9C%80%E5%A4%A7%E5%B0%8A%E9%87%8D%E5%AF%B9%E5%BE%85%E6%AF%94%E8%B5%9B",
+          "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "18时12分"
         },
         {
           "title": "俄罗斯、乌克兰、美国开始在阿布扎比会谈。（塔斯社）",
@@ -1546,6 +1601,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "U23国足对日本U23战绩",
+          "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E5%AF%B9%E6%97%A5%E6%9C%ACU23%E6%88%98%E7%BB%A9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美国法院：阿斯利康、强生、辉瑞、罗氏等制药商必须面对援助伊拉克恐怖组织的指控",
           "url": "https://wallstreetcn.com/livenews/3043165",
           "source": "华尔街见闻-快讯",
@@ -1599,6 +1665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国三分之二人口面临冰雪灾害",
+          "url": "https://www.toutiao.com/trending/7597998454350561322/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美国1月密歇根大学消费者信心指数终值 56.4，预期 54，初值 54。",
@@ -1692,7 +1769,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -1705,8 +1782,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时55分 ~ 17时12分]"
+          "appearance_count": 11,
+          "time_info": "[11时55分 ~ 18时12分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -1784,16 +1861,28 @@
           "time_info": "[14时17分 ~ 17时12分]"
         },
         {
+          "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
+          "url": "https://flash.jin10.com/detail/20260124180858943800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
           "source": "百度热搜",
           "ranks": [
             29,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时12分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 18时12分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -1808,6 +1897,33 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时50分 ~ 13时15分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://s.weibo.com/weibo?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时12分]"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 18时12分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
@@ -1832,31 +1948,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时19分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://s.weibo.com/weibo?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时12分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 17时12分]"
         },
         {
           "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
@@ -1908,6 +1999,17 @@
           "time_info": "[08时53分 ~ 10时50分]"
         },
         {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 18时12分]"
+        },
+        {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043073",
           "source": "华尔街见闻-快讯",
@@ -1920,15 +2022,48 @@
           "time_info": "[02时19分 ~ 03时17分]"
         },
         {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
+          "title": "特斯拉计划在德州工厂启动Optimus（擎天柱）人形机器人的训练工作。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3043265",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "18时12分"
+        },
+        {
+          "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
+          "url": "https://wallstreetcn.com/livenews/3043263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "“木头姐”年度重磅：ARK 2026 Big Idea",
+          "url": "https://wallstreetcn.com/articles/3764074",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
+          "url": "https://wallstreetcn.com/livenews/3043261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
@@ -1951,6 +2086,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "U23亚洲杯决赛各家AI如何预测",
+          "url": "https://www.toutiao.com/trending/7598105139395756082/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
