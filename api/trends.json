@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T07:12:09.170395+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-25T09:01:30.229365+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 73,
+      "match_count": 86,
       "titles": [
         {
           "title": "U23国足vs日本",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "U23国足不敌日本获得亚军",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 09时01分]"
         },
         {
           "title": "U23国足不敌日本获亚洲杯亚军",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 09时01分]"
         },
         {
           "title": "正视差距!国足0比4日本摘亚",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 09时01分]"
         },
         {
           "title": "中国0-4不敌日本无缘U23亚洲杯冠军",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 09时01分]"
         },
         {
           "title": "U23国足0比4日本",
@@ -71,8 +71,53 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 09时01分]"
+        },
+        {
+          "title": "赛场屹线丨中国0比4不敌日本，获U23亚洲杯亚军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448622",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时12分]"
+          "time_info": "[02时16分 ~ 09时01分]"
+        },
+        {
+          "title": "U23国足0:4日本获亚军",
+          "url": "https://www.douyin.com/hot/2377895",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 09时01分]"
+        },
+        {
+          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1998499370979522168",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 09时01分]"
+        },
+        {
+          "title": "美国因风暴取消超9000个航班",
+          "url": "https://flash.jin10.com/detail/20260124225309637800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "李昊英语喊话干扰日本队点球",
@@ -84,62 +129,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时10分 ~ 07时12分]"
-        },
-        {
-          "title": "赛场屹线丨中国0比4不敌日本，获U23亚洲杯亚军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448622",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
-        },
-        {
-          "title": "美国因风暴取消超9000个航班",
-          "url": "https://flash.jin10.com/detail/20260124225309637800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "U23国足0:4日本获亚军",
-          "url": "https://www.douyin.com/hot/2377895",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
-        },
-        {
-          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1998499370979522168",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
-        },
-        {
-          "title": "日本U23为U23国足列队鼓掌",
-          "url": "https://www.toutiao.com/trending/7598977627994721819/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
         },
         {
           "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
@@ -156,27 +145,17 @@
           "time_info": "[00时13分 ~ 07时12分]"
         },
         {
-          "title": "专家：日本想打的不是一般的小仗，它想打大战",
-          "url": "https://news.ifeng.com/c/8qB4UDU3L6N",
-          "source": "凤凰网",
+          "title": "日本U23为U23国足列队鼓掌",
+          "url": "https://www.toutiao.com/trending/7598977627994721819/",
+          "source": "今日头条",
           "ranks": [
-            6
+            2,
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "拒绝卡脖子,美国实现袜子本土造",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349624&amp;topic_name=%E6%8B%92%E7%BB%9D%E5%8D%A1%E8%84%96%E5%AD%90%2C%E7%BE%8E%E5%9B%BD%E5%AE%9E%E7%8E%B0%E8%A2%9C%E5%AD%90%E6%9C%AC%E5%9C%9F%E9%80%A0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 09时01分]"
         },
         {
           "title": "U23国足0比4日本队",
@@ -189,8 +168,60 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 09时01分]"
+        },
+        {
+          "title": "专家：日本想打的不是一般的小仗，它想打大战",
+          "url": "https://news.ifeng.com/c/8qB4UDU3L6N",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 09时01分]"
+        },
+        {
+          "title": "拒绝卡脖子,美国实现袜子本土造",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349624&amp;topic_name=%E6%8B%92%E7%BB%9D%E5%8D%A1%E8%84%96%E5%AD%90%2C%E7%BE%8E%E5%9B%BD%E5%AE%9E%E7%8E%B0%E8%A2%9C%E5%AD%90%E6%9C%AC%E5%9C%9F%E9%80%A0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "美国财政部：特朗普将出席特朗普账户峰会",
+          "url": "https://wallstreetcn.com/livenews/3043301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "美国多地进入紧急状态",
@@ -200,23 +231,12 @@
             7,
             6,
             9,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "美国财政部：特朗普将出席特朗普账户峰会",
-          "url": "https://wallstreetcn.com/livenews/3043301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "美国“退群” 加州“入群”",
@@ -232,8 +252,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "“保卫本土！”美国新版国防战略出炉，一次没提“台湾”",
@@ -288,6 +308,19 @@
           "time_info": "[00时13分 ~ 07时12分]"
         },
         {
+          "title": "冲击冠军！U23国足决战日本：王钰栋彭啸首发，拜合拉木替补",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32458763",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 09时01分]"
+        },
+        {
           "title": "美国退群加州进群",
           "url": "https://www.toutiao.com/trending/7598175396799086646/",
           "source": "今日头条",
@@ -304,18 +337,40 @@
           "time_info": "[00时13分 ~ 07时12分]"
         },
         {
-          "title": "决赛不敌日本，中国队收获U23亚洲杯亚军，创历史最佳战绩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32459344",
-          "source": "澎湃新闻",
+          "title": "U23国足0-4日本",
+          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            14,
-            12,
-            5
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[02时16分 ~ 09时01分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：本次讨论的重点是结束冲突的可能方案。我非常赞赏各方理解美国有必要监督和控制结束冲突的进程，并确保真正的安全。美方提出了确定结束冲突的各项参数以及实现这一目标所需的安全条件的可能形式的问题。",
+          "url": "https://flash.jin10.com/detail/20260124220258942800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260124214134476800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "日本队6号",
@@ -332,39 +387,64 @@
           "time_info": "[01时10分 ~ 07时12分]"
         },
         {
-          "title": "冲击冠军！U23国足决战日本：王钰栋彭啸首发，拜合拉木替补",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32458763",
-          "source": "澎湃新闻",
+          "title": "市场消息：美国联邦住房金融局决定让房利美和房地美继续持有价值400亿美元的抵押债券。",
+          "url": "https://flash.jin10.com/detail/20260124213632166800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            18,
-            19
+            12,
+            16
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[01时10分 ~ 07时12分]"
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
-          "title": "U23国足0-4日本",
-          "url": "https://search.bilibili.com/all?keyword=U23%E5%9B%BD%E8%B6%B30-4%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时16分 ~ 07时12分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：本次讨论的重点是结束冲突的可能方案。我非常赞赏各方理解美国有必要监督和控制结束冲突的进程，并确保真正的安全。美方提出了确定结束冲突的各项参数以及实现这一目标所需的安全条件的可能形式的问题。",
-          "url": "https://flash.jin10.com/detail/20260124220258942800",
+          "title": "阿联酋政府发言人：会谈重点讨论了美国提出的和平框架中的“未决要素”。",
+          "url": "https://flash.jin10.com/detail/20260124212710699800",
           "source": "金十数据",
           "ranks": [
-            6
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "告别千亿重建成本 美国欲以“低成本方案”盘活委内瑞拉石油",
+          "url": "https://flash.jin10.com/detail/20260124211756973800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260124211543155800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
+        },
+        {
+          "title": "美国交通部长达菲：联邦航空管理局正与我们的航空合作伙伴携手，为航空公司和机场的准备工作提供支持。",
+          "url": "https://flash.jin10.com/detail/20260124210113671800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "日本成U23亚洲杯首支卫冕成功球队",
@@ -408,28 +488,6 @@
           "time_info": "[02时16分 ~ 07时12分]"
         },
         {
-          "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260124214134476800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "市场消息：美国联邦住房金融局决定让房利美和房地美继续持有价值400亿美元的抵押债券。",
-          "url": "https://flash.jin10.com/detail/20260124213632166800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
           "title": "阿联酋政府发言人表示，由阿布扎比主办的俄罗斯与乌克兰之间的会谈包含两国官员的“直接接触”。会谈是在“建设性和积极的氛围”中进行的。会谈聚焦于美国所提议和平框架的“未决要素”。",
           "url": "https://wallstreetcn.com/livenews/3043292",
           "source": "华尔街见闻-快讯",
@@ -466,39 +524,6 @@
           "time_info": "[00时13分 ~ 07时12分]"
         },
         {
-          "title": "阿联酋政府发言人：会谈重点讨论了美国提出的和平框架中的“未决要素”。",
-          "url": "https://flash.jin10.com/detail/20260124212710699800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "告别千亿重建成本 美国欲以“低成本方案”盘活委内瑞拉石油",
-          "url": "https://flash.jin10.com/detail/20260124211756973800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260124211543155800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
           "title": "乌克兰、美国、俄罗斯在阿联酋举行的会谈结束。（乌克兰国家公共广播公司）",
           "url": "https://wallstreetcn.com/livenews/3043284",
           "source": "华尔街见闻-快讯",
@@ -517,17 +542,6 @@
           "ranks": [
             21,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "美国交通部长达菲：联邦航空管理局正与我们的航空合作伙伴携手，为航空公司和机场的准备工作提供支持。",
-          "url": "https://flash.jin10.com/detail/20260124210113671800",
-          "source": "金十数据",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -599,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "特朗普称美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://flash.jin10.com/detail/20260125081127653800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "闪电失球!国足半场2比0日本",
@@ -674,15 +699,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3043311",
+          "title": "谭德塞：美国决定退出世卫组织的理由“不实”",
+          "url": "https://wallstreetcn.com/livenews/3043332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "09时01分"
         },
         {
           "title": "明尼阿波利斯急诊室护士拍摄，被美国联邦移民执法人员打死并被多次“补枪”",
@@ -691,9 +716,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特使：新一轮美俄乌三方会谈计划下周在阿布扎比举行",
+          "url": "https://wallstreetcn.com/livenews/3043331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "特朗普起诉美国最大银行摩根大通，索赔至少 50 亿美元，具体是怎么回事？他能胜诉吗？",
@@ -701,11 +737,23 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 07时12分]"
+          "appearance_count": 4,
+          "time_info": "[06时11分 ~ 09时01分]"
+        },
+        {
+          "title": "贺炜：U23国足输给日本并非世界末日",
+          "url": "https://www.toutiao.com/trending/7598204256374128682/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "日本网民热议中国U23",
@@ -719,15 +767,15 @@
           "time_info": "00时13分"
         },
         {
-          "title": "卡尼号召加拿大人“购买国货”以回应美国关税威胁",
-          "url": "https://wallstreetcn.com/livenews/3043309",
-          "source": "华尔街见闻-快讯",
+          "title": "中国对日本提出越来越高的惩戒",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%8F%90%E5%87%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%E7%9A%84%E6%83%A9%E6%88%92%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "09时01分"
         },
         {
           "title": "U23亚洲杯决赛，国足能否战胜卫冕冠军日本？",
@@ -742,6 +790,18 @@
           "time_info": "[00时13分 ~ 01时10分]"
         },
         {
+          "title": "冬季风暴来袭，特朗普称已批准美国多州进入紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3043311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 09时01分]"
+        },
+        {
           "title": "日本进球",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%BF%9B%E7%90%83&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -752,6 +812,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时10分]"
+        },
+        {
+          "title": "卡尼号召加拿大人“购买国货”以回应美国关税威胁",
+          "url": "https://wallstreetcn.com/livenews/3043309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 09时01分]"
         },
         {
           "title": "范志毅谈U23国足对战日本队",
@@ -765,6 +837,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 07时12分]"
+        },
+        {
+          "title": "埃克森美孚：因严寒天气而在美国得克萨斯州Baytown炼油厂关闭某些设备。",
+          "url": "https://wallstreetcn.com/livenews/3043313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 09时01分]"
         },
         {
           "title": "u23国足半场0比2日本",
@@ -813,26 +897,26 @@
           "time_info": "[00时13分 ~ 01时10分]"
         },
         {
-          "title": "埃克森美孚：因严寒天气而在美国得克萨斯州Baytown炼油厂关闭某些设备。",
-          "url": "https://wallstreetcn.com/livenews/3043313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
           "title": "据FlightAware，周六至下周一（1月24-26日），美国已经因冬季暴风雪天期而取消超过13,000趟航班。",
           "url": "https://wallstreetcn.com/livenews/3043312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "日本U23为U23国足列队鼓掌",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%ACU23%E4%B8%BAU23%E5%9B%BD%E8%B6%B3%E5%88%97%E9%98%9F%E9%BC%93%E6%8E%8C",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "U23决赛国足vs日本前瞻",
@@ -844,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "明尼阿波利斯急诊室护士拍摄，被美国联邦移民执法人员打死并被“补枪”",
+          "url": "https://wallstreetcn.com/livenews/3043308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "U23国足0比4日本U23",
@@ -868,6 +963,28 @@
           "time_info": "01时10分"
         },
         {
+          "title": "冬季风暴致美国超13000架次航班被取消",
+          "url": "https://wallstreetcn.com/livenews/3043312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美国联邦移民执法中再次发生枪杀事件，特朗普指责明尼苏达州州长“煽动叛乱”",
+          "url": "https://wallstreetcn.com/livenews/3043320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
           "title": "美国涉中俄战略出现重大转变",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B6%89%E4%B8%AD%E4%BF%84%E6%88%98%E7%95%A5%E5%87%BA%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%BD%AC%E5%8F%98%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -877,6 +994,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "特朗普：美国将取得格陵兰岛美军基地所在区域“主权”",
+          "url": "https://wallstreetcn.com/livenews/3043325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美国网友快把热水吹成灵丹妙药了",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%BF%AB%E6%8A%8A%E7%83%AD%E6%B0%B4%E5%90%B9%E6%88%90%E7%81%B5%E4%B8%B9%E5%A6%99%E8%8D%AF%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "日本U23亚洲杯6场比赛只丢1球",
+          "url": "https://www.toutiao.com/trending/7598308447200739334/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "U23国足下一场大考是日本亚运会",
+          "url": "https://www.baidu.com/s?wd=U23%E5%9B%BD%E8%B6%B3%E4%B8%8B%E4%B8%80%E5%9C%BA%E5%A4%A7%E8%80%83%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -890,11 +1051,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -905,8 +1067,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -914,11 +1076,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -942,11 +1105,12 @@
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 09时01分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
