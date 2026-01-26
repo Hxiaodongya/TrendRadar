@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T14:23:15.230907+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-01-26T15:21:04.208789+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 123,
+      "match_count": 125,
       "titles": [
         {
           "title": "明州发生第二起“ICE枪杀案”，美国政府月底关门风险“陡增”",
@@ -33,8 +33,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时10分 ~ 14时23分]"
+          "appearance_count": 19,
+          "time_info": "[01时10分 ~ 15时21分]"
         },
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -102,11 +102,12 @@
             9,
             15,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 14时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 15时21分]"
         },
         {
           "title": "谭德塞：美国决定退出世卫组织的理由“不实”",
@@ -142,11 +143,12 @@
             15,
             21,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 14时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 15时21分]"
         },
         {
           "title": "正视差距!国足0比4日本摘亚",
@@ -158,11 +160,12 @@
             20,
             25,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 14时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 15时21分]"
         },
         {
           "title": "拒绝卡脖子,美国实现袜子本土造",
@@ -203,6 +206,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时11分]"
+        },
+        {
+          "title": "明尼苏达州再发移民执法枪击事件，美国政府“部分关门”风险陡增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32460744",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时59分 ~ 15时21分]"
         },
         {
           "title": "受冬季风暴影响，美国超60万用户停电",
@@ -257,39 +274,94 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "明尼苏达州再发移民执法枪击事件，美国政府“部分关门”风险陡增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32460744",
+          "title": "特大冬季风暴“围堵”美国 超市抢空",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E5%86%AC%E5%AD%A3%E9%A3%8E%E6%9A%B4%E2%80%9C%E5%9B%B4%E5%A0%B5%E2%80%9D%E7%BE%8E%E5%9B%BD+%E8%B6%85%E5%B8%82%E6%8A%A2%E7%A9%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 15时21分]"
+        },
+        {
+          "title": "第1现场｜特大冬季风暴“围堵”美国：超市抢空，超2亿人受灾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32441608",
           "source": "澎湃新闻",
           "ranks": [
+            12,
             11,
-            9,
             10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时59分 ~ 14时23分]"
+          "time_info": "[12时48分 ~ 15时21分]"
+        },
+        {
+          "title": "5秒内至少近距离开了10枪！逐帧回顾美国明尼阿波利斯执法枪击事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32463654",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 15时21分]"
+        },
+        {
+          "title": "美国的寒潮究竟有多厉害",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%92%E6%BD%AE%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 15时21分]"
+        },
+        {
+          "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
+          "url": "https://wallstreetcn.com/articles/3764129",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 15时21分]"
         },
         {
           "title": "美国派出重兵合围伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B4%BE%E5%87%BA%E9%87%8D%E5%85%B5%E5%90%88%E5%9B%B4%E4%BC%8A%E6%9C%97%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时21分]"
         },
         {
           "title": "张本美和在乒乓球全日本锦标赛女单决赛中以 4 比 3 险胜早田希娜并夺冠，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1998780712875205150",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时21分]"
         },
         {
           "title": "日本首相高市早苗：如果执政联盟在众议院选举中无法获得多数席位，我将立即辞职。",
@@ -298,7 +370,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -314,6 +386,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时10分]"
+        },
+        {
+          "title": "美国明州枪击案全解读",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%87%BB%E6%A1%88%E5%85%A8%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 15时21分]"
         },
         {
           "title": "俄副外长：与美国就外交财产等问题的对话暂无进展",
@@ -345,7 +430,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -394,56 +479,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
-        },
-        {
-          "title": "特大冬季风暴“围堵”美国 超市抢空",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E5%86%AC%E5%AD%A3%E9%A3%8E%E6%9A%B4%E2%80%9C%E5%9B%B4%E5%A0%B5%E2%80%9D%E7%BE%8E%E5%9B%BD+%E8%B6%85%E5%B8%82%E6%8A%A2%E7%A9%BA",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 14时23分]"
-        },
-        {
-          "title": "第1现场｜特大冬季风暴“围堵”美国：超市抢空，超2亿人受灾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32441608",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 14时23分]"
-        },
-        {
-          "title": "5秒内至少近距离开了10枪！逐帧回顾美国明尼阿波利斯执法枪击事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32463654",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 14时23分]"
-        },
-        {
-          "title": "美国的寒潮究竟有多厉害",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%92%E6%BD%AE%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 14时23分]"
         },
         {
           "title": "据PowerOutage.us网站统计，截至东部时间上午7:22，美国全境报告的停电户数已达523,067户。",
@@ -534,18 +569,6 @@
           "time_info": "[13时27分 ~ 14时23分]"
         },
         {
-          "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
-          "url": "https://wallstreetcn.com/articles/3764129",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 14时23分]"
-        },
-        {
           "title": "机构：美国罕见询价日元凸显行事方式出现大转变",
           "url": "https://flash.jin10.com/detail/20260126121952687800",
           "source": "金十数据",
@@ -606,6 +629,18 @@
           "time_info": "[06时11分 ~ 07时12分]"
         },
         {
+          "title": "严寒席卷美国 留学生：比南极洲还冷",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A5%E5%AF%92%E5%B8%AD%E5%8D%B7%E7%BE%8E%E5%9B%BD+%E7%95%99%E5%AD%A6%E7%94%9F%EF%BC%9A%E6%AF%94%E5%8D%97%E6%9E%81%E6%B4%B2%E8%BF%98%E5%86%B7",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时21分]"
+        },
+        {
           "title": "美国国务院表示，正采取措施对海地两名过渡总统委员会成员实施签证限制并撤销其签证。",
           "url": "https://flash.jin10.com/detail/20260126053551409800",
           "source": "金十数据",
@@ -642,16 +677,27 @@
           "time_info": "[13时27分 ~ 14时23分]"
         },
         {
-          "title": "美国明州枪击案全解读",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%87%BB%E6%A1%88%E5%85%A8%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
+          "title": "程序员27岁去美国35岁流落街头",
+          "url": "https://s.weibo.com/weibo?q=%E7%A8%8B%E5%BA%8F%E5%91%9827%E5%B2%81%E5%8E%BB%E7%BE%8E%E5%9B%BD35%E5%B2%81%E6%B5%81%E8%90%BD%E8%A1%97%E5%A4%B4&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            25,
-            29
+            12,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时26分 ~ 14时23分]"
+          "time_info": "[14时22分 ~ 15时21分]"
+        },
+        {
+          "title": "美国“林肯”号航母打击群已经抵达中东",
+          "url": "https://www.cls.cn/detail/2269065",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时21分]"
         },
         {
           "title": "日本体育报为旅日大熊猫出整期报纸",
@@ -666,15 +712,15 @@
           "time_info": "[12时48分 ~ 13时27分]"
         },
         {
-          "title": "严寒席卷美国 留学生：比南极洲还冷",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A5%E5%AF%92%E5%B8%AD%E5%8D%B7%E7%BE%8E%E5%9B%BD+%E7%95%99%E5%AD%A6%E7%94%9F%EF%BC%9A%E6%AF%94%E5%8D%97%E6%9E%81%E6%B4%B2%E8%BF%98%E5%86%B7",
-          "source": "百度热搜",
+          "title": "美国派出重兵“合围伊朗”",
+          "url": "https://www.toutiao.com/trending/7599514410310209067/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
+          "time_info": "[15时20分 ~ 15时21分]"
         },
         {
           "title": "日本首相高市早苗称，将日本央行的ETF持仓、养老基金和外汇储备结合起来设立主权财富基金并不现实。",
@@ -808,17 +854,6 @@
           "time_info": "[13时27分 ~ 14时23分]"
         },
         {
-          "title": "程序员27岁去美国35岁流落街头",
-          "url": "https://s.weibo.com/weibo?q=%E7%A8%8B%E5%BA%8F%E5%91%9827%E5%B2%81%E5%8E%BB%E7%BE%8E%E5%9B%BD35%E5%B2%81%E6%B5%81%E8%90%BD%E8%A1%97%E5%A4%B4&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
           "title": "2年期日本国债收益率上行2个基点，至1.27%，创1996年以来的最高水平。",
           "url": "https://wallstreetcn.com/livenews/3043676",
           "source": "华尔街见闻-快讯",
@@ -829,17 +864,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 14时23分]"
-        },
-        {
-          "title": "美国“林肯”号航母打击群已经抵达中东",
-          "url": "https://www.cls.cn/detail/2269065",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "委内瑞拉代总统呼吁政治解决分歧，强烈谴责美国干涉行径",
@@ -949,7 +973,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -982,7 +1006,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1015,7 +1039,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1059,7 +1083,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1092,7 +1116,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1169,7 +1193,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1416,6 +1440,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "日经225指数收跌1.8%，报52885.25点。 日本东证指数收跌2.1%，报3552.49点。 韩国首尔综指收跌0.8%，报4949.59点。",
+          "url": "https://wallstreetcn.com/livenews/3043728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "美国林肯号航母打击群已经抵达中东",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E5%B7%B2%E7%BB%8F%E6%8A%B5%E8%BE%BE%E4%B8%AD%E4%B8%9C",
           "source": "百度热搜",
@@ -1463,7 +1498,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -1502,8 +1537,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 13时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时13分 ~ 15时21分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -1533,6 +1568,19 @@
           "time_info": "[00时13分 ~ 11时12分]"
         },
         {
+          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
+          "url": "https://www.cls.cn/detail/2269090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 15时21分]"
+        },
+        {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
           "url": "https://wallstreetcn.com/livenews/3043398",
           "source": "华尔街见闻-快讯",
@@ -1546,16 +1594,29 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
-          "url": "https://www.cls.cn/detail/2269090",
-          "source": "财联社热门",
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
           "ranks": [
-            13,
-            9
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时21分]"
+        },
+        {
+          "title": "你怎么看iPhone Air降价",
+          "url": "https://www.toutiao.com/trending/7599137251189800969/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时48分 ~ 14时23分]"
+          "time_info": "[12时48分 ~ 15时21分]"
         },
         {
           "title": "腾讯元宝内测“元宝派”，探索社交AI新形态",
@@ -1570,16 +1631,28 @@
           "time_info": "[11时12分 ~ 12时48分]"
         },
         {
-          "title": "你怎么看iPhone Air降价",
-          "url": "https://www.toutiao.com/trending/7599137251189800969/",
-          "source": "今日头条",
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            17
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时21分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 15时21分]"
         },
         {
           "title": "网友刚买iPhoneAir第二天就降价2000元",
@@ -1593,46 +1666,13 @@
           "time_info": "[12时48分 ~ 13时27分]"
         },
         {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 14时23分]"
-        },
-        {
           "title": "大摩研究：英国受AI影响最深，岗位流失速度达国际平均水平两倍",
           "url": "https://flash.jin10.com/detail/20260126133454787800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         },
@@ -1646,6 +1686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "马化腾：腾讯唯一花钱投入比较多的就是AI",
+          "url": "https://wallstreetcn.com/livenews/3043744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.81%，半导体芯片、商业航天、机器人、AI应用等方向跌幅居前，沪深京三市下跌个股近4000只。",
