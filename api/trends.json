@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T02:21:05.040207+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-01-27T03:17:26.076752+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 64,
+      "match_count": 80,
       "titles": [
         {
           "title": "外交部提醒春节避免前往日本",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "外交部提醒春节避免前往日本",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "第1现场｜特大冬季风暴“围堵”美国：超市抢空，超2亿人受灾",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "外交部提醒中国公民春节期间避免前往日本",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "日本队门将荒木琉伟当选本届 U23 亚洲杯最佳门将，而国足门将李昊无缘该奖项，如何评价 U23 国足的发挥？",
@@ -68,11 +68,34 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
+        },
+        {
+          "title": "外交部提醒：春节期间避免前往日本",
+          "url": "https://www.cls.cn/detail/2269852",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
+        },
+        {
+          "title": "日本列车与卡车相撞，4名中国公民受伤",
+          "url": "https://news.ifeng.com/c/8qEknx01cDS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "6名中国男子日本滑雪被困“死亡谷”",
@@ -86,50 +109,6 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
-          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
-          "url": "https://wallstreetcn.com/livenews/3044146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "美国天然气期货突破7美元/百万英热",
-          "url": "https://flash.jin10.com/detail/20260127013347479800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        },
-        {
-          "title": "外交部提醒：春节期间避免前往日本",
-          "url": "https://www.cls.cn/detail/2269852",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
-        },
-        {
-          "title": "日本列车与卡车相撞，4名中国公民受伤",
-          "url": "https://news.ifeng.com/c/8qEknx01cDS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
-        },
-        {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
           "url": "https://wallstreetcn.com/articles/3764157",
           "source": "华尔街见闻",
@@ -138,21 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
-        },
-        {
-          "title": "美国的寒潮究竟有多厉害",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%92%E6%BD%AE%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "5秒内至少近距离开了10枪！逐帧回顾美国明尼阿波利斯执法枪击事件",
@@ -162,8 +128,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "导演魏德圣：台湾人绝对不是亲日本的，我们的经历不一样",
@@ -173,8 +139,33 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
+        },
+        {
+          "title": "美国的寒潮究竟有多厉害",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%92%E6%BD%AE%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            19,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
+        },
+        {
+          "title": "美国北达科他州因严寒天气而减产石油8万-11万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3044163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
@@ -184,8 +175,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
@@ -195,8 +186,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "日本党首辩论",
@@ -208,8 +199,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "台湾省314人因冷空气去世",
@@ -221,8 +212,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "6名中国男子日本滑雪被困“死亡谷”",
@@ -231,11 +222,12 @@
           "ranks": [
             26,
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "美国大乱,ICE再次枪杀白人",
@@ -245,8 +237,65 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
+        },
+        {
+          "title": "挪威主权财富基金被告知：要为应对美国更多威胁做好准备",
+          "url": "https://wallstreetcn.com/livenews/3044162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
+          "url": "https://flash.jin10.com/detail/20260127024854559800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国白宫：不希望看到政府资金耗尽。",
+          "url": "https://flash.jin10.com/detail/20260127024752462800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国白宫：总统特朗普并未承诺允许进行地方调查。",
+          "url": "https://flash.jin10.com/detail/20260127024457827800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "德国总理默茨：美国境内的暴力水平“让人感到忧心忡忡”。",
+          "url": "https://wallstreetcn.com/livenews/3044132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 03时17分]"
         },
         {
           "title": "北约秘书长吕特：任何认为欧洲可以在没有美国支持的情况下实现自我防卫的人“应该继续做梦”。",
@@ -261,16 +310,16 @@
           "time_info": "[00时21分 ~ 01时22分]"
         },
         {
-          "title": "德国总理默茨：美国境内的暴力水平“让人感到忧心忡忡”。",
-          "url": "https://wallstreetcn.com/livenews/3044132",
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
+          "url": "https://wallstreetcn.com/livenews/3044146",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15
+            1,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时22分 ~ 02时21分]"
+          "time_info": "[02时21分 ~ 03时17分]"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -283,6 +332,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时21分]"
+        },
+        {
+          "title": "美国天然气期货突破7美元/百万英热",
+          "url": "https://flash.jin10.com/detail/20260127013347479800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 03时17分]"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉于周一与美国总统特朗普通话。",
@@ -309,6 +370,19 @@
           "time_info": "[01时22分 ~ 02时21分]"
         },
         {
+          "title": "美国明州枪击案全解读",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%87%BB%E6%A1%88%E5%85%A8%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时17分]"
+        },
+        {
           "title": "4名中国公民在日本受伤",
           "url": "https://search.bilibili.com/all?keyword=4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8F%97%E4%BC%A4",
           "source": "bilibili 热搜",
@@ -331,18 +405,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 01时22分]"
-        },
-        {
-          "title": "美国明州枪击案全解读",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%87%BB%E6%A1%88%E5%85%A8%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 02时21分]"
         },
         {
           "title": "美国至1月26日6个月国债竞拍-投标倍数 3.07，前值2.95。",
@@ -499,6 +561,72 @@
           "time_info": "[00时20分 ~ 00时21分]"
         },
         {
+          "title": "美国白宫：美国公民无权阻挠移民执法行动。",
+          "url": "https://flash.jin10.com/detail/20260127024116682800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
+          "url": "https://wallstreetcn.com/livenews/3044152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国白宫：总统特朗普将于周二前往艾奥瓦州就经济发表演讲。",
+          "url": "https://flash.jin10.com/detail/20260127023746619800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3044149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国白宫：诺姆继续监管国土安全部。",
+          "url": "https://flash.jin10.com/detail/20260127023137036800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国白宫：总统特朗普希望明尼阿波利斯枪击事件的调查继续进行。",
+          "url": "https://flash.jin10.com/detail/20260127023132184800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国1月达拉斯联储制造业原材料支付价格指数 37.1，前值36。",
           "url": "https://flash.jin10.com/detail/20260126233210370800",
           "source": "金十数据",
@@ -538,7 +666,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -552,6 +680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国白宫：总统特朗普在周一与沃尔兹（明尼苏达州州长）的通话中概述了恢复秩序的路径；如果实施这些措施，将不再需要海关和边境巡逻队。总统特朗普呼吁国会通过立法，废除“庇护城市”政策。",
+          "url": "https://flash.jin10.com/detail/20260127022628782800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "美国1月达拉斯联储商业活动指数 -1.2，预期 -8.6，前值 -10.9。",
@@ -587,6 +726,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美国白宫：白宫里没有人希望看到有人在美国街头被杀害。",
+          "url": "https://flash.jin10.com/detail/20260127022112981800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国1月达拉斯联储制成品价格指数 18.5，前值8.2。",
           "url": "https://flash.jin10.com/detail/20260126233136093800",
           "source": "金十数据",
@@ -604,7 +754,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -686,6 +836,39 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国至1月26日2年期国债竞拍-投标倍数 2.75，前值2.54。",
+          "url": "https://flash.jin10.com/detail/20260127020258606800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国至1月26日2年期国债竞拍-得标利率 3.58%，前值3.50%。",
+          "url": "https://flash.jin10.com/detail/20260127020258605800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "美国至1月26日2年期国债竞拍-得标利率配置百分比 52.25%，前值6.2%。",
+          "url": "https://flash.jin10.com/detail/20260127020258584800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
           "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
           "url": "https://wallstreetcn.com/livenews/3044081",
           "source": "华尔街见闻-快讯",
@@ -754,8 +937,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -765,8 +948,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -776,8 +959,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
@@ -787,8 +970,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -822,8 +1005,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时17分]"
         },
         {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
