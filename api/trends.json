@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T15:18:50.512418+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-01-28T16:18:35.645081+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 174,
+      "match_count": 185,
       "titles": [
         {
           "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
@@ -43,6 +43,18 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "美国、英国、法国、德国发表联合声明",
+          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 16时18分]"
+        },
+        {
           "title": "美国冬季风暴已致至少 30 人死亡，超 100 万户断电，此次寒潮是如何形成的？情况为何如此严重?",
           "url": "https://www.zhihu.com/question/1998544560092123896",
           "source": "知乎",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时18分 ~ 08时56分]"
-        },
-        {
-          "title": "美国、英国、法国、德国发表联合声明",
-          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 15时18分]"
         },
         {
           "title": "美国暴雪流浪者何去何从",
@@ -101,21 +101,6 @@
           "time_info": "[01时20分 ~ 10时58分]"
         },
         {
-          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            7,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时18分]"
-        },
-        {
           "title": "日本一女性在同一家公司上班近70年",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E6%80%A7%E5%9C%A8%E5%90%8C%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%8F%AD%E8%BF%9170%E5%B9%B4%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -128,6 +113,22 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时18分 ~ 08时56分]"
+        },
+        {
+          "title": "外交部回应高市早苗涉台最新言论：日方没有任何资格对中国台湾置喙",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32473117",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            7,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时18分]"
         },
         {
           "title": "中方是否正采取措施让美国释放马杜罗夫妇？外交部回应",
@@ -186,20 +187,6 @@
           "time_info": "[00时18分 ~ 14时22分]"
         },
         {
-          "title": "外交敲警钟:春节慎去日本蹦跶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            11,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时18分]"
-        },
-        {
           "title": "中方在联合国安理会驳斥美国代表关于南海问题的错误言论",
           "url": "https://m.thepaper.cn/newsDetail_forward_32469591",
           "source": "澎湃新闻",
@@ -211,6 +198,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 07时12分]"
+        },
+        {
+          "title": "外交敲警钟:春节慎去日本蹦跶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349781&amp;topic_name=%E5%A4%96%E4%BA%A4%E6%95%B2%E8%AD%A6%E9%92%9F%3A%E6%98%A5%E8%8A%82%E6%85%8E%E5%8E%BB%E6%97%A5%E6%9C%AC%E8%B9%A6%E8%B7%B6",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            11,
+            16,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时18分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -296,19 +298,6 @@
           "time_info": "[08时55分 ~ 15时18分]"
         },
         {
-          "title": "国台办：和平统一将给台湾创造机遇",
-          "url": "https://www.toutiao.com/trending/7599307414657089563/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时18分]"
-        },
-        {
           "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
           "url": "https://www.zhihu.com/question/1998544659715228295",
           "source": "知乎",
@@ -317,11 +306,52 @@
             10,
             17,
             16,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时55分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时55分 ~ 16时18分]"
+        },
+        {
+          "title": "国台办：和平统一将给台湾创造机遇",
+          "url": "https://www.toutiao.com/trending/7599307414657089563/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时18分]"
+        },
+        {
+          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2271951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 16时18分]"
+        },
+        {
+          "title": "美国将在中东举行空军战备演习",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 16时18分]"
         },
         {
           "title": "7000人滞留日本机场称再不来了",
@@ -338,17 +368,26 @@
           "time_info": "[03时20分 ~ 07时12分]"
         },
         {
-          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2271951",
-          "source": "财联社热门",
+          "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
+          "url": "https://news.ifeng.com/c/8qHLfpQMirk",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            7,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时58分 ~ 15时18分]"
+          "time_info": "[12时08分 ~ 16时18分]"
+        },
+        {
+          "title": "万斯当面警告韩国总理不得惩罚美国科技公司，否则加征关税",
+          "url": "https://news.ifeng.com/c/8qHOIFwrrfC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时18分]"
         },
         {
           "title": "中方回应加拿大出售白鲸给美国",
@@ -415,19 +454,6 @@
           "time_info": "[03时20分 ~ 05时10分]"
         },
         {
-          "title": "美国将在中东举行空军战备演习",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 15时18分]"
-        },
-        {
           "title": "护照绑头 美国网红分享“保命技巧”",
           "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E7%85%A7%E7%BB%91%E5%A4%B4+%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E5%88%86%E4%BA%AB%E2%80%9C%E4%BF%9D%E5%91%BD%E6%8A%80%E5%B7%A7%E2%80%9D",
           "source": "百度热搜",
@@ -476,6 +502,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "韩国总统顾问：将与美国沟通以防止关税上调。",
+          "url": "https://flash.jin10.com/detail/20260128161717524800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
           "url": "https://wallstreetcn.com/livenews/3044976",
           "source": "华尔街见闻-快讯",
@@ -509,26 +546,26 @@
           "time_info": "14时22分"
         },
         {
-          "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
-          "url": "https://news.ifeng.com/c/8qHLfpQMirk",
-          "source": "凤凰网",
+          "title": "韩国总统顾问：阿拉斯加液化天然气项目尚未在美国和韩国之间讨论，将在启动投资基金后根据商业可行性原则进行审议。",
+          "url": "https://flash.jin10.com/detail/20260128161711046800",
+          "source": "金十数据",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时18分]"
-        },
-        {
-          "title": "万斯当面警告韩国总理不得惩罚美国科技公司，否则加征关税",
-          "url": "https://news.ifeng.com/c/8qHOIFwrrfC",
-          "source": "凤凰网",
-          "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时18分"
+        },
+        {
+          "title": "韩国总统顾问：美国的挫败感似乎源于急于尽快启动投资业务。",
+          "url": "https://flash.jin10.com/detail/20260128161658470800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国国土安全部部长诺姆：我认为国土安全部长的任期由总统决定，这取决于总统的意愿。",
@@ -559,9 +596,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "韩国总统顾问：不能排除美国因未来在投资问题上产生分歧而再次提及加征关税的可能性。",
+          "url": "https://flash.jin10.com/detail/20260128161645066800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
@@ -575,15 +623,16 @@
           "time_info": "07时12分"
         },
         {
-          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3045359",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时18分]"
         },
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -744,18 +793,6 @@
           "time_info": "[05时10分 ~ 06时14分]"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时18分]"
-        },
-        {
           "title": "美国至1月27日5年期国债竞拍-得标利率 3.823%，前值3.75%。",
           "url": "https://flash.jin10.com/detail/20260128020206064800",
           "source": "金十数据",
@@ -766,6 +803,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时20分]"
+        },
+        {
+          "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
+          "url": "https://wallstreetcn.com/livenews/3045359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时18分]"
         },
         {
           "title": "美国一支舰队正在向伊朗方向航行",
@@ -1010,6 +1059,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "韩国总统顾问：美国总统特朗普发出的对韩国加征关税的信息，反映了他对国会审议贸易协定进度缓慢的沮丧。",
+          "url": "https://flash.jin10.com/detail/20260128161628174800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国石油协会（API）数据显示，上周，美国API原油库存 -24.7万桶，之前一周 +300万桶。",
           "url": "https://wallstreetcn.com/livenews/3045002",
           "source": "华尔街见闻-快讯",
@@ -1054,6 +1114,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "韩国总统顾问：政府将努力确保美国投资法案的议会审议于二月有意义地进行。",
+          "url": "https://flash.jin10.com/detail/20260128161617266800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "30年期日本国债收益率上行2个基点，至3.680%。",
           "url": "https://wallstreetcn.com/livenews/3045078",
           "source": "华尔街见闻-快讯",
@@ -1087,6 +1158,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
+          "url": "https://flash.jin10.com/detail/20260128161606852800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国被曝向以色列通报对伊朗行动准备进展",
           "url": "https://wallstreetcn.com/livenews/3044969",
           "source": "华尔街见闻-快讯",
@@ -1107,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "韩国总统顾问：预计将于二月与美国就3500亿美元投资方案的项目遴选展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260128161546533800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "日本电力公司JERA首席执行官：印度在未来十年进口液化天然气的潜力巨大。",
@@ -1137,7 +1230,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1461,6 +1554,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "SK海力士第四季度销售额32.83万亿韩元，预期31.3万亿韩元。 第四季度营业利润为19.17万亿韩元，预期16.69万亿韩元。 SK海力士全年营业利润47.2万亿韩元，全年销售额97.1万亿韩元。 SK海力士继续考虑美国上市，尚未作出决定。 SK海力士称HBM4大规模量产工作正按计划推进，第四季度增长势头进一步增强。",
+          "url": "https://wallstreetcn.com/livenews/3045383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国总统特朗普：日本一直都想让货币贬值。",
           "url": "https://flash.jin10.com/detail/20260128044602406800",
           "source": "金十数据",
@@ -1483,13 +1587,24 @@
           "time_info": "06时14分"
         },
         {
+          "title": "ASML计划在荷兰和美国裁员约1,700人 主要涉及技术与IT部门",
+          "url": "https://wallstreetcn.com/livenews/3045382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "“对高市政权的信任投票”：日本众议院选战打响，外国人政策面临转向",
           "url": "https://m.thepaper.cn/newsDetail_forward_32473780",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1852,7 +1967,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -1943,6 +2058,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "暴风雪致美国电价飙升1400%",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E9%A3%8E%E9%9B%AA%E8%87%B4%E7%BE%8E%E5%9B%BD%E7%94%B5%E4%BB%B7%E9%A3%99%E5%8D%871400%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "美国总统特朗普：我们必须利用关税来维护世界和平。如果最高法院废除关税，那将会给各方带来更多不便。",
@@ -2047,7 +2173,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -2060,8 +2186,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 15时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 16时18分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -2133,11 +2259,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 16时18分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -2150,6 +2277,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时20分]"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时21分 ~ 16时18分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -2189,17 +2328,6 @@
           "time_info": "[02时24分 ~ 04时15分]"
         },
         {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时21分 ~ 15时18分]"
-        },
-        {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
@@ -2223,6 +2351,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "中央企业“AI+”专项行动取得积极进展",
+          "url": "https://wallstreetcn.com/livenews/3045398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
           "url": "https://www.zhihu.com/question/1999166962421429182",
           "source": "知乎",
@@ -2232,6 +2371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "消息人士称，软银就向OpenAI追加投资进行谈判，这是该初创公司寻求筹集高达1000亿美元新资本努力的一部分。",
@@ -2339,7 +2489,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
