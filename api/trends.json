@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T13:21:19.422482+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2026-01-28T14:22:02.235039+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 161,
+      "match_count": 168,
       "titles": [
         {
           "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
@@ -73,6 +73,18 @@
           "time_info": "[00时18分 ~ 08时56分]"
         },
         {
+          "title": "美国、英国、法国、德国发表联合声明",
+          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时22分]"
+        },
+        {
           "title": "外交部回应加拿大出售白鲸给美国",
           "url": "https://www.toutiao.com/trending/7599947141838700550/",
           "source": "今日头条",
@@ -96,11 +108,12 @@
             5,
             6,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时22分]"
         },
         {
           "title": "日本一女性在同一家公司上班近70年",
@@ -128,6 +141,20 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "中方呼吁各国认清日本真实面目",
+          "url": "https://www.douyin.com/hot/2381015",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时22分]"
+        },
+        {
           "title": "释新闻｜三周两次射杀合法公民，美国ICE执法人员会被起诉吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32472393",
           "source": "澎湃新闻",
@@ -138,8 +165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时22分]"
         },
         {
           "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
@@ -151,11 +178,12 @@
             8,
             10,
             9,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时22分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -167,8 +195,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时22分]"
         },
         {
           "title": "中方在联合国安理会驳斥美国代表关于南海问题的错误言论",
@@ -190,18 +218,6 @@
           "ranks": [
             1,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 13时21分]"
-        },
-        {
-          "title": "美国、英国、法国、德国发表联合声明",
-          "url": "https://news.ifeng.com/c/8qGbe88vGVw",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -264,30 +280,18 @@
           "time_info": "[00时18分 ~ 05时10分]"
         },
         {
-          "title": "中方呼吁各国认清日本真实面目",
-          "url": "https://www.douyin.com/hot/2381015",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 13时21分]"
-        },
-        {
           "title": "台湾青年：我愿为了中华民族而统一",
           "url": "https://www.toutiao.com/trending/7599103014746734602/",
           "source": "今日头条",
           "ranks": [
             2,
             5,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时22分]"
         },
         {
           "title": "国台办：和平统一将给台湾创造机遇",
@@ -298,8 +302,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时22分]"
+        },
+        {
+          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
+          "url": "https://www.zhihu.com/question/1998544659715228295",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时22分]"
         },
         {
           "title": "7000人滞留日本机场称再不来了",
@@ -425,6 +444,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "日本在第二次非竞争性发售中发售380亿日元债券。",
+          "url": "https://wallstreetcn.com/livenews/3045322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
           "url": "https://flash.jin10.com/detail/20260128035859142800",
           "source": "金十数据",
@@ -434,6 +464,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌5.0个基点，至2.235%。",
+          "url": "https://flash.jin10.com/detail/20260128135103589800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "暴风雪致美国电价飙升1400%",
+          "url": "https://www.toutiao.com/trending/7599132405224489023/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时22分]"
         },
         {
           "title": "美国国土安全部部长诺姆：我认为国土安全部长的任期由总统决定，这取决于总统的意愿。",
@@ -447,6 +501,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "大和证券：日本财政扩张与日元疲软或促使央行再度加息",
+          "url": "https://flash.jin10.com/detail/20260128135041876800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
           "url": "https://wallstreetcn.com/livenews/3045026",
           "source": "华尔街见闻-快讯",
@@ -458,18 +523,41 @@
           "time_info": "07时12分"
         },
         {
-          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
-          "url": "https://www.zhihu.com/question/1998544659715228295",
-          "source": "知乎",
+          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2271951",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            10,
-            17,
-            16
+            11,
+            7,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时55分 ~ 13时21分]"
+          "time_info": "[10时58分 ~ 14时22分]"
+        },
+        {
+          "title": "美国将在中东举行空军战备演习",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 14时22分]"
+        },
+        {
+          "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
+          "url": "https://news.ifeng.com/c/8qHLfpQMirk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时22分]"
         },
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -507,18 +595,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时15分]"
-        },
-        {
-          "title": "暴风雪致美国电价飙升1400%",
-          "url": "https://www.toutiao.com/trending/7599132405224489023/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时21分]"
         },
         {
           "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
@@ -680,18 +756,6 @@
           "time_info": "[03时20分 ~ 05时10分]"
         },
         {
-          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2271951",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时21分]"
-        },
-        {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.823%（11月25日为3.562%），投标倍数2.34（前次为2.41）。",
           "url": "https://wallstreetcn.com/livenews/3044926",
           "source": "华尔街见闻-快讯",
@@ -730,28 +794,15 @@
           "time_info": "[03时20分 ~ 05时10分]"
         },
         {
-          "title": "美国将在中东举行空军战备演习",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
-          "source": "百度热搜",
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            10,
-            21
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时58分 ~ 13时21分]"
-        },
-        {
-          "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
-          "url": "https://news.ifeng.com/c/8qHLfpQMirk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时21分]"
+          "time_info": "[13时21分 ~ 14时22分]"
         },
         {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
@@ -1019,15 +1070,15 @@
           "time_info": "12时08分"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
+          "title": "日本电力公司JERA首席执行官：印度在未来十年进口液化天然气的潜力巨大。",
+          "url": "https://flash.jin10.com/detail/20260128133933986800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "14时22分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1052,6 +1103,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "日本电力公司JERA首席执行官：我们正在考虑如何在日本以外利用我们的投资组合。",
+          "url": "https://flash.jin10.com/detail/20260128133859418800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国贸易代表格里尔：韩国贸易官员们本周稍晚将前来美国。",
           "url": "https://wallstreetcn.com/livenews/3044995",
           "source": "华尔街见闻-快讯",
@@ -1061,6 +1123,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "台湾证交所加权股价指数收涨1.5%报32,803.82点。",
+          "url": "https://wallstreetcn.com/livenews/3045298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "日本电力公司JERA首席执行官：我们需要更灵活的液化天然气合同，包括自行处理运输以应对不确定性。",
+          "url": "https://flash.jin10.com/detail/20260128133845266800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "花旗集团策略师Daniel Tobon：仍然认为在下个月选举临近之际，日元存在再次走弱的风险。 如果我看到本土资金开始转向买入日本国债，那将是更强的信号，表明现在是买入日元的时候，因为这会开始缓解财政方面的担忧。 这可能在选举之后很快发生，也可能要更久以后才会出现。",
@@ -1575,7 +1659,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1696,7 +1780,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1817,7 +1901,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1839,7 +1923,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -1891,7 +1975,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1904,8 +1988,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1917,8 +2001,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 13时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时22分]"
+        },
+        {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时22分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -1945,18 +2041,6 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时55分 ~ 13时21分]"
-        },
-        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
@@ -1964,11 +2048,12 @@
             20,
             18,
             19,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 13时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 14时22分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1981,6 +2066,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时20分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时22分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -2009,6 +2106,17 @@
           "time_info": "[02时24分 ~ 04时15分]"
         },
         {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 14时22分]"
+        },
+        {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
@@ -2021,15 +2129,15 @@
           "time_info": "[01时21分 ~ 02时24分]"
         },
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
           "source": "财联社热门",
           "ranks": [
-            6
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -2093,7 +2201,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -2115,7 +2223,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -2162,17 +2270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "马云：孩子不应和AI比拼计算和记忆",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "泰国央行行长Vitai：泰国2025年GDP增速预计为2.1%-2.2%。",
