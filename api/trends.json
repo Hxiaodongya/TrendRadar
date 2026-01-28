@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:18:37.218552+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-01-28T19:16:51.987863+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 198,
+      "match_count": 207,
       "titles": [
         {
           "title": "美国、英国、法国、德国发表联合声明",
@@ -212,8 +212,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 18时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 19时16分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -331,6 +331,19 @@
           "time_info": "[08时55分 ~ 16时18分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 19时16分]"
+        },
+        {
           "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
           "url": "https://news.ifeng.com/c/8qHLfpQMirk",
           "source": "凤凰网",
@@ -366,18 +379,6 @@
           "time_info": "[10时58分 ~ 16时18分]"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 18时18分]"
-        },
-        {
           "title": "美国将在中东举行空军战备演习",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
           "source": "百度热搜",
@@ -403,6 +404,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时20分 ~ 07时12分]"
+        },
+        {
+          "title": "2026年的第一场战争呼之欲出",
+          "url": "https://news.ifeng.com/c/8qHLjiEjoTq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
+          "title": "美国贸易代表坐不住了：印度占便宜了！",
+          "url": "https://news.ifeng.com/c/8qHiTLSBV91",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
         },
         {
           "title": "中方回应加拿大出售白鲸给美国",
@@ -495,17 +518,6 @@
           "time_info": "[01时20分 ~ 06时14分]"
         },
         {
-          "title": "2026年的第一场战争呼之欲出",
-          "url": "https://news.ifeng.com/c/8qHLjiEjoTq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "美国10年期国债期货下跌3个点，美国30年期国债期货下跌18个点。",
           "url": "https://flash.jin10.com/detail/20260128070408599800",
           "source": "金十数据",
@@ -583,17 +595,6 @@
           "time_info": "16时18分"
         },
         {
-          "title": "美国贸易代表坐不住了：印度占便宜了！",
-          "url": "https://news.ifeng.com/c/8qHiTLSBV91",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "韩国总统顾问：美国的挫败感似乎源于急于尽快启动投资业务。",
           "url": "https://flash.jin10.com/detail/20260128161658470800",
           "source": "金十数据",
@@ -603,6 +604,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "日本气象厅JMA：当地时间19时45分（北京时间18:45）左右发生地震，震中位于三陆冲，深度20km，震级5.1，本次地震不会造成海啸。",
+          "url": "https://flash.jin10.com/detail/20260128185137254800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "美国持续增兵中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%8C%81%E7%BB%AD%E5%A2%9E%E5%85%B5%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美国国土安全部部长诺姆：我认为国土安全部长的任期由总统决定，这取决于总统的意愿。",
@@ -1092,7 +1115,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1150,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "美国民众街头抗议如同战场",
+          "url": "https://www.toutiao.com/trending/7599618594859663401/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
@@ -1240,6 +1274,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "中国台湾金管会将召集寿险公司开会，讨论外汇避险配套措施。（中国台湾经济日报）",
+          "url": "https://wallstreetcn.com/livenews/3045539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "韩国总统顾问：预计将于二月与美国就3500亿美元投资方案的项目遴选展开磋商。",
           "url": "https://flash.jin10.com/detail/20260128161546533800",
           "source": "金十数据",
@@ -1249,6 +1294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "日本2025年电影票房收入2744亿日元创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3045538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "日本电力公司JERA首席执行官：印度在未来十年进口液化天然气的潜力巨大。",
@@ -1268,9 +1324,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
+        },
+        {
+          "title": "伊拉克前总理努尔·马利基在被什叶派联盟提名组建新政府后，在社交平台表示，“拒绝美国干预本国内政。”",
+          "url": "https://flash.jin10.com/detail/20260128184150454800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -1323,7 +1390,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1570,6 +1637,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "日本电视全军覆没了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B5%E8%A7%86%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国至1月27日6周国债竞拍-得标利率 3.635%，前值3.63%。",
           "url": "https://flash.jin10.com/detail/20260128003313861800",
           "source": "金十数据",
@@ -1678,6 +1756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "伊朗外长：没有对美国提出谈判请求",
+          "url": "https://wallstreetcn.com/livenews/3045524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "如何看待美国电价因寒潮暴涨",
@@ -2219,6 +2308,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美国暴风雪中“意大利面实验”走红",
+          "url": "https://www.toutiao.com/trending/7600313129255305222/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国总统特朗普：我们必须利用关税来维护世界和平。如果最高法院废除关税，那将会给各方带来更多不便。",
           "url": "https://flash.jin10.com/detail/20260128053802752800",
           "source": "金十数据",
@@ -2321,7 +2421,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -2334,8 +2434,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 18时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -2396,8 +2496,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 19时16分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -2415,6 +2515,21 @@
           "time_info": "[07时12分 ~ 14时22分]"
         },
         {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时21分 ~ 19时16分]"
+        },
+        {
           "title": "刘强东在家乡打造了一个AI教室",
           "url": "https://www.toutiao.com/trending/7600224231955988531/",
           "source": "今日头条",
@@ -2424,20 +2539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 18时18分]"
-        },
-        {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 18时18分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -2450,6 +2551,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时20分]"
+        },
+        {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 19时16分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -2474,19 +2589,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 04时15分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时18分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -2514,6 +2616,18 @@
           "time_info": "[01时21分 ~ 02时24分]"
         },
         {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时16分]"
+        },
+        {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3044870",
           "source": "华尔街见闻-快讯",
@@ -2531,7 +2645,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -2556,6 +2670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "亚马逊将裁员1.6万人 在AI竞争中精简架构",
+          "url": "https://flash.jin10.com/detail/20260128184459127800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "消息人士称，软银就向OpenAI追加投资进行谈判，这是该初创公司寻求筹集高达1000亿美元新资本努力的一部分。",
@@ -2589,6 +2714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "深圳：鼓励智能家居企业加快适配国产操作系统和芯片，推动家具、电视、扫地机器人等全面接入AI",
+          "url": "https://wallstreetcn.com/livenews/3045533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
@@ -2630,7 +2766,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -2721,17 +2857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         }
       ]
     }
