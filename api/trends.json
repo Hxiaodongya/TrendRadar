@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T10:58:29.243973+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-01-28T12:08:41.186458+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 148,
+      "match_count": 156,
       "titles": [
         {
           "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
@@ -99,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 10时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时08分]"
         },
         {
           "title": "日本一女性在同一家公司上班近70年",
@@ -138,8 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 10时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时08分]"
         },
         {
           "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
@@ -154,8 +154,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 10时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时08分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -163,11 +163,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 10时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时08分]"
         },
         {
           "title": "中方在联合国安理会驳斥美国代表关于南海问题的错误言论",
@@ -204,8 +205,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时23分 ~ 10时58分]"
+          "appearance_count": 13,
+          "time_info": "[02时23分 ~ 12时08分]"
         },
         {
           "title": "外交部回应“日本没有大熊猫了”",
@@ -247,8 +248,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时08分]"
         },
         {
           "title": "美国、英国、法国、德国发表联合声明",
@@ -259,19 +260,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时08分]"
         },
         {
           "title": "台湾青年：我愿为了中华民族而统一",
           "url": "https://www.toutiao.com/trending/7599103014746734602/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时08分]"
         },
         {
           "title": "中方呼吁各国认清日本真实面目",
@@ -279,11 +281,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时08分]"
         },
         {
           "title": "7000人滞留日本机场称再不来了",
@@ -376,6 +379,17 @@
           "time_info": "[01时20分 ~ 06时14分]"
         },
         {
+          "title": "国台办：和平统一将给台湾创造机遇",
+          "url": "https://www.toutiao.com/trending/7599307414657089563/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国10年期国债期货下跌3个点，美国30年期国债期货下跌18个点。",
           "url": "https://flash.jin10.com/detail/20260128070408599800",
           "source": "金十数据",
@@ -385,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "日本40年期国债拍卖投标倍数为2.76，创2025年3月发售以来新高，上一次发行时为2.59。",
+          "url": "https://flash.jin10.com/detail/20260128113630722800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
@@ -407,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "日本10年期国债收益率下行3.5个基点至2.25%。",
+          "url": "https://wallstreetcn.com/livenews/3045240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国国土安全部部长诺姆：我认为国土安全部长的任期由总统决定，这取决于总统的意愿。",
@@ -577,6 +613,32 @@
           "time_info": "[02时24分 ~ 03时20分]"
         },
         {
+          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
+          "url": "https://www.zhihu.com/question/1998544659715228295",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时08分]"
+        },
+        {
+          "title": "美国一支舰队正在向伊朗方向航行",
+          "url": "https://www.toutiao.com/trending/7599555248189066815/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时08分]"
+        },
+        {
           "title": "专家：美国会诱使中国“经济自杀”",
           "url": "https://www.toutiao.com/trending/7599903959884500499/",
           "source": "今日头条",
@@ -640,30 +702,6 @@
           "time_info": "[03时20分 ~ 05时10分]"
         },
         {
-          "title": "U23 国足的防守一直做的不错，为何日本队只用了 20 分钟就打穿咱们国足的防线？",
-          "url": "https://www.zhihu.com/question/1998544659715228295",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 10时58分]"
-        },
-        {
-          "title": "美国一支舰队正在向伊朗方向航行",
-          "url": "https://www.toutiao.com/trending/7599555248189066815/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 10时58分]"
-        },
-        {
           "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
           "url": "https://wallstreetcn.com/livenews/3044972",
           "source": "华尔街见闻-快讯",
@@ -674,6 +712,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时14分]"
+        },
+        {
+          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2271951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 12时08分]"
         },
         {
           "title": "美国天然气期货在盘中早些时候下跌逾15%后转为上涨2%，有望创下自2022年12月以来的最高收盘价。",
@@ -722,6 +772,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时15分]"
+        },
+        {
+          "title": "美国将在中东举行空军战备演习",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 12时08分]"
         },
         {
           "title": "油价上涨3% 哈萨克斯坦与美国的产量受挫",
@@ -852,6 +914,28 @@
           "time_info": "07时12分"
         },
         {
+          "title": "日本拍卖40年期国债，认购倍数为2.72，过去12个月均值为2.53。 日本国债期货在拍卖结果出炉后走高，40年期国债收益率日内下行3.5个基点至3.900%。",
+          "url": "https://wallstreetcn.com/livenews/3045235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "网友称期待有朝一日搭乘高铁横跨台湾海峡往来两岸，国台办回应",
+          "url": "https://news.ifeng.com/c/8qHLfpQMirk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
           "url": "https://flash.jin10.com/detail/20260128065145858800",
           "source": "金十数据",
@@ -907,6 +991,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "加拿大总理否认“收回”批评美国的言论",
+          "url": "https://wallstreetcn.com/livenews/3045233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "提醒：北京时间05:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
           "url": "https://wallstreetcn.com/livenews/3044997",
           "source": "华尔街见闻-快讯",
@@ -916,17 +1011,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
-        },
-        {
-          "title": "美国被曝向以色列通报对伊朗行动准备进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2271951",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         },
         {
           "title": "美国总统特朗普：农业器械公司DEERE & CO将在北卡罗来纳州进行工厂投资。",
@@ -960,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "卡尼：现在的美国，几乎什么都不正常",
+          "url": "https://wallstreetcn.com/livenews/3045224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
@@ -1067,7 +1162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -1199,18 +1294,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "美国将在中东举行空军战备演习",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E4%B8%AD%E4%B8%9C%E4%B8%BE%E8%A1%8C%E7%A9%BA%E5%86%9B%E6%88%98%E5%A4%87%E6%BC%94%E4%B9%A0",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -1424,6 +1508,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "暴风雪致美国电价飙升1400%",
+          "url": "https://www.toutiao.com/trending/7599132405224489023/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
           "url": "https://flash.jin10.com/detail/20260128002342619800",
           "source": "金十数据",
@@ -1562,7 +1657,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -1683,7 +1778,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -1735,7 +1830,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -1748,8 +1843,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 10时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时08分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1761,8 +1856,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 10时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时08分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -1797,8 +1892,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时08分]"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 12时08分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -1811,19 +1919,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时20分]"
-        },
-        {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 10时58分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -1941,6 +2036,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
+          "url": "https://www.zhihu.com/question/1999418734398366788",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
           "url": "https://flash.jin10.com/detail/20260128021207935800",
           "source": "金十数据",
@@ -1952,13 +2058,24 @@
           "time_info": "03时20分"
         },
         {
+          "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3045207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "泰国央行行长Vitai：泰国2025年GDP增速预计为2.1%-2.2%。",
           "url": "https://wallstreetcn.com/livenews/3045166",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
