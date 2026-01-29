@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T15:34:06.909900+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-29T16:26:52.493092+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 143,
+      "match_count": 151,
       "titles": [
         {
           "title": "第1现场｜冬季风暴已致美国51人丧生：市民点燃气取暖，流浪汉危在旦夕",
@@ -17,8 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时17分 ~ 15时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时17分 ~ 16时26分]"
+        },
+        {
+          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
+          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时26分]"
         },
         {
           "title": "美国打美国",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 09时03分]"
-        },
-        {
-          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
-          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时34分]"
         },
         {
           "title": "美国贸易代表坐不住了：印度占便宜了！",
@@ -84,11 +85,12 @@
             8,
             16,
             25,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 15时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 16时26分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -124,8 +126,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时26分]"
         },
         {
           "title": "美国超级暴风雪大量流浪汉冻死街头",
@@ -164,6 +166,17 @@
           "time_info": "13时05分"
         },
         {
+          "title": "美国国家公路交通安全管理局：现代汽车美国公司召回568,576辆美国车辆，因为仪表盘显示屏无法显示速度表或警示灯等关键安全信息，从而增加了发生车祸的风险。",
+          "url": "https://flash.jin10.com/detail/20260129160556849800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "台湾证交所加权股价指数开盘变动不大，报32,828.02点。",
           "url": "https://wallstreetcn.com/livenews/3045956",
           "source": "华尔街见闻-快讯",
@@ -173,6 +186,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "1 月 31 日美国政府或再度停摆，其将再对全球金融市场和地缘形成多大冲击？",
+          "url": "https://www.zhihu.com/question/1999590149818954631",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 16时26分]"
         },
         {
           "title": "美国贸易代表办公室就格里尔与墨西哥经济部长的会晤表示，双方同意在首次美墨加协定联合审查的框架下，就可能的结构性和战略性改革启动正式磋商。",
@@ -219,6 +245,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "美国国家公路交通安全管理局：现代汽车美国公司召回41,651辆美国车辆，因为在碰撞中侧帘式气囊部署不当会增加受伤风险。",
+          "url": "https://flash.jin10.com/detail/20260129160539922800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美国美联储FOMC利率决策(上限) 3.75%，预期 3.75%，前值 3.75%。",
           "url": "https://wallstreetcn.com/livenews/3045759",
           "source": "华尔街见闻-快讯",
@@ -239,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "德国总理默茨：欧盟已表明自己不会被美国的关税威胁吓倒。",
+          "url": "https://wallstreetcn.com/livenews/3046278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国贸易代表办公室就格里尔与墨西哥经济部长的会晤表示，双方承认近几个月取得了实质性进展，并同意继续开展密集接触，以解决非关税壁垒问题。",
@@ -384,18 +432,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "1 月 31 日美国政府或再度停摆，其将再对全球金融市场和地缘形成多大冲击？",
-          "url": "https://www.zhihu.com/question/1999590149818954631",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时05分 ~ 15时34分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：（被问及美国国务院对伊朗抗议活动中死亡人数的估计）肯定有数千人。",
           "url": "https://flash.jin10.com/detail/20260129000325683800",
           "source": "金十数据",
@@ -513,6 +549,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时24分]"
+        },
+        {
+          "title": "越南与美国计划下周举行第六轮贸易谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 16时26分]"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA原油库存减少230万桶，彭博用户预计增加110万桶、分析师预期增加79.417万桶，之前一周增加360.2万桶。",
@@ -711,15 +759,15 @@
           "time_info": "09时03分"
         },
         {
-          "title": "越南与美国计划下周举行第六轮贸易谈判。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3046220",
-          "source": "华尔街见闻-快讯",
+          "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
+          "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "16时26分"
         },
         {
           "title": "美国国务卿鲁比奥：我们现在与格陵兰岛的关系很好。",
@@ -841,6 +889,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "贝森特：美国一贯奉行强美元政策，“绝对不会”干预汇市支撑日元",
+          "url": "https://wallstreetcn.com/articles/3764398",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "俄军首次公开宣布使用美国星链",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%86%9B%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%AE%A3%E5%B8%83%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%9B%BD%E6%98%9F%E9%93%BE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国国务卿鲁比奥：没有美国的支持，北约的安全保障毫无意义。",
@@ -1173,6 +1243,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "中方是否给TikTok美国合资公司算法本地化许可？商务部回应",
+          "url": "https://wallstreetcn.com/livenews/3046236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
           "url": "https://flash.jin10.com/detail/20260129002349346800",
           "source": "金十数据",
@@ -1193,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "丹麦外交部长：（就与美国就格陵兰岛的会谈）我们现在又回到正轨上了。",
+          "url": "https://flash.jin10.com/detail/20260129154336108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "贝森特：美国目前“绝对不会”干预美元兑日元的汇率",
@@ -1627,7 +1719,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -1713,11 +1805,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时26分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -1727,8 +1820,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时26分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -1736,11 +1829,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时34分]"
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时26分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
@@ -1749,11 +1843,24 @@
           "ranks": [
             13,
             12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 16时26分]"
+        },
+        {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时59分 ~ 15时34分]"
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 16时26分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -1765,17 +1872,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
-        },
-        {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -1864,6 +1960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
