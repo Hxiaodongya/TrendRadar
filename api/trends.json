@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T03:24:44.991907+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-30T04:18:56.081181+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 82,
+      "match_count": 96,
       "titles": [
         {
           "title": "外界担忧日本或强登钓鱼岛 中方回应",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "要做主权国家还是美国跟班？英国选择重启中英“黄金时代”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
@@ -38,19 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
-        },
-        {
-          "title": "美国一年有300万人被“赶跑”，移民负增长了？",
-          "url": "https://news.ifeng.com/c/8qJLcVA669g",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "熊猫在日本真的很火吗？",
@@ -60,22 +49,23 @@
             15,
             14,
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
-          "title": "日本2025年民间进口大米暴增90余倍",
-          "url": "https://wallstreetcn.com/livenews/3046662",
-          "source": "华尔街见闻-快讯",
+          "title": "美国一年有300万人被“赶跑”，移民负增长了？",
+          "url": "https://news.ifeng.com/c/8qJLcVA669g",
+          "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "美国明州ICE接到新指令：不要接触！",
@@ -85,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "国防部回应日本可能“强登钓鱼岛”",
@@ -97,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -108,8 +98,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "东大发飙!日本熊猫库存清零",
@@ -119,8 +109,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
+        },
+        {
+          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
+          "url": "https://wallstreetcn.com/livenews/3046673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美国贸易代表格里尔：签署美国-萨尔瓦多互惠贸易协议。",
@@ -140,9 +141,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "美国国会预算办公室：国民警卫队今年或耗资11亿美元",
+          "url": "https://wallstreetcn.com/livenews/3046672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "日本2025年民间进口大米暴增90余倍",
+          "url": "https://flash.jin10.com/detail/20260130034735284800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
+          "url": "https://flash.jin10.com/detail/20260130032628040800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国原油收涨3.5%",
+          "url": "https://wallstreetcn.com/livenews/3046667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "枪杀美国公民的执法人员被停职",
@@ -163,11 +208,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
         },
         {
           "title": "美国总统特朗普讲话期间，现货黄金走高，回升至5330美元/盎司上方。",
@@ -196,6 +242,44 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
+          "title": "美国至1月29日7年期国债竞拍-得标利率配置百分比 37.5%，前值30.73%。",
+          "url": "https://flash.jin10.com/detail/20260130020203933800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "日本2025年民间进口大米暴增90余倍",
+          "url": "https://wallstreetcn.com/livenews/3046662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时18分]"
+        },
+        {
+          "title": "美国干涉伊拉克大选，伊拉克民众抗议",
+          "url": "https://wallstreetcn.com/livenews/3046648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
           "title": "最终计票结果显示，支出法案未能获得足够票数在美国参议院获得通过，赞成票46票，反对票54票。",
           "url": "https://flash.jin10.com/detail/20260130011735534800",
           "source": "金十数据",
@@ -209,16 +293,17 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
-          "title": "美国至1月29日7年期国债竞拍-得标利率配置百分比 37.5%，前值30.73%。",
-          "url": "https://flash.jin10.com/detail/20260130020203933800",
+          "title": "美国至1月29日7年期国债竞拍-投标倍数 2.45，前值2.51。",
+          "url": "https://flash.jin10.com/detail/20260130020203932800",
           "source": "金十数据",
           "ranks": [
-            3,
-            8
+            4,
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
         },
         {
           "title": "美国总统特朗普：下周将宣布美联储主席人选。",
@@ -259,18 +344,6 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
-          "title": "美国干涉伊拉克大选，伊拉克民众抗议",
-          "url": "https://wallstreetcn.com/livenews/3046648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
           "title": "美国总统特朗普：关税本可能会更高，我们已经非常客气了。",
           "url": "https://flash.jin10.com/detail/20260130011559284800",
           "source": "金十数据",
@@ -284,28 +357,17 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
-          "title": "美国至1月29日7年期国债竞拍-投标倍数 2.45，前值2.51。",
-          "url": "https://flash.jin10.com/detail/20260130020203932800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
           "title": "美国至1月29日7年期国债竞拍-得标利率 4.018%，前值3.93%。",
           "url": "https://flash.jin10.com/detail/20260130020203908800",
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
         },
         {
           "title": "美国财长贝森特：2026年将是供给侧繁荣的一年。",
@@ -321,6 +383,19 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
+          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260130020053884800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
           "title": "美国航空计划恢复每日飞往委内瑞拉的航班。",
           "url": "https://flash.jin10.com/detail/20260130011358154800",
           "source": "金十数据",
@@ -334,6 +409,123 @@
           "time_info": "[01时31分 ~ 03时24分]"
         },
         {
+          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
+          "url": "https://flash.jin10.com/detail/20260130015932428800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.018%（12月24日为3.930%），投标倍数2.45（前次为2.51）。",
+          "url": "https://wallstreetcn.com/livenews/3046642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
+          "url": "https://flash.jin10.com/detail/20260130015749406800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
+          "url": "https://wallstreetcn.com/livenews/3046641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "美国国防部长：（谈伊朗）他们拥有达成协议的所有选项，但我们将做好采取行动的准备。",
+          "url": "https://flash.jin10.com/detail/20260130015550554800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "据美国证券交易委员会（SEC）主席Atkins：SEC和商品期货交易委员会（CFTC）料将围绕加密货币监管问题签署备忘录（MOU）。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
+          "url": "https://flash.jin10.com/detail/20260130014330273800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "美国参议院农业委员会推进自己版本的数字资产市场架构的立法程序。 根据该方案，美国商品期货交易委员会（CFTC）有望成为数字资产行业的主要监管方。",
+          "url": "https://wallstreetcn.com/livenews/3046636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
+          "url": "https://wallstreetcn.com/livenews/3046634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
           "title": "历史剧《太平年》首次聚焦五代末年，钱弘俶、赵匡胤、郭荣三位君王在战争与用兵理念上有何不同？",
           "url": "https://www.zhihu.com/question/1997733701551880115",
           "source": "知乎",
@@ -343,18 +535,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时31分]"
-        },
-        {
-          "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
-          "url": "https://flash.jin10.com/detail/20260130020053884800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
         },
         {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
@@ -369,42 +549,6 @@
           "time_info": "[01时31分 ~ 02时31分]"
         },
         {
-          "title": "美国总统特朗普：我们将开始打击陆路入境的毒品，你们很快就会看到。",
-          "url": "https://flash.jin10.com/detail/20260130015932428800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
-          "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.018%（12月24日为3.930%），投标倍数2.45（前次为2.51）。",
-          "url": "https://wallstreetcn.com/livenews/3046642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
-          "title": "美国总统特朗普：一支庞大的舰队正驶往中东。",
-          "url": "https://flash.jin10.com/detail/20260130015749406800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
           "title": "美国联邦政府再次面临部分“停摆”",
           "url": "https://wallstreetcn.com/livenews/3046618",
           "source": "华尔街见闻-快讯",
@@ -417,42 +561,6 @@
           "time_info": "[01时31分 ~ 02时31分]"
         },
         {
-          "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
-          "url": "https://wallstreetcn.com/livenews/3046641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
-          "title": "美国国防部长：（谈伊朗）他们拥有达成协议的所有选项，但我们将做好采取行动的准备。",
-          "url": "https://flash.jin10.com/detail/20260130015550554800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
-          "title": "据美国证券交易委员会（SEC）主席Atkins：SEC和商品期货交易委员会（CFTC）料将围绕加密货币监管问题签署备忘录（MOU）。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3046639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
           "title": "美国总统特朗普：（谈中东）哈马斯似乎即将解除武装。",
           "url": "https://flash.jin10.com/detail/20260130010707619800",
           "source": "金十数据",
@@ -463,18 +571,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时31分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
-          "url": "https://flash.jin10.com/detail/20260130014330273800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.10%，脱离最近三年来最低位，前值6.09%。",
@@ -513,36 +609,12 @@
           "time_info": "[01时31分 ~ 02时31分]"
         },
         {
-          "title": "美国参议院农业委员会推进自己版本的数字资产市场架构的立法程序。 根据该方案，美国商品期货交易委员会（CFTC）有望成为数字资产行业的主要监管方。",
-          "url": "https://wallstreetcn.com/livenews/3046636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
           "title": "美国总统特朗普：不想让房价下跌，将推高现存房主的住宅价值。",
           "url": "https://flash.jin10.com/detail/20260130013218508800",
           "source": "金十数据",
           "ranks": [
             13,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
-          "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
-          "url": "https://wallstreetcn.com/livenews/3046634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -596,6 +668,39 @@
           "time_info": "[01时30分 ~ 01时31分]"
         },
         {
+          "title": "伦交所-理柏（LSEG Lipper）：1月28日当周，美国高评级债券 基金资金流入创最近五年来最大。 短期、中期投资级债券基金流入54亿美元，创2021年2月份以来最大，之前一周流入30.9亿美元。 高收益率债券基金流入2.327亿美元，美国国债基金流入5.009亿美元，美国杠杆贷款基金流入2.342亿美元，抵押贷款相关基金流入2.131亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "据Punchbowl记者：美国共和党参议员计划今晚进行一项潜在投票，以最终敲定拨款方案和国土安全部临时拨款法案——这表明协议即将达成。 虽然远未确定，但这无疑是个积极的信号。这需要所有100位参议员的合作。很可能需要进行修正案投票。",
+          "url": "https://flash.jin10.com/detail/20260130032326670800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国高评级债券销量突破2000亿美元，创历史最佳年度开局",
+          "url": "https://wallstreetcn.com/livenews/3046663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
           "title": "美国电网运营商PJM：预计（通往各大发电站的）天然气管道输送网络到下周都几乎没有什么（运力）灵活性。",
           "url": "https://wallstreetcn.com/livenews/3046583",
           "source": "华尔街见闻-快讯",
@@ -618,6 +723,50 @@
           "time_info": "00时31分"
         },
         {
+          "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20260130031506457800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "美国CFTC主席：将制定预测市场新规",
+          "url": "https://wallstreetcn.com/livenews/3046659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "加拿大总理卡尼：希望美国政府尊重加拿大主权。美国总统特朗普从未向我提及阿尔伯塔省或魁北克省分离主义的可能性。",
+          "url": "https://flash.jin10.com/detail/20260130031318071800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "市场消息：沙特国防大臣已抵达美国。",
+          "url": "https://flash.jin10.com/detail/20260130030941967800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
           "title": "美国联邦政府再次面临部分“停摆”",
           "url": "https://flash.jin10.com/detail/20260130010115769800",
           "source": "金十数据",
@@ -627,6 +776,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "美国商品期货交易委员会主席：美国商品期货交易委员会将针对预测市场制定新规则。",
+          "url": "https://flash.jin10.com/detail/20260130030346453800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -671,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "美国联邦航空局已撤销加勒比地区四项航行通告，其中包括一项与委内瑞拉相关的通告。",
+          "url": "https://flash.jin10.com/detail/20260130025225942800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         },
         {
           "title": "标普500指数维持下跌1%的状态，道指跌0.2%，纳指跌1.8%，半导体指数跌1.5%。 1月29日临近纽约中午，美国总统特朗普赞扬股市上涨。",
@@ -921,7 +1092,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -972,8 +1143,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -983,8 +1154,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -995,8 +1166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
@@ -1007,8 +1178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -1019,30 +1190,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时24分]"
-        },
-        {
-          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
-          "url": "https://flash.jin10.com/detail/20260130024543915800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
-          "url": "https://flash.jin10.com/detail/20260130023851550800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时18分]"
         },
         {
           "title": "欧洲军工股几乎全线收跌。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.58%。微软让投资者担忧AI、带动市场加速下挫之际，该ETF在北京时间23:00之前开始加速下跌。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌2.05%。",
@@ -1056,6 +1205,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 03时24分]"
+        },
+        {
+          "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
+          "url": "https://flash.jin10.com/detail/20260130024543915800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时18分]"
+        },
+        {
+          "title": "消息人士称，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。根据该协议，xAI股票将转换为SpaceX股票。",
+          "url": "https://flash.jin10.com/detail/20260130023851550800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时18分]"
+        },
+        {
+          "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3046654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时18分]"
+        },
+        {
+          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
+          "url": "https://wallstreetcn.com/livenews/3046652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时18分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
@@ -1080,28 +1277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时24分]"
-        },
-        {
-          "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3046654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
-        },
-        {
-          "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
-          "url": "https://wallstreetcn.com/livenews/3046652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         },
         {
           "title": "据Punchbowl记者Andrew Desiderio：美国参议院共和党领袖图恩表示，他认为上午11:30（北京时间凌晨0:30）的程序性投票将如期进行。图恩补充说，他已经和众议院议长约翰逊谈过如何让这项法案在众议院获得通过。",
