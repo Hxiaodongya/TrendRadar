@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T12:00:38.765991+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-01-29T13:05:59.096351+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 128,
+      "match_count": 137,
       "titles": [
         {
           "title": "美国打美国",
@@ -57,11 +57,25 @@
             12,
             10,
             7,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时00分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时05分]"
+        },
+        {
+          "title": "第1现场｜冬季风暴已致美国51人丧生：市民点燃气取暖，流浪汉危在旦夕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32481701",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 13时05分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -87,17 +101,15 @@
           "time_info": "[06时17分 ~ 09时03分]"
         },
         {
-          "title": "第1现场｜冬季风暴已致美国51人丧生：市民点燃气取暖，流浪汉危在旦夕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32481701",
-          "source": "澎湃新闻",
+          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
+          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 12时00分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时05分]"
         },
         {
           "title": "美国超级暴风雪大量流浪汉冻死街头",
@@ -114,28 +126,6 @@
           "time_info": "[01时25分 ~ 07时18分]"
         },
         {
-          "title": "俄方首次公开宣布使用美国星链打击乌战略目标",
-          "url": "https://news.ifeng.com/c/8qIuH6b2HfE",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
-        },
-        {
-          "title": "东大发飙!日本熊猫库存清零",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
-        },
-        {
           "title": "美国贸易代表办公室就格里尔与墨西哥经济部长的会晤表示，双方同意就关键工业品更严格的原产地规则、关键矿物领域的强化合作以及对外贸易政策协调加强展开磋商。",
           "url": "https://flash.jin10.com/detail/20260129015816762800",
           "source": "金十数据",
@@ -145,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "现代汽车：丰田2025年从日本出口到美国的汽车数量增至615,204辆。",
+          "url": "https://flash.jin10.com/detail/20260129125404576800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "台湾证交所加权股价指数开盘变动不大，报32,828.02点。",
@@ -255,6 +256,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "日本1月家庭消费者信心指数 37.9，预期 37.1，前值 37.2。",
+          "url": "https://wallstreetcn.com/livenews/3046109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "东大发飙!日本熊猫库存清零",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时05分]"
         },
         {
           "title": "墨西哥外交部长埃布拉德会见美国贸易代表格里尔，就贸易和《美墨加协定》联合审议进行了讨论。",
@@ -693,6 +717,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "丰田汽车：丰田12月从日本出口至美国的汽车数量同比下降6.2%，至52357辆。",
+          "url": "https://flash.jin10.com/detail/20260129125028094800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "美国10年期国债收益率涨1.4个基点，报4.2571%；两年期美债收益率涨1.24个基点，持稳于日高3.5875%附近。 10年期TIPS收益率涨1.47个基点，持稳于日高1.9078%附近，两年期TIPS收益率跌1.50个基点，报0.8312%。 2/10年期美债收益率利差涨0.162个基点，报+66.968个基点。",
           "url": "https://wallstreetcn.com/livenews/3045754",
           "source": "华尔街见闻-快讯",
@@ -968,6 +1003,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "美国天然气期货主力合约日内涨幅扩大至3%，现报3.844美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260129124131895800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "据知情人士透露，Jersey Mike为超过10亿美元规模美国IPO遴选银行。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3045786",
           "source": "华尔街见闻-快讯",
@@ -988,6 +1034,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "1 月 31 日美国政府或再度停摆，其将再对全球金融市场和地缘形成多大冲击？",
+          "url": "https://www.zhihu.com/question/1999590149818954631",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "据福克斯新闻：美国联邦调查局（FBI）在佐治亚州选举办公室执行搜查令。",
@@ -1177,6 +1234,39 @@
           "time_info": "06时17分"
         },
         {
+          "title": "丰田汽车：12月位于日本的独资工厂汽车产量下降2.4%至249223辆。",
+          "url": "https://flash.jin10.com/detail/20260129123121389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3046090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "国台办回应处理台湾问题发牌权在大陆",
+          "url": "https://www.toutiao.com/trending/7599859791076851721/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：美联储独立性的削弱将尤其影响美国。",
           "url": "https://flash.jin10.com/detail/20260128234843285800",
           "source": "金十数据",
@@ -1205,7 +1295,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -1238,9 +1328,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        },
+        {
+          "title": "据纽约时报：美国总统特朗普和美国参议院少数党领袖舒默正朝着达成一项可能的协议迈进，以避免政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260129122742373800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美国务卿：美俄乌三方会谈仍在推进，领土议题仍存分歧",
@@ -1455,7 +1556,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -1481,8 +1582,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 12时00分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 13时05分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -1543,8 +1644,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时05分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -1554,8 +1655,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时05分]"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时05分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -1569,26 +1692,15 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
           "ranks": [
-            10
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
-        },
-        {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
@@ -1597,7 +1709,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -1663,7 +1775,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -1762,7 +1874,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         }
