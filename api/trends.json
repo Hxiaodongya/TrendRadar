@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T22:27:39.550257+08:00",
-  "total_titles_processed": 2083,
+  "generated_at": "2026-01-30T23:24:38.827291+08:00",
+  "total_titles_processed": 2175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 228,
+      "match_count": 241,
       "titles": [
         {
           "title": "外界担忧日本或强登钓鱼岛 中方回应",
@@ -69,6 +69,19 @@
           "time_info": "[11时59分 ~ 19时21分]"
         },
         {
+          "title": "欧盟高官抱怨：更多国家想靠近中国，美国犯大错",
+          "url": "https://news.ifeng.com/c/8qKckagYL2d",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时24分]"
+        },
+        {
           "title": "国防部回应日本可能“强登钓鱼岛”",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E2%80%9C%E5%BC%BA%E7%99%BB%E9%92%93%E9%B1%BC%E5%B2%9B%E2%80%9D",
           "source": "百度热搜",
@@ -82,6 +95,18 @@
           "time_info": "[00时31分 ~ 09时03分]"
         },
         {
+          "title": "涉格陵兰岛机密电文曝光，芬兰求美国：别搞那么难看",
+          "url": "https://news.ifeng.com/c/8qKeVySFdEn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时24分]"
+        },
+        {
           "title": "中国公民在日本遭催泪瓦斯袭击",
           "url": "https://www.toutiao.com/trending/7601005249691799091/",
           "source": "今日头条",
@@ -93,8 +118,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时34分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[14时34分 ~ 23时24分]"
         },
         {
           "title": "熊猫在日本真的很火吗？",
@@ -112,28 +137,15 @@
           "time_info": "[00时31分 ~ 09时03分]"
         },
         {
-          "title": "欧盟高官抱怨：更多国家想靠近中国，美国犯大错",
-          "url": "https://news.ifeng.com/c/8qKckagYL2d",
+          "title": "中方希望斯塔默向日本传递何种信息？外交部表态",
+          "url": "https://news.ifeng.com/c/8qL22qxfYRB",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时27分]"
-        },
-        {
-          "title": "涉格陵兰岛机密电文曝光，芬兰求美国：别搞那么难看",
-          "url": "https://news.ifeng.com/c/8qKeVySFdEn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时27分]"
+          "time_info": "[19时21分 ~ 23时24分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -172,17 +184,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 09时03分]"
-        },
-        {
-          "title": "中方希望斯塔默向日本传递何种信息？外交部表态",
-          "url": "https://news.ifeng.com/c/8qL22qxfYRB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时27分]"
         },
         {
           "title": "中使馆再次提醒近期避免前往日本",
@@ -321,6 +322,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "世贸组织专家组就《通胀削减法案》中的部分美国税收抵免发布报告。",
+          "url": "https://flash.jin10.com/detail/20260130231105103800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "日本财务省数据证实，日本方面在1月份未进行日元干预操作。",
           "url": "https://wallstreetcn.com/livenews/3047269",
           "source": "华尔街见闻-快讯",
@@ -332,15 +344,15 @@
           "time_info": "18时23分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（1月29日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3047433",
-          "source": "华尔街见闻-快讯",
+          "title": "日本专家：高市政权或进一步右倾",
+          "url": "https://news.ifeng.com/c/8qLAZYdqgEB",
+          "source": "凤凰网",
           "ranks": [
-            1
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 23时24分]"
         },
         {
           "title": "美国贸易代表格里尔：签署美国-萨尔瓦多互惠贸易协议。",
@@ -374,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "美国财政部更新与伊朗相关的制裁名单，制裁两家据悉与伊朗伊斯兰革命卫队有关联的实体。",
+          "url": "https://flash.jin10.com/detail/20260130231037738800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）主席Michael Selig在讲稿中表示：CFTC将针对预测市场起草新版监管制度。 CFTC将撤销2024年提出的政治事件预测合约和体育赛事预测合约的监管方案建议。",
@@ -451,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "俄罗斯议会议长：立法者坚持使用更强大的武器以实现乌克兰战争中的目标。",
+          "url": "https://flash.jin10.com/detail/20260130230517743800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "高级监管官员：美国加州将于下周公布该州针对新电动汽车提供的2亿美元税收抵免的详细信息。",
@@ -579,17 +613,6 @@
           "time_info": "[01时30分 ~ 03时24分]"
         },
         {
-          "title": "日本专家：高市政权或进一步右倾",
-          "url": "https://news.ifeng.com/c/8qLAZYdqgEB",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时27分]"
-        },
-        {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
           "url": "https://flash.jin10.com/detail/20260130020218038800",
           "source": "金十数据",
@@ -705,6 +728,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（1月29日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3047433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时24分]"
         },
         {
           "title": "美国总统特朗普：下周将宣布美联储主席人选。",
@@ -1154,6 +1189,18 @@
           "time_info": "[21时47分 ~ 22时27分]"
         },
         {
+          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
+          "url": "https://www.zhihu.com/question/2000660435238613290",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时24分]"
+        },
+        {
           "title": "美国12月核心PPI环比 0.7%，预期 0.2%，前值 0%。",
           "url": "https://wallstreetcn.com/livenews/3047411",
           "source": "华尔街见闻-快讯",
@@ -1482,6 +1529,17 @@
           "time_info": "20时30分"
         },
         {
+          "title": "美国1月芝加哥PMI 54，预期 43.7，前值 43.5。",
+          "url": "https://wallstreetcn.com/livenews/3047453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美国将再迎寒潮",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%86%8D%E8%BF%8E%E5%AF%92%E6%BD%AE",
           "source": "bilibili 热搜",
@@ -1642,7 +1700,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1656,6 +1714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美国费城金银指数暴跌5.9%。 白银ETF目前跌13.9%，金矿股ETF跌6.6%，黄金矿工因素指数ETF跌6.4%。 金银矿业概念股中，ASM跌9.9%，安格鲁阿山帝黄金ADR跌8.4%，Blue Gold跌8.2%，AG跌8%，泛美白银、科尔黛伦矿业跌7.3%，巴里克矿业跌7.1%，",
+          "url": "https://wallstreetcn.com/livenews/3047449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "土耳其外交部长：我们将在未来一段时间内继续与美国保持联系。",
@@ -1678,17 +1747,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
-          "url": "https://www.zhihu.com/question/2000660435238613290",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "美国联邦政府再次面临部分“停摆”",
@@ -1768,6 +1826,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "庞巴迪多伦多股价暴跌19.70%，至少创4月4日以来最差盘中表现，至147.56（加元），逼近11月14日底部142.40。 1月29日盘后，该公司声明称，关注到美国总统特朗普的帖子，正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3047446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "房利美：1月29日当周，美国30年期固定利率抵押贷款平均利率为6.10%，高于前一周的6.09%。",
           "url": "https://flash.jin10.com/detail/20260130010017510800",
           "source": "金十数据",
@@ -1829,7 +1898,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1878,6 +1947,17 @@
           "time_info": "21时47分"
         },
         {
+          "title": "美国1月芝加哥PMI录得54，为2023年11月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260130224559772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "标普500指数维持下跌1%的状态，道指跌0.2%，纳指跌1.8%，半导体指数跌1.5%。 1月29日临近纽约中午，美国总统特朗普赞扬股市上涨。",
           "url": "https://wallstreetcn.com/livenews/3046610",
           "source": "华尔街见闻-快讯",
@@ -1911,6 +1991,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "美国1月芝加哥PMI 54，预期44，前值由43.5修正为42.7。",
+          "url": "https://flash.jin10.com/detail/20260130224502134800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美国商务部长卢特尼克将接管部门内一个分支，正为了多个项目从银行业、私募行业招人。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3046575",
           "source": "华尔街见闻-快讯",
@@ -1933,6 +2024,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "存储巨头Sandisk涨24%，使得美国IPO以来累计涨幅达到1755%。 该公司第二财季营收30.3亿美元，同比增长61.2%，高于26.9亿美元的普遍预期；每股收益为5.15美元，而市场普遍预期为3.54美元。",
+          "url": "https://wallstreetcn.com/livenews/3047442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美国总统特朗普：并未从明尼苏达州撤回移民执法人员，完全不是这么回事。",
           "url": "https://flash.jin10.com/detail/20260130081433884800",
           "source": "金十数据",
@@ -1950,7 +2052,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -2120,6 +2222,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "南非股指下跌3.9%，创2025年4月份美国总统特朗普宣布关税政策以来最差盘中表现。 在彭博追踪的92个主要指数中，南非股指1月30日目前表现最差。 贵金属和矿业股领跌。",
+          "url": "https://wallstreetcn.com/livenews/3047438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美国PPI数据高于预期，美元指数DXY短线小幅走高近10点，美债收益率小幅走高。",
           "url": "https://flash.jin10.com/detail/20260130213222495800",
           "source": "金十数据",
@@ -2129,6 +2242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
+        },
+        {
+          "title": "美国银矿股股价下跌，赫克拉矿业(HL.N)跌9%，科尔黛伦矿业(CDE.N)跌8.6%，Silvercorp Metals(SVM.A)跌8.7%，Endeavour Silver(EXK.N)跌8.1%。",
+          "url": "https://flash.jin10.com/detail/20260130223650912800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（1月29日）），美国科技股七巨头（Magnificent 7）指数跌0.90%，报207.72点，美股盘初持续下跌，北京时间23:55刷新日低至202.72点，随后逐步收复失地。 “超大”市值科技股指数跌0.58%，报396.22点。 成分股Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
@@ -2151,6 +2275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
+        },
+        {
+          "title": "美国决定对向古巴提供石油的国家输美商品加征从价关税，古巴国家主席发声",
+          "url": "https://wallstreetcn.com/livenews/3047437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "美国总统特朗普：石油公司将为美国和委内瑞拉创造财富。",
@@ -2217,6 +2352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
+        },
+        {
+          "title": "美国1月芝加哥PMI将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260130223500000800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "墨西哥总统辛鲍姆：我们不能将加拿大排除在三边协议（美国墨西哥加拿大贸易协议/USMCA）之外。 今天，与美国总统特朗普通电话。 墨西哥设法维持三边协议。 特朗普邀请我前往美国，但我们还没有同意哪一天实现。 我们认为，（美墨边境）安全工作的进展不错。 此次通话是“热情的”。 我们讨论关税和非关税壁垒。 墨美贸易和双边关系正在推进。 并没有与特朗普讨论（墨西哥供应柴油给）古巴的问题。",
@@ -2335,7 +2481,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -2651,7 +2797,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -2662,8 +2808,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时03分 ~ 22时27分]"
+          "appearance_count": 18,
+          "time_info": "[09时03分 ~ 23时24分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -2743,8 +2889,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 22时27分]"
+          "appearance_count": 30,
+          "time_info": "[00时31分 ~ 23时24分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -3024,7 +3170,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -3137,6 +3283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "报道：OpenAI总裁布罗克曼与a16z向亲AI超级政治行动委员会注资",
+          "url": "https://wallstreetcn.com/livenews/3047434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "新兴市场股票、外汇指数走低，微软业绩报告加重投资者对AI的顾虑。",
