@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T04:18:28.041402+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-01-31T05:18:45.532745+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
         {
           "title": "中方希望斯塔默向日本传递何种信息？外交部表态",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "欧盟高官抱怨：更多国家想靠近中国，美国犯大错",
@@ -48,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "美国被裁违反世贸规则，商务部回应",
@@ -58,9 +58,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
         },
         {
           "title": "日本专家：高市政权或进一步右倾",
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "美国一性侵嫌疑人试图抓女警臀部",
@@ -82,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "中国公民在日本遭催泪瓦斯袭击",
@@ -94,8 +94,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "美国天然气期货日内暴涨12.00%，现报4.389美元/百万英热。",
@@ -104,9 +104,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "美国宣布对伊朗最新制裁措施",
+          "url": "https://news.ifeng.com/c/8qLW5o6U9BO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "美国民主党参议员沃伦致信要求凯文·沃什就美联储主席鲍威尔和美联储理事库克的调查表明立场，沃伦表示，美联储下一任主席必须承诺在制定政策决策时不受政治考量影响。",
+          "url": "https://flash.jin10.com/detail/20260131031716633800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
         },
         {
           "title": "美国司法部公布更多杰弗里·爱泼斯坦相关文件。美国副司法部长表示，今天，我们已整理出超过300万页文件，其中包括2000段视频和18万张与爱泼斯坦相关的图像。",
@@ -118,17 +140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "美国圣路易斯联储主席Musalem：沃什完全有资格担任美联储主席一职。",
-          "url": "https://wallstreetcn.com/livenews/3047556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         },
         {
           "title": "消息人士：本周美国军方向伊拉克转移“伊斯兰国”在押人员的步伐有所放缓。伊拉克希望有时间筹备监狱，并与其他国家就遣返被拘留者事宜展开谈判。",
@@ -153,26 +164,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "美国参议院沃伦周五致信总统特朗普的美联储主席提名人凯文·沃什。 沃伦询问对方是否支持特朗普司法部对美联储主席鲍威尔和美联储理事Lisa Cook的调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3047555",
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：参议院周五将表决修订版拨款协议。",
+          "url": "https://wallstreetcn.com/livenews/3047569",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "美国宣布对伊朗最新制裁措施",
-          "url": "https://news.ifeng.com/c/8qLW5o6U9BO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "time_info": "05时18分"
         },
         {
           "title": "美国总统特朗普：庞大的舰队正驶向伊朗，规模甚至超过前往委内瑞拉的。",
@@ -186,26 +186,17 @@
           "time_info": "01时26分"
         },
         {
-          "title": "美国民主党参议员沃伦致信要求凯文·沃什就美联储主席鲍威尔和美联储理事库克的调查表明立场，沃伦表示，美联储下一任主席必须承诺在制定政策决策时不受政治考量影响。",
-          "url": "https://flash.jin10.com/detail/20260131031716633800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "美国圣路易斯联储主席Musalem：关税在当前通胀超过目标的幅度中占比大约一半。",
-          "url": "https://wallstreetcn.com/livenews/3047554",
+          "title": "美国圣路易斯联储主席Musalem：FOMC会议旨在互相说服，最好的想法会胜出。",
+          "url": "https://wallstreetcn.com/livenews/3047547",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时18分]"
         },
         {
           "title": "美国1月30日当周天然气钻井数 125，前值 122。",
@@ -221,16 +212,17 @@
           "time_info": "[02时27分 ~ 04时18分]"
         },
         {
-          "title": "美国圣路易斯联储主席Musalem：FOMC会议旨在互相说服，最好的想法会胜出。",
-          "url": "https://wallstreetcn.com/livenews/3047547",
+          "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
+          "url": "https://wallstreetcn.com/livenews/3047544",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            10
+            4,
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时18分]"
         },
         {
           "title": "美国总统特朗普赞赏1月30日发布的“惊人”数字。",
@@ -269,6 +261,18 @@
           "time_info": "[01时26分 ~ 02时27分]"
         },
         {
+          "title": "美国圣路易斯联储主席Musalem：沃什完全有资格担任美联储主席一职。",
+          "url": "https://wallstreetcn.com/livenews/3047556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
           "title": "美国1月30日当周石油钻井数 411，前值 411。",
           "url": "https://wallstreetcn.com/livenews/3047526",
           "source": "华尔街见闻-快讯",
@@ -281,16 +285,16 @@
           "time_info": "[02时27分 ~ 03时25分]"
         },
         {
-          "title": "美国参议院民主党领导人Schumer：如果总统特朗普对美联储继续“仇深似海”（vendetta），参议院就不可以推动他的美联储主席提名人沃什的确认程序。",
-          "url": "https://wallstreetcn.com/livenews/3047544",
+          "title": "美国参议院沃伦周五致信总统特朗普的美联储主席提名人凯文·沃什。 沃伦询问对方是否支持特朗普司法部对美联储主席鲍威尔和美联储理事Lisa Cook的调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3047555",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时18分]"
+          "time_info": "[04时18分 ~ 05时18分]"
         },
         {
           "title": "美国1月30日当周总钻井数 546，前值 544。",
@@ -305,16 +309,16 @@
           "time_info": "[02时27分 ~ 03时25分]"
         },
         {
-          "title": "古巴宣布因美国威胁进入国际紧急状态",
-          "url": "https://wallstreetcn.com/livenews/3047524",
+          "title": "美国圣路易斯联储主席Musalem：关税在当前通胀超过目标的幅度中占比大约一半。",
+          "url": "https://wallstreetcn.com/livenews/3047554",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            23
+            5,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时25分]"
+          "time_info": "[04时18分 ~ 05时18分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
@@ -325,8 +329,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时18分]"
+        },
+        {
+          "title": "古巴宣布因美国威胁进入国际紧急状态",
+          "url": "https://wallstreetcn.com/livenews/3047524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时18分]"
+          "time_info": "[02时27分 ~ 03时25分]"
         },
         {
           "title": "伊朗总统：绝不欢迎战争，坚决回击侵犯",
@@ -409,6 +425,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：1月27日当周，投机者所持NYMEX WTI原油净多头头寸增加9,557手合约，至62,991手合约，创六个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3047563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "明州枪声如何引爆美国政治地震",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%A3%B0%E5%A6%82%E4%BD%95%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD%E6%94%BF%E6%B2%BB%E5%9C%B0%E9%9C%87",
           "source": "bilibili 热搜",
@@ -442,6 +469,17 @@
           "time_info": "02时27分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：1月27日当周，投机者所持COMEX黄金净多头头寸减少17,741手合约，至121,421手合约，创八周新低。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创17周新低。 所持NYMEX铂金净空头头寸创八个月新低，所持NYMEX钯金净空头头寸创四周新高。",
+          "url": "https://wallstreetcn.com/livenews/3047562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
           "title": "白宫顾问哈塞特谈及美元走势，声称：强势美元是美国财政部的（既定）政策。 强势美元来自财政政策行动。",
           "url": "https://wallstreetcn.com/livenews/3047471",
           "source": "华尔街见闻-快讯",
@@ -451,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美联储理事米兰：我将继续担任理事，直至国会山确认接替我位置的人。 仍然认为FOMC利率太具有限制性。 就业还没有企稳到足以消除担忧。 认为美联储主席提名人沃什能够说服（国会山/美联储的）人们接受他的观点。 要缩减美联储资产负债表，我们需要监管改革。 美联储主席鲍威尔值得所有美国人的感谢。 鲍威尔帮助美国避免陷入第二次大萧条。",
+          "url": "https://wallstreetcn.com/livenews/3047559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "美国至1月30日当周石油钻井总数将于十分钟后公布。",
@@ -473,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美国参议院民主党党鞭Durbin就总统特朗普的美联储主席提名人沃什发表声明：质疑沃什是否有“胆量”指出特朗普的政策错误。 沃什具备美联储主席所需要的教育背景、训练、经验。 沃什对美联储独立性的看法将决定特朗普是否选对了人。",
+          "url": "https://wallstreetcn.com/livenews/3047560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         },
         {
           "title": "美国财长贝森特：伊朗政权正将被盗资金汇往全球各地的银行。",
@@ -833,7 +893,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         },
@@ -874,8 +934,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -885,19 +945,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时18分]"
-        },
-        {
-          "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3047557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时18分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -905,11 +954,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 05时18分]"
+        },
+        {
+          "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3047557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时18分]"
+          "time_info": "[04时18分 ~ 05时18分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
