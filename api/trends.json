@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T19:21:18.490749+08:00",
-  "total_titles_processed": 1767,
+  "generated_at": "2026-01-30T20:30:14.431777+08:00",
+  "total_titles_processed": 1880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 194,
+      "match_count": 202,
       "titles": [
         {
           "title": "外界担忧日本或强登钓鱼岛 中方回应",
@@ -80,6 +80,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 09时03分]"
+        },
+        {
+          "title": "中国公民在日本遭催泪瓦斯袭击",
+          "url": "https://www.toutiao.com/trending/7601005249691799091/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时34分 ~ 20时30分]"
         },
         {
           "title": "熊猫在日本真的很火吗？",
@@ -164,20 +178,6 @@
           "time_info": "[11时59分 ~ 15时34分]"
         },
         {
-          "title": "中国公民在日本遭催泪瓦斯袭击",
-          "url": "https://www.toutiao.com/trending/7601005249691799091/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 19时21分]"
-        },
-        {
           "title": "美国一年有300万人被“赶跑”，移民负增长了？",
           "url": "https://news.ifeng.com/c/8qJLcVA669g",
           "source": "凤凰网",
@@ -187,6 +187,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 05时18分]"
+        },
+        {
+          "title": "欧盟高官抱怨：更多国家想靠近中国，美国犯大错",
+          "url": "https://news.ifeng.com/c/8qKckagYL2d",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时30分]"
+        },
+        {
+          "title": "涉格陵兰岛机密电文曝光，芬兰求美国：别搞那么难看",
+          "url": "https://news.ifeng.com/c/8qKeVySFdEn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时30分]"
         },
         {
           "title": "袁娅维在美国唐人街偶遇周深",
@@ -203,6 +227,17 @@
           "time_info": "[14时34分 ~ 17时29分]"
         },
         {
+          "title": "中方希望斯塔默向日本传递何种信息？外交部表态",
+          "url": "https://news.ifeng.com/c/8qL22qxfYRB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时30分]"
+        },
+        {
           "title": "国防部回应福建舰通过台湾海峡北上",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%A6%8F%E5%BB%BA%E8%88%B0%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%8C%97%E4%B8%8A",
           "source": "百度热搜",
@@ -216,28 +251,28 @@
           "time_info": "[01时30分 ~ 07时17分]"
         },
         {
-          "title": "欧盟高官抱怨：更多国家想靠近中国，美国犯大错",
-          "url": "https://news.ifeng.com/c/8qKckagYL2d",
-          "source": "凤凰网",
+          "title": "美国小伙在餐厅拉中国拉面 动作丝滑",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%9C%A8%E9%A4%90%E5%8E%85%E6%8B%89%E4%B8%AD%E5%9B%BD%E6%8B%89%E9%9D%A2+%E5%8A%A8%E4%BD%9C%E4%B8%9D%E6%BB%91",
+          "source": "百度热搜",
           "ranks": [
             2,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 20时30分]"
+        },
+        {
+          "title": "美国打击伊朗箭在弦上了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E7%AE%AD%E5%9C%A8%E5%BC%A6%E4%B8%8A%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
-        },
-        {
-          "title": "涉格陵兰岛机密电文曝光，芬兰求美国：别搞那么难看",
-          "url": "https://news.ifeng.com/c/8qKeVySFdEn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
+          "time_info": "[20时29分 ~ 20时30分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模升至7.71万亿美元，三周以来首次增长。",
@@ -293,17 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "中方希望斯塔默向日本传递何种信息？外交部表态",
-          "url": "https://news.ifeng.com/c/8qL22qxfYRB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "美国贸易代表格里尔：签署美国-萨尔瓦多互惠贸易协议。",
@@ -370,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美国运通第四季度每股收益3.53美元，预计3.56美元。 第四季度营收189.8亿美元，预期189.2亿美元。 美国运通预计2026年营收增长9%-10%。 美国运通预计2026年每股收益17.3-17.9美元，预估17.55美元。 美国运通盘前跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3047362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         },
         {
           "title": "美国国家运输安全委员会：正在对1月23日发生在加利福尼亚州的Waymo车辆与行人相撞事故进行安全调查。",
@@ -477,7 +512,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -518,19 +553,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时30分 ~ 03时24分]"
-        },
-        {
-          "title": "美国小伙在餐厅拉中国拉面 动作丝滑",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%9C%A8%E9%A4%90%E5%8E%85%E6%8B%89%E4%B8%AD%E5%9B%BD%E6%8B%89%E9%9D%A2+%E5%8A%A8%E4%BD%9C%E4%B8%9D%E6%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
         },
         {
           "title": "金十提示：美国总统特朗普在结束内阁会议前，没有回答任何问题。",
@@ -877,6 +899,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时18分]"
+        },
+        {
+          "title": "日本专家：高市政权或进一步右倾",
+          "url": "https://news.ifeng.com/c/8qLAZYdqgEB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时30分]"
         },
         {
           "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
@@ -1306,6 +1339,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "伊朗外交部长阿拉奇：我希望美国以常识和逻辑行事。",
+          "url": "https://flash.jin10.com/detail/20260130200845519800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "美国将再迎寒潮",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%86%8D%E8%BF%8E%E5%AF%92%E6%BD%AE",
           "source": "bilibili 热搜",
@@ -1361,6 +1405,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "伊朗外交部长阿拉奇：如果美国直接介入，那么这种敌对情绪很可能会不幸地蔓延至整个地区。",
+          "url": "https://flash.jin10.com/detail/20260130200819242800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "美国电网运营商PJM：预计（通往各大发电站的）天然气管道输送网络到下周都几乎没有什么（运力）灵活性。",
           "url": "https://wallstreetcn.com/livenews/3046583",
           "source": "华尔街见闻-快讯",
@@ -1381,17 +1436,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "日本专家：高市政权或进一步右倾",
-          "url": "https://news.ifeng.com/c/8qLAZYdqgEB",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
@@ -1438,6 +1482,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "伊朗外交部长阿拉奇：与美国进行会谈的先决条件尚未满足。",
+          "url": "https://flash.jin10.com/detail/20260130200736492800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "美国加州州长Newsom因为Waymo一辆自动驾驶车辆在学校周边撞击一名儿童而遭到调查。",
           "url": "https://wallstreetcn.com/livenews/3046699",
           "source": "华尔街见闻-快讯",
@@ -1447,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "土耳其外交部长：我们将在未来一段时间内继续与美国保持联系。",
+          "url": "https://flash.jin10.com/detail/20260130200559117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         },
         {
           "title": "美国西南航空（LUV）收涨18.70%，创1978年以来最大涨幅，该航司预计2026年利润将增长三倍。",
@@ -1785,7 +1851,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1986,6 +2052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美国股指期货略微收回跌势，标普500指数期货现跌0.3%，标普500指数期货跌0.37%，纳指期货跌0.49%。",
+          "url": "https://flash.jin10.com/detail/20260130195838571800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         },
         {
           "title": "美国总统特朗普：明天上午（北京时间今晚）宣布美联储主席人选。当选美联储主席的人选非常合适。",
@@ -2192,7 +2269,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -2228,6 +2305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗外交部长阿拉奇：伊朗已为两种情况做好准备——战争或外交。",
+          "url": "https://flash.jin10.com/detail/20260130195521247800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         },
         {
           "title": "美国11月批发销售环比 1.3%，预期 -0.1%，前值 -0.4%。",
@@ -2276,8 +2364,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时03分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时03分 ~ 20时30分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -2305,8 +2393,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 19时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 20时30分]"
         },
         {
           "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
@@ -2317,11 +2405,12 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时07分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[13时07分 ~ 20时30分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -2350,11 +2439,12 @@
             15,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 19时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 20时30分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -2710,7 +2800,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
