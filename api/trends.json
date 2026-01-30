@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T14:35:13.868246+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-01-30T15:34:13.357326+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 173,
+      "match_count": 177,
       "titles": [
         {
           "title": "外界担忧日本或强登钓鱼岛 中方回应",
@@ -31,6 +31,18 @@
           "time_info": "[00时31分 ~ 07时17分]"
         },
         {
+          "title": "为干涉委内瑞拉辩解，美国务卿甩锅中国",
+          "url": "https://news.ifeng.com/c/8qKPEjiaHDF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 15时34分]"
+        },
+        {
           "title": "高市早苗与“统一教”相关团体有资金往来？日本政府回应",
           "url": "https://news.ifeng.com/c/8qJJ8MKA0cY",
           "source": "凤凰网",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 09时03分]"
-        },
-        {
-          "title": "为干涉委内瑞拉辩解，美国务卿甩锅中国",
-          "url": "https://news.ifeng.com/c/8qKPEjiaHDF",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 14时35分]"
         },
         {
           "title": "熊猫在日本真的很火吗？",
@@ -120,6 +120,33 @@
           "time_info": "[00时31分 ~ 09时03分]"
         },
         {
+          "title": "中方回应“日本或强登钓鱼岛”",
+          "url": "https://www.douyin.com/hot/2383451",
+          "source": "抖音",
+          "ranks": [
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 15时34分]"
+        },
+        {
+          "title": "又一艘驱逐舰抵达 美国在中东部署至少10艘军舰",
+          "url": "https://www.cls.cn/detail/2274947",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 15时34分]"
+        },
+        {
           "title": "美国一年有300万人被“赶跑”，移民负增长了？",
           "url": "https://news.ifeng.com/c/8qJLcVA669g",
           "source": "凤凰网",
@@ -131,30 +158,16 @@
           "time_info": "[00时31分 ~ 05时18分]"
         },
         {
-          "title": "中方回应“日本或强登钓鱼岛”",
-          "url": "https://www.douyin.com/hot/2383451",
-          "source": "抖音",
-          "ranks": [
-            4,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 14时35分]"
-        },
-        {
-          "title": "又一艘驱逐舰抵达 美国在中东部署至少10艘军舰",
-          "url": "https://www.cls.cn/detail/2274947",
-          "source": "财联社热门",
+          "title": "袁娅维在美国唐人街偶遇周深",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%81%E5%A8%85%E7%BB%B4%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%94%90%E4%BA%BA%E8%A1%97%E5%81%B6%E9%81%87%E5%91%A8%E6%B7%B1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
             5,
-            7,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 15时34分]"
         },
         {
           "title": "国防部回应福建舰通过台湾海峡北上",
@@ -174,22 +187,12 @@
           "url": "https://www.toutiao.com/trending/7601005249691799091/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
-        },
-        {
-          "title": "袁娅维在美国唐人街偶遇周深",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%81%E5%A8%85%E7%BB%B4%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%94%90%E4%BA%BA%E8%A1%97%E5%81%B6%E9%81%87%E5%91%A8%E6%B7%B1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 15时34分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模升至7.71万亿美元，三周以来首次增长。",
@@ -234,6 +237,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "中使馆再次提醒近期避免前往日本",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 15时34分]"
         },
         {
           "title": "美国贸易代表格里尔：签署美国-萨尔瓦多互惠贸易协议。",
@@ -341,7 +357,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -646,18 +662,6 @@
           "time_info": "[04时18分 ~ 05时18分]"
         },
         {
-          "title": "中使馆再次提醒近期避免前往日本",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时07分 ~ 14时35分]"
-        },
-        {
           "title": "美国财长贝森特：2026年将是供给侧繁荣的一年。",
           "url": "https://flash.jin10.com/detail/20260130011457045800",
           "source": "金十数据",
@@ -823,6 +827,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时31分]"
+        },
+        {
+          "title": "国防部回应“日本或强登钓鱼岛”",
+          "url": "https://www.toutiao.com/trending/7600339920788652038/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 15时34分]"
         },
         {
           "title": "美国财长贝森特：100人已经签字申请“特朗普账户”（Trump Accounts）。",
@@ -1075,6 +1091,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时24分]"
+        },
+        {
+          "title": "英国首相时隔八年再次访华，如何看待最近传统美国盟友纷纷访问中国？中美欧关系产生了哪些变化？",
+          "url": "https://www.zhihu.com/question/1999513491317470178",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "预测平台显示，美国政府在1月31日前停摆的可能性高达73%。",
@@ -1351,6 +1378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "据韩联社：日本防卫大臣对韩国国防部长表示，日韩美防务合作比以往任何时候都更加重要。",
+          "url": "https://flash.jin10.com/detail/20260130150348730800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普：通用汽车、福特汽车的表现是它们从未有过的。",
@@ -1656,7 +1694,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1711,7 +1749,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1733,7 +1771,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -1892,17 +1930,6 @@
           "time_info": "01时31分"
         },
         {
-          "title": "国防部回应“日本或强登钓鱼岛”",
-          "url": "https://www.toutiao.com/trending/7600339920788652038/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
           "title": "日本12月库存月率 1%，前值-3%。",
           "url": "https://flash.jin10.com/detail/20260130075626301800",
           "source": "金十数据",
@@ -1934,6 +1961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "日经225指数收跌0.1%，报53322.85点。 日本东证指数收涨0.6%，报3566.32点。 韩国首尔综指收盘几无变动，报5221.36点。1月累计上涨24%，创1998年12月以来最大单月涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3047042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "据Punchbowl：美国众议院共和党领导层似乎不太可能在本周末召集众议院复会。出席率肯定会很低。虽然他们尚未做出最终决定，但众议院计划于周一复会。",
@@ -1980,6 +2018,17 @@
           "time_info": "12时01分"
         },
         {
+          "title": "巴西、南非股市因投资者对美国政策不确定性保持警惕而走强",
+          "url": "https://flash.jin10.com/detail/20260130145132391800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "美国11月批发销售环比 1.3%，预期 -0.1%，前值 -0.4%。",
           "url": "https://wallstreetcn.com/livenews/3046562",
           "source": "华尔街见闻-快讯",
@@ -2008,7 +2057,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
@@ -2032,6 +2081,17 @@
           "time_info": "[00时31分 ~ 07时17分]"
         },
         {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 15时34分]"
+        },
+        {
           "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
           "url": "https://wallstreetcn.com/articles/3764497",
           "source": "华尔街见闻",
@@ -2044,19 +2104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 14时35分]"
-        },
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 14时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 15时34分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -2080,11 +2129,12 @@
             4,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 14时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 15时34分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -2097,6 +2147,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 07时17分]"
+        },
+        {
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时59分 ~ 15时34分]"
         },
         {
           "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
@@ -2123,6 +2186,19 @@
           "time_info": "[07时16分 ~ 07时17分]"
         },
         {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 15时34分]"
+        },
+        {
           "title": "我的马耶这春晚AI做的",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
           "source": "bilibili 热搜",
@@ -2144,19 +2220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 14时35分]"
         },
         {
           "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
@@ -2221,16 +2284,16 @@
           "time_info": "[05时18分 ~ 06时17分]"
         },
         {
-          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
-          "source": "澎湃新闻",
+          "title": "SpaceX被曝拟合并xAI",
+          "url": "https://www.douyin.com/hot/2383918",
+          "source": "抖音",
           "ranks": [
             10,
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时07分 ~ 14时35分]"
+          "time_info": "[14时34分 ~ 15时34分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -2256,17 +2319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 04时18分]"
-        },
-        {
-          "title": "SpaceX被曝拟合并xAI",
-          "url": "https://www.douyin.com/hot/2383918",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
