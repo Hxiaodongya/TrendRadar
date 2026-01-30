@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T12:01:07.962957+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-01-30T13:08:18.882707+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 156,
+      "match_count": 165,
       "titles": [
         {
           "title": "外界担忧日本或强登钓鱼岛 中方回应",
@@ -77,11 +77,12 @@
             13,
             14,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 13时08分]"
         },
         {
           "title": "美国明州ICE接到新指令：不要接触！",
@@ -107,6 +108,17 @@
           "time_info": "[00时31分 ~ 09时03分]"
         },
         {
+          "title": "为干涉委内瑞拉辩解，美国务卿甩锅中国",
+          "url": "https://news.ifeng.com/c/8qKPEjiaHDF",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时08分]"
+        },
+        {
           "title": "美国一年有300万人被“赶跑”，移民负增长了？",
           "url": "https://news.ifeng.com/c/8qJLcVA669g",
           "source": "凤凰网",
@@ -116,17 +128,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 05时18分]"
-        },
-        {
-          "title": "为干涉委内瑞拉辩解，美国务卿甩锅中国",
-          "url": "https://news.ifeng.com/c/8qKPEjiaHDF",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
         },
         {
           "title": "国防部回应福建舰通过台湾海峡北上",
@@ -146,22 +147,24 @@
           "url": "https://www.douyin.com/hot/2383451",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时08分]"
         },
         {
           "title": "又一艘驱逐舰抵达 美国在中东部署至少10艘军舰",
           "url": "https://www.cls.cn/detail/2274947",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时08分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模升至7.71万亿美元，三周以来首次增长。",
@@ -197,6 +200,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "日本12月新屋开工年率 -1.33%，预期-4.1%，前值-8.50%。",
+          "url": "https://flash.jin10.com/detail/20260130130047175800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "美国贸易代表格里尔：签署美国-萨尔瓦多互惠贸易协议。",
           "url": "https://flash.jin10.com/detail/20260130001325114800",
           "source": "金十数据",
@@ -217,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普并未暗示美国会取消对在役加拿大制造飞机的认证。",
+          "url": "https://flash.jin10.com/detail/20260130130036264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）主席Michael Selig在讲稿中表示：CFTC将针对预测市场起草新版监管制度。 CFTC将撤销2024年提出的政治事件预测合约和体育赛事预测合约的监管方案建议。",
@@ -250,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "日本两年期国债拍卖需求强劲，因收益率颇具吸引力",
+          "url": "https://flash.jin10.com/detail/20260130125844152800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "高级监管官员：美国加州将于下周公布该州针对新电动汽车提供的2亿美元税收抵免的详细信息。",
@@ -538,6 +574,18 @@
           "time_info": "[04时18分 ~ 05时18分]"
         },
         {
+          "title": "美国国债增长速度有多快",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E5%A2%9E%E9%95%BF%E9%80%9F%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%BF%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时08分]"
+        },
+        {
           "title": "金十数据1月30日讯，美国总统特朗普在Truth Social上置顶了他威胁打击伊朗的帖文。",
           "url": "https://flash.jin10.com/detail/20260130032628040800",
           "source": "金十数据",
@@ -753,17 +801,6 @@
           "time_info": "[04时18分 ~ 05时18分]"
         },
         {
-          "title": "美国国债增长速度有多快",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E5%A2%9E%E9%95%BF%E9%80%9F%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%BF%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时01分]"
-        },
-        {
           "title": "据Punchbowl记者：美国共和党参议员计划今晚进行一项潜在投票，以最终敲定拨款方案和国土安全部临时拨款法案——这表明协议即将达成。 虽然远未确定，但这无疑是个积极的信号。这需要所有100位参议员的合作。很可能需要进行修正案投票。",
           "url": "https://flash.jin10.com/detail/20260130032326670800",
           "source": "金十数据",
@@ -774,6 +811,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "30年期美国国债收益率上行5个基点，至4.905%。",
+          "url": "https://wallstreetcn.com/livenews/3046956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时08分]"
         },
         {
           "title": "美国联邦政府再次面临部分“停摆”",
@@ -932,6 +981,17 @@
           "time_info": "[04时18分 ~ 05时18分]"
         },
         {
+          "title": "中使馆再次提醒近期避免前往日本",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BD%BF%E9%A6%86%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
           "title": "美国联邦航空局已撤销加勒比地区四项航行通告，其中包括一项与委内瑞拉相关的通告。",
           "url": "https://flash.jin10.com/detail/20260130025225942800",
           "source": "金十数据",
@@ -942,6 +1002,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时18分]"
+        },
+        {
+          "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3046944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普：与礼来公司负责人通话，对方表示他们正在建设6家工厂。",
@@ -1013,6 +1085,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "日本大阪交易所对铂金期货启动了“熔断机制”",
+          "url": "https://wallstreetcn.com/livenews/3046978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "国防部回应日本或强登钓鱼岛",
           "url": "https://www.douyin.com/hot/2383451",
           "source": "抖音",
@@ -1035,15 +1118,15 @@
           "time_info": "05时18分"
         },
         {
-          "title": "30年期美国国债收益率上行5个基点，至4.905%。",
-          "url": "https://wallstreetcn.com/livenews/3046956",
-          "source": "华尔街见闻-快讯",
+          "title": "日本经济产业省：日本12月原油进口同比增长17.7%，汽油销量同比增长2.4%，成品油销量同比增长2.3%。",
+          "url": "https://flash.jin10.com/detail/20260130123239691800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "13时08分"
         },
         {
           "title": "美国将再迎寒潮",
@@ -1085,9 +1168,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五上午11点（北京时间周六零点）签署行政命令。",
+          "url": "https://flash.jin10.com/detail/20260130123131643800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国电网运营商PJM：预计（通往各大发电站的）天然气管道输送网络到下周都几乎没有什么（运力）灵活性。",
@@ -1145,6 +1239,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "美国白宫：美国总统特朗普将于美国东部时间周五下午2点（北京时间次日凌晨3点）参加一场政策会议。",
+          "url": "https://flash.jin10.com/detail/20260130123023173800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "美国加州州长Newsom因为Waymo一辆自动驾驶车辆在学校周边撞击一名儿童而遭到调查。",
           "url": "https://wallstreetcn.com/livenews/3046699",
           "source": "华尔街见闻-快讯",
@@ -1195,7 +1300,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -1332,17 +1437,6 @@
           "time_info": "09时03分"
         },
         {
-          "title": "庞巴迪：关注到美国总统特朗普的帖子。正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3046944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "美国总统特朗普：福特和通用汽车的表现比以往任何时候都好。",
           "url": "https://flash.jin10.com/detail/20260130005557703800",
           "source": "金十数据",
@@ -1426,7 +1520,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -1462,6 +1556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "日本国内铂金期货触发熔断机制",
+          "url": "https://flash.jin10.com/detail/20260130121609311800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：与政府关门相关的磋商“在正确的方向上”推进。（Politico）",
@@ -1602,7 +1707,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -1734,7 +1839,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -1789,7 +1894,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -1819,7 +1924,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -1847,8 +1952,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 13时08分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -1857,11 +1962,12 @@
           "ranks": [
             3,
             4,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 13时08分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -1896,8 +2002,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时08分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银跳水后反弹，铜油走强",
@@ -1909,6 +2015,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "我的马耶这春晚AI做的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84%E9%A9%AC%E8%80%B6%E8%BF%99%E6%98%A5%E6%99%9AAI%E5%81%9A%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "微软市值单日蒸发3600亿美元，AI支出多到投资者不安",
@@ -1931,6 +2048,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
+          "url": "https://www.cls.cn/detail/2274899",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时08分]"
         },
         {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
@@ -1984,16 +2114,16 @@
           "time_info": "[05时18分 ~ 06时17分]"
         },
         {
-          "title": "SpaceX被曝拟合并xAI剑指超级IPO “数据中心上天”蓝图浮现",
-          "url": "https://www.cls.cn/detail/2274899",
-          "source": "财联社热门",
+          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            6
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时08分]"
         },
         {
           "title": "机构报告：受AI热潮影响，半数美国人面临电力短缺的高风险",
@@ -2021,6 +2151,17 @@
           "time_info": "[03时24分 ~ 04时18分]"
         },
         {
+          "title": "车没上市AI黑稿已刷屏，起底新能源车圈黑水军产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32491299",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
           "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
           "url": "https://flash.jin10.com/detail/20260130013359793800",
           "source": "金十数据",
@@ -2043,17 +2184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时17分]"
-        },
-        {
-          "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32489814",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时01分]"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
