@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T21:36:01.289057+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-01-31T22:15:57.500748+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 139,
+      "match_count": 141,
       "titles": [
         {
           "title": "俄罗斯重新将14名日本人列为战犯",
@@ -56,6 +56,33 @@
           "time_info": "[04时18分 ~ 18时14分]"
         },
         {
+          "title": "台湾政治人物再爆发冲突！",
+          "url": "https://v.ifeng.com/c/8qMfNsgtEjT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 22时15分]"
+        },
+        {
+          "title": "美国政府又“停摆”了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8F%88%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            6,
+            8,
+            9,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 22时15分]"
+        },
+        {
           "title": "俄罗斯重新将14名日本人列为战犯",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E6%96%B0%E5%B0%8614%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%88%97%E4%B8%BA%E6%88%98%E7%8A%AF",
           "source": "百度热搜",
@@ -70,21 +97,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时01分 ~ 16时17分]"
-        },
-        {
-          "title": "美国政府又“停摆”了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8F%88%E2%80%9C%E5%81%9C%E6%91%86%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6,
-            8,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 21时36分]"
         },
         {
           "title": "中国公民在日本遭催泪瓦斯袭击",
@@ -113,19 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时22分 ~ 21时36分]"
-        },
-        {
-          "title": "台湾政治人物再爆发冲突！",
-          "url": "https://v.ifeng.com/c/8qMfNsgtEjT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 21时36分]"
+          "appearance_count": 17,
+          "time_info": "[11时22分 ~ 22时15分]"
         },
         {
           "title": "美国被裁违反世贸规则，商务部回应",
@@ -150,11 +151,12 @@
             29,
             17,
             19,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时57分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[12时57分 ~ 22时15分]"
         },
         {
           "title": "欧盟高官抱怨：更多国家想靠近中国，美国犯大错",
@@ -339,6 +341,17 @@
           "time_info": "[04时18分 ~ 11时23分]"
         },
         {
+          "title": "全球抛售美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%8A%9B%E5%94%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时15分]"
+        },
+        {
           "title": "日本发现中国女性遗体 初步认定他杀",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E9%81%97%E4%BD%93+%E5%88%9D%E6%AD%A5%E8%AE%A4%E5%AE%9A%E4%BB%96%E6%9D%80",
           "source": "百度热搜",
@@ -403,17 +416,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时22分 ~ 14时25分]"
-        },
-        {
-          "title": "全球抛售美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%8A%9B%E5%94%AE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后出席一场政策会议。",
@@ -518,6 +520,17 @@
           "time_info": "[11时23分 ~ 16时17分]"
         },
         {
+          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
+          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时12分 ~ 22时15分]"
+        },
+        {
           "title": "美国批准对沙特90亿美元军售计划",
           "url": "https://wallstreetcn.com/livenews/3047649",
           "source": "华尔街见闻-快讯",
@@ -566,15 +579,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "美国地质勘探局：冰岛阿克雷里以南110公里处发生5.3级地震。",
-          "url": "https://flash.jin10.com/detail/20260131204453475800",
+          "title": "知情人士表示，俄罗斯与美国的会谈已于当地时间上午8点在美国佛罗里达州迈阿密市启动。",
+          "url": "https://flash.jin10.com/detail/20260131213054733800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "22时15分"
         },
         {
           "title": "万字解析美国电力现状",
@@ -712,17 +725,6 @@
           "time_info": "[12时57分 ~ 15时21分]"
         },
         {
-          "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
-          "url": "https://news.ifeng.com/c/8qMdkARYmOZ",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时12分 ~ 21时36分]"
-        },
-        {
           "title": "美国圣路易斯联储主席Musalem：FOMC会议旨在互相说服，最好的想法会胜出。",
           "url": "https://wallstreetcn.com/livenews/3047547",
           "source": "华尔街见闻-快讯",
@@ -823,6 +825,18 @@
           "time_info": "[04时18分 ~ 05时18分]"
         },
         {
+          "title": "美国地质勘探局：冰岛阿克雷里以南110公里处发生5.3级地震。",
+          "url": "https://flash.jin10.com/detail/20260131204453475800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时15分]"
+        },
+        {
           "title": "美国1月30日当周石油钻井数 411，前值 411。",
           "url": "https://wallstreetcn.com/livenews/3047526",
           "source": "华尔街见闻-快讯",
@@ -885,6 +899,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时25分 ~ 17时19分]"
+        },
+        {
+          "title": "爱泼斯坦案文件继续公开 多名美国政商名流牵涉其中",
+          "url": "https://wallstreetcn.com/livenews/3047676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时15分]"
         },
         {
           "title": "美国1月30日当周总钻井数 546，前值 544。",
@@ -952,19 +980,6 @@
           "time_info": "[02时27分 ~ 07时16分]"
         },
         {
-          "title": "爱泼斯坦案文件继续公开 多名美国政商名流牵涉其中",
-          "url": "https://wallstreetcn.com/livenews/3047676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时36分]"
-        },
-        {
           "title": "明州枪声如何引爆美国政治地震",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%A3%B0%E5%A6%82%E4%BD%95%E5%BC%95%E7%88%86%E7%BE%8E%E5%9B%BD%E6%94%BF%E6%B2%BB%E5%9C%B0%E9%9C%87",
           "source": "bilibili 热搜",
@@ -989,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时13分 ~ 21时36分]"
+        },
+        {
+          "title": "美国三女子围殴少女 反被打倒",
+          "url": "https://www.toutiao.com/trending/7600704354030567470/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时15分]"
         },
         {
           "title": "日本在野党要求高市就自民党收受宗教团体资金传闻作出说明",
@@ -1100,17 +1126,6 @@
           "time_info": "[07时16分 ~ 09时01分]"
         },
         {
-          "title": "美国三女子围殴少女 反被打倒",
-          "url": "https://www.toutiao.com/trending/7600704354030567470/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
-        },
-        {
           "title": "白宫顾问哈塞特赞赏礼来制药在美国生产的做法。",
           "url": "https://wallstreetcn.com/livenews/3047469",
           "source": "华尔街见闻-快讯",
@@ -1177,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "美国称“与中国做生意很危险”，英商界人士：找不到任何不和中国合作的理由",
+          "url": "https://wallstreetcn.com/livenews/3047700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "俄方重新将14名日本人列为战犯",
@@ -1710,7 +1736,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -1752,8 +1778,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时24分 ~ 21时36分]"
+          "appearance_count": 13,
+          "time_info": "[14时24分 ~ 22时15分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -1768,8 +1794,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 21时36分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 22时15分]"
+        },
+        {
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时15分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -1786,17 +1824,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 15时21分]"
-        },
-        {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
@@ -1826,17 +1853,40 @@
           "time_info": "[12时57分 ~ 16时17分]"
         },
         {
+          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
+          "url": "https://wallstreetcn.com/livenews/3047705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "印尼金融厅官员Friderica称，将启动股市操纵调查，印尼金融厅致力于资本市场改革。",
+          "url": "https://wallstreetcn.com/livenews/3047704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
           "url": "https://flash.jin10.com/detail/20260131190934573800",
           "source": "金十数据",
           "ranks": [
             2,
             6,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 22时15分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
@@ -1884,8 +1934,56 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 22时15分]"
+        },
+        {
+          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
+          "url": "https://flash.jin10.com/detail/20260131204002785800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
+          "time_info": "[21时36分 ~ 22时15分]"
+        },
+        {
+          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
+          "url": "https://wallstreetcn.com/livenews/3047693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时15分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
+          "url": "https://flash.jin10.com/detail/20260131203337844800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时15分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
+          "url": "https://flash.jin10.com/detail/20260131203248230800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时15分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -1898,50 +1996,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时26分]"
-        },
-        {
-          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
-          "url": "https://flash.jin10.com/detail/20260131204002785800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
-          "url": "https://wallstreetcn.com/livenews/3047693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
-          "url": "https://flash.jin10.com/detail/20260131203337844800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
-          "url": "https://flash.jin10.com/detail/20260131203248230800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "Redis 之父称「手写代码不再必要」，你如何看待 AI 对编程的影响？",
