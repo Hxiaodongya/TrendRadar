@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T17:21:21.782123+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-02-01T18:15:42.996214+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 18时15分]"
         },
         {
           "title": "日本茨城县山林发现一具中国籍女性遗体",
@@ -52,11 +53,12 @@
             6,
             8,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时11分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[05时11分 ~ 18时15分]"
         },
         {
           "title": "全球抛售美国",
@@ -113,8 +115,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 17时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 18时15分]"
         },
         {
           "title": "俄罗斯重新将14名日本人列为战犯",
@@ -143,6 +145,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 09时14分]"
+        },
+        {
+          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            14,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 18时15分]"
         },
         {
           "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
@@ -176,6 +193,19 @@
           "time_info": "[00时14分 ~ 07时13分]"
         },
         {
+          "title": "中国有没有可能通过压低工业生产成本，将一次性火箭的成本压到接近美国的可复用火箭？",
+          "url": "https://www.zhihu.com/question/1978472754496963317",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 18时15分]"
+        },
+        {
           "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
           "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
           "source": "凤凰网",
@@ -187,19 +217,30 @@
           "time_info": "[12时20分 ~ 17时21分]"
         },
         {
-          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
+          "title": "图说｜美国掀起反ICE暴力游行，联邦地方对立或致政府停摆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471773",
           "source": "澎湃新闻",
           "ranks": [
-            11,
+            15,
             14,
-            13,
-            10,
-            9
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时20分 ~ 17时21分]"
+          "time_info": "[13时54分 ~ 18时15分]"
+        },
+        {
+          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2001056898753983700",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时15分]"
         },
         {
           "title": "美国称“与中国做生意很危险”，英商界人士：找不到任何不和中国合作的理由",
@@ -226,19 +267,6 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
-          "title": "中国有没有可能通过压低工业生产成本，将一次性火箭的成本压到接近美国的可复用火箭？",
-          "url": "https://www.zhihu.com/question/1978472754496963317",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 17时21分]"
-        },
-        {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
           "url": "https://wallstreetcn.com/livenews/3047726",
           "source": "华尔街见闻-快讯",
@@ -251,32 +279,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时12分 ~ 14时37分]"
-        },
-        {
-          "title": "图说｜美国掀起反ICE暴力游行，联邦地方对立或致政府停摆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471773",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时21分]"
-        },
-        {
-          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2001056898753983700",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时21分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -321,17 +323,6 @@
           "time_info": "[13时54分 ~ 16时20分]"
         },
         {
-          "title": "哈梅内伊：如果美国挑起战争 这次冲突将不再局限于一地",
-          "url": "https://wallstreetcn.com/livenews/3047792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "美国驻委临时代办抵达委内瑞拉",
           "url": "https://wallstreetcn.com/livenews/3047724",
           "source": "华尔街见闻-快讯",
@@ -356,27 +347,17 @@
           "time_info": "09时14分"
         },
         {
-          "title": "杰瑞股份：签署12.65亿元美国数据中心燃气轮机发电机组销售合同",
-          "url": "https://wallstreetcn.com/livenews/3047790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
           "url": "https://wallstreetcn.com/livenews/3047783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时15分]"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -401,6 +382,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 06时12分]"
+        },
+        {
+          "title": "哈梅内伊：如果美国挑起战争 这次冲突将不再局限于一地",
+          "url": "https://wallstreetcn.com/livenews/3047792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
+          "title": "杰瑞股份：签署12.65亿元美国数据中心燃气轮机发电机组销售合同",
+          "url": "https://wallstreetcn.com/livenews/3047790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
         },
         {
           "title": "伊朗最高领袖顾问：与人为制造的媒体战氛围相反，对美国的谈判架构正在逐步形成",
@@ -439,6 +444,18 @@
           "time_info": "[02时17分 ~ 03时14分]"
         },
         {
+          "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
+          "url": "https://flash.jin10.com/detail/20260201163047620800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "美国宇航局开始进行载人绕月飞行前的关键测试",
           "url": "https://flash.jin10.com/detail/20260201102302071800",
           "source": "金十数据",
@@ -451,6 +468,30 @@
           "time_info": "[12时20分 ~ 13时54分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊表示，如果美国人这次发动战争，将引发地区性冲突。",
+          "url": "https://flash.jin10.com/detail/20260201162805324800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://flash.jin10.com/detail/20260201160413399800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "美国钢铁工人联合会：工会将继续与马拉松石油(MRO.N)就到期合同进行谈判。",
           "url": "https://flash.jin10.com/detail/20260201125729655800",
           "source": "金十数据",
@@ -461,28 +502,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 14时37分]"
-        },
-        {
-          "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
-          "url": "https://flash.jin10.com/detail/20260201163047620800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊表示，如果美国人这次发动战争，将引发地区性冲突。",
-          "url": "https://flash.jin10.com/detail/20260201162805324800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "美国总统特朗普：认为我们即将就古巴达成一项协议。",
@@ -513,7 +532,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -527,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
-          "url": "https://flash.jin10.com/detail/20260201160413399800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "美国总统特朗普：如果我在税务诉讼中获胜，将“考虑为慈善事业做点什么”。",
@@ -609,7 +617,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -632,11 +640,26 @@
             9,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 17时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 18时15分]"
+        },
+        {
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时20分 ~ 18时15分]"
         },
         {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
@@ -648,21 +671,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 17时21分]"
-        },
-        {
-          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
-          "url": "https://wallstreetcn.com/articles/3764665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时20分 ~ 17时21分]"
+          "appearance_count": 22,
+          "time_info": "[00时14分 ~ 18时15分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -790,6 +800,28 @@
           "time_info": "09时14分"
         },
         {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "男子被AI诊断梅毒医生否认却不信",
           "url": "https://www.toutiao.com/trending/7600615536050585651/",
           "source": "今日头条",
@@ -814,6 +846,17 @@
           "time_info": "[14时36分 ~ 15时31分]"
         },
         {
+          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
+          "url": "https://www.zhihu.com/question/2000826715941904620",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时15分]"
+        },
+        {
           "title": "男子被AI诊断梅毒医生否认却不信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%ABAI%E8%AF%8A%E6%96%AD%E6%A2%85%E6%AF%92%E5%8C%BB%E7%94%9F%E5%90%A6%E8%AE%A4%E5%8D%B4%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -826,15 +869,15 @@
           "time_info": "[06时12分 ~ 07时13分]"
         },
         {
-          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
-          "url": "https://www.zhihu.com/question/2000826715941904620",
-          "source": "知乎",
+          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
+          "url": "https://wallstreetcn.com/livenews/3047799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "18时15分"
         }
       ]
     }
