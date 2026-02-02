@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:35:01.949162+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-02-02T19:29:12.342407+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "王毅会见绍伊古，谈及日本和台海问题",
@@ -20,6 +20,17 @@
           "time_info": "[00时17分 ~ 09时07分]"
         },
         {
+          "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
+          "url": "https://www.zhihu.com/question/2001592697673179840",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时57分 ~ 19时29分]"
+        },
+        {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
@@ -30,19 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 18时35分]"
-        },
-        {
-          "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
-          "url": "https://www.zhihu.com/question/2001592697673179840",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时57分 ~ 18时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 19时29分]"
         },
         {
           "title": "日本米价飞天,开启史诗通胀",
@@ -57,8 +57,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 18时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 19时29分]"
         },
         {
           "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
@@ -95,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 19时29分]"
         },
         {
           "title": "图说｜美国掀起反ICE暴力游行，联邦地方对立或致政府停摆",
@@ -123,6 +123,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时16分]"
+        },
+        {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 19时29分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -152,6 +166,20 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
+          "title": "日本选手发球砸人 上演“滑行谢罪”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            16,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 19时29分]"
+        },
+        {
           "title": "哈梅内伊向美国发出严正警告",
           "url": "https://www.douyin.com/hot/2386256",
           "source": "抖音",
@@ -165,20 +193,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时07分 ~ 16时31分]"
-        },
-        {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 18时35分]"
         },
         {
           "title": "美国众议院议长约翰逊：对国土安全部部长充满信心。",
@@ -219,6 +233,17 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
+          "title": "涉及稀土，日本声称“挖到了”！",
+          "url": "https://news.ifeng.com/c/8qPycivcVnz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 19时29分]"
+        },
+        {
           "title": "日本律师：高市错误言行越过日本法治底线",
           "url": "https://news.ifeng.com/c/8qPa3BpE7d7",
           "source": "凤凰网",
@@ -228,19 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 13时57分]"
-        },
-        {
-          "title": "日本选手发球砸人 上演“滑行谢罪”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 18时35分]"
         },
         {
           "title": "杰瑞股份：签署12.65亿元美国数据中心燃气轮机发电机组销售合同",
@@ -332,17 +344,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时14分]"
-        },
-        {
-          "title": "涉及稀土，日本声称“挖到了”！",
-          "url": "https://news.ifeng.com/c/8qPycivcVnz",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 18时35分]"
         },
         {
           "title": "牛剑在学术水平上和美国 top 院校差距真的大么？",
@@ -471,6 +472,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "市场消息：美国中东问题特使威特科夫将于明天抵达以色列，与以色列总理内塔尼亚胡和国防军总参谋长扎米尔会面。",
+          "url": "https://flash.jin10.com/detail/20260202190837349800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "日本1月制造业PMI终值 51.5，初值 51.5。",
           "url": "https://wallstreetcn.com/livenews/3047899",
           "source": "华尔街见闻-快讯",
@@ -499,7 +511,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -510,7 +522,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -598,7 +610,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -612,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "以色列官员表示，美国总统特使威特科夫将访问以色列，与以色列总理内塔尼亚胡和以色列军方首脑会晤。",
+          "url": "https://flash.jin10.com/detail/20260202183257844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "日本央行会议摘要：一名委员表示，汇率因素推高物价的可能性已变得更大。",
@@ -664,7 +687,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -678,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈或将伊朗外长有阿拉格奇和美国特使威特科夫参与。",
+          "url": "https://flash.jin10.com/detail/20260202182302489800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "日本央行1月货币政策会议观点摘要：日本财务省代表称，正以极度警惕的态势关注近期全球及日本市场的波动。 一位委员表示，日元疲软虽提振了大企业的利润和工资，但却加重了小企业的负担，从而可能导致贫富差距进一步扩大。 一位委员表示，部分长期通胀预期指标已经开始显现出稳定性。 一位委员表示，通胀已开始变得具有粘性（Sticky）。 一位委员表示，由日元疲软导致的进口价格上涨，其向国内物价的传导已变得更加显著。 一位委员表示，汇率因素推高物价的可能性已经进一步增加。",
@@ -713,15 +747,37 @@
           "time_info": "09时07分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国会谈的时间和地点尚未最终确定。",
+          "url": "https://flash.jin10.com/detail/20260202182232113800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "标普：美国实际关税的飙升正拖累印度出口导向型制造业的扩张。",
           "url": "https://flash.jin10.com/detail/20260202174113414800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国可能在未来几天举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260202182205225800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "日本央行会议摘要：一名委员表示，当债券市场波动加剧时，央行有必要审视市场功能是否依然正常。",
@@ -815,7 +871,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -878,8 +934,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时57分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[13时57分 ~ 19时29分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -906,17 +962,6 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
-          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
-          "url": "https://wallstreetcn.com/livenews/3048290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "快手将对“AI魔改”视频展开常态化治理",
           "url": "https://wallstreetcn.com/livenews/3048203",
           "source": "华尔街见闻-快讯",
@@ -926,6 +971,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
+          "url": "https://wallstreetcn.com/livenews/3048290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时29分]"
         },
         {
           "title": "AI投资神话遭遇信心红灯 韩国科技股遭受重创",
@@ -970,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "北京大学与中国铁塔合作 推动AI产教融合",
+          "url": "https://wallstreetcn.com/livenews/3048300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "英国1月Nationwide房价指数月率 0.3%，预期0.30%，前值-0.40%。",
