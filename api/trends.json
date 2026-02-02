@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T16:31:42.490474+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-02-02T17:36:09.887551+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "王毅会见绍伊古，谈及日本和台海问题",
@@ -29,8 +29,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 16时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 17时36分]"
+        },
+        {
+          "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
+          "url": "https://www.zhihu.com/question/2001592697673179840",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 17时36分]"
         },
         {
           "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
@@ -47,6 +58,32 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时17分 ~ 16时31分]"
+        },
+        {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时36分]"
+        },
+        {
+          "title": "日本米价飞天,开启史诗通胀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350007&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E9%A3%9E%E5%A4%A9%2C%E5%BC%80%E5%90%AF%E5%8F%B2%E8%AF%97%E9%80%9A%E8%83%80",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            10,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 17时36分]"
         },
         {
           "title": "图说｜美国掀起反ICE暴力游行，联邦地方对立或致政府停摆",
@@ -75,42 +112,6 @@
           "time_info": "[00时17分 ~ 07时16分]"
         },
         {
-          "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
-          "url": "https://www.zhihu.com/question/2001592697673179840",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 16时31分]"
-        },
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时31分]"
-        },
-        {
-          "title": "日本米价飞天,开启史诗通胀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350007&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E9%A3%9E%E5%A4%A9%2C%E5%BC%80%E5%90%AF%E5%8F%B2%E8%AF%97%E9%80%9A%E8%83%80",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 16时31分]"
-        },
-        {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
           "url": "https://www.zhihu.com/question/2001227035343863932",
           "source": "知乎",
@@ -124,6 +125,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "美国「超级寒流」被称为「物理斩杀线」，具体情况如何？带来了哪些影响？",
+          "url": "https://www.zhihu.com/question/1999650277494636810",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 17时36分]"
         },
         {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
@@ -200,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 13时57分]"
-        },
-        {
-          "title": "美国「超级寒流」被称为「物理斩杀线」，具体情况如何？带来了哪些影响？",
-          "url": "https://www.zhihu.com/question/1999650277494636810",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时31分]"
         },
         {
           "title": "杰瑞股份：签署12.65亿元美国数据中心燃气轮机发电机组销售合同",
@@ -293,6 +294,19 @@
           "time_info": "[13时57分 ~ 15时44分]"
         },
         {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 17时36分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
           "url": "https://flash.jin10.com/detail/20260201190211010800",
           "source": "金十数据",
@@ -328,16 +342,28 @@
           "time_info": "[15时44分 ~ 16时31分]"
         },
         {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
+          "title": "日本选手发球砸人 上演“滑行谢罪”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            12,
-            10
+            30,
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时44分 ~ 17时36分]"
+        },
+        {
+          "title": "涉及稀土，日本声称“挖到了”！",
+          "url": "https://news.ifeng.com/c/8qPycivcVnz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收低1.4%报31,624.03点。",
@@ -363,6 +389,17 @@
           "time_info": "[12时13分 ~ 13时57分]"
         },
         {
+          "title": "胡锡进：美国的舆论监督常常是不说白不说，说了也白说",
+          "url": "https://news.ifeng.com/c/8qQ0Yl6EKct",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 17时36分]"
+        },
+        {
           "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3048176",
           "source": "华尔街见闻-快讯",
@@ -381,18 +418,6 @@
           "ranks": [
             14,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时44分 ~ 16时31分]"
-        },
-        {
-          "title": "日本选手发球砸人 上演“滑行谢罪”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -460,7 +485,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -493,7 +518,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -641,6 +666,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "伊朗外交部发言人：正在审议同美国谈判细节",
+          "url": "https://wallstreetcn.com/livenews/3048218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "日本央行会议摘要：一名成员表示，日本央行应每隔几个月上调一次政策利率。",
           "url": "https://flash.jin10.com/detail/20260202075708316800",
           "source": "金十数据",
@@ -737,6 +773,19 @@
           "time_info": "[00时17分 ~ 09时07分]"
         },
         {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 17时36分]"
+        },
+        {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
           "url": "https://wallstreetcn.com/articles/3764694",
           "source": "华尔街见闻",
@@ -746,20 +795,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 16时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 17时36分]"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            4
+            13,
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 17时36分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -792,22 +842,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 16时31分]"
         },
         {
           "title": "AI投资神话遭遇信心红灯 韩国科技股遭受重创",
@@ -849,7 +886,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -882,7 +919,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
