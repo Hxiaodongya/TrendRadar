@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T17:36:09.887551+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-02-02T18:35:01.949162+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "王毅会见绍伊古，谈及日本和台海问题",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 17时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 18时35分]"
         },
         {
           "title": "爱泼斯坦案文件曝出美国众多「大人物」丑行，为什么仍难平息公众质疑？这些文件对美国政商界冲击有多大？",
@@ -40,8 +41,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时57分 ~ 18时35分]"
+        },
+        {
+          "title": "日本米价飞天,开启史诗通胀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350007&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E9%A3%9E%E5%A4%A9%2C%E5%BC%80%E5%90%AF%E5%8F%B2%E8%AF%97%E9%80%9A%E8%83%80",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            10,
+            14,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 18时35分]"
         },
         {
           "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
@@ -71,19 +88,15 @@
           "time_info": "[14时55分 ~ 17时36分]"
         },
         {
-          "title": "日本米价飞天,开启史诗通胀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350007&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E9%A3%9E%E5%A4%A9%2C%E5%BC%80%E5%90%AF%E5%8F%B2%E8%AF%97%E9%80%9A%E8%83%80",
-          "source": "贴吧",
+          "title": "美国「超级寒流」被称为「物理斩杀线」，具体情况如何？带来了哪些影响？",
+          "url": "https://www.zhihu.com/question/1999650277494636810",
+          "source": "知乎",
           "ranks": [
-            1,
-            8,
-            10,
-            14,
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 18时35分]"
         },
         {
           "title": "图说｜美国掀起反ICE暴力游行，联邦地方对立或致政府停摆",
@@ -127,17 +140,6 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
-          "title": "美国「超级寒流」被称为「物理斩杀线」，具体情况如何？带来了哪些影响？",
-          "url": "https://www.zhihu.com/question/1999650277494636810",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 17时36分]"
-        },
-        {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
           "source": "澎湃新闻",
@@ -163,6 +165,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时07分 ~ 16时31分]"
+        },
+        {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 18时35分]"
         },
         {
           "title": "美国众议院议长约翰逊：对国土安全部部长充满信心。",
@@ -212,6 +228,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 13时57分]"
+        },
+        {
+          "title": "日本选手发球砸人 上演“滑行谢罪”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 18时35分]"
         },
         {
           "title": "杰瑞股份：签署12.65亿元美国数据中心燃气轮机发电机组销售合同",
@@ -294,19 +323,6 @@
           "time_info": "[13时57分 ~ 15时44分]"
         },
         {
-          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 17时36分]"
-        },
-        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
           "url": "https://flash.jin10.com/detail/20260201190211010800",
           "source": "金十数据",
@@ -316,6 +332,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时14分]"
+        },
+        {
+          "title": "涉及稀土，日本声称“挖到了”！",
+          "url": "https://news.ifeng.com/c/8qPycivcVnz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 18时35分]"
         },
         {
           "title": "牛剑在学术水平上和美国 top 院校差距真的大么？",
@@ -340,30 +367,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时44分 ~ 16时31分]"
-        },
-        {
-          "title": "日本选手发球砸人 上演“滑行谢罪”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%8F%91%E7%90%83%E7%A0%B8%E4%BA%BA+%E4%B8%8A%E6%BC%94%E2%80%9C%E6%BB%91%E8%A1%8C%E8%B0%A2%E7%BD%AA%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 17时36分]"
-        },
-        {
-          "title": "涉及稀土，日本声称“挖到了”！",
-          "url": "https://news.ifeng.com/c/8qPycivcVnz",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
         },
         {
           "title": "中国台湾证交所加权股价指数收低1.4%报31,624.03点。",
@@ -446,6 +449,17 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
+          "title": "美国佛州再现“天降蜥蜴”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E5%86%8D%E7%8E%B0%E2%80%9C%E5%A4%A9%E9%99%8D%E8%9C%A5%E8%9C%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        },
+        {
           "title": "日本1月制造业PMI终值 51.5，前值51.5。",
           "url": "https://flash.jin10.com/detail/20260202083002212800",
           "source": "金十数据",
@@ -477,6 +491,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "克里姆林宫：不会透露俄罗斯特别代表德米特里耶夫与美国官员上一轮会谈的细节。",
+          "url": "https://flash.jin10.com/detail/20260202175259828800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "伊朗否认收到美国“最后通牒” 称希望未来几天确定谈判细节",
+          "url": "https://wallstreetcn.com/livenews/3048278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "伊朗方面表示，与美国谈判的框架将在未来几天内敲定。",
@@ -556,6 +592,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "时隔两年 波兰计划重返日本债市",
+          "url": "https://flash.jin10.com/detail/20260202175108749800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "日本央行会议摘要：一名委员表示，随着经济面临劳动力供应约束，物价风险已转向上行。",
           "url": "https://flash.jin10.com/detail/20260202080526450800",
           "source": "金十数据",
@@ -611,6 +658,17 @@
           "time_info": "13时57分"
         },
         {
+          "title": "标普：印度与美国达成的贸易协议应能降低不确定性并增强信心，这将提振印度的劳动密集型行业。",
+          "url": "https://flash.jin10.com/detail/20260202174337764800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "日本央行会议摘要：一名委员表示，一些长期通胀预期指标已开始显现稳定迹象。",
           "url": "https://flash.jin10.com/detail/20260202080329871800",
           "source": "金十数据",
@@ -655,6 +713,17 @@
           "time_info": "09时07分"
         },
         {
+          "title": "标普：美国实际关税的飙升正拖累印度出口导向型制造业的扩张。",
+          "url": "https://flash.jin10.com/detail/20260202174113414800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "日本央行会议摘要：一名委员表示，当债券市场波动加剧时，央行有必要审视市场功能是否依然正常。",
           "url": "https://flash.jin10.com/detail/20260202080054382800",
           "source": "金十数据",
@@ -672,7 +741,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -746,7 +815,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -795,8 +864,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 17时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 18时35分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -805,11 +874,12 @@
           "ranks": [
             13,
             14,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时57分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时57分 ~ 18时35分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -834,6 +904,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时13分]"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频最终处置结果",
+          "url": "https://wallstreetcn.com/livenews/3048290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "快手将对“AI魔改”视频展开常态化治理",
