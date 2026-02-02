@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T21:55:19.329669+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-02-02T22:35:01.373661+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 92,
+      "match_count": 93,
       "titles": [
         {
           "title": "王毅会见绍伊古，谈及日本和台海问题",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时57分 ~ 21时55分]"
+          "appearance_count": 15,
+          "time_info": "[13时57分 ~ 22时35分]"
         },
         {
           "title": "下周重磅日程：美非农、欧英央行决议、日本大选、伊朗局势、谷歌亚马逊AMD财报",
@@ -53,11 +53,12 @@
             10,
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时43分 ~ 21时55分]"
+          "appearance_count": 13,
+          "time_info": "[15时43分 ~ 22时35分]"
         },
         {
           "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
@@ -76,6 +77,17 @@
           "time_info": "[00时17分 ~ 16时31分]"
         },
         {
+          "title": "涉及稀土，日本声称“挖到了”！",
+          "url": "https://news.ifeng.com/c/8qPycivcVnz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时35分 ~ 22时35分]"
+        },
+        {
           "title": "日本米价飞天,开启史诗通胀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350007&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E9%A3%9E%E5%A4%A9%2C%E5%BC%80%E5%90%AF%E5%8F%B2%E8%AF%97%E9%80%9A%E8%83%80",
           "source": "贴吧",
@@ -86,11 +98,12 @@
             14,
             17,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 21时55分]"
+          "appearance_count": 17,
+          "time_info": "[09时07分 ~ 22时35分]"
         },
         {
           "title": "武契奇预判48小时内伊朗将遭到美国袭击",
@@ -108,11 +121,12 @@
           "url": "https://www.zhihu.com/question/1999650277494636810",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 21时55分]"
+          "appearance_count": 16,
+          "time_info": "[12时13分 ~ 22时35分]"
         },
         {
           "title": "图说｜美国掀起反ICE暴力游行，联邦地方对立或致政府停摆",
@@ -139,17 +153,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时16分]"
-        },
-        {
-          "title": "涉及稀土，日本声称“挖到了”！",
-          "url": "https://news.ifeng.com/c/8qPycivcVnz",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 21时55分]"
         },
         {
           "title": "福特否认与小米成立合资企业在美国生产电动汽车，类似合作有多大可能出现？受哪些因素影响？",
@@ -268,6 +271,20 @@
           "time_info": "20时33分"
         },
         {
+          "title": "美国佛州再现“天降蜥蜴”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E5%86%8D%E7%8E%B0%E2%80%9C%E5%A4%A9%E9%99%8D%E8%9C%A5%E8%9C%B4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            21,
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 22时35分]"
+        },
+        {
           "title": "杰瑞股份：签署12.65亿元美国数据中心燃气轮机发电机组销售合同",
           "url": "https://wallstreetcn.com/livenews/3047790",
           "source": "华尔街见闻-快讯",
@@ -290,26 +307,16 @@
           "time_info": "07时16分"
         },
         {
-          "title": "日本强降雪天气已致27人死亡",
-          "url": "https://wallstreetcn.com/livenews/3048396",
-          "source": "华尔街见闻-快讯",
+          "title": "中国男篮对阵日本队选谁当主力控卫",
+          "url": "https://www.toutiao.com/trending/7602057624414142483/",
+          "source": "今日头条",
           "ranks": [
-            3
+            8,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美国企业批评波兰拟推数字服务税",
-          "url": "https://flash.jin10.com/detail/20260202214615823800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "哈梅内伊向美国发出严正警告",
@@ -381,6 +388,18 @@
           "time_info": "[00时17分 ~ 04时14分]"
         },
         {
+          "title": "日本强降雪天气已致27人死亡",
+          "url": "https://wallstreetcn.com/livenews/3048396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时35分]"
+        },
+        {
           "title": "牛剑在学术水平上和美国 top 院校差距真的大么？",
           "url": "https://www.zhihu.com/question/349881683",
           "source": "知乎",
@@ -391,6 +410,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 12时13分]"
+        },
+        {
+          "title": "美国企业批评波兰拟推数字服务税",
+          "url": "https://flash.jin10.com/detail/20260202214615823800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "涉及稀土，日本声称“挖到了”",
@@ -405,17 +436,52 @@
           "time_info": "[15时44分 ~ 16时31分]"
         },
         {
-          "title": "美国佛州再现“天降蜥蜴”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E5%86%8D%E7%8E%B0%E2%80%9C%E5%A4%A9%E9%99%8D%E8%9C%A5%E8%9C%B4%E2%80%9D",
-          "source": "百度热搜",
+          "title": "美国当地人常吃的快餐品牌也是肯德基、麦当劳么?",
+          "url": "https://www.zhihu.com/question/37302015",
+          "source": "知乎",
           "ranks": [
-            28,
-            21,
-            22
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时34分 ~ 21时55分]"
+          "time_info": "[20时33分 ~ 22时35分]"
+        },
+        {
+          "title": "媒体：台湾知名音乐人袁惟仁病逝，曾创作《征服》《旋木》等经典歌曲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32515486",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 22时35分]"
+        },
+        {
+          "title": "美国司法部公布爱泼斯坦案诡异照片，两块鸡肉中间有一个物体被涂黑，事件的真相是什么？",
+          "url": "https://www.zhihu.com/question/2001602613729322897",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
+        },
+        {
+          "title": "美国佛州再现天降蜥蜴",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E5%86%8D%E7%8E%B0%E5%A4%A9%E9%99%8D%E8%9C%A5%E8%9C%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "市场消息：美国中东问题特使威特科夫将于明天抵达以色列，与以色列总理内塔尼亚胡和国防军总参谋长扎米尔会面。",
@@ -440,6 +506,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 14时55分]"
+        },
+        {
+          "title": "美国天然气期货日内大跌18%，现报3.570美元/百万英热。",
+          "url": "https://wallstreetcn.com/livenews/3048390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "福特找中企谈合作？美国反华议员坐不住了",
@@ -476,16 +554,16 @@
           "time_info": "[15时44分 ~ 16时31分]"
         },
         {
-          "title": "美国当地人常吃的快餐品牌也是肯德基、麦当劳么?",
-          "url": "https://www.zhihu.com/question/37302015",
-          "source": "知乎",
+          "title": "据AXIOS：美国总统特使威特科夫将于2月4日、5日出席阿布扎比的会谈。",
+          "url": "https://flash.jin10.com/detail/20260202212918849800",
+          "source": "金十数据",
           "ranks": [
             14,
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时55分]"
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "外交部：中方要求美国执法部门立即停止错误行径 停止对中国企业人员的无端盘查",
@@ -500,16 +578,16 @@
           "time_info": "[15时44分 ~ 16时31分]"
         },
         {
-          "title": "媒体：台湾知名音乐人袁惟仁病逝，曾创作《征服》《旋木》等经典歌曲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32515486",
-          "source": "澎湃新闻",
+          "title": "航运数据显示，1月份，美国是委内瑞拉石油的主要单一目的地，日均出口约28.4万桶",
+          "url": "https://flash.jin10.com/detail/20260202212612915800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            17
+            17,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时33分 ~ 21时55分]"
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "中国有没有可能通过压低工业生产成本，将一次性火箭的成本压到接近美国的可复用火箭？",
@@ -556,28 +634,6 @@
           "time_info": "09时07分"
         },
         {
-          "title": "美国天然气期货日内大跌18%，现报3.570美元/百万英热。",
-          "url": "https://wallstreetcn.com/livenews/3048390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "中国男篮对阵日本队选谁当主力控卫",
-          "url": "https://www.toutiao.com/trending/7602057624414142483/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
           "title": "美国联邦航空局局长布莱恩·贝德福德：“我们并不反对”国家运输安全委员会的调查结果，即联邦航空局的失职导致了去年发生在华盛顿附近的一起致命空中相撞事故。",
           "url": "https://flash.jin10.com/detail/20260202151108541800",
           "source": "金十数据",
@@ -622,13 +678,24 @@
           "time_info": "18时35分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（1月30日）担保隔夜融资利率（SOFR）报3.68%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3048403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "中国目前是否正与美国就购买委内瑞拉石油谈判？外交部回应",
           "url": "https://www.cls.cn/detail/2277683",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -686,17 +753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
-        },
-        {
-          "title": "据AXIOS：美国总统特使威特科夫将于2月4日、5日出席阿布扎比的会谈。",
-          "url": "https://flash.jin10.com/detail/20260202212918849800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         },
         {
           "title": "伊朗武装部队总参谋长：地区战火将波及美国及其盟友",
@@ -763,28 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
-        },
-        {
-          "title": "航运数据显示，1月份，美国是委内瑞拉石油的主要单一目的地，日均出口约28.4万桶",
-          "url": "https://flash.jin10.com/detail/20260202212612915800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美国司法部公布爱泼斯坦案诡异照片，两块鸡肉中间有一个物体被涂黑，事件的真相是什么？",
-          "url": "https://www.zhihu.com/question/2001602613729322897",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         },
         {
           "title": "日本央行会议摘要：一名委员表示，随着经济面临劳动力供应约束，物价风险已转向上行。",
@@ -892,7 +926,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -969,7 +1003,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
         },
@@ -1060,23 +1094,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        },
-        {
-          "title": "美国佛州再现天降蜥蜴",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BD%9B%E5%B7%9E%E5%86%8D%E7%8E%B0%E5%A4%A9%E9%99%8D%E8%9C%A5%E8%9C%B4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -1138,11 +1161,12 @@
             15,
             12,
             7,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时57分 ~ 21时55分]"
+          "appearance_count": 15,
+          "time_info": "[13时57分 ~ 22时35分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -1169,6 +1193,28 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
+          "title": "迪士尼首席执行官：仍在“梳理OpenAI交易的所有技术细节”。",
+          "url": "https://flash.jin10.com/detail/20260202221537167800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "迪士尼首席执行官：迪士尼希望与OpenAI的交易能推动其在Disney+上提供短视频的能力。",
+          "url": "https://flash.jin10.com/detail/20260202220631439800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "快手将对“AI魔改”视频展开常态化治理",
           "url": "https://wallstreetcn.com/livenews/3048203",
           "source": "华尔街见闻-快讯",
@@ -1192,6 +1238,17 @@
           "time_info": "[18时35分 ~ 19时29分]"
         },
         {
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时34分 ~ 22时35分]"
+        },
+        {
           "title": "AI投资神话遭遇信心红灯 韩国科技股遭受重创",
           "url": "https://flash.jin10.com/detail/20260202114011465800",
           "source": "金十数据",
@@ -1201,6 +1258,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "Snowflake盘前上涨2.6%，此前该公司与OpenAI达成2亿美元的合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260202220614192800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "Snowflake与OpenAI达成2亿美元、持续多年的合作伙伴关系。 双方将共同开发企业级AI解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3048404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "爆火 AI 助手 OpenClaw 有哪些独特之处？会给哪些职业带来冲击？",
