@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T15:38:40.889297+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-02-04T16:28:33.904009+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 151,
+      "match_count": 153,
       "titles": [
         {
           "title": "牢A与高志凯连麦：美国高层认为“斩杀线”是正常的",
@@ -40,11 +40,12 @@
             1,
             10,
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 15时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 16时28分]"
         },
         {
           "title": "港口案裁决倒向美国的巴拿马，需要来一场“混合双打”",
@@ -169,11 +170,12 @@
             13,
             19,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 15时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 16时28分]"
         },
         {
           "title": "外交部回应日本海底挖到稀土泥",
@@ -358,6 +360,20 @@
           "time_info": "05时25分"
         },
         {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时40分 ~ 16时28分]"
+        },
+        {
           "title": "如何看待美国白宫正就稳定币收益问题与稳定币公司和银行进行会谈？有利息就没有 100% 存款准备金率？",
           "url": "https://www.zhihu.com/question/2001952470549624363",
           "source": "知乎",
@@ -528,19 +544,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时25分]"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 15时38分]"
         },
         {
           "title": "爱泼斯坦何以搅起美国“八级地震”",
@@ -730,9 +733,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "市场消息：韩国国会成立美国投资特别委员会。",
+          "url": "https://flash.jin10.com/detail/20260204161826962800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -1019,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "市场对日本债务风险反应过度 日债收益率曲线或因政策预期走陡",
+          "url": "https://flash.jin10.com/detail/20260204160955840800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美媒称伊朗炮艇逼近悬挂美国旗油轮",
@@ -1750,7 +1775,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -1765,6 +1790,18 @@
           "time_info": "[00时40分 ~ 07时19分]"
         },
         {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 16时28分]"
+        },
+        {
           "title": "春节为何成为AI红包主战场",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
           "source": "bilibili 热搜",
@@ -1777,17 +1814,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 09时02分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 15时38分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1874,8 +1900,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 15时38分]"
+          "appearance_count": 5,
+          "time_info": "[13时40分 ~ 16时28分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -2012,6 +2038,19 @@
           "time_info": "[03时39分 ~ 05时25分]"
         },
         {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时28分]"
+        },
+        {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
           "url": "https://wallstreetcn.com/livenews/3049304",
           "source": "华尔街见闻-快讯",
@@ -2107,18 +2146,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时40分 ~ 15时38分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时38分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -2244,6 +2271,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
           "url": "https://flash.jin10.com/detail/20260204044011737800",
           "source": "金十数据",
@@ -2264,6 +2302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
+          "url": "https://www.cls.cn/detail/2280058",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
