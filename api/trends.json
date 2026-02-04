@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:04:02.527832+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-02-04T13:41:05.422997+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 138,
+      "match_count": 143,
       "titles": [
         {
           "title": "牢A与高志凯连麦：美国高层认为“斩杀线”是正常的",
@@ -42,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 12时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 13时41分]"
         },
         {
           "title": "中国男篮能击败日本队吗",
@@ -90,6 +90,22 @@
           "time_info": "[00时40分 ~ 09时02分]"
         },
         {
+          "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32518371",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            14,
+            15,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 13时41分]"
+        },
+        {
           "title": "中方回应美国欲减少稀土对华依赖",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%AC%B2%E5%87%8F%E5%B0%91%E7%A8%80%E5%9C%9F%E5%AF%B9%E5%8D%8E%E4%BE%9D%E8%B5%96",
           "source": "百度热搜",
@@ -121,21 +137,6 @@
           "time_info": "[00时40分 ~ 07时19分]"
         },
         {
-          "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32518371",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            14,
-            15,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 12时04分]"
-        },
-        {
           "title": "日本将调查外国人大规模购地状况",
           "url": "https://news.ifeng.com/c/8qRpWJjbEhP",
           "source": "凤凰网",
@@ -153,11 +154,12 @@
           "ranks": [
             12,
             13,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 12时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 13时41分]"
         },
         {
           "title": "外交部回应日本海底挖到稀土泥",
@@ -179,11 +181,12 @@
           "url": "https://news.ifeng.com/c/8qSkPOAGaHV",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 13时41分]"
         },
         {
           "title": "美国收紧签证政策 Alphabet计划将印度业务的规模大幅扩张",
@@ -228,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
+          "url": "https://wallstreetcn.com/livenews/3049584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "达利欧警告：世界正处于“资本战争”的边缘",
@@ -601,6 +615,17 @@
           "time_info": "[02时41分 ~ 03时39分]"
         },
         {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国和欧洲无法阻止俄罗斯的打击，谁还会相信有力量保证不再爆发新的战争？",
           "url": "https://flash.jin10.com/detail/20260204025309493800",
           "source": "金十数据",
@@ -646,6 +671,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 12时04分]"
+        },
+        {
+          "title": "爱泼斯坦何以搅起美国“八级地震”",
+          "url": "https://www.toutiao.com/trending/7602816077310987818/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "墨西哥与美国达成一项新的水资源协议",
@@ -767,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
+          "url": "https://flash.jin10.com/detail/20260204130249150800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "提醒：美国总统特朗普签署法案，结束部分政府的关门状态。",
@@ -1000,6 +1047,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "5年期日本国债收益率下跌1个基点，至1.670%。",
+          "url": "https://flash.jin10.com/detail/20260204123030609800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "美国住房开发商概念股普遍扩大涨幅，报道称行业力争为100万套住宅赢得支持",
           "url": "https://wallstreetcn.com/livenews/3049210",
           "source": "华尔街见闻-快讯",
@@ -1215,7 +1273,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1424,7 +1482,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1597,7 +1655,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -1682,8 +1740,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 12时04分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 13时41分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -1694,8 +1752,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时19分 ~ 12时04分]"
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 13时41分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -1770,7 +1828,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1792,7 +1850,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1806,6 +1864,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 13时41分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
+          "url": "https://flash.jin10.com/detail/20260204131636619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
@@ -1881,27 +1974,38 @@
           "time_info": "[04时25分 ~ 05时25分]"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 12时04分]"
-        },
-        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 13时41分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -1926,6 +2030,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时39分]"
+        },
+        {
+          "title": "最近刷屏的 AI 助手 ClawdBot，爆火的原因是什么？",
+          "url": "https://www.zhihu.com/question/1999445661884626109",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "用户报告称，OpenAI出现故障。（DownDetector）",
