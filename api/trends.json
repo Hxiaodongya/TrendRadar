@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T18:29:23.711518+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2026-02-04T19:26:50.945489+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 162,
+      "match_count": 170,
       "titles": [
         {
           "title": "牢A与高志凯连麦：美国高层认为“斩杀线”是正常的",
@@ -204,8 +204,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[13时40分 ~ 19时26分]"
         },
         {
           "title": "美国收紧签证政策 Alphabet计划将印度业务的规模大幅扩张",
@@ -318,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "市场消息：美国航空公司飞行员正考虑对首席执行官艾索姆发起不信任投票。",
+          "url": "https://flash.jin10.com/detail/20260204190035461800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "伊朗外交部称正在磋商与美国谈判地点",
@@ -599,6 +610,18 @@
           "time_info": "[02时41分 ~ 04时25分]"
         },
         {
+          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
+          "url": "https://wallstreetcn.com/articles/3764876",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时26分]"
+        },
+        {
           "title": "美国银行：价格暴跌后金银的波动性仍将持续",
           "url": "https://wallstreetcn.com/livenews/3049286",
           "source": "华尔街见闻-快讯",
@@ -610,6 +633,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 05时25分]"
+        },
+        {
+          "title": "美国夫妻斩首两名亲生子女",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E6%96%A9%E9%A6%96%E4%B8%A4%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时26分]"
+        },
+        {
+          "title": "美国夫妻斩首两名亲生子女",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E6%96%A9%E9%A6%96%E4%B8%A4%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时26分]"
         },
         {
           "title": "美国女子曝幼年被母亲喂食人肉",
@@ -634,41 +682,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时25分]"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
-        },
-        {
-          "title": "美国夫妻斩首两名亲生子女",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E6%96%A9%E9%A6%96%E4%B8%A4%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
-        },
-        {
-          "title": "美国夫妻斩首两名亲生子女",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E6%96%A9%E9%A6%96%E4%B8%A4%E5%90%8D%E4%BA%B2%E7%94%9F%E5%AD%90%E5%A5%B3",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -705,6 +718,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时25分]"
+        },
+        {
+          "title": "强掳马杜罗后的一个月里，美国如何步步攫取委内瑞拉石油利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32526287",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时26分]"
         },
         {
           "title": "美国国务卿和农业部长表示，根据新的水资源协议，墨西哥已承诺每年向美国输送至少35万英亩英尺的水量。",
@@ -835,7 +860,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1022,9 +1047,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "2026年首批美国液化天然气已抵达乌克兰",
+          "url": "https://flash.jin10.com/detail/20260204184013636800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
@@ -1115,6 +1151,17 @@
           "time_info": "16时28分"
         },
         {
+          "title": "2026年首批美国液化天然气已抵达乌克兰",
+          "url": "https://wallstreetcn.com/livenews/3049833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "美媒称伊朗炮艇逼近悬挂美国旗油轮",
           "url": "https://flash.jin10.com/detail/20260204011430566800",
           "source": "金十数据",
@@ -1135,6 +1182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "日本多地强降雪致35死358伤",
+          "url": "https://www.douyin.com/hot/2389598",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "白宫新闻秘书：美国题特使威特科夫已离开并准备与伊朗方面会谈，谈判仍按原计划进行。",
@@ -1335,6 +1393,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "意大利内政部长：美国ICE人员不参与米兰冬奥会安保执法",
+          "url": "https://wallstreetcn.com/livenews/3049822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "市场消息：美国军方表示已向尼日利亚派遣了部分部队。",
           "url": "https://flash.jin10.com/detail/20260204021153055800",
           "source": "金十数据",
@@ -1396,18 +1465,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "强掳马杜罗后的一个月里，美国如何步步攫取委内瑞拉石油利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32526287",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1500,6 +1558,28 @@
           "time_info": "02时41分"
         },
         {
+          "title": "北约启动今年规模最大的军事演习，11 国参与、美国缺席，释放什么信号？此次演习的目标是什么？",
+          "url": "https://www.zhihu.com/question/2001956434041124754",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "爱泼斯坦凭什么搅翻美国政坛",
+          "url": "https://www.toutiao.com/trending/7602926282308865542/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "据福克斯新闻：美国众议院现正投票表决，以配合参议院立场，结束政府部分停摆的状态。",
           "url": "https://flash.jin10.com/detail/20260204024404698800",
           "source": "金十数据",
@@ -1561,7 +1641,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1764,6 +1844,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "日本选举前对冲基金调整布局 重启做空日元交易",
+          "url": "https://wallstreetcn.com/livenews/3049810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "美国至1月30日当周API原油进口 55.3万桶，前值-80.3万桶。",
           "url": "https://flash.jin10.com/detail/20260204053557201800",
           "source": "金十数据",
@@ -1877,7 +1968,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1888,8 +1979,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时02分 ~ 18时29分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 19时26分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -1918,6 +2009,19 @@
           "time_info": "[00时40分 ~ 09时02分]"
         },
         {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时40分 ~ 19时26分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -1940,19 +2044,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时19分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时40分 ~ 18时29分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -2129,6 +2220,28 @@
           "time_info": "05时25分"
         },
         {
+          "title": "腾讯混元AI Infra核心技术开源",
+          "url": "https://wallstreetcn.com/livenews/3049846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指期货跌0.3%，欧股诺和诺德下挫18%，现货黄金一度触及5080美元，现货白银接近90美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
           "url": "https://flash.jin10.com/detail/20260204131636619800",
           "source": "金十数据",
@@ -2225,6 +2338,18 @@
           "time_info": "[13时41分 ~ 14时37分]"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时26分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -2250,16 +2375,28 @@
           "time_info": "[13时40分 ~ 15时38分]"
         },
         {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
+          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
+          "url": "https://www.cls.cn/detail/2280373",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时29分]"
+          "time_info": "[17时33分 ~ 19时26分]"
+        },
+        {
+          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
+          "url": "https://wallstreetcn.com/articles/3764867",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时26分]"
         },
         {
           "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
@@ -2273,30 +2410,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时28分 ~ 18时29分]"
-        },
-        {
-          "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
-          "url": "https://www.cls.cn/detail/2280373",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
-        },
-        {
-          "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
-          "url": "https://wallstreetcn.com/articles/3764867",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -2510,6 +2623,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "摩根大通：AI冲击担忧加剧 软件股抛售情绪持续蔓延",
+          "url": "https://flash.jin10.com/detail/20260204182221381800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "辉瑞后疫情时代转型：AI驱动降本增效，每月一次减肥药数据点燃未来预期",
           "url": "https://wallstreetcn.com/livenews/3049294",
           "source": "华尔街见闻-快讯",
@@ -2571,7 +2695,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
