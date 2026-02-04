@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T13:41:05.422997+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-02-04T14:37:33.414961+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 143,
+      "match_count": 150,
       "titles": [
         {
           "title": "牢A与高志凯连麦：美国高层认为“斩杀线”是正常的",
@@ -39,11 +39,12 @@
           "ranks": [
             1,
             10,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 13时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 14时37分]"
         },
         {
           "title": "中国男篮能击败日本队吗",
@@ -158,8 +159,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 13时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 14时37分]"
         },
         {
           "title": "外交部回应日本海底挖到稀土泥",
@@ -185,8 +186,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 13时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 14时37分]"
         },
         {
           "title": "美国收紧签证政策 Alphabet计划将印度业务的规模大幅扩张",
@@ -231,17 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
-          "url": "https://wallstreetcn.com/livenews/3049584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
         },
         {
           "title": "达利欧警告：世界正处于“资本战争”的边缘",
@@ -455,6 +445,18 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
+          "title": "伊朗高级将领：若遭美国攻击 以色列将成为首要报复目标",
+          "url": "https://wallstreetcn.com/livenews/3049584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时37分]"
+        },
+        {
           "title": "伊朗据称希望改变与美国谈判的地点和形式",
           "url": "https://wallstreetcn.com/livenews/3049253",
           "source": "华尔街见闻-快讯",
@@ -579,6 +581,30 @@
           "time_info": "[03时39分 ~ 05时25分]"
         },
         {
+          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
+          "url": "https://www.zhihu.com/question/2002278954355139608",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 14时37分]"
+        },
+        {
+          "title": "爱泼斯坦何以搅起美国“八级地震”",
+          "url": "https://www.toutiao.com/trending/7602816077310987818/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 14时37分]"
+        },
+        {
           "title": "美国女子曝幼年被母亲喂食人肉",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%9B%9D%E5%B9%BC%E5%B9%B4%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%96%82%E9%A3%9F%E4%BA%BA%E8%82%89%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -613,17 +639,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时39分]"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国和欧洲无法阻止俄罗斯的打击，谁还会相信有力量保证不再爆发新的战争？",
@@ -671,17 +686,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "爱泼斯坦何以搅起美国“八级地震”",
-          "url": "https://www.toutiao.com/trending/7602816077310987818/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "墨西哥与美国达成一项新的水资源协议",
@@ -761,6 +765,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "日本财务省：原则上已就与菲律宾的新税收协定达成一致。",
+          "url": "https://wallstreetcn.com/livenews/3049608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "白宫新闻秘书：美国特使威特科夫决心探索与伊朗的外交途径。",
           "url": "https://flash.jin10.com/detail/20260204022340212800",
           "source": "金十数据",
@@ -811,7 +826,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -836,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "日本40年期国债收益率上行1.5个基点，至3.940%。",
+          "url": "https://wallstreetcn.com/livenews/3049607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "台湾网友在上海衣服被偷又找回的经历",
@@ -891,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "标普全球评级：日本银行存款正面临由人口结构驱动的迁移。",
+          "url": "https://flash.jin10.com/detail/20260204142100022800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "周二（2月3日）纽约尾盘，美国10年期国债收益率跌0.79个基点，报4.2695%。 两年期美债收益率跌0.41个基点，报3.5675%；30年期美债收益率跌0.83个基点，报4.9035%。",
@@ -1025,6 +1062,17 @@
           "time_info": "06时19分"
         },
         {
+          "title": "挪威国家石油公司（Equinor）第四季度调整后税后营业收入为15.5亿美元，市场预期为15.9亿美元。 第四季度总收入为253.5亿美元，市场预期为224.7亿美元。 第四季度挪威勘探与生产调整后收入为78.3亿美元，同比下降15%，市场预期为78.2亿美元。 第四季度国际勘探与生产调整后收入为8.77亿美元，同比下降36%，市场预期为12亿美元。 第四季度美国勘探与生产调整后收入为10.5亿美元，同比增长9.2%，市场预期为10.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美军击落一架逼近美国海军航母的伊朗无人机",
           "url": "https://flash.jin10.com/detail/20260204011247641800",
           "source": "金十数据",
@@ -1053,7 +1101,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -1124,6 +1172,17 @@
           "time_info": "07时19分"
         },
         {
+          "title": "日本财务省：原则上已就与菲律宾的新税收协定达成一致。",
+          "url": "https://flash.jin10.com/detail/20260204140339420800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "美国总统特朗普：我觉得哥伦比亚总统佩特罗很棒。",
           "url": "https://flash.jin10.com/detail/20260204054438114800",
           "source": "金十数据",
@@ -1155,6 +1214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收高0.3%报32,289.81点。",
+          "url": "https://wallstreetcn.com/livenews/3049585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "市场消息：美国军方表示已向尼日利亚派遣了部分部队。",
@@ -1276,6 +1346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "40年期日本国债收益率上升1.5个基点，至3.940%。",
+          "url": "https://flash.jin10.com/detail/20260204140208391800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国政府融资立法草案在众议院关键的程序性投票中扫清障碍，投票仍在继续。",
@@ -1655,7 +1736,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -1682,6 +1763,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时40分 ~ 09时02分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 14时37分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -1733,17 +1825,6 @@
           "time_info": "[00时40分 ~ 09时02分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 13时41分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -1752,8 +1833,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 14时37分]"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时19分 ~ 13时41分]"
+          "time_info": "[09时02分 ~ 14时37分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -1866,28 +1960,16 @@
           "time_info": "05时25分"
         },
         {
-          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
-          "url": "https://wallstreetcn.com/livenews/3049580",
-          "source": "华尔街见闻-快讯",
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
           "ranks": [
+            8,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 14时37分]"
         },
         {
           "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
@@ -1896,7 +1978,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -1974,6 +2056,18 @@
           "time_info": "[04时25分 ~ 05时25分]"
         },
         {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 14时37分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -1986,26 +2080,16 @@
           "time_info": "[12时03分 ~ 13时41分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
-        },
-        {
           "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
           "url": "https://www.cls.cn/detail/2279757",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 14时37分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -2052,6 +2136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
