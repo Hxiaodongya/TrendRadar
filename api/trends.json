@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T12:05:15.951310+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-02-05T13:47:43.582545+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 155,
+      "match_count": 163,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时47分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -45,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时38分 ~ 12时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时38分 ~ 13时47分]"
         },
         {
           "title": "日本人神言论:稀土属于全地球",
@@ -55,11 +55,12 @@
           "ranks": [
             4,
             6,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时47分]"
         },
         {
           "title": "台湾问题是中美关系中最重要的问题",
@@ -169,11 +170,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350220&amp;topic_name=%E7%A6%81%E8%BF%90%E5%8D%A1%E8%84%96%E5%AD%90%2C%E6%97%A5%E6%9C%AC%E9%97%B9%E8%8D%AF%E8%8D%92",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时47分]"
         },
         {
           "title": "马杜罗亲信被捕，将被引渡到美国",
@@ -183,8 +185,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时47分]"
         },
         {
           "title": "就业大幅放缓！美国1月ADP就业人数增长2.2万人，低于预期4.5万人",
@@ -196,8 +198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时16分 ~ 12时05分]"
+          "appearance_count": 7,
+          "time_info": "[06时16分 ~ 13时47分]"
         },
         {
           "title": "美国财长贝森特：我们将引入外部审计师来监控流向委内瑞拉的石油资金。",
@@ -222,6 +224,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "标普全球评级：日本企业能够承受利率上升。",
+          "url": "https://flash.jin10.com/detail/20260205132852032800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "美国芝加哥期权交易所（CBOE）1月指数期权日均成交量（ADV）增长20.8%，期货日均成交量增长4.6%。",
           "url": "https://wallstreetcn.com/livenews/3050136",
           "source": "华尔街见闻-快讯",
@@ -231,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "中国台湾证交所加权股价指数收低1.5%报31,801.27点。",
+          "url": "https://wallstreetcn.com/livenews/3050377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "谢锋大使会见美国药品研究与制造企业协会总裁兼首席执行官尤布尔",
@@ -275,17 +299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "日本拍卖30年期国债，认购倍数为3.64，前次为3.14，过去12个月均值为3.35。",
-          "url": "https://wallstreetcn.com/livenews/3050337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         },
         {
           "title": "美国财长贝森特：抵押贷款与国债之间的利差已降至多年来的最低水平。",
@@ -352,17 +365,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "美国纽约宣布加入世卫组织疫情响应网络",
-          "url": "https://wallstreetcn.com/livenews/3050335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         },
         {
           "title": "通用汽车CFO Paul Jacobson在芝加哥联储于汽车城底特律举办的活动上表示：我们希望，美国墨西哥加拿大贸易协议（USMCA）保留北美为（一个完整的）贸易区。",
@@ -604,6 +606,18 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
+          "title": "日本拍卖30年期国债，认购倍数为3.64，前次为3.14，过去12个月均值为3.35。",
+          "url": "https://wallstreetcn.com/livenews/3050337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时47分]"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：如果两房上市的话，我们将会出售其2.5%至5%的股份。",
           "url": "https://flash.jin10.com/detail/20260205033752733800",
           "source": "金十数据",
@@ -638,6 +652,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时24分]"
+        },
+        {
+          "title": "美国纽约宣布加入世卫组织疫情响应网络",
+          "url": "https://wallstreetcn.com/livenews/3050335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时47分]"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -676,6 +702,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时22分]"
+        },
+        {
+          "title": "美国恢复原定于6日举行的美伊谈判，此前美伊谈判计划濒临破裂",
+          "url": "https://wallstreetcn.com/articles/3764991",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时47分]"
         },
         {
           "title": "美国核管理委员会表示，正根据美国总统特朗普推动核反应堆许可的举措进行重组，将在60天内制定新的组织架构图及管理计划。",
@@ -828,17 +865,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时16分]"
-        },
-        {
-          "title": "美国恢复原定于6日举行的美伊谈判，此前美伊谈判计划濒临破裂",
-          "url": "https://wallstreetcn.com/articles/3764991",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
@@ -1031,7 +1057,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1056,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国联邦通信委员会加速推进SpaceX百万卫星轨道数据中心计划",
+          "url": "https://flash.jin10.com/detail/20260205131444969800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "伊朗外长：与美国的核谈判定于当地时间周五上午10点左右在马斯喀特举行。",
@@ -1097,7 +1134,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1174,7 +1211,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1234,6 +1271,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "20年期日本国债收益率下跌3个基点，至3.150%。",
+          "url": "https://flash.jin10.com/detail/20260205125106613800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "美国1月30日当周EIA库欣地区原油库存变动 -74.3万桶，前值 -27.8万桶。",
           "url": "https://wallstreetcn.com/livenews/3049990",
           "source": "华尔街见闻-快讯",
@@ -1256,6 +1304,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "瑞银：预计年底全球股市将上涨约10%，建议分散配置至中国、日本和欧洲",
+          "url": "https://wallstreetcn.com/livenews/3050354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "据联合声明，美国和欧盟将在未来30天内签署一份谅解备忘录，以加强关键矿产供应链的安全保障。美国、日本和欧盟在联合声明中宣布建立战略伙伴关系，以加强关键矿产供应链的抗风险能力。",
           "url": "https://flash.jin10.com/detail/20260205010523160800",
           "source": "金十数据",
@@ -1276,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "消息人士：日本国际协力银行正考虑向新日铁提供约64亿美元贷款。据悉新日铁正考虑发行高达32亿美元的可转换债券。",
+          "url": "https://flash.jin10.com/detail/20260205125055360800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "美国1月30日当周EIA精炼油库存变动 -555.3万桶，预期 -108.1万桶，前值 32.9万桶。",
@@ -1476,6 +1546,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "30年期日本国债收益率下跌5个基点，至3.585%。",
+          "url": "https://flash.jin10.com/detail/20260205122047972800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "美国财长贝森特在众议院听证会上表示：必须避免陷入“零风险金融体系”的诱惑。",
           "url": "https://wallstreetcn.com/livenews/3049985",
           "source": "华尔街见闻-快讯",
@@ -1603,7 +1684,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1650,6 +1731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "美国明尼阿波利斯市长呼吁结束联邦移民执法",
+          "url": "https://wallstreetcn.com/livenews/3050343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
@@ -1757,7 +1849,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1809,7 +1901,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -1851,6 +1943,17 @@
           "time_info": "[00时33分 ~ 07时17分]"
         },
         {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 13时47分]"
+        },
+        {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
           "url": "https://wallstreetcn.com/articles/3764960",
           "source": "华尔街见闻",
@@ -1863,8 +1966,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 12时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 13时47分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -1891,17 +1994,6 @@
           "time_info": "[00时33分 ~ 07时17分]"
         },
         {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 12时05分]"
-        },
-        {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
@@ -1910,8 +2002,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时47分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时04分 ~ 13时47分]"
         },
         {
           "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
@@ -1923,6 +2027,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 13时47分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -1949,18 +2066,6 @@
           "time_info": "[05时24分 ~ 06时16分]"
         },
         {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 12时05分]"
-        },
-        {
           "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
           "url": "https://flash.jin10.com/detail/20260205054238420800",
           "source": "金十数据",
@@ -1971,6 +2076,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
+        },
+        {
+          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时47分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -1985,17 +2101,6 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时05分]"
-        },
-        {
           "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
           "url": "https://wallstreetcn.com/livenews/3050115",
           "source": "华尔街见闻-快讯",
@@ -2006,17 +2111,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
-        },
-        {
-          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 09时05分]"
         },
         {
           "title": "AI竞赛打到太空了吗",
@@ -2074,6 +2168,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
           "url": "https://flash.jin10.com/detail/20260205050807413800",
           "source": "金十数据",
@@ -2102,7 +2207,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
