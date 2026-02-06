@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T09:03:06.016064+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-02-06T12:05:23.365918+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 112,
+      "match_count": 122,
       "titles": [
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
@@ -82,11 +82,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 12时05分]"
         },
         {
           "title": "美国恢复原定于6日举行的美伊谈判，此前美伊谈判计划濒临破裂",
@@ -173,9 +174,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
@@ -184,9 +196,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "路透调查：日本第四季度GDP有望在强劲投资推动下重回增长轨道。",
+          "url": "https://flash.jin10.com/detail/20260206115013556800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "日本宣称探明稀土储量1600万吨",
@@ -831,7 +854,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -853,9 +876,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "美国伊朗谈判今日举行",
+          "url": "https://www.douyin.com/hot/2391128",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -869,6 +903,28 @@
           "time_info": "00时34分"
         },
         {
+          "title": "比特币重挫破 6 万美元，贝森特称美国不会救助，爱泼斯坦案冲击币圈，本轮加密货币暴跌有何特别信号？",
+          "url": "https://www.zhihu.com/question/2002848288005718086",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "5名乌克兰男性讲述战争",
+          "url": "https://www.toutiao.com/trending/7603546461678079534/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "美国财长贝森特：伊朗现在处于众叛亲离之势。",
           "url": "https://flash.jin10.com/detail/20260206002719899800",
           "source": "金十数据",
@@ -880,15 +936,37 @@
           "time_info": "00时34分"
         },
         {
+          "title": "日本前高级外汇官员：外汇干预配合加息效果将更为持久",
+          "url": "https://flash.jin10.com/detail/20260206113511462800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "日本30年期国债收益率下跌6个基点，至3.505%。",
           "url": "https://flash.jin10.com/detail/20260206083656459800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "美国总统特朗普：与其延长“新削减战略武器条约”，我们更应该让专家们着手制定一项全新、改进且现代化的条约，使其能够长久延续下去。",
@@ -908,9 +986,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "美国四大科技巨头资本支出规模急剧攀升，2026年合计料达约6500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3051080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：（在被问及央行的经济预测时）我们不可能对美国总统特朗普的每一项威胁都做出回应。那样的话，我们就是在自掘坟墓。",
@@ -963,7 +1052,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1007,7 +1096,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1029,7 +1118,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1043,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "日本央行鹰派声浪再起 审议委员Masu首秀放“鹰”",
+          "url": "https://flash.jin10.com/detail/20260206111806710800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "阿根廷外长：阿根廷与美国签署互惠贸易和投资协定。",
@@ -1122,6 +1222,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "台湾证交所加权股价指数转涨，收复早盘2%的跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3051063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "白宫发言人：美国总统特朗普将于周四推出TrumpRX网站。",
           "url": "https://flash.jin10.com/detail/20260206000842000800",
           "source": "金十数据",
@@ -1161,7 +1272,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1205,7 +1316,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1282,7 +1393,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1301,7 +1412,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -1332,11 +1443,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 09时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 12时05分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -1366,6 +1478,18 @@
           "time_info": "[00时34分 ~ 06时17分]"
         },
         {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 12时05分]"
+        },
+        {
           "title": "AI恐慌蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
@@ -1388,29 +1512,18 @@
           "time_info": "[07时15分 ~ 07时16分]"
         },
         {
-          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
-          "url": "https://www.cls.cn/detail/2282247",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时15分 ~ 09时03分]"
-        },
-        {
           "title": "唐宫奇案剧宣闯入ai赛道",
           "url": "https://www.douyin.com/hot/2390538",
           "source": "抖音",
           "ranks": [
             25,
             29,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时17分 ~ 09时03分]"
+          "appearance_count": 6,
+          "time_info": "[06时17分 ~ 12时05分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -1430,11 +1543,12 @@
           "url": "https://www.cls.cn/detail/2282228",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 12时05分]"
         },
         {
           "title": "高盛：甲骨文史诗级债券发售将引发AI债务狂潮",
@@ -1461,6 +1575,28 @@
           "time_info": "[03时31分 ~ 04时22分]"
         },
         {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
+          "url": "https://flash.jin10.com/detail/20260206113638095800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
           "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
           "url": "https://wallstreetcn.com/livenews/3050910",
           "source": "华尔街见闻-快讯",
@@ -1470,6 +1606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "最大国产AI算力池上线",
+          "url": "https://www.toutiao.com/trending/7603316797425483818/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
         },
         {
           "title": "宏观对冲基金1月表现强劲，Haidar回报率达19%",
@@ -1577,7 +1724,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -1588,7 +1735,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         }
