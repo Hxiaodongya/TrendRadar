@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T04:22:16.864729+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-02-07T05:21:33.051407+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "日本挖到稀土泥 中方回应亮了",
@@ -30,8 +30,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "立陶宛承认开设台湾代表处是错误，外交部：同立方沟通大门始终敞开",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "“牢A”：每个美国人身后都有一条“斩杀线”",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "日本持续强降雪已致42人死亡",
@@ -64,19 +64,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
-        },
-        {
-          "title": "美国12月消费信贷变动 240.45亿美元，预期 80亿美元，前值 42.29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "美国宣布制裁伊朗相关实体及个人",
@@ -86,11 +75,23 @@
             30,
             25,
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 05时21分]"
+        },
+        {
+          "title": "美国国防部：美国国务院批准向乌克兰出售价值1.85亿美元的IX级备件及相关设备。",
+          "url": "https://flash.jin10.com/detail/20260207040357695800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
         },
         {
           "title": "克里姆林宫发言人佩斯科夫：有关乌克兰问题的新一轮谈判即将举行，目前还没有确切的日期。目前没有计划在美国举行下一轮谈判，也没有就此进行过讨论。",
@@ -104,17 +105,6 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美国司法部调查奈飞是否采用了反竞争战术。 并评估派拉蒙天舞（Paramount SkyDance）拟议的收购交易。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3051606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国股指延续涨势，道指涨2%。",
           "url": "https://flash.jin10.com/detail/20260207010644081800",
           "source": "金十数据",
@@ -124,28 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "美国国防部：美国国务院批准向乌克兰出售价值1.85亿美元的IX级备件及相关设备。",
-          "url": "https://flash.jin10.com/detail/20260207040357695800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美国能源部长Wright：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
-          "url": "https://wallstreetcn.com/livenews/3051603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "美国国务院：确认14艘影子船队船只为参与运输伊朗石油及其他产品的实体所拥有。制裁15家从事伊朗原产原油、石油产品或石化产品贸易的实体及两名个人。",
@@ -208,6 +176,18 @@
           "time_info": "[00时32分 ~ 01时34分]"
         },
         {
+          "title": "美国12月消费信贷变动 240.45亿美元，预期 80亿美元，前值 42.29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
           "title": "美国2月6日当周石油钻井数 412，前值 411。",
           "url": "https://wallstreetcn.com/livenews/3051581",
           "source": "华尔街见闻-快讯",
@@ -233,6 +213,18 @@
           "time_info": "[01时34分 ~ 02时34分]"
         },
         {
+          "title": "美国司法部调查奈飞是否采用了反竞争战术。 并评估派拉蒙天舞（Paramount SkyDance）拟议的收购交易。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3051606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
           "title": "美国2月6日当周总钻井数 551，前值 546。",
           "url": "https://wallstreetcn.com/livenews/3051580",
           "source": "华尔街见闻-快讯",
@@ -246,6 +238,18 @@
           "time_info": "[02时34分 ~ 04时22分]"
         },
         {
+          "title": "美国能源部长Wright：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
+          "url": "https://wallstreetcn.com/livenews/3051603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
           "title": "美国能源信息署：11月美国原油产量下降8.2万桶/日，至1378.2万桶/日。",
           "url": "https://flash.jin10.com/detail/20260207021113131800",
           "source": "金十数据",
@@ -256,6 +260,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 05时21分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
+          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时21分]"
+        },
+        {
+          "title": "美国能源信息署：11月美国液化天然气产量增加5.1万桶/日，至784.9万桶/日（10月为779.8万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260207024251594800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时21分]"
         },
         {
           "title": "美国财长贝森特：“特朗普账户”（Trump accounts）可能会成为他最大的政治遗产。（CNBC）",
@@ -271,6 +311,19 @@
           "time_info": "[02时34分 ~ 04时22分]"
         },
         {
+          "title": "Once Upon a Farm美国IPO首日盘中涨幅扩大至20%。",
+          "url": "https://wallstreetcn.com/livenews/3051591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时32分 ~ 05时21分]"
+        },
+        {
           "title": "佩斯科夫：暂无在美国举行新一轮乌克兰问题谈判计划",
           "url": "https://wallstreetcn.com/livenews/3051575",
           "source": "华尔街见闻-快讯",
@@ -284,15 +337,26 @@
           "time_info": "[02时34分 ~ 04时22分]"
         },
         {
-          "title": "特朗普“下场”支持日本首相",
-          "url": "https://www.douyin.com/hot/2391219",
-          "source": "抖音",
+          "title": "美国发生两起小型飞机坠毁事故 已致1死1伤",
+          "url": "https://flash.jin10.com/detail/20260207040058343800",
+          "source": "金十数据",
           "ranks": [
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 04时22分]"
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
+          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
+          "url": "https://flash.jin10.com/detail/20260207040013468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
         },
         {
           "title": "美国能源信息署（EIA）将10月石油产量下调6000桶/日，至1386.4万桶/日。",
@@ -307,28 +371,15 @@
           "time_info": "[02时34分 ~ 03时32分]"
         },
         {
-          "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
-          "url": "https://flash.jin10.com/detail/20260207024944141800",
+          "title": "美国能源信息署：美国11月石油总需求同比下降0.7%，或14万桶/日，至2022.7万桶/日（10月降幅为1.9%）。",
+          "url": "https://flash.jin10.com/detail/20260207040004786800",
           "source": "金十数据",
           "ranks": [
-            6,
-            29
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时22分]"
-        },
-        {
-          "title": "美国能源信息署：11月美国液化天然气产量增加5.1万桶/日，至784.9万桶/日（10月为779.8万桶/日）。",
-          "url": "https://flash.jin10.com/detail/20260207024251594800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时22分]"
+          "time_info": "[04时22分 ~ 05时21分]"
         },
         {
           "title": "乌克兰能源部长Shmyhal：与美国能源部长Wright讨论了美国发货液化天然气（LNG）的事宜。",
@@ -343,16 +394,15 @@
           "time_info": "[00时32分 ~ 01时34分]"
         },
         {
-          "title": "Once Upon a Farm美国IPO首日盘中涨幅扩大至20%。",
-          "url": "https://wallstreetcn.com/livenews/3051591",
-          "source": "华尔街见闻-快讯",
+          "title": "美国能源信息署：11月馏分油需求较去年增长3.2%，或11.6万桶/日，至379.6万桶/日（10月则下降1.4%）。",
+          "url": "https://flash.jin10.com/detail/20260207035935990800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            14
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时32分 ~ 04时22分]"
+          "time_info": "[04时22分 ~ 05时21分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
@@ -365,6 +415,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时34分]"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国11月汽油需求同比下降1.7%，或15.2万桶/日，至868万桶/日（而10月降幅为2.0%）。",
+          "url": "https://flash.jin10.com/detail/20260207035906454800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -391,6 +452,17 @@
           "time_info": "[00时32分 ~ 01时34分]"
         },
         {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3051529",
           "source": "华尔街见闻-快讯",
@@ -415,6 +487,18 @@
           "time_info": "[03时32分 ~ 04时22分]"
         },
         {
+          "title": "美国芝商所：留意到金属结算数据发布出现延迟，技术团队已介入",
+          "url": "https://wallstreetcn.com/livenews/3051593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
           "title": "鲁比奥声称美国将维持“强大、可信且现代化的核威慑力量”",
           "url": "https://wallstreetcn.com/livenews/3051528",
           "source": "华尔街见闻-快讯",
@@ -427,6 +511,39 @@
           "time_info": "[00时32分 ~ 01时34分]"
         },
         {
+          "title": "据华尔街日报：根据法庭传票，美国司法部正在询问奈飞(NFLX.O)是否从事可能导致垄断的“排他性行为”。",
+          "url": "https://flash.jin10.com/detail/20260207033205467800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
+          "title": "美国能源部长赖特：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
+          "url": "https://flash.jin10.com/detail/20260207032607524800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
+          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260207032258342800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
           "title": "乌克兰能源部长：乌克兰提供天然气储存设施用于存储美国液化天然气供应。",
           "url": "https://flash.jin10.com/detail/20260206234145905800",
           "source": "金十数据",
@@ -436,28 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "美国发生两起小型飞机坠毁事故 已致1死1伤",
-          "url": "https://flash.jin10.com/detail/20260207040058343800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
-          "url": "https://flash.jin10.com/detail/20260207040013468800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "乌克兰能源部长与美国能源部长赖特通话，讨论了美国液化天然气的运输问题。",
@@ -480,17 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "美国能源信息署：美国11月石油总需求同比下降0.7%，或14万桶/日，至2022.7万桶/日（10月降幅为1.9%）。",
-          "url": "https://flash.jin10.com/detail/20260207040004786800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "加拿大蒙特利尔银行（BMO）EMEA利率策略主管Laurence Mutkin：美联储主席提名人凯文·沃什（获得美国参议院确认并上任之后）可以在缩减资产负债表方面借鉴英国央行的经验教训。",
@@ -526,15 +610,15 @@
           "time_info": "02时34分"
         },
         {
-          "title": "美国能源信息署：11月馏分油需求较去年增长3.2%，或11.6万桶/日，至379.6万桶/日（10月则下降1.4%）。",
-          "url": "https://flash.jin10.com/detail/20260207035935990800",
-          "source": "金十数据",
+          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者对美元的看空程度创7月份以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3051614",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "05时21分"
         },
         {
           "title": "美国至2月6日当周总钻井总数 551口，前值546口。",
@@ -548,17 +632,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "美国能源信息署（EIA）：美国11月汽油需求同比下降1.7%，或15.2万桶/日，至868万桶/日（而10月降幅为2.0%）。",
-          "url": "https://flash.jin10.com/detail/20260207035906454800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国至2月6日当周石油钻井总数 412口，前值411口。",
           "url": "https://flash.jin10.com/detail/20260207020050020800",
           "source": "金十数据",
@@ -568,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者所持NYMEX WTI原油净多头头寸增加17,386手合约，至80,377手合约，创大约六个月新高。 所持布伦特和WTI原油净多头头寸创七个月新高。 所持NYMEX汽油净多头头寸创八周新高，所持NYMEX取暖油净多头头寸创11周新高。",
+          "url": "https://wallstreetcn.com/livenews/3051611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "调查显示美国消费者信心小幅回升 通胀与就业担忧仍存",
@@ -581,26 +665,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
-          "url": "https://flash.jin10.com/detail/20260207034858058800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美国芝商所：留意到金属结算数据发布出现延迟，技术团队已介入",
-          "url": "https://wallstreetcn.com/livenews/3051593",
+          "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者所持COMEX黄金净多头头寸减少27,983手合约，至93,438手合约，创15周新低。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创18周新低。 所持NYMEX铂金净多头头寸创八个月新低。",
+          "url": "https://wallstreetcn.com/livenews/3051610",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "05时21分"
         },
         {
           "title": "美国财长贝森特：推行强势美元政策意味着采取措施为美元创造强劲的支撑环境。",
@@ -702,17 +775,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "据华尔街日报：根据法庭传票，美国司法部正在询问奈飞(NFLX.O)是否从事可能导致垄断的“排他性行为”。",
-          "url": "https://flash.jin10.com/detail/20260207033205467800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国2月密歇根大学消费者预期指数初值 56.6，预期 55.1，前值 57。",
           "url": "https://wallstreetcn.com/livenews/3051523",
           "source": "华尔街见闻-快讯",
@@ -768,17 +830,6 @@
           "time_info": "03时32分"
         },
         {
-          "title": "美国能源部长赖特：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
-          "url": "https://flash.jin10.com/detail/20260207032607524800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
           "title": "美国2月密歇根大学5年通胀预期初值 3.4，预期 3.3，前值 3.3。",
           "url": "https://wallstreetcn.com/livenews/3051521",
           "source": "华尔街见闻-快讯",
@@ -832,17 +883,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
-        },
-        {
-          "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260207032258342800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "美国2月密歇根大学消费者信心指数初值 57.3，预期 55，前值 56.4。",
@@ -991,18 +1031,19 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3765100",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -1012,8 +1053,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -1023,8 +1064,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -1058,9 +1099,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -1069,9 +1110,31 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
+          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
+          "url": "https://flash.jin10.com/detail/20260207040250896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
+          "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "05时21分"
         },
         {
           "title": "OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。（Semafor）",
@@ -1083,17 +1146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -1113,11 +1165,12 @@
           "url": "https://wallstreetcn.com/articles/3765130",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -1127,8 +1180,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
@@ -1143,6 +1196,17 @@
           "time_info": "[02时34分 ~ 03时32分]"
         },
         {
+          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
+          "url": "https://flash.jin10.com/detail/20260207032751728800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时21分]"
+        },
+        {
           "title": "媒体：AI之争又打成了奶茶大战",
           "url": "https://www.toutiao.com/trending/7603738226825645604/",
           "source": "今日头条",
@@ -1154,15 +1218,15 @@
           "time_info": "[03时31分 ~ 03时32分]"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
-          "url": "https://flash.jin10.com/detail/20260207032751728800",
-          "source": "金十数据",
+          "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
+          "url": "https://wallstreetcn.com/livenews/3051609",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "05时21分"
         },
         {
           "title": "英伟达CEO黄仁勋：与OpenAI并无矛盾。他们需要我公司的新一代芯片。",
