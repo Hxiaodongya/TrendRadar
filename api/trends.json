@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-08T01:18:54.951980+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2026-02-08T02:20:09.260923+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
       "match_count": 11,
       "titles": [
-        {
-          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
-          "url": "https://flash.jin10.com/detail/20260207232848013800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
-        },
         {
           "title": "胡锡进：这是天大的事，中国决不会中美国圈套！",
           "url": "https://news.ifeng.com/c/8qXDJawISCo",
@@ -26,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
+          "url": "https://flash.jin10.com/detail/20260207232848013800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
@@ -37,19 +37,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "扶桑谈｜大选前夕的日本政坛：“无形绑架”与被边缘化的“中道”力量",
           "url": "https://m.thepaper.cn/newsDetail_forward_32548395",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
@@ -59,8 +60,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "日本在菲律宾培植代理人挑衅中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9F%B9%E6%A4%8D%E4%BB%A3%E7%90%86%E4%BA%BA%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
@@ -68,11 +82,24 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
+          "url": "https://www.zhihu.com/question/29983694",
+          "source": "知乎",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -82,8 +109,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "外媒：美国航母已进入对伊发动打击的“阵地”",
@@ -93,20 +120,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "日本在菲律宾培植代理人挑衅中国",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9F%B9%E6%A4%8D%E4%BB%A3%E7%90%86%E4%BA%BA%E6%8C%91%E8%A1%85%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "泽连斯基：美国寻求在6月前推动俄乌达成停火协议",
@@ -116,19 +131,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
-          "url": "https://www.zhihu.com/question/29983694",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         }
       ]
     },
@@ -145,8 +149,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -155,21 +172,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            5
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "time_info": "[01时18分 ~ 02时20分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -179,8 +184,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -191,8 +196,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时20分]"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
