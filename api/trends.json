@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-08T06:15:04.132539+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-02-08T07:19:40.370045+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
+          "url": "https://flash.jin10.com/detail/20260207232848013800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时19分]"
+        },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
           "url": "https://news.ifeng.com/c/8qY8hiEtDth",
@@ -16,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
@@ -28,19 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
-        },
-        {
-          "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
-          "url": "https://flash.jin10.com/detail/20260207232848013800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "胡锡进：这是天大的事，中国决不会中美国圈套！",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "日本在菲律宾培植代理人挑衅中国",
@@ -76,11 +76,12 @@
             13,
             17,
             19,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
@@ -90,11 +91,12 @@
             15,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "日本裁判",
@@ -102,22 +104,12 @@
           "source": "微博",
           "ranks": [
             6,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时14分 ~ 06时15分]"
-        },
-        {
-          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
-          "url": "https://wallstreetcn.com/livenews/3051751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[04时14分 ~ 07时19分]"
         },
         {
           "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
@@ -126,11 +118,12 @@
           "ranks": [
             9,
             15,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -140,8 +133,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "外媒：美国航母已进入对伊发动打击的“阵地”",
@@ -151,8 +144,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "泽连斯基：美国寻求在6月前推动俄乌达成停火协议",
@@ -162,8 +155,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时19分]"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 07时19分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：让我们搞定这宗交易。",
@@ -187,12 +192,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "美国拟举行“和平委员会”首次领导人会议",
+          "url": "https://news.ifeng.com/c/8qZ79a5CZCe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "日本众议院选举投票开始",
+          "url": "https://www.douyin.com/hot/2393372",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -203,8 +230,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -212,11 +239,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时19分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -226,11 +254,12 @@
             7,
             5,
             2,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -250,11 +279,12 @@
           "ranks": [
             22,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时19分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -265,8 +295,30 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[05时16分 ~ 07时19分]"
+        },
+        {
+          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
+          "url": "https://wallstreetcn.com/articles/3765226",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
+          "url": "https://www.cls.cn/detail/2283686",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
