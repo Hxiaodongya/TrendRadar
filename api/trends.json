@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T09:02:38.452391+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-02-07T11:59:31.341531+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 114,
+      "match_count": 121,
       "titles": [
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 09时02分]"
+        },
+        {
+          "title": "立陶宛承认开设台湾代表处是错误，外交部：同立方沟通大门始终敞开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549545",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时59分]"
         },
         {
           "title": "日本挖到稀土泥 中方回应亮了",
@@ -34,18 +47,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时16分]"
-        },
-        {
-          "title": "立陶宛承认开设台湾代表处是错误，外交部：同立方沟通大门始终敞开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549545",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时02分]"
         },
         {
           "title": "“牢A”：每个美国人身后都有一条“斩杀线”",
@@ -67,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时59分]"
         },
         {
           "title": "美国宣布制裁伊朗相关实体及个人",
@@ -105,9 +106,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
+          "title": "美伊谈判之际，美国继续向中东调派战机",
+          "url": "https://news.ifeng.com/c/8qXjHoprLUb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
         },
         {
           "title": "印度和美国将扩大GPUs和数据中心商品的贸易规模。",
@@ -134,17 +146,6 @@
           "time_info": "[03时31分 ~ 07时16分]"
         },
         {
-          "title": "美伊谈判之际，美国继续向中东调派战机",
-          "url": "https://news.ifeng.com/c/8qXjHoprLUb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "克里姆林宫发言人佩斯科夫：有关乌克兰问题的新一轮谈判即将举行，目前还没有确切的日期。目前没有计划在美国举行下一轮谈判，也没有就此进行过讨论。",
           "url": "https://flash.jin10.com/detail/20260207010811530800",
           "source": "金十数据",
@@ -154,6 +155,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美常驻联合国代表：美国将向联合国支付部分拖欠会费",
+          "url": "https://wallstreetcn.com/livenews/3051684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "日本免税销售额持续下滑",
+          "url": "https://flash.jin10.com/detail/20260207110054483800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "美国股指延续涨势，道指涨2%。",
@@ -167,15 +190,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
-          "url": "https://flash.jin10.com/detail/20260207083916354800",
+          "title": "据AXIOS网站：美国白宫计划于2月19日为加沙“和平委员会”举行领导人会议。",
+          "url": "https://flash.jin10.com/detail/20260207104933551800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时59分"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -287,6 +310,19 @@
           "time_info": "[06时15分 ~ 09时02分]"
         },
         {
+          "title": "日本再度达到流感流行警报级别",
+          "url": "https://wallstreetcn.com/livenews/3051648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时16分 ~ 11时59分]"
+        },
+        {
           "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
           "url": "https://flash.jin10.com/detail/20260207040013468800",
           "source": "金十数据",
@@ -361,18 +397,6 @@
           "time_info": "[01时34分 ~ 02时34分]"
         },
         {
-          "title": "日本再度达到流感流行警报级别",
-          "url": "https://wallstreetcn.com/livenews/3051648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时02分]"
-        },
-        {
           "title": "美国2月6日当周总钻井数 551，前值 546。",
           "url": "https://wallstreetcn.com/livenews/3051580",
           "source": "华尔街见闻-快讯",
@@ -408,6 +432,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时16分]"
+        },
+        {
+          "title": "美国法官批准各州请求，强制要求美国总统特朗普政府解冻纽约市隧道资金。",
+          "url": "https://flash.jin10.com/detail/20260207083916354800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
         },
         {
           "title": "美国能源信息署：11月馏分油需求较去年增长3.2%，或11.6万桶/日，至379.6万桶/日（10月则下降1.4%）。",
@@ -592,6 +628,30 @@
           "time_info": "[06时15分 ~ 09时02分]"
         },
         {
+          "title": "台湾102岁老人娶68岁看护 子女抢人",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE102%E5%B2%81%E8%80%81%E4%BA%BA%E5%A8%B668%E5%B2%81%E7%9C%8B%E6%8A%A4+%E5%AD%90%E5%A5%B3%E6%8A%A2%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
+          "title": "古巴成为美国下一个关注目标，若动武古巴军队能够抵抗入侵吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549815",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
           "title": "美国能源信息署（EIA）将10月石油产量下调6000桶/日，至1386.4万桶/日。",
           "url": "https://flash.jin10.com/detail/20260207021051631800",
           "source": "金十数据",
@@ -604,6 +664,30 @@
           "time_info": "[02时34分 ~ 03时32分]"
         },
         {
+          "title": "美国总统特朗普：伊朗不得拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260207083216996800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
+          "title": "美国总统特朗普：正在与乌克兰进行非常良好的会谈。",
+          "url": "https://flash.jin10.com/detail/20260207083136238800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
           "title": "乌克兰能源部长Shmyhal：与美国能源部长Wright讨论了美国发货液化天然气（LNG）的事宜。",
           "url": "https://wallstreetcn.com/livenews/3051538",
           "source": "华尔街见闻-快讯",
@@ -614,6 +698,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时34分]"
+        },
+        {
+          "title": "美国总统特朗普：我们有充足的时间来处理伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20260207083122839800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
+          "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260207083052569800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
@@ -640,6 +748,18 @@
           "time_info": "[07时16分 ~ 09时02分]"
         },
         {
+          "title": "美国总统特朗普谈奥巴马视频：我没有犯错，我关注成千上万的事情。",
+          "url": "https://flash.jin10.com/detail/20260207083032901800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
           "url": "https://wallstreetcn.com/livenews/3051588",
           "source": "华尔街见闻-快讯",
@@ -650,6 +770,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时22分]"
+        },
+        {
+          "title": "美国总统特朗普关于奥巴马视频的声明：我们一发现此事就立即删除了它。",
+          "url": "https://flash.jin10.com/detail/20260207083019927800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
         },
         {
           "title": "美国电网运营商PJM InterConnection LLC.预计，美国将在未来十年出现60 GW电力供应短缺。 如果不采取行动，电力供应短缺规模可能会从6.5 GW膨胀至60 GW。",
@@ -674,6 +806,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时15分]"
+        },
+        {
+          "title": "敏感时刻，一个罕见情况在日本出现",
+          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -747,26 +890,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国总统特朗普：伊朗不得拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260207083216996800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美国总统特朗普：正在与乌克兰进行非常良好的会谈。",
-          "url": "https://flash.jin10.com/detail/20260207083136238800",
+          "title": "古巴宣布系列紧急措施保障民生与生产 应对美国石油封锁",
+          "url": "https://flash.jin10.com/detail/20260207103825838800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时59分"
         },
         {
           "title": "乌克兰能源部长与美国能源部长赖特通话，讨论了美国液化天然气的运输问题。",
@@ -789,17 +921,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "美国总统特朗普：我们有充足的时间来处理伊朗协议。",
-          "url": "https://flash.jin10.com/detail/20260207083122839800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         },
         {
           "title": "加拿大蒙特利尔银行（BMO）EMEA利率策略主管Laurence Mutkin：美联储主席提名人凯文·沃什（获得美国参议院确认并上任之后）可以在缩减资产负债表方面借鉴英国央行的经验教训。",
@@ -835,28 +956,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "据福克斯新闻：白宫发言人莱维特就美国总统特朗普关于奥巴马的推文一事表示，美国总统特朗普已就此事与立法者进行了沟通。",
-          "url": "https://flash.jin10.com/detail/20260207083052569800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "古巴成为美国下一个关注目标，若动武古巴军队能够抵抗入侵吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549815",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "美国至2月6日当周总钻井总数 551口，前值546口。",
           "url": "https://flash.jin10.com/detail/20260207020138570800",
           "source": "金十数据",
@@ -866,17 +965,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "美国总统特朗普谈奥巴马视频：我没有犯错，我关注成千上万的事情。",
-          "url": "https://flash.jin10.com/detail/20260207083032901800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         },
         {
           "title": "美国至2月6日当周石油钻井总数 412口，前值411口。",
@@ -890,26 +978,15 @@
           "time_info": "02时34分"
         },
         {
-          "title": "美国总统特朗普关于奥巴马视频的声明：我们一发现此事就立即删除了它。",
-          "url": "https://flash.jin10.com/detail/20260207083019927800",
+          "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
+          "url": "https://flash.jin10.com/detail/20260207095625549800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "敏感时刻，一个罕见情况在日本出现",
-          "url": "https://news.ifeng.com/c/8qXB1sQrQOA",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时59分"
         },
         {
           "title": "调查显示美国消费者信心小幅回升 通胀与就业担忧仍存",
@@ -929,9 +1006,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "特朗普称美国与伊朗进行了“非常好的会谈”",
+          "url": "https://wallstreetcn.com/livenews/3051669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "美国财长贝森特：推行强势美元政策意味着采取措施为美元创造强劲的支撑环境。",
@@ -973,7 +1061,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -998,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国驻联合国特使迈克·沃尔茨：美国计划在数周内就拖欠联合国的数十亿美元债务支付首笔款项。",
+          "url": "https://flash.jin10.com/detail/20260207092931142800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "美国2月密歇根大学1年通胀预期创13个月新低",
@@ -1105,7 +1204,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -1152,17 +1251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "台湾102岁老人娶68岁看护 子女抢人",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE102%E5%B2%81%E8%80%81%E4%BA%BA%E5%A8%B668%E5%B2%81%E7%9C%8B%E6%8A%A4+%E5%AD%90%E5%A5%B3%E6%8A%A2%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         },
         {
           "title": "美国能源信息署：11月美国汽油出口增至102.3万桶/日（10月为84.4万桶/日）。",
@@ -1303,7 +1391,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -1333,7 +1421,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
@@ -1348,16 +1436,31 @@
           "time_info": "[00时31分 ~ 07时16分]"
         },
         {
+          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
+          "url": "https://wallstreetcn.com/articles/3765130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 11时59分]"
+        },
+        {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
           "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时59分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -1392,19 +1495,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时16分]"
-        },
-        {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 09时02分]"
         },
         {
           "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
@@ -1466,17 +1556,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
-          "url": "https://wallstreetcn.com/livenews/3051663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -1501,6 +1580,18 @@
           "time_info": "[00时31分 ~ 02时34分]"
         },
         {
+          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
+          "url": "https://wallstreetcn.com/livenews/3051663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
           "url": "https://flash.jin10.com/detail/20260207032751728800",
           "source": "金十数据",
@@ -1510,6 +1601,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时22分 ~ 07时16分]"
+        },
+        {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 11时59分]"
         },
         {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
@@ -1559,26 +1673,37 @@
           "time_info": "[03时31分 ~ 03时32分]"
         },
         {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
+          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
+          "url": "https://wallstreetcn.com/livenews/3051672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时59分"
         },
         {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时02分"
+          "time_info": "11时59分"
+        },
+        {
+          "title": "全新QQ用AI重塑小车之王",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0QQ%E7%94%A8AI%E9%87%8D%E5%A1%91%E5%B0%8F%E8%BD%A6%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "英伟达CEO黄仁勋：与OpenAI并无矛盾。他们需要我公司的新一代芯片。",
