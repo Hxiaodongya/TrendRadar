@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-02-08T18:15:42.447043+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-02-08T19:15:51.164317+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "一不小心，美国又创造了历史",
+          "url": "https://news.ifeng.com/c/8qZLRWXlKx6",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 19时15分]"
+        },
+        {
+          "title": "日本选民直言：谁当选都一样，我已经放弃了，没变好过",
+          "url": "https://news.ifeng.com/c/8qZcwvIW4G6",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 19时15分]"
+        },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
           "url": "https://news.ifeng.com/c/8qY8hiEtDth",
@@ -18,18 +41,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 09时24分]"
-        },
-        {
-          "title": "一不小心，美国又创造了历史",
-          "url": "https://news.ifeng.com/c/8qZLRWXlKx6",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 18时15分]"
         },
         {
           "title": "日本教授警告：攻击外国人能拉票，但会加剧社会分裂",
@@ -44,15 +55,31 @@
           "time_info": "[00时17分 ~ 12时25分]"
         },
         {
-          "title": "日本选民直言：谁当选都一样，我已经放弃了，没变好过",
-          "url": "https://news.ifeng.com/c/8qZcwvIW4G6",
+          "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32557042",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时24分 ~ 19时15分]"
+        },
+        {
+          "title": "凤凰连线：日本众议院选举投票率7%",
+          "url": "https://news.ifeng.com/c/8qZkSKfAMRv",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时15分]"
+          "time_info": "[14时37分 ~ 19时15分]"
         },
         {
           "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
@@ -69,17 +96,6 @@
           "time_info": "[00时17分 ~ 13时56分]"
         },
         {
-          "title": "凤凰连线：日本众议院选举投票率7%",
-          "url": "https://news.ifeng.com/c/8qZkSKfAMRv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 18时15分]"
-        },
-        {
           "title": "胡锡进：这是天大的事，中国决不会中美国圈套！",
           "url": "https://news.ifeng.com/c/8qXDJawISCo",
           "source": "凤凰网",
@@ -89,21 +105,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 04时14分]"
-        },
-        {
-          "title": "专访｜“众院选举结果可能改变日本国家形态，进入相当危险阶段”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32557042",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时24分 ~ 18时15分]"
         },
         {
           "title": "扶桑谈｜大选前夕的日本政坛：“无形绑架”与被边缘化的“中道”力量",
@@ -193,6 +194,17 @@
           "time_info": "[05时17分 ~ 15时32分]"
         },
         {
+          "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
+          "url": "https://www.zhihu.com/question/2003403337194817403",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 19时15分]"
+        },
+        {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
           "url": "https://flash.jin10.com/detail/20260207200111862800",
           "source": "金十数据",
@@ -217,6 +229,18 @@
           "time_info": "[00时17分 ~ 09时24分]"
         },
         {
+          "title": "日本16个月选举三次",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC16%E4%B8%AA%E6%9C%88%E9%80%89%E4%B8%BE%E4%B8%89%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 19时15分]"
+        },
+        {
           "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
           "url": "https://www.zhihu.com/question/29983694",
           "source": "知乎",
@@ -231,27 +255,16 @@
           "time_info": "[00时17分 ~ 07时19分]"
         },
         {
-          "title": "2026 年 3 月白银会爆发史诗级「交割战争」吗？",
-          "url": "https://www.zhihu.com/question/2003403337194817403",
-          "source": "知乎",
+          "title": "国际观察丨美伊谈判能否解除中东“战争警报”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559521",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时25分 ~ 18时15分]"
-        },
-        {
-          "title": "日本16个月选举三次",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC16%E4%B8%AA%E6%9C%88%E9%80%89%E4%B8%BE%E4%B8%89%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 18时15分]"
+          "time_info": "[13时56分 ~ 19时15分]"
         },
         {
           "title": "泽连斯基：美国寻求在6月前推动俄乌达成停火协议",
@@ -263,6 +276,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时19分]"
+        },
+        {
+          "title": "丹麦官员：与美国就格陵兰岛谈判未达预期",
+          "url": "https://news.ifeng.com/c/8qZwX6OZr02",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时15分]"
         },
         {
           "title": "苏翊鸣疑似被日本裁判压分",
@@ -279,6 +303,30 @@
           "time_info": "[09时24分 ~ 14时38分]"
         },
         {
+          "title": "美国终于要还钱了",
+          "url": "https://news.ifeng.com/c/8qZOVWCToZZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时15分]"
+        },
+        {
+          "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
+          "url": "https://wallstreetcn.com/articles/3765247",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时15分]"
+        },
+        {
           "title": "受强降雪影响 日本部分地区推迟众议院选举投票开始时间",
           "url": "https://flash.jin10.com/detail/20260208114319108800",
           "source": "金十数据",
@@ -290,18 +338,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时56分 ~ 16时20分]"
-        },
-        {
-          "title": "国际观察丨美伊谈判能否解除中东“战争警报”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32559521",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时15分]"
         },
         {
           "title": "受强降雪影响 日本部分地区推迟众议院选举投票开始时间",
@@ -336,17 +372,6 @@
           "time_info": "[12时25分 ~ 17时21分]"
         },
         {
-          "title": "丹麦官员：与美国就格陵兰岛谈判未达预期",
-          "url": "https://news.ifeng.com/c/8qZwX6OZr02",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时15分]"
-        },
-        {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
           "url": "https://flash.jin10.com/detail/20260208105958137800",
           "source": "金十数据",
@@ -375,17 +400,6 @@
           "time_info": "[12时25分 ~ 16时20分]"
         },
         {
-          "title": "美国终于要还钱了",
-          "url": "https://news.ifeng.com/c/8qZOVWCToZZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时15分]"
-        },
-        {
           "title": "日本今日大选 执政联盟有望获三分之二议席",
           "url": "https://flash.jin10.com/detail/20260208084533451800",
           "source": "金十数据",
@@ -398,19 +412,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时24分 ~ 15时32分]"
-        },
-        {
-          "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
-          "url": "https://wallstreetcn.com/articles/3765247",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时15分]"
         },
         {
           "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
@@ -427,6 +428,17 @@
           "time_info": "[12时25分 ~ 16时20分]"
         },
         {
+          "title": "出口民调显示，日本主要反对党在众议院选举中预计将遭遇重大席位流失。",
+          "url": "https://flash.jin10.com/detail/20260208190522421800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：让我们搞定这宗交易。",
           "url": "https://wallstreetcn.com/livenews/3051751",
           "source": "华尔街见闻-快讯",
@@ -436,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "日本国会众议院选举投票结束",
+          "url": "https://wallstreetcn.com/livenews/3051825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "巴西总统谴责美国对古巴施压",
@@ -452,6 +475,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时25分 ~ 17时21分]"
+        },
+        {
+          "title": "日本时事通讯社：民调显示，日本自民党有望在众议院获得单一政党多数席位。",
+          "url": "https://flash.jin10.com/detail/20260208190429007800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "出口民调：日本执政联盟预计获得众议院过半席位",
+          "url": "https://wallstreetcn.com/livenews/3051824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "出口民调：日本执政联盟预计获得众议院过半席位",
+          "url": "https://flash.jin10.com/detail/20260208190359086800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "日本国会众议院选举开始投票",
@@ -478,6 +534,42 @@
           "time_info": "12时25分"
         },
         {
+          "title": "日本放送协会出口民调显示，自民党及其执政联盟伙伴维新会预计将赢得众议院465个席位中的302至366席。日本执政联盟预计在众议院选举中赢得三分之二的席位。",
+          "url": "https://flash.jin10.com/detail/20260208190240637800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "出口民调显示日本执政联盟将获得众议院过半议席。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260208190045341800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "伊朗总统：与美国会谈是向前迈出的一步",
+          "url": "https://wallstreetcn.com/livenews/3051783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时15分]"
+        },
+        {
           "title": "日本国会众议院选举开始投票",
           "url": "https://wallstreetcn.com/livenews/3051760",
           "source": "华尔街见闻-快讯",
@@ -493,19 +585,6 @@
           "time_info": "[09时24分 ~ 15时32分]"
         },
         {
-          "title": "伊朗总统：与美国会谈是向前迈出的一步",
-          "url": "https://wallstreetcn.com/livenews/3051783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时15分]"
-        },
-        {
           "title": "丹麦：与美国就格陵兰岛谈判未达预期",
           "url": "https://flash.jin10.com/detail/20260208103612755800",
           "source": "金十数据",
@@ -517,6 +596,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时25分 ~ 15时32分]"
+        },
+        {
+          "title": "警惕日本军国主义在文体领域渗透",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%9C%A8%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%E6%B8%97%E9%80%8F",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时15分]"
         },
         {
           "title": "美国将向联合国支付部分拖欠会费",
@@ -557,6 +648,19 @@
           "time_info": "[16时20分 ~ 18时15分]"
         },
         {
+          "title": "伊朗外长：美国军事施压吓不倒伊朗",
+          "url": "https://wallstreetcn.com/livenews/3051796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时15分]"
+        },
+        {
           "title": "美国拟举行“和平委员会”首次领导人会议",
           "url": "https://news.ifeng.com/c/8qZ79a5CZCe",
           "source": "凤凰网",
@@ -568,16 +672,15 @@
           "time_info": "[07时19分 ~ 09时24分]"
         },
         {
-          "title": "伊朗外长：美国军事施压吓不倒伊朗",
-          "url": "https://wallstreetcn.com/livenews/3051796",
-          "source": "华尔街见闻-快讯",
+          "title": "日本军国主义渗透文体领域",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%B8%97%E9%80%8F%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            17
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时15分]"
+          "time_info": "[18时15分 ~ 19时15分]"
         },
         {
           "title": "日本众议院选举投票开始",
@@ -603,37 +706,26 @@
           "time_info": "[17时21分 ~ 18时15分]"
         },
         {
-          "title": "日本军国主义渗透文体领域",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%B8%97%E9%80%8F%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "警惕日本军国主义在文体领域渗透",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%9C%A8%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%E6%B8%97%E9%80%8F",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
           "title": "日本强降雪已致46人死500多人伤",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%99%8D%E9%9B%AA%E5%B7%B2%E8%87%B446%E4%BA%BA%E6%AD%BB500%E5%A4%9A%E4%BA%BA%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
             23
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时15分]"
+        },
+        {
+          "title": "民调显示日本执政联盟票数过半",
+          "url": "https://www.douyin.com/hot/2394137",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时15分"
         },
         {
           "title": "伊朗想击沉美国航母 首要问题是什么",
@@ -661,7 +753,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -672,8 +764,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 19时15分]"
+        },
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 19时15分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -706,23 +813,21 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 18时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 19时15分]"
         },
         {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            7,
-            5,
-            3,
-            2
+            4,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时25分 ~ 18时15分]"
+          "time_info": "[13时56分 ~ 19时15分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -737,19 +842,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时19分 ~ 16时20分]"
-        },
-        {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 18时15分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -777,29 +869,31 @@
           "time_info": "[00时17分 ~ 07时19分]"
         },
         {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 18时15分]"
-        },
-        {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
           "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 19时15分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 19时15分]"
         },
         {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
@@ -813,6 +907,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时24分 ~ 14时38分]"
+        },
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时15分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -840,19 +948,6 @@
           "time_info": "[13时56分 ~ 16时20分]"
         },
         {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时15分]"
-        },
-        {
           "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
           "url": "https://wallstreetcn.com/articles/3765225",
           "source": "华尔街见闻",
@@ -862,6 +957,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
+          "url": "https://wallstreetcn.com/articles/3765244",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时15分]"
         },
         {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
@@ -886,15 +992,37 @@
           "time_info": "09时24分"
         },
         {
-          "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
-          "url": "https://wallstreetcn.com/articles/3765244",
-          "source": "华尔街见闻",
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "19时15分"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "沈月说身边人都在用千问AI点奶茶",
