@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T22:19:37.731650+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-02-08T23:16:39.713493+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 97,
+      "match_count": 101,
       "titles": [
         {
           "title": "一不小心，美国又创造了历史",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时24分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时24分 ~ 23时16分]"
         },
         {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
@@ -72,6 +72,19 @@
           "time_info": "[00时17分 ~ 12时25分]"
         },
         {
+          "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
+          "url": "https://wallstreetcn.com/articles/3765247",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 23时16分]"
+        },
+        {
           "title": "凤凰连线：日本众议院选举投票率7%",
           "url": "https://news.ifeng.com/c/8qZkSKfAMRv",
           "source": "凤凰网",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时37分 ~ 19时15分]"
-        },
-        {
-          "title": "丹麦官员：与美国就格陵兰岛谈判未达预期",
-          "url": "https://news.ifeng.com/c/8qZwX6OZr02",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 22时19分]"
         },
         {
           "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
@@ -109,17 +110,17 @@
           "time_info": "[00时17分 ~ 13时56分]"
         },
         {
-          "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
-          "url": "https://wallstreetcn.com/articles/3765247",
-          "source": "华尔街见闻",
+          "title": "丹麦官员：与美国就格陵兰岛谈判未达预期",
+          "url": "https://news.ifeng.com/c/8qZwX6OZr02",
+          "source": "凤凰网",
           "ranks": [
-            8,
             4,
-            3
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时20分 ~ 22时19分]"
+          "time_info": "[17时21分 ~ 23时16分]"
         },
         {
           "title": "胡锡进：这是天大的事，中国决不会中美国圈套！",
@@ -181,11 +182,12 @@
           "ranks": [
             11,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时25分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[12时25分 ~ 23时16分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
@@ -213,8 +215,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时56分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[13时56分 ~ 23时16分]"
         },
         {
           "title": "日本16个月选举三次",
@@ -227,6 +229,30 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时25分 ~ 21时38分]"
+        },
+        {
+          "title": "凤凰网日本大选实时开票页",
+          "url": "https://news.ifeng.com/loc/japanvote2026",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时24分 ~ 23时16分]"
+        },
+        {
+          "title": "日本执政联盟将获众议院过半议席",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时24分 ~ 23时16分]"
         },
         {
           "title": "日本裁判",
@@ -257,6 +283,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时17分 ~ 15时32分]"
+        },
+        {
+          "title": "出口民调：日本执政联盟预计获得众议院过半席位",
+          "url": "https://news.ifeng.com/c/8qa9qTpuszc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时16分]"
         },
         {
           "title": "亚洲杯决赛王楚钦对战日本选手",
@@ -295,40 +332,6 @@
           "time_info": "[00时17分 ~ 09时24分]"
         },
         {
-          "title": "凤凰网日本大选实时开票页",
-          "url": "https://news.ifeng.com/loc/japanvote2026",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 22时19分]"
-        },
-        {
-          "title": "日本执政联盟将获众议院过半议席",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 22时19分]"
-        },
-        {
-          "title": "出口民调：日本执政联盟预计获得众议院过半席位",
-          "url": "https://news.ifeng.com/c/8qa9qTpuszc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时19分]"
-        },
-        {
           "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
           "url": "https://www.zhihu.com/question/29983694",
           "source": "知乎",
@@ -354,16 +357,19 @@
           "time_info": "[00时17分 ~ 07时19分]"
         },
         {
-          "title": "欧盟各国如何应对美国威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
+          "title": "警惕日本军国主义在文体领域渗透",
+          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%9C%A8%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%E6%B8%97%E9%80%8F",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            3
+            17,
+            5,
+            13,
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 23时16分]"
         },
         {
           "title": "苏翊鸣疑似被日本裁判压分",
@@ -391,18 +397,32 @@
           "time_info": "[17时21分 ~ 19时15分]"
         },
         {
-          "title": "警惕日本军国主义在文体领域渗透",
-          "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%9C%A8%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%E6%B8%97%E9%80%8F",
-          "source": "百度热搜",
+          "title": "欧盟各国如何应对美国威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            5,
-            13,
+            2,
+            3,
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时16分]"
+        },
+        {
+          "title": "日本国会众议院选举投票结束",
+          "url": "https://wallstreetcn.com/livenews/3051825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            6,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时16分]"
         },
         {
           "title": "受强降雪影响 日本部分地区推迟众议院选举投票开始时间",
@@ -416,6 +436,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时56分 ~ 16时20分]"
+        },
+        {
+          "title": "出口民调：日本执政联盟预计获得众议院过半席位",
+          "url": "https://wallstreetcn.com/livenews/3051824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            7,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时16分]"
         },
         {
           "title": "受强降雪影响 日本部分地区推迟众议院选举投票开始时间",
@@ -434,18 +469,6 @@
           "time_info": "[12时25分 ~ 17时21分]"
         },
         {
-          "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
-          "url": "https://wallstreetcn.com/livenews/3051830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
-        },
-        {
           "title": "丹麦：与美国就格陵兰岛谈判未达预期",
           "url": "https://wallstreetcn.com/livenews/3051768",
           "source": "华尔街见闻-快讯",
@@ -460,34 +483,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时25分 ~ 17时21分]"
-        },
-        {
-          "title": "日本国会众议院选举投票结束",
-          "url": "https://wallstreetcn.com/livenews/3051825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
-        },
-        {
-          "title": "出口民调：日本执政联盟预计获得众议院过半席位",
-          "url": "https://wallstreetcn.com/livenews/3051824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
         },
         {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
@@ -530,6 +525,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时24分 ~ 15时32分]"
+        },
+        {
+          "title": "日本首相高市早苗：将加快关于食品减税的讨论。 如达成决定，将向国会提交税制改革法案。 有关日元疲软的言论被断章取义。 要建立对汇率变动有韧性的经济结构。 财政可持续性十分重要。",
+          "url": "https://wallstreetcn.com/livenews/3051830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时16分]"
         },
         {
           "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
@@ -600,17 +608,6 @@
           "time_info": "[17时21分 ~ 22时19分]"
         },
         {
-          "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
-          "url": "https://wallstreetcn.com/livenews/3051833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
           "url": "https://wallstreetcn.com/livenews/3051783",
           "source": "华尔街见闻-快讯",
@@ -626,26 +623,26 @@
           "time_info": "[16时20分 ~ 20时24分]"
         },
         {
-          "title": "日本首相高市早苗：希望加快南鸟岛的稀土项目，并邀请美国参与。",
-          "url": "https://flash.jin10.com/detail/20260208215850739800",
-          "source": "金十数据",
+          "title": "创纪录暴雪下，日本将往哪里去？",
+          "url": "https://news.ifeng.com/c/8qa97U93KJq",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时16分"
         },
         {
-          "title": "日本财务大臣片山皋月：如有必要，将于周一与市场沟通。 金融市场对日本国债有信心。",
-          "url": "https://wallstreetcn.com/livenews/3051831",
+          "title": "日本财务大臣片山皋月：不会对汇率水平发表评论。 正与美国就汇率保持密切联系。 保持日元兑美元汇率稳定是财务主管的责任。 无需担心日本进入滞胀。",
+          "url": "https://wallstreetcn.com/livenews/3051839",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时16分"
         },
         {
           "title": "日本国会众议院选举开始投票",
@@ -672,26 +669,41 @@
           "time_info": "12时25分"
         },
         {
-          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
-          "url": "https://flash.jin10.com/detail/20260208215651951800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
-          "url": "https://flash.jin10.com/detail/20260208215521051800",
+          "title": "日本财务大臣片山皋月：不担心日本会陷入滞胀。",
+          "url": "https://flash.jin10.com/detail/20260208223549335800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时16分"
+        },
+        {
+          "title": "日本国会众议院选举投票结束",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时24分 ~ 23时16分]"
+        },
+        {
+          "title": "日本军国主义渗透文体领域",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%B8%97%E9%80%8F%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            25,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 23时16分]"
         },
         {
           "title": "日本国会众议院选举开始投票",
@@ -738,11 +750,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时16分]"
+        },
+        {
+          "title": "日本首相高市早苗：若政府委员会批准削减消费税，我们将提交该法案。",
+          "url": "https://flash.jin10.com/detail/20260208210514086800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时16分]"
         },
         {
           "title": "日本时事通讯社：民调显示，日本自民党有望在众议院获得单一政党多数席位。",
@@ -758,6 +784,42 @@
           "time_info": "[19时15分 ~ 21时38分]"
         },
         {
+          "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
+          "url": "https://wallstreetcn.com/livenews/3051833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本首相高市早苗：将重视财政可持续性。",
+          "url": "https://flash.jin10.com/detail/20260208210442714800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时16分]"
+        },
+        {
+          "title": "冬奥会裁判是怎么选的，为什么日本选手参加男子大跳台决赛，打分的还能有日本裁判，这不会不公平吗？",
+          "url": "https://www.zhihu.com/question/2003667498357248199",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时16分]"
+        },
+        {
           "title": "出口民调：日本执政联盟预计获得众议院过半席位",
           "url": "https://flash.jin10.com/detail/20260208190359086800",
           "source": "金十数据",
@@ -771,16 +833,17 @@
           "time_info": "[19时15分 ~ 21时38分]"
         },
         {
-          "title": "日本首相高市早苗：若政府委员会批准削减消费税，我们将提交该法案。",
-          "url": "https://flash.jin10.com/detail/20260208210514086800",
+          "title": "日本首相高市早苗：日元疲软有利有弊。将继续奉行负责任、积极的财政政策。目标是建立一个能够抵御外汇波动的韧性国家。",
+          "url": "https://flash.jin10.com/detail/20260208210418824800",
           "source": "金十数据",
           "ranks": [
-            1,
-            20
+            3,
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时16分]"
         },
         {
           "title": "日本放送协会出口民调显示，自民党及其执政联盟伙伴维新会预计将赢得众议院465个席位中的302至366席。日本执政联盟预计在众议院选举中赢得三分之二的席位。",
@@ -796,16 +859,28 @@
           "time_info": "[19时15分 ~ 21时38分]"
         },
         {
-          "title": "日本首相高市早苗：将重视财政可持续性。",
-          "url": "https://flash.jin10.com/detail/20260208210442714800",
-          "source": "金十数据",
+          "title": "手眼通天！爱泼斯坦曾帮罗斯柴尔德家族“搞定”美国司法部交易，获利2500万美元",
+          "url": "https://wallstreetcn.com/articles/3765249",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            21
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 23时16分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：如有必要，将于周一与市场沟通。 金融市场对日本国债有信心。",
+          "url": "https://wallstreetcn.com/livenews/3051831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
+          "time_info": "[22时19分 ~ 23时16分]"
         },
         {
           "title": "出口民调显示日本执政联盟将获得众议院过半议席。（新华社）",
@@ -821,16 +896,16 @@
           "time_info": "[19时15分 ~ 21时38分]"
         },
         {
-          "title": "日本首相高市早苗：日元疲软有利有弊。将继续奉行负责任、积极的财政政策。目标是建立一个能够抵御外汇波动的韧性国家。",
-          "url": "https://flash.jin10.com/detail/20260208210418824800",
+          "title": "日本首相高市早苗：希望加快南鸟岛的稀土项目，并邀请美国参与。",
+          "url": "https://flash.jin10.com/detail/20260208215850739800",
           "source": "金十数据",
           "ranks": [
             3,
-            22
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
+          "time_info": "[22时19分 ~ 23时16分]"
         },
         {
           "title": "丹麦：与美国就格陵兰岛谈判未达预期",
@@ -846,18 +921,6 @@
           "time_info": "[12时25分 ~ 15时32分]"
         },
         {
-          "title": "日本国会众议院选举投票结束",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9B%BD%E4%BC%9A%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9D%9F",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 22时19分]"
-        },
-        {
           "title": "日本首相高市早苗：将加快考虑降低消费税。",
           "url": "https://flash.jin10.com/detail/20260208210342228800",
           "source": "金十数据",
@@ -870,17 +933,16 @@
           "time_info": "[21时38分 ~ 22时19分]"
         },
         {
-          "title": "日本军国主义渗透文体领域",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E6%B8%97%E9%80%8F%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
+          "url": "https://flash.jin10.com/detail/20260208215651951800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            25,
-            19
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 22时19分]"
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
         },
         {
           "title": "日本执政联盟将获众议院过半议席",
@@ -896,6 +958,18 @@
           "time_info": "[20时24分 ~ 22时19分]"
         },
         {
+          "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
+          "url": "https://flash.jin10.com/detail/20260208215521051800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
           "title": "美国将向联合国支付部分拖欠会费",
           "url": "https://www.toutiao.com/trending/7603301984086704169/",
           "source": "今日头条",
@@ -906,29 +980,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "冬奥会裁判是怎么选的，为什么日本选手参加男子大跳台决赛，打分的还能有日本裁判，这不会不公平吗？",
-          "url": "https://www.zhihu.com/question/2003667498357248199",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时19分]"
-        },
-        {
-          "title": "手眼通天！爱泼斯坦曾帮罗斯柴尔德家族“搞定”美国司法部交易，获利2500万美元",
-          "url": "https://wallstreetcn.com/articles/3765249",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时19分]"
         },
         {
           "title": "伊朗总统：与美国会谈是向前迈出的一步",
@@ -968,6 +1019,17 @@
           "time_info": "[19时15分 ~ 21时37分]"
         },
         {
+          "title": "日本执政联盟已获众议院过半议席",
+          "url": "https://www.douyin.com/hot/2394137",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时16分]"
+        },
+        {
           "title": "美国拟举行“和平委员会”首次领导人会议",
           "url": "https://news.ifeng.com/c/8qZ79a5CZCe",
           "source": "凤凰网",
@@ -1003,6 +1065,18 @@
           "time_info": "[21时38分 ~ 22时19分]"
         },
         {
+          "title": "日本首相高市早苗：将放宽致命武器出口限制。",
+          "url": "https://flash.jin10.com/detail/20260208215253051800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
           "title": "日本放送协会出口民调显示，自民党预计将在总共465个众议院席位中赢得274至328席。",
           "url": "https://flash.jin10.com/detail/20260208190836173800",
           "source": "金十数据",
@@ -1015,6 +1089,42 @@
           "time_info": "[20时24分 ~ 21时38分]"
         },
         {
+          "title": "日本自民党势将在众议院赢得单独多数席位。",
+          "url": "https://flash.jin10.com/detail/20260208214923675800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本首相呼吁日本国会就修改宪法进行辩论。",
+          "url": "https://flash.jin10.com/detail/20260208214300377800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本首相高市早苗：目前不考虑对现任内阁阵容进行重大调整。",
+          "url": "https://flash.jin10.com/detail/20260208214128447800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
           "title": "日本众议院选举投票开始",
           "url": "https://www.douyin.com/hot/2393372",
           "source": "抖音",
@@ -1024,17 +1134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时24分]"
-        },
-        {
-          "title": "日本执政联盟已获众议院过半议席",
-          "url": "https://www.douyin.com/hot/2394137",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时19分]"
         },
         {
           "title": "是不是美国的内河航运没发展起来？为什么？",
@@ -1049,37 +1148,111 @@
           "time_info": "[17时21分 ~ 18时15分]"
         },
         {
-          "title": "日本首相高市早苗：将放宽致命武器出口限制。",
-          "url": "https://flash.jin10.com/detail/20260208215253051800",
+          "title": "日本放送协会NHK：日本首相高市早苗领导的执政联盟势将赢得众议院至少三分之二的席位。",
+          "url": "https://flash.jin10.com/detail/20260208213235152800",
           "source": "金十数据",
           "ranks": [
-            6
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
         },
         {
-          "title": "日本自民党势将在众议院赢得单独多数席位。",
-          "url": "https://flash.jin10.com/detail/20260208214923675800",
+          "title": "日本首相高市早苗：将努力落实减税承诺，因为我们已经做出了承诺。",
+          "url": "https://flash.jin10.com/detail/20260208212512789800",
           "source": "金十数据",
           "ranks": [
-            7
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
         },
         {
-          "title": "日本首相呼吁日本国会就修改宪法进行辩论。",
-          "url": "https://flash.jin10.com/detail/20260208214300377800",
+          "title": "市场消息：日本首相高市早苗表示愿意听取反对派的合理建议。",
+          "url": "https://flash.jin10.com/detail/20260208212320333800",
           "source": "金十数据",
           "ranks": [
-            8
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：政府与日本央行保持良好对话，我在与贝莱德和国际货币基金组织高管的会晤中也解释了这一点，他们理解我们的立场。",
+          "url": "https://flash.jin10.com/detail/20260208211535079800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本首相高市早苗：与维新会的联盟将继续。",
+          "url": "https://flash.jin10.com/detail/20260208211507094800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：将于周一视需要与市场展开对话。",
+          "url": "https://flash.jin10.com/detail/20260208211345390800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：动用外汇储备为国家支出提供资金或许可行，但考虑到外汇储备常用于进行外汇干预，这样做可能会存在问题。",
+          "url": "https://flash.jin10.com/detail/20260208211338341800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "日本财务大臣片山皋月：（在被问及日本是否可以动用外汇储备来为减税和支出提供资金时）这并不容易，需要采取专业的方法。",
+          "url": "https://flash.jin10.com/detail/20260208211210683800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
+          "title": "任天堂首次承认 Switch2 日本以外销量不及预期，可能的原因有哪些？",
+          "url": "https://www.zhihu.com/question/2002526333016773459",
+          "source": "知乎",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "23时16分"
         },
         {
           "title": "伊朗有能力打美国航母吗",
@@ -1091,105 +1264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
-        },
-        {
-          "title": "日本首相高市早苗：目前不考虑对现任内阁阵容进行重大调整。",
-          "url": "https://flash.jin10.com/detail/20260208214128447800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本放送协会NHK：日本首相高市早苗领导的执政联盟势将赢得众议院至少三分之二的席位。",
-          "url": "https://flash.jin10.com/detail/20260208213235152800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本首相高市早苗：将努力落实减税承诺，因为我们已经做出了承诺。",
-          "url": "https://flash.jin10.com/detail/20260208212512789800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "市场消息：日本首相高市早苗表示愿意听取反对派的合理建议。",
-          "url": "https://flash.jin10.com/detail/20260208212320333800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：政府与日本央行保持良好对话，我在与贝莱德和国际货币基金组织高管的会晤中也解释了这一点，他们理解我们的立场。",
-          "url": "https://flash.jin10.com/detail/20260208211535079800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本首相高市早苗：与维新会的联盟将继续。",
-          "url": "https://flash.jin10.com/detail/20260208211507094800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：将于周一视需要与市场展开对话。",
-          "url": "https://flash.jin10.com/detail/20260208211345390800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：动用外汇储备为国家支出提供资金或许可行，但考虑到外汇储备常用于进行外汇干预，这样做可能会存在问题。",
-          "url": "https://flash.jin10.com/detail/20260208211338341800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：（在被问及日本是否可以动用外汇储备来为减税和支出提供资金时）这并不容易，需要采取专业的方法。",
-          "url": "https://flash.jin10.com/detail/20260208211210683800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "伊朗想击沉美国航母 首要问题是什么",
@@ -1232,8 +1306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时25分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[12时25分 ~ 23时16分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -1245,23 +1319,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 22时19分]"
+          "appearance_count": 26,
+          "time_info": "[00时17分 ~ 23时16分]"
         },
         {
-          "title": "UP主用AI做影游融合沉浸式科普",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
-          "source": "bilibili 热搜",
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
+            9,
             6,
             5,
-            17,
-            23
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时56分 ~ 22时19分]"
+          "appearance_count": 10,
+          "time_info": "[15时32分 ~ 23时16分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -1294,22 +1367,39 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 22时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 23时16分]"
         },
         {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
+            4,
             6,
             5,
-            4
+            17,
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时32分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[13时56分 ~ 23时16分]"
+        },
+        {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时37分 ~ 23时16分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -1326,20 +1416,6 @@
           "time_info": "[07时19分 ~ 16时20分]"
         },
         {
-          "title": "人民日报：孩子用AI写作业，你怎么看？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 22时19分]"
-        },
-        {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
@@ -1350,8 +1426,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 23时16分]"
+        },
+        {
+          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时24分 ~ 23时16分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -1379,18 +1468,6 @@
           "time_info": "[00时17分 ~ 07时19分]"
         },
         {
-          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 22时19分]"
-        },
-        {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
           "url": "https://www.zhihu.com/question/2003429600861110745",
           "source": "知乎",
@@ -1398,11 +1475,12 @@
             14,
             6,
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时19分]"
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 23时16分]"
         },
         {
           "title": "OpenAI第一款硬件要来了，但可能“没那么AI”?",
@@ -1415,6 +1493,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时15分 ~ 22时19分]"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 23时16分]"
+        },
+        {
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 23时16分]"
         },
         {
           "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
@@ -1442,31 +1547,6 @@
           "time_info": "[05时16分 ~ 07时19分]"
         },
         {
-          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
-          "url": "https://www.cls.cn/detail/2283869",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时19分]"
-        },
-        {
-          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
-          "url": "https://www.cls.cn/detail/2283872",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时19分]"
-        },
-        {
           "title": "“AI.com”域名卖出7000万美元",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -1491,6 +1571,18 @@
           "time_info": "[14时37分 ~ 14时38分]"
         },
         {
+          "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
+          "url": "https://flash.jin10.com/detail/20260208214233701800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时16分]"
+        },
+        {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
           "url": "https://www.cls.cn/detail/2283686",
           "source": "财联社热门",
@@ -1511,17 +1603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
-        },
-        {
-          "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
-          "url": "https://flash.jin10.com/detail/20260208214233701800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "沈月说身边人都在用千问AI点奶茶",
