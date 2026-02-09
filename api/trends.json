@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T02:43:00.991159+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2026-02-10T03:57:31.093284+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
+        },
+        {
+          "title": "美国众议院民主党成员们可能会在周三强行表决撤销加拿大关税。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3052491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
@@ -47,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
         },
@@ -58,9 +69,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
+          "url": "https://wallstreetcn.com/articles/3765263",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "孟加拉国首席顾问：美国承诺建立机制，使来自孟加拉国的特定纺织品和服装在美国享受零关税。",
@@ -75,29 +97,6 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
-          "url": "https://wallstreetcn.com/articles/3765263",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
-        },
-        {
-          "title": "日本众议院选举结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
-        },
-        {
           "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
           "url": "https://wallstreetcn.com/articles/3765261",
           "source": "华尔街见闻",
@@ -105,8 +104,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
+        },
+        {
+          "title": "日本众议院选举结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "评论员：日本对外国人不再友好",
@@ -114,11 +126,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
@@ -128,8 +141,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
@@ -139,8 +152,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
@@ -151,8 +164,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "日本执政联盟将获众议院过半议席",
@@ -160,11 +173,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "“美国春晚”超级碗中场秀上演",
@@ -172,11 +186,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "孟加拉国首席顾问：美国将进一步把对等关税降至19%。",
@@ -227,6 +242,72 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "据IMM：美国电网运营商PJM的1月输电成本达到150亿美元，较一年之前超过翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3052485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "据Punchbowl：美国民主党人可能在周三就加拿大关税问题进行投票。",
+          "url": "https://flash.jin10.com/detail/20260210034137129800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
+          "url": "https://wallstreetcn.com/livenews/3052476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "标普500指数涨0.5%，道指持平，纳指涨约1%。 美国将针对孟加拉的“对等”关税税率下调至19%。",
+          "url": "https://wallstreetcn.com/livenews/3052475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "美国下调对孟加拉国关税 全额豁免部分纺织品关税",
+          "url": "https://flash.jin10.com/detail/20260210031857743800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "美国铜库存创数十年新高 机构估计总储备达100万吨",
+          "url": "https://flash.jin10.com/detail/20260210031327919800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
           "title": "在美方建议悬挂美国国旗的船只尽可能远离伊朗后，布伦特原油期货上涨逾1美元/桶。",
           "url": "https://flash.jin10.com/detail/20260210003843105800",
           "source": "金十数据",
@@ -238,6 +319,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "美国防部称在印度洋拦截一艘油轮",
+          "url": "https://www.toutiao.com/trending/7604007258645512230/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
           "title": "美国至2月9日3个月国债竞拍-投标倍数 2.76，前值2.81。",
           "url": "https://flash.jin10.com/detail/20260210003206839800",
           "source": "金十数据",
@@ -247,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "惠誉评级：自动驾驶汽车为美国非寿险公司带来长期挑战与机遇。",
+          "url": "https://flash.jin10.com/detail/20260210025831224800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "美国至2月9日3个月国债竞拍-得标利率配置百分比 36.6%，前值96.06%。",
@@ -340,7 +443,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "不要对AI说谢谢",
@@ -350,19 +453,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
           "url": "https://www.cls.cn/detail/2284846",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -372,19 +476,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
-        },
-        {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -394,8 +487,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -405,8 +498,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
+        },
+        {
+          "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
+          "url": "https://wallstreetcn.com/livenews/3052487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -416,8 +532,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -425,11 +541,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -439,8 +556,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时57分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -464,6 +581,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
+          "url": "https://wallstreetcn.com/livenews/3052484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "据Business Insider：Instagram正在内部测试一款新的应用，意在与Snapchat展开竞争。",
+          "url": "https://flash.jin10.com/detail/20260210033525742800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：GPT-5.3-Codex今天在Cursor、Github和VS Code中推出。我们希望尽快向所有API客户推出这一模型。这是我们首个在网络安全方面设定为高等级的模型，相关的额外工作使上线进度略有延迟。",
+          "url": "https://flash.jin10.com/detail/20260210032212804800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
+          "url": "https://flash.jin10.com/detail/20260210030701967800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "标普：下调Raizen七档，至垃圾级。",
