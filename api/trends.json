@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T20:41:16.186345+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-02-09T22:08:06.965635+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 149,
+      "match_count": 158,
       "titles": [
         {
           "title": "创纪录暴雪下，日本将往哪里去？",
@@ -44,6 +44,32 @@
           "time_info": "[00时17分 ~ 12时15分]"
         },
         {
+          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 22时08分]"
+        },
+        {
+          "title": "中方对日强硬立场影响日本大选？外交部回应",
+          "url": "https://news.ifeng.com/c/8qbZw6QnGlM",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时38分 ~ 22时08分]"
+        },
+        {
           "title": "手眼通天！爱泼斯坦曾帮罗斯柴尔德家族“搞定”美国司法部交易，获利2500万美元",
           "url": "https://wallstreetcn.com/articles/3765249",
           "source": "华尔街见闻",
@@ -58,30 +84,31 @@
           "time_info": "[00时17分 ~ 18时46分]"
         },
         {
-          "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
+          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
           "source": "澎湃新闻",
           "ranks": [
             14,
+            9,
+            8,
             6,
-            4,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[14时01分 ~ 22时08分]"
         },
         {
-          "title": "日本众议院选举结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
+          "title": "胡锡进：这次选举是高市个人忽悠术的胜利，而决非日本的胜利",
+          "url": "https://news.ifeng.com/c/8qbgybCJ8kB",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时46分 ~ 22时08分]"
         },
         {
           "title": "欧盟各国如何应对美国威胁",
@@ -106,6 +133,20 @@
           "time_info": "[00时17分 ~ 20时41分]"
         },
         {
+          "title": "日本众议院选举结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            8,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时15分 ~ 22时08分]"
+        },
+        {
           "title": "日本执政联盟将获众议院过半议席",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E5%B0%86%E8%8E%B7%E4%BC%97%E8%AE%AE%E9%99%A2%E8%BF%87%E5%8D%8A%E8%AE%AE%E5%B8%AD",
           "source": "bilibili 热搜",
@@ -117,37 +158,12 @@
             29,
             28,
             13,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 20时41分]"
-        },
-        {
-          "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 20时41分]"
-        },
-        {
-          "title": "中方对日强硬立场影响日本大选？外交部回应",
-          "url": "https://news.ifeng.com/c/8qbZw6QnGlM",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 20时41分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 22时08分]"
         },
         {
           "title": "王楚钦暴打张本,击溃日本夺冠",
@@ -160,11 +176,12 @@
             14,
             18,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 20时41分]"
+          "appearance_count": 24,
+          "time_info": "[00时17分 ~ 22时08分]"
         },
         {
           "title": "日本众议院选举结果公布：执政联盟获得过半数议席",
@@ -195,6 +212,17 @@
           "time_info": "[00时18分 ~ 07时20分]"
         },
         {
+          "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
+          "url": "https://news.ifeng.com/c/8qblkorBAnB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 22时08分]"
+        },
+        {
           "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
           "url": "https://www.zhihu.com/question/2003926420188000507",
           "source": "知乎",
@@ -205,8 +233,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 22时08分]"
         },
         {
           "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
@@ -217,8 +245,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[14时01分 ~ 22时08分]"
         },
         {
           "title": "任天堂首次承认 Switch2 日本以外销量不及预期，可能的原因有哪些？",
@@ -235,17 +263,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 09时09分]"
-        },
-        {
-          "title": "中国头号流失国宝 竟成日本国有财产",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%B4%E5%8F%B7%E6%B5%81%E5%A4%B1%E5%9B%BD%E5%AE%9D+%E7%AB%9F%E6%88%90%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%9C%89%E8%B4%A2%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 20时41分]"
         },
         {
           "title": "日本执政联盟获得过半数议席",
@@ -315,15 +332,16 @@
           "time_info": "[00时17分 ~ 07时20分]"
         },
         {
-          "title": "胡锡进：这次选举是高市个人忽悠术的胜利，而决非日本的胜利",
-          "url": "https://news.ifeng.com/c/8qbgybCJ8kB",
-          "source": "凤凰网",
+          "title": "中国头号流失国宝 竟成日本国有财产",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%B4%E5%8F%B7%E6%B5%81%E5%A4%B1%E5%9B%BD%E5%AE%9D+%E7%AB%9F%E6%88%90%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%9C%89%E8%B4%A2%E4%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            4
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时46分 ~ 22时08分]"
         },
         {
           "title": "警惕日本军国主义在文体领域渗透",
@@ -377,17 +395,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时17分]"
-        },
-        {
-          "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
-          "url": "https://news.ifeng.com/c/8qblkorBAnB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 20时41分]"
         },
         {
           "title": "日本国会众议院选举投票结束",
@@ -534,6 +541,19 @@
           "time_info": "[07时20分 ~ 14时02分]"
         },
         {
+          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
+          "url": "https://wallstreetcn.com/articles/3765263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 22时08分]"
+        },
+        {
           "title": "日本首相高市早苗：希望做好危机管理投资和增长投资。",
           "url": "https://wallstreetcn.com/livenews/3051833",
           "source": "华尔街见闻-快讯",
@@ -591,6 +611,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时17分]"
+        },
+        {
+          "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566163",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 22时08分]"
         },
         {
           "title": "日本国会众议院选举投票结束",
@@ -670,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "美国政府声明显示，特朗普寻求缩小被解雇联邦雇员复职的法律途径。",
+          "url": "https://flash.jin10.com/detail/20260209220003353800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "日经225指数CME期货走高，现涨2.2%。在8日举行的日本众议院选举中，由自民党和日本维新会组成的执政联盟获得过半数议席。",
@@ -948,18 +992,6 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
-          "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
-          "url": "https://wallstreetcn.com/articles/3765263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 20时41分]"
-        },
-        {
           "title": "中国特警vs美国特警",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%AD%A6vs%E7%BE%8E%E5%9B%BD%E7%89%B9%E8%AD%A6&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -970,18 +1002,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时01分 ~ 15时48分]"
-        },
-        {
-          "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566163",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 20时41分]"
         },
         {
           "title": "出口民调：日本执政联盟将获得众议院过半数议席",
@@ -1251,6 +1271,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "美国国债收益率短线走低，2年期国债收益率下行超2bp，现报3.481%。",
+          "url": "https://wallstreetcn.com/livenews/3052370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "日本1月经济观察家现况指数 47.6，前值48.6。",
           "url": "https://flash.jin10.com/detail/20260209130014439800",
           "source": "金十数据",
@@ -1273,6 +1304,17 @@
           "time_info": "15时48分"
         },
         {
+          "title": "Hims & Hers(HIMS.N)：诺和诺德的诉讼是对数百万依赖复方药物获取个性化医疗服务的美国民众的公然打击。将继续为提供选择、可及性与可负担性而奋斗。",
+          "url": "https://flash.jin10.com/detail/20260209214123789800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "美国企业对特定汽车零部件、组件及下游车辆提起337调查申请",
           "url": "https://wallstreetcn.com/livenews/3052045",
           "source": "华尔街见闻-快讯",
@@ -1282,6 +1324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：应预计就业人数会略有下降。 就业数据下降不应引发恐慌。",
+          "url": "https://wallstreetcn.com/livenews/3052368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "中国台湾证交所股价指数收高2%，报32404.62点，半导体板块领涨。",
@@ -1301,7 +1354,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1356,7 +1409,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1394,6 +1447,17 @@
           "time_info": "15时48分"
         },
         {
+          "title": "美国防部称在印度洋拦截一艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3052362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "日本10年期国债收益率上涨4.5个基点，至2.275%。",
           "url": "https://flash.jin10.com/detail/20260209082250975800",
           "source": "金十数据",
@@ -1411,7 +1475,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1438,6 +1502,17 @@
           "time_info": "18时46分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：较低的就业数据不应引发恐慌。",
+          "url": "https://flash.jin10.com/detail/20260209212529369800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "日本东证指数涨幅扩大至3%。",
           "url": "https://wallstreetcn.com/livenews/3051935",
           "source": "华尔街见闻-快讯",
@@ -1455,7 +1530,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -1469,6 +1544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：应预计就业数据将略有下降。",
+          "url": "https://flash.jin10.com/detail/20260209212339834800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "新西兰银行：日本众议院选举结果巩固了日元走软的前景",
@@ -1680,6 +1766,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "前美联储副主席Clarida：沃什是一位成就卓著、受人尊敬的人。 在没有前瞻指引的情况下实行货币政策是有可能的。 美联储主席几乎总能如愿。 沃什必须与美联储委员会合作，才能推动改变。 美联储和财政部就平衡目标进行沟通是合适的。 沃什认为美国经济状况与美联储去年12月的看法一致。 我认为今年美国经济存在上行可能。",
+          "url": "https://wallstreetcn.com/livenews/3052342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "日本首相高市早苗：目前不考虑对现任内阁阵容进行重大调整。",
           "url": "https://flash.jin10.com/detail/20260208214128447800",
           "source": "金十数据",
@@ -1711,6 +1808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "波音(BA.N)宣布获得美国空军合同，该合同将确保C‑17A全球霸王III运输机在未来数十年内保持飞行与任务状态。",
+          "url": "https://flash.jin10.com/detail/20260209210215796800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "日本首相高市早苗：一直密切关注包括外汇在内的市场动态。 希望打造一个能够抵御汇率波动的经济。 寻求降低债务占GDP比率来赢得市场信任。",
@@ -1793,7 +1901,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -1813,11 +1921,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 20时41分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 22时08分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -1853,8 +1962,22 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时01分 ~ 22时08分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[14时01分 ~ 20时41分]"
+          "time_info": "[15时47分 ~ 22时08分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -1868,8 +1991,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 20时41分]"
+          "appearance_count": 13,
+          "time_info": "[12时15分 ~ 22时08分]"
         },
         {
           "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
@@ -1910,19 +2033,6 @@
           "time_info": "[00时17分 ~ 07时20分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 20时41分]"
-        },
-        {
           "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
@@ -1961,18 +2071,6 @@
           "time_info": "[00时17分 ~ 09时09分]"
         },
         {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 20时41分]"
-        },
-        {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
           "url": "https://www.cls.cn/detail/2283872",
           "source": "财联社热门",
@@ -1983,6 +2081,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 09时09分]"
+        },
+        {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时46分 ~ 22时08分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -2038,8 +2150,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时38分 ~ 20时41分]"
+          "appearance_count": 6,
+          "time_info": "[19时38分 ~ 22时08分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时46分 ~ 22时08分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时46分 ~ 22时08分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -2053,6 +2190,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "据The Information：阿波罗全球管理公司接近达成一笔与xAI相关的30亿美元芯片融资协议。",
+          "url": "https://flash.jin10.com/detail/20260209220212097800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
           "url": "https://flash.jin10.com/detail/20260209131648292800",
           "source": "金十数据",
@@ -2062,19 +2210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 20时41分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -2090,16 +2225,15 @@
           "time_info": "[18时46分 ~ 20时41分]"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
           "ranks": [
-            10,
-            13
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时46分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时08分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -2136,6 +2270,17 @@
           "time_info": "[09时08分 ~ 09时09分]"
         },
         {
+          "title": "伊朗媒体发AI视频模拟打击美军舰队",
+          "url": "https://news.ifeng.com/c/8qbpfPUqh16",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
+        },
+        {
           "title": "吉利AI团队3篇论文入选ICLR 2026",
           "url": "https://wallstreetcn.com/livenews/3052288",
           "source": "华尔街见闻-快讯",
@@ -2164,17 +2309,6 @@
           "source": "微博",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
-        },
-        {
-          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
-          "url": "https://www.zhihu.com/question/2004143319609993151",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -2225,6 +2359,17 @@
           "time_info": "19时39分"
         },
         {
+          "title": "OpenAI准备在本周推出更新版聊天模型",
+          "url": "https://wallstreetcn.com/livenews/3052361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "AI应用概念股午后持续拉升，A股方面，东方国信直线涨停，荣信文化、中文在线此前封板，壹网壹创、万兴科技、安诺其跟涨；港股方面，智谱涨超26%，金山云涨超10%，MINIMAX-WP涨近10%。",
           "url": "https://wallstreetcn.com/livenews/3052078",
           "source": "华尔街见闻-快讯",
@@ -2236,6 +2381,28 @@
           "time_info": "14时02分"
         },
         {
+          "title": "伊朗媒体发AI视频模拟打击美军舰队",
+          "url": "https://wallstreetcn.com/livenews/3052357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "OpenAI创始人：ChatGPT月增长重超10% 本周将推新版聊天模型",
+          "url": "https://flash.jin10.com/detail/20260209211725388800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
           "url": "https://wallstreetcn.com/livenews/3052250",
           "source": "华尔街见闻-快讯",
@@ -2245,6 +2412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
+        },
+        {
+          "title": "据CNBC：OpenAI计划于本周发布一款升级版对话模型。",
+          "url": "https://flash.jin10.com/detail/20260209210728140800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "阅文CEO侯晓楠发内部信：“长青内容、IP+AI、全球化”是三大核心战略方向",
