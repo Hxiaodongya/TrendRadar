@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T06:29:54.508982+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-02-11T07:31:06.582015+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 109,
+      "match_count": 113,
       "titles": [
         {
           "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "胡锡进：我们需要对台湾进行前所未有的极限施压",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
@@ -72,19 +72,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
           "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "台湾桃园机场 10 分钟内 3 个航班发出「Mayday」求救信号，什么情况会发出该信号？发生了什么？",
@@ -99,19 +100,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
           "url": "https://m.thepaper.cn/newsDetail_forward_32572906",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "比亚迪起诉美国政府",
@@ -126,8 +128,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
+        },
+        {
+          "title": "美国软件股强劲反弹，此前“腰斩”的甲骨文大涨近10%，创9月以来最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3765347",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "日本众议院选举结果公布",
@@ -140,8 +153,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "日本彻底失控",
@@ -153,19 +166,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
-        },
-        {
-          "title": "美国软件股强劲反弹，此前“腰斩”的甲骨文大涨近10%，创9月以来最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3765347",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 04时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
@@ -212,6 +214,20 @@
           "time_info": "05时34分"
         },
         {
+          "title": "美国队铲倒韩国队 武大靖笑好大声",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%93%B2%E5%80%92%E9%9F%A9%E5%9B%BD%E9%98%9F+%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%AC%91%E5%A5%BD%E5%A4%A7%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 07时31分]"
+        },
+        {
           "title": "美国芝商所（CME）：计划于今年夏季开始推出个股期货。",
           "url": "https://wallstreetcn.com/livenews/3053190",
           "source": "华尔街见闻-快讯",
@@ -236,15 +252,15 @@
           "time_info": "[01时54分 ~ 04时35分]"
         },
         {
-          "title": "道明证券称外资对美债需求稳健，“抛售美国”更多是叙事而非现实",
-          "url": "https://wallstreetcn.com/livenews/3053271",
+          "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
+          "url": "https://wallstreetcn.com/livenews/3053282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时31分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -271,6 +287,19 @@
           "time_info": "[03时55分 ~ 05时34分]"
         },
         {
+          "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
+          "url": "https://flash.jin10.com/detail/20260211050732186800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时31分]"
+        },
+        {
           "title": "市场消息：美国家庭购物零售商QVC正在与债权人就可能申请破产进行磋商。QVC A类股票因市场波动暂停交易，暂停交易前下跌17.5%。",
           "url": "https://flash.jin10.com/detail/20260211032334962800",
           "source": "金十数据",
@@ -282,18 +311,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时55分 ~ 05时34分]"
-        },
-        {
-          "title": "美媒：美国考虑扣押伊朗油轮 忧虑报复及油价而按兵不动",
-          "url": "https://flash.jin10.com/detail/20260211050732186800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时29分]"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.96。",
@@ -344,6 +361,18 @@
           "time_info": "[04时35分 ~ 05时34分]"
         },
         {
+          "title": "道明证券称外资对美债需求稳健，“抛售美国”更多是叙事而非现实",
+          "url": "https://wallstreetcn.com/livenews/3053271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
           "url": "https://flash.jin10.com/detail/20260211023104811800",
           "source": "金十数据",
@@ -366,19 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "美国队铲倒韩国队 武大靖笑好大声",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%93%B2%E5%80%92%E9%9F%A9%E5%9B%BD%E9%98%9F+%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%AC%91%E5%A5%BD%E5%A4%A7%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "美国总统特朗普预计，下周将与伊朗举行第二轮会谈。（Axios）",
@@ -517,6 +533,18 @@
           "time_info": "[05时34分 ~ 06时29分]"
         },
         {
+          "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
+          "url": "https://flash.jin10.com/detail/20260211055436114800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
           "url": "https://wallstreetcn.com/livenews/3053241",
           "source": "华尔街见闻-快讯",
@@ -527,6 +555,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
+        },
+        {
+          "title": "美国至2月6日当周API汽油库存 330万桶，前值473.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260211054831943800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "高盛CEO称市场对软件股反应过头，今年美国经济料增长强劲",
@@ -541,6 +581,42 @@
           "time_info": "[01时54分 ~ 02时53分]"
         },
         {
+          "title": "美国总统特朗普：伊朗希望达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3053268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国至2月6日当周API精炼油库存 -200万桶，前值-481.1万桶。",
+          "url": "https://flash.jin10.com/detail/20260211054804363800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国至2月6日当周API库欣原油库存 140万桶，前值-139.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260211054735725800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3053182",
           "source": "华尔街见闻-快讯",
@@ -551,6 +627,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时53分]"
+        },
+        {
+          "title": "美国总统特朗普：政府裁员之后，就业数据依旧良好。",
+          "url": "https://wallstreetcn.com/livenews/3053265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国至2月6日当周API原油库存 1340万桶，前值-1107.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260211054725746800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
@@ -577,6 +677,30 @@
           "time_info": "[03时55分 ~ 04时35分]"
         },
         {
+          "title": "美国总统特朗普：我们的就业数据非常好。",
+          "url": "https://flash.jin10.com/detail/20260211054343619800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存暴增超1300万桶",
+          "url": "https://wallstreetcn.com/livenews/3053262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
           "url": "https://flash.jin10.com/detail/20260211030322937800",
           "source": "金十数据",
@@ -587,6 +711,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时35分]"
+        },
+        {
+          "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
+          "url": "https://flash.jin10.com/detail/20260211053946147800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美国农业部（USDA）：预计期末美国棉花库存440万捆，分析师预期421万捆，USDA之前预计420万捆。",
@@ -613,6 +749,18 @@
           "time_info": "[01时54分 ~ 02时53分]"
         },
         {
+          "title": "美国围绕委内瑞拉原产的石油发放与该国石油公司PDVSA活动相关的特定许可。",
+          "url": "https://wallstreetcn.com/livenews/3053260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国白宫：（就副总统万斯有关亚美尼亚的评论）政策未发生任何变化。",
           "url": "https://flash.jin10.com/detail/20260211030232290800",
           "source": "金十数据",
@@ -623,6 +771,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时35分]"
+        },
+        {
+          "title": "美国财政部授权委内瑞拉国家石油公司（PDVSA）在委内瑞拉开展某些活动。",
+          "url": "https://flash.jin10.com/detail/20260211053634190800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美国能源部：上调2026-27年油价预期",
@@ -637,6 +797,18 @@
           "time_info": "[01时54分 ~ 02时53分]"
         },
         {
+          "title": "美国财政部在其官方网站发布了一项与委内瑞拉相关的通用许可，授权开展港口和机场运营所必需的某些交易。",
+          "url": "https://flash.jin10.com/detail/20260211053603484800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国农业部（USDA）：预计期末美国玉米库存21.27亿蒲式耳，分析师预期22.1536亿蒲式耳，USDA之前预计22.27亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3053175",
           "source": "华尔街见闻-快讯",
@@ -649,6 +821,42 @@
           "time_info": "[01时54分 ~ 02时53分]"
         },
         {
+          "title": "美国总统特朗普：希望最高法院（在关税问题上）做出对国家有利的判决。",
+          "url": "https://wallstreetcn.com/livenews/3053258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。",
+          "url": "https://flash.jin10.com/detail/20260211052951060800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国锑业公司CEO：每磅20美元是适当的价格下限",
+          "url": "https://wallstreetcn.com/livenews/3053257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
           "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
           "url": "https://flash.jin10.com/detail/20260211025108837800",
           "source": "金十数据",
@@ -659,6 +867,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时35分]"
+        },
+        {
+          "title": "美国至2月6日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260211052000001800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
+          "url": "https://wallstreetcn.com/livenews/3053255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时31分]"
         },
         {
           "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
@@ -709,17 +941,6 @@
           "time_info": "[03时55分 ~ 04时35分]"
         },
         {
-          "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
-          "url": "https://flash.jin10.com/detail/20260211055436114800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "美国贷款违约率飙升至近十年来最高水平",
           "url": "https://flash.jin10.com/detail/20260211001959664800",
           "source": "金十数据",
@@ -729,28 +950,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "美国至2月6日当周API汽油库存 330万桶，前值473.6万桶。",
-          "url": "https://flash.jin10.com/detail/20260211054831943800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗希望达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3053268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "市场消息：美国国会议员们对国防部使用Grok提出质疑。",
@@ -764,26 +963,15 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美国至2月6日当周API精炼油库存 -200万桶，前值-481.1万桶。",
-          "url": "https://flash.jin10.com/detail/20260211054804363800",
-          "source": "金十数据",
+          "title": "美国不再支持IMF气候贷款",
+          "url": "https://wallstreetcn.com/livenews/3053278",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国至2月6日当周API库欣原油库存 140万桶，前值-139.4万桶。",
-          "url": "https://flash.jin10.com/detail/20260211054735725800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时31分"
         },
         {
           "title": "提醒：美国商务部长卢特尼克在参议院一个委员会的听证会结束。",
@@ -797,15 +985,15 @@
           "time_info": "00时53分"
         },
         {
-          "title": "美国总统特朗普：政府裁员之后，就业数据依旧良好。",
-          "url": "https://wallstreetcn.com/livenews/3053265",
+          "title": "美国联邦航空管理局（FAA）局长Bryan Bedford：与加拿大之间的问题已经得到解决。 预计加拿大本周将宣布针对湾流飞机的认证问题。",
+          "url": "https://wallstreetcn.com/livenews/3053277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时31分"
         },
         {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
@@ -819,15 +1007,15 @@
           "time_info": "02时53分"
         },
         {
-          "title": "美国至2月6日当周API原油库存 1340万桶，前值-1107.9万桶。",
-          "url": "https://flash.jin10.com/detail/20260211054725746800",
+          "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
+          "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "07时31分"
         },
         {
           "title": "美联储洛根：我已注意到美国国债现货-期货基差交易的增长。",
@@ -841,61 +1029,6 @@
           "time_info": "02时53分"
         },
         {
-          "title": "美国总统特朗普：我们的就业数据非常好。",
-          "url": "https://flash.jin10.com/detail/20260211054343619800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存暴增超1300万桶",
-          "url": "https://wallstreetcn.com/livenews/3053262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
-          "url": "https://flash.jin10.com/detail/20260211053946147800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国围绕委内瑞拉原产的石油发放与该国石油公司PDVSA活动相关的特定许可。",
-          "url": "https://wallstreetcn.com/livenews/3053260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国财政部授权委内瑞拉国家石油公司（PDVSA）在委内瑞拉开展某些活动。",
-          "url": "https://flash.jin10.com/detail/20260211053634190800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "据Punchbowl：美国财长贝森特推迟与共和党财政议员的会议。",
           "url": "https://flash.jin10.com/detail/20260211040344451800",
           "source": "金十数据",
@@ -905,17 +1038,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        },
-        {
-          "title": "美国财政部在其官方网站发布了一项与委内瑞拉相关的通用许可，授权开展港口和机场运营所必需的某些交易。",
-          "url": "https://flash.jin10.com/detail/20260211053603484800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "美国商务部长卢特尼克：预计四季度GDP增速将超过5%。 2026年制造业就业将出现“巨大”增长。 其他国家持有的美国资产比我们持有的其他国家资产多出26万亿美元。",
@@ -929,17 +1051,6 @@
           "time_info": "00时53分"
         },
         {
-          "title": "美国总统特朗普：希望最高法院（在关税问题上）做出对国家有利的判决。",
-          "url": "https://wallstreetcn.com/livenews/3053258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "美联储哈玛克：美国政府正走在不可持续的财政轨道上。",
           "url": "https://flash.jin10.com/detail/20260211012702886800",
           "source": "金十数据",
@@ -949,17 +1060,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。",
-          "url": "https://flash.jin10.com/detail/20260211052951060800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "美国商务部长卢特尼克：美元多年来被操纵走高。 外国人利用贸易顺差买我们的国家。",
@@ -984,17 +1084,6 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美国锑业公司CEO：每磅20美元是适当的价格下限",
-          "url": "https://wallstreetcn.com/livenews/3053257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
           "url": "https://wallstreetcn.com/livenews/3053143",
           "source": "华尔街见闻-快讯",
@@ -1015,28 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "美国至2月6日当周API原油库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260211052000001800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
-          "url": "https://wallstreetcn.com/livenews/3053255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
         },
         {
           "title": "纽约联储：自2019年底以来，美国家庭总债务在第四季度增加了4.6万亿美元。",
@@ -1067,7 +1134,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -1188,7 +1255,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -1280,11 +1347,28 @@
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            9,
+            7,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 07时31分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -1298,8 +1382,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1310,8 +1394,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -1324,21 +1408,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时53分 ~ 06时29分]"
-        },
-        {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            9,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时54分 ~ 06时29分]"
         },
         {
           "title": "AI制图骗局",
@@ -1380,6 +1449,19 @@
           "time_info": "[01时54分 ~ 04时35分]"
         },
         {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 07时31分]"
+        },
+        {
           "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
           "url": "https://flash.jin10.com/detail/20260211023723066800",
           "source": "金十数据",
@@ -1402,18 +1484,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时35分]"
-        },
-        {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 05时34分]"
         },
         {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
