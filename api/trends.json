@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T12:23:50.243188+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-02-10T14:05:57.287751+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 89,
+      "match_count": 100,
       "titles": [
         {
           "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
@@ -29,6 +29,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时42分 ~ 09时17分]"
+        },
+        {
+          "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32566607",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 14时05分]"
         },
         {
           "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
@@ -55,21 +71,6 @@
           "time_info": "[01时42分 ~ 05时31分]"
         },
         {
-          "title": "中道左派崩塌、自民党独大、股市狂飙，众议院选举重塑日本政经版图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32566607",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时23分]"
-        },
-        {
           "title": "日本众议院选举结果公布",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
           "source": "bilibili 热搜",
@@ -77,11 +78,12 @@
             12,
             8,
             13,
-            18
+            18,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 14时05分]"
         },
         {
           "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
@@ -107,8 +109,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时42分 ~ 09时17分]"
+          "appearance_count": 11,
+          "time_info": "[01时42分 ~ 14时05分]"
         },
         {
           "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
@@ -159,8 +161,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时05分]"
         },
         {
           "title": "慕尼黑安全报告对美国火力全开，美大使驳斥：绝不认同",
@@ -171,8 +173,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时05分]"
+        },
+        {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时23分]"
+          "time_info": "[12时23分 ~ 14时05分]"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：计划于2月11日至14日访问美国，商讨日本的投资计划。",
@@ -181,9 +195,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "20年期日本国债收益率下跌5.0个基点至3.115%。",
+          "url": "https://flash.jin10.com/detail/20260210140106716800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -192,7 +217,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -240,7 +265,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -256,15 +281,15 @@
           "time_info": "02时43分"
         },
         {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
+          "title": "40年期日本国债收益率下跌8.0个基点至3.735%。",
+          "url": "https://flash.jin10.com/detail/20260210135240844800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "14时05分"
         },
         {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
@@ -287,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "台湾桃园机场 10 分钟内 3 个航班发出「Mayday」求救信号，什么情况会发出该信号？发生了什么？",
+          "url": "https://www.zhihu.com/question/2004135673645462043",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "评论员：日本对外国人不再友好",
@@ -364,6 +400,43 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
+          "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
+          "url": "https://www.zhihu.com/question/2001734144858793345",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时05分]"
+        },
+        {
+          "title": "外交部回应日本自民党胜选",
+          "url": "https://www.douyin.com/hot/2394913",
+          "source": "抖音",
+          "ranks": [
+            15,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时05分]"
+        },
+        {
+          "title": "如何评价第 60 届超级碗中场秀表演？这届「美国春晚」哪个节目最令你印象深刻？",
+          "url": "https://www.zhihu.com/question/2004090100611511791",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时05分]"
+        },
+        {
           "title": "孟加拉国首席顾问：美国将进一步把对等关税降至19%。",
           "url": "https://flash.jin10.com/detail/20260210010639095800",
           "source": "金十数据",
@@ -400,18 +473,6 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
-          "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
-          "url": "https://www.zhihu.com/question/2001734144858793345",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时23分]"
-        },
-        {
           "title": "美联储理事米兰：央行独立性（将会）带来更好的政策。 FOMC货币政策应当与商业周期相适应。 关税收入将有助于解决财政问题。 美元需要出现大幅波动，才能影响到美国通胀。",
           "url": "https://wallstreetcn.com/livenews/3052492",
           "source": "华尔街见闻-快讯",
@@ -422,18 +483,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
-        },
-        {
-          "title": "外交部回应日本自民党胜选",
-          "url": "https://www.douyin.com/hot/2394913",
-          "source": "抖音",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时23分]"
         },
         {
           "title": "纽约期金升破5100美元 市场关注美国数据与降息线索",
@@ -597,7 +646,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -646,17 +695,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "如何评价第 60 届超级碗中场秀表演？这届「美国春晚」哪个节目最令你印象深刻？",
-          "url": "https://www.zhihu.com/question/2004090100611511791",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "美国总统特朗普：共和党应该在中期选举中“大获全胜”。 美国形势不错，将不得不在中期选举中“推销它”。",
           "url": "https://wallstreetcn.com/livenews/3052547",
           "source": "华尔街见闻-快讯",
@@ -677,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "日本2月18日举行首相指名选举",
+          "url": "https://flash.jin10.com/detail/20260210132825793800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "小米CEO雷军：目前暂时没有进入美国市场的计划。",
@@ -712,6 +761,28 @@
           "time_info": "07时28分"
         },
         {
+          "title": "中国台湾证交所股价指数收高2.1%，报33072.97点。",
+          "url": "https://wallstreetcn.com/livenews/3052744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "日本气象厅表示，夏季出现厄尔尼诺现象的概率为60%。",
+          "url": "https://flash.jin10.com/detail/20260210125658319800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "日本5年期国债收益率下行2.5个基点，至1.715%。",
           "url": "https://wallstreetcn.com/livenews/3052593",
           "source": "华尔街见闻-快讯",
@@ -721,6 +792,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "日本气象厅表示，春季出现正常天气状况的概率为50%，出现厄尔尼诺现象的概率也为50%。",
+          "url": "https://flash.jin10.com/detail/20260210125537655800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "美国能源部长拟访问委内瑞拉，称推翻马杜罗政权不是为了石油",
+          "url": "https://www.cls.cn/detail/2285127",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "美国总统特朗普：在获得“全额补偿”之前，将不允许安大略省与密歇根州之间的大桥通车。",
@@ -795,7 +888,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -828,9 +921,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "日本40年期国债收益率下行7.5个基点，至3.74%。",
+          "url": "https://wallstreetcn.com/livenews/3052729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "日本东证指数涨逾1%，至纪录高位。",
@@ -932,6 +1036,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "日本30年期国债收益率下行6个基点至3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3052719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "美国至2月9日3个月国债竞拍-得标利率 3.6%，前值3.60%。",
           "url": "https://flash.jin10.com/detail/20260210003206789800",
           "source": "金十数据",
@@ -949,7 +1064,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -971,7 +1086,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -998,6 +1113,17 @@
           "time_info": "01时42分"
         },
         {
+          "title": "日本经济产业大臣拟访问美国，与美商务部长卢特尼克讨论投资项目",
+          "url": "https://wallstreetcn.com/livenews/3052715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
           "title": "美国至2月9日6个月国债竞拍-得标利率 3.5%，前值3.53%。",
           "url": "https://flash.jin10.com/detail/20260210003203739800",
           "source": "金十数据",
@@ -1015,7 +1141,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -1037,7 +1163,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
@@ -1045,7 +1171,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -1119,8 +1245,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 14时05分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -1133,11 +1259,12 @@
             25,
             20,
             29,
-            21
+            21,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时42分 ~ 12时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时42分 ~ 14时05分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -1165,6 +1292,52 @@
           "time_info": "[01时42分 ~ 04时32分]"
         },
         {
+          "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
+          "url": "https://flash.jin10.com/detail/20260210135607903800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "阿里达摩院开源具身大脑基模RynnBrain 机器人首次拥有时空记忆",
+          "url": "https://wallstreetcn.com/livenews/3052752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
+        },
+        {
+          "title": "不要对AI说谢谢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            21,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时05分]"
+        },
+        {
           "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
           "url": "https://flash.jin10.com/detail/20260210060937090800",
           "source": "金十数据",
@@ -1177,16 +1350,16 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
-          "title": "不要对AI说谢谢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            21
+            11,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时23分]"
+          "time_info": "[12时23分 ~ 14时05分]"
         },
         {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
@@ -1201,6 +1374,30 @@
           "time_info": "[03时57分 ~ 04时32分]"
         },
         {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时05分]"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时05分]"
+        },
+        {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
           "url": "https://www.cls.cn/detail/2284501",
           "source": "财联社热门",
@@ -1212,16 +1409,15 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时23分]"
+          "time_info": "[12时23分 ~ 14时05分]"
         },
         {
           "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
@@ -1248,15 +1444,15 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
-          "source": "财联社热门",
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时23分]"
+          "time_info": "[12时23分 ~ 14时05分]"
         },
         {
           "title": "据Business Insider：Instagram正在内部测试一款新的应用，意在与Snapchat展开竞争。",
@@ -1295,37 +1491,15 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
+          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
+          "url": "https://www.cls.cn/detail/2285290",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "14时05分"
         },
         {
           "title": "AI 恐怖",
@@ -1337,6 +1511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "QuestMobile：AI红包效应带动用户量激增，千问春节活动首日DAU增长7.3倍",
+          "url": "https://wallstreetcn.com/livenews/3052738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
@@ -1359,6 +1544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "千问APP接入大麦 测试AI买电影票能力",
+          "url": "https://wallstreetcn.com/livenews/3052722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时05分"
         },
         {
           "title": "标普：下调Raizen七档，至垃圾级。",
