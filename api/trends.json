@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T22:16:44.299747+08:00",
-  "total_titles_processed": 1801,
+  "generated_at": "2026-02-10T23:56:42.215981+08:00",
+  "total_titles_processed": 1926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 177,
+      "match_count": 204,
       "titles": [
         {
           "title": "台湾桃园机场 10 分钟内 3 个航班发出「Mayday」求救信号，什么情况会发出该信号？发生了什么？",
@@ -15,11 +15,12 @@
             5,
             4,
             3,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时05分 ~ 22时16分]"
+          "appearance_count": 10,
+          "time_info": "[14时05分 ~ 23时56分]"
         },
         {
           "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
@@ -44,6 +45,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时17分 ~ 18时44分]"
+        },
+        {
+          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
+          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时38分 ~ 23时56分]"
         },
         {
           "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
@@ -110,16 +123,16 @@
           "time_info": "[01时42分 ~ 05时31分]"
         },
         {
-          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
-          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
+          "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
+          "url": "https://news.ifeng.com/c/8qdMsKDThwR",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 23时56分]"
         },
         {
           "title": "日本众议院选举结果公布",
@@ -134,11 +147,12 @@
             16,
             14,
             24,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时42分 ~ 20时45分]"
+          "appearance_count": 20,
+          "time_info": "[01时42分 ~ 23时56分]"
         },
         {
           "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
@@ -169,18 +183,6 @@
           "time_info": "[01时42分 ~ 15时52分]"
         },
         {
-          "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
-          "url": "https://news.ifeng.com/c/8qdMsKDThwR",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时43分 ~ 22时16分]"
-        },
-        {
           "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
           "url": "https://wallstreetcn.com/articles/3765261",
           "source": "华尔街见闻",
@@ -202,6 +204,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时42分 ~ 07时28分]"
+        },
+        {
+          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
+          "url": "https://www.zhihu.com/question/2004190292983703175",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时52分 ~ 23时56分]"
         },
         {
           "title": "“美国春晚”超级碗中场秀上演",
@@ -234,16 +248,19 @@
           "time_info": "[12时23分 ~ 16时38分]"
         },
         {
-          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
-          "url": "https://www.zhihu.com/question/2004190292983703175",
-          "source": "知乎",
+          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
+          "source": "澎湃新闻",
           "ranks": [
-            16,
-            20
+            10,
+            8,
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 23时56分]"
         },
         {
           "title": "如何评价第 60 届超级碗中场秀表演？这届「美国春晚」哪个节目最令你印象深刻？",
@@ -281,6 +298,17 @@
           "time_info": "[15时52分 ~ 18时44分]"
         },
         {
+          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
+          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时56分]"
+        },
+        {
           "title": "日本老头要开战:送孩子下地狱",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350525&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%80%81%E5%A4%B4%E8%A6%81%E5%BC%80%E6%88%98%3A%E9%80%81%E5%AD%A9%E5%AD%90%E4%B8%8B%E5%9C%B0%E7%8B%B1",
           "source": "贴吧",
@@ -290,20 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时43分 ~ 18时44分]"
-        },
-        {
-          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时43分 ~ 22时16分]"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：计划于2月11日至14日访问美国，商讨日本的投资计划。",
@@ -326,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "美国参议院共和党领袖图恩：白宫可能很快就会提出一项关于国土安全部预算的反提案。",
+          "url": "https://flash.jin10.com/detail/20260210233545102800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -420,6 +445,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "美国众议院议长约翰逊：很快将会见参议院多数党领袖约翰·图恩（John Thune），讨论（与国土安全部/DHS有关的）政府拨款问题。",
+          "url": "https://wallstreetcn.com/livenews/3053140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
           "url": "https://flash.jin10.com/detail/20260210021529965800",
           "source": "金十数据",
@@ -431,15 +467,26 @@
           "time_info": "02时43分"
         },
         {
-          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
-          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
-          "source": "凤凰网",
+          "title": "美国商务部长卢特尼克否认与爱泼斯坦有关联",
+          "url": "https://flash.jin10.com/detail/20260210232925425800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "23时56分"
         },
         {
           "title": "40年期日本国债收益率下跌8.0个基点至3.735%。",
@@ -453,15 +500,37 @@
           "time_info": "14时05分"
         },
         {
+          "title": "美国参议院共和党领袖图恩：为避免政府停摆，很可能需要在国土安全部问题上采取过渡性措施。",
+          "url": "https://flash.jin10.com/detail/20260210232504386800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美国总统特朗普的贸易顾问纳瓦罗：我们需要调整对月度就业数字的预期。 并未预期就业数据疲软。 劳工遣返影响就业数据。",
           "url": "https://wallstreetcn.com/livenews/3053082",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：可能需要针对国土安全部（DHS）提供临时拨款，来避免政府关门。",
+          "url": "https://wallstreetcn.com/livenews/3053138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本老头闹开战:送孩子下地狱",
@@ -486,6 +555,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美国商务部长卢特尼克：在爱泼斯坦事件中，我绝对没有做错任何事。",
+          "url": "https://flash.jin10.com/detail/20260210232416500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
           "url": "https://wallstreetcn.com/livenews/3052529",
           "source": "华尔街见闻-快讯",
@@ -495,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
+          "url": "https://wallstreetcn.com/livenews/3053136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
@@ -610,6 +701,31 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
+          "title": "比亚迪起诉美国政府",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 23时56分]"
+        },
+        {
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时56分]"
+        },
+        {
           "title": "外交部回应日本自民党胜选",
           "url": "https://www.douyin.com/hot/2394913",
           "source": "抖音",
@@ -623,29 +739,15 @@
           "time_info": "[09时17分 ~ 14时05分]"
         },
         {
-          "title": "比亚迪起诉美国政府",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C",
-          "source": "百度热搜",
+          "title": "胡锡进：我们需要对台湾进行前所未有的极限施压",
+          "url": "https://news.ifeng.com/c/8qdcm2TUClw",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 22时16分]"
-        },
-        {
-          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
-          "url": "https://wallstreetcn.com/articles/3765365",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时16分]"
+          "time_info": "[22时16分 ~ 23时56分]"
         },
         {
           "title": "孟加拉国首席顾问：美国将进一步把对等关税降至19%。",
@@ -682,6 +784,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时32分]"
+        },
+        {
+          "title": "美国软件股强劲反弹，此前“腰斩”的甲骨文大涨近10%，创9月以来最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3765347",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时56分]"
         },
         {
           "title": "美联储理事米兰：美国正朝着更好的财政可持续性迈进，关税正在为此助力。",
@@ -827,6 +941,18 @@
           "time_info": "[15时52分 ~ 16时38分]"
         },
         {
+          "title": "美国队铲倒韩国队 武大靖笑好大声",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%93%B2%E5%80%92%E9%9F%A9%E5%9B%BD%E9%98%9F+%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%AC%91%E5%A5%BD%E5%A4%A7%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时56分]"
+        },
+        {
           "title": "美国下调对孟加拉国关税 全额豁免部分纺织品关税",
           "url": "https://flash.jin10.com/detail/20260210031857743800",
           "source": "金十数据",
@@ -875,6 +1001,17 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572906",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "爱泼斯坦前女友接受美国国会质询",
           "url": "https://news.ifeng.com/c/8qcdXdAWdxX",
           "source": "凤凰网",
@@ -884,17 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "胡锡进：我们需要对台湾进行前所未有的极限施压",
-          "url": "https://news.ifeng.com/c/8qdcm2TUClw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "10年期日本国债收益率下跌4.0个基点，至2.250%。",
@@ -947,7 +1073,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -991,9 +1117,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
+          "url": "https://flash.jin10.com/detail/20260210232108109800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "据美国CBO估算：美国1月预算赤字940亿美元。",
@@ -1013,18 +1150,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "美国软件股强劲反弹，此前“腰斩”的甲骨文大涨近10%，创9月以来最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3765347",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1068,7 +1194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1090,7 +1216,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1123,7 +1249,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1145,7 +1271,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1178,9 +1304,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "阿塞拜疆与美国签署战略伙伴关系宪章。",
+          "url": "https://flash.jin10.com/detail/20260210230930665800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
@@ -1211,7 +1348,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1266,9 +1403,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "消息人士：沙特和美国企业将合作开展叙利亚东北部能源项目",
+          "url": "https://flash.jin10.com/detail/20260210230911038800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本5年期国债收益率下行2.5个基点，至1.715%。",
@@ -1288,9 +1436,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国11月商业库存环比 0.1%，预期 0.2%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本气象厅表示，春季出现正常天气状况的概率为50%，出现厄尔尼诺现象的概率也为50%。",
@@ -1321,9 +1480,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国更新反恐制裁名单，将有关船舶和实体列入名单。",
+          "url": "https://flash.jin10.com/detail/20260210230801896800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本首相考虑保留所有内阁大臣。（日本共同社）",
@@ -1343,7 +1513,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1376,7 +1546,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1403,6 +1573,17 @@
           "time_info": "20时45分"
         },
         {
+          "title": "美国财长贝森特：将密切关注伊朗局势发展；对俄乌局势持乐观态度。",
+          "url": "https://flash.jin10.com/detail/20260210230204359800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美联储理事沃勒：加密货币法案的细节（出台）似乎被卡在了国会山。 随着特朗普第二次当选为美国总统而出现的加密货币（投资）热潮已经在一定程度上消退。 风险造成主流公司卖出比特币。",
           "url": "https://wallstreetcn.com/livenews/3052476",
           "source": "华尔街见闻-快讯",
@@ -1420,7 +1601,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1464,7 +1645,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1486,7 +1667,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1530,7 +1711,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1612,13 +1793,24 @@
           "time_info": "20时45分"
         },
         {
+          "title": "美国11月商业库存月率 0.1%，预期0.2%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260210230014171800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "ADP：截至1月24日的四周，美国私营部门就业人数平均每周增加6500人。",
           "url": "https://wallstreetcn.com/livenews/3053065",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1656,6 +1848,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "美国商务部长卢特尼克：对爱泼斯坦有意与我的保姆会面一事不知情。",
+          "url": "https://flash.jin10.com/detail/20260210225911278800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "日本40年期国债收益率下行7.5个基点，至3.74%。",
           "url": "https://wallstreetcn.com/livenews/3052729",
           "source": "华尔街见闻-快讯",
@@ -1673,7 +1876,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -1689,6 +1892,17 @@
           "time_info": "20时45分"
         },
         {
+          "title": "高盛CEO看好今年美国经济增长 但警告贸易与通胀风险犹存",
+          "url": "https://flash.jin10.com/detail/20260210225857327800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
           "url": "https://wallstreetcn.com/livenews/3052814",
           "source": "华尔街见闻-快讯",
@@ -1700,6 +1914,17 @@
           "time_info": "15时52分"
         },
         {
+          "title": "美国财长贝森特：在凯文·沃什领导下的美联储也将保持警惕，以确保政策时机不会出现错配。",
+          "url": "https://flash.jin10.com/detail/20260210225853802800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "日本东证指数涨逾1%，至纪录高位。",
           "url": "https://wallstreetcn.com/livenews/3052581",
           "source": "华尔街见闻-快讯",
@@ -1709,6 +1934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "日本彻底失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国劳工委员会放弃对SpaceX的长期诉讼",
@@ -1739,9 +1975,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "芬兰总统：美国或借慕尼黑安全会议寻求重启跨大西洋关系",
+          "url": "https://flash.jin10.com/detail/20260210225846660800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本东证指数上涨1%，续创历史新高。",
@@ -1772,9 +2019,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：2011年的时候未在爱泼斯坦公寓用餐。",
+          "url": "https://flash.jin10.com/detail/20260210225725125800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国至2月9日3个月国债竞拍-投标倍数 2.76，前值2.81。",
@@ -1805,9 +2063,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：与爱泼斯坦共进午餐毫无不妥之处，当时有家属在场。",
+          "url": "https://flash.jin10.com/detail/20260210225702876800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "特朗普：若沃什履职得当，美国经济可增长15%",
@@ -1830,6 +2099,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：不记得我们为何在2012年前往爱泼斯坦的小岛。",
+          "url": "https://flash.jin10.com/detail/20260210225647020800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美联储：美国消费者短期通胀预期下降，财务状况看法恶化",
@@ -1882,9 +2162,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：曾到访爱泼斯坦的小岛，并与他共进午餐。",
+          "url": "https://flash.jin10.com/detail/20260210225628540800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本财务大臣片山皋月：日本一直以来都在将外汇特别账户资金用于各项政策。 关于是否动用外汇特别账户资金进行减税，目前尚无立场。 高市早苗不会改变“在两年内结束减税”的观点。",
@@ -1920,17 +2211,6 @@
           "time_info": "12时23分"
         },
         {
-          "title": "美国队铲倒韩国队 武大靖笑好大声",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%93%B2%E5%80%92%E9%9F%A9%E5%9B%BD%E9%98%9F+%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%AC%91%E5%A5%BD%E5%A4%A7%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "欧盟各国如何应对美国威胁",
           "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%9B%9F%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -1959,9 +2239,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国商务部长卢特尼克在参议院拨款委员会听证会上表示，在14年间他与爱泼斯坦的邮件往来可能仅有约10封。",
+          "url": "https://flash.jin10.com/detail/20260210225439271800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "日本经济产业大臣拟访问美国，与美商务部长卢特尼克讨论投资项目",
@@ -1992,9 +2283,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "美国商务部长卢特尼克表示，他与爱泼斯坦没有关系。",
+          "url": "https://flash.jin10.com/detail/20260210225402829800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
@@ -2025,7 +2327,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -2044,7 +2346,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -2166,11 +2468,12 @@
             15,
             18,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时23分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 23时56分]"
         },
         {
           "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
@@ -2184,6 +2487,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时23分 ~ 18时44分]"
+        },
+        {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时38分 ~ 23时56分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -2211,19 +2529,18 @@
           "time_info": "[12时23分 ~ 19时42分]"
         },
         {
-          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
-          "url": "https://wallstreetcn.com/articles/3765363",
-          "source": "华尔街见闻",
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
           "ranks": [
-            10,
-            9,
+            5,
+            6,
             8,
-            7,
-            5
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时38分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 23时56分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -2237,19 +2554,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 04时32分]"
-        },
-        {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时43分 ~ 22时16分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -2440,15 +2744,83 @@
           "time_info": "[01时42分 ~ 02时43分]"
         },
         {
+          "title": "AI周星驰视频大量传播 经纪人质疑",
+          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时56分]"
+        },
+        {
+          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时56分]"
+        },
+        {
+          "title": "“AI新大陆”正在向平民招手",
+          "url": "https://www.toutiao.com/trending/7605168435990892082/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 23时56分]"
+        },
+        {
+          "title": "报道：Alphabet有望筹资320亿美元，AI军备竞赛进入白热化阶段",
+          "url": "https://wallstreetcn.com/livenews/3053132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "AI应用成为最强主线引爆传媒链",
+          "url": "https://www.toutiao.com/trending/7604674566330449983/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "沪指震荡收涨六连阳，AI应用大爆发，太空光伏集体调整，恒指上涨0.5%，智谱暴涨近15%",
           "url": "https://wallstreetcn.com/articles/3765360",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
+        },
+        {
+          "title": "AI视频初创公司Runway据悉以53亿美元估值完成新一轮融资",
+          "url": "https://flash.jin10.com/detail/20260210231620915800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "思科发布全新AI网络芯片，挑战博通和英伟达",
@@ -2490,29 +2862,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "AI周星驰视频大量传播 经纪人质疑",
-          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -2534,7 +2884,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
@@ -2603,17 +2953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "“AI新大陆”正在向平民招手",
-          "url": "https://www.toutiao.com/trending/7605168435990892082/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "洗衣机演奏I can't wait",
