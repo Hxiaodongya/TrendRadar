@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T15:52:53.247192+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-02-10T16:38:33.676068+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 106,
+      "match_count": 111,
       "titles": [
         {
           "title": "高市早苗大胜，日本民众：失望，年轻人的意见没被重视",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时42分 ~ 15时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时42分 ~ 16时38分]"
         },
         {
           "title": "沃什力挺，影响深远！时隔75年，美联储又要和美国财政部达成协议了？",
@@ -80,11 +80,12 @@
             13,
             18,
             11,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时42分 ~ 15时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时42分 ~ 16时38分]"
         },
         {
           "title": "高市早苗妄言为拜鬼营造环境：将寻求美国及邻国理解",
@@ -115,6 +116,31 @@
           "time_info": "[01时42分 ~ 15时52分]"
         },
         {
+          "title": "“这是中方给日本的预警”",
+          "url": "https://news.ifeng.com/c/8qckmxWq8Sf",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时38分]"
+        },
+        {
+          "title": "慕尼黑安全报告对美国火力全开，美大使驳斥：绝不认同",
+          "url": "https://news.ifeng.com/c/8qc7awIbvKX",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时38分]"
+        },
+        {
           "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
           "url": "https://wallstreetcn.com/articles/3765261",
           "source": "华尔街见闻",
@@ -125,18 +151,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时42分 ~ 07时28分]"
-        },
-        {
-          "title": "“这是中方给日本的预警”",
-          "url": "https://news.ifeng.com/c/8qckmxWq8Sf",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 15时52分]"
         },
         {
           "title": "日本众议院选举结果公布，执政联盟获得过半数议席，会带来哪些影响？",
@@ -167,28 +181,17 @@
           "time_info": "[01时42分 ~ 07时28分]"
         },
         {
-          "title": "慕尼黑安全报告对美国火力全开，美大使驳斥：绝不认同",
-          "url": "https://news.ifeng.com/c/8qc7awIbvKX",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 15时52分]"
-        },
-        {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
           "url": "https://www.cls.cn/detail/2285295",
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 16时38分]"
         },
         {
           "title": "台湾桃园机场 10 分钟内 3 个航班发出「Mayday」求救信号，什么情况会发出该信号？发生了什么？",
@@ -198,8 +201,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 16时38分]"
+        },
+        {
+          "title": "如果想知道法西斯当年怎么上台的，看看现在的日本",
+          "url": "https://news.ifeng.com/c/8qd9RCQ1QUU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时05分 ~ 15时52分]"
+          "time_info": "[15时52分 ~ 16时38分]"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：计划于2月11日至14日访问美国，商讨日本的投资计划。",
@@ -250,13 +264,24 @@
           "time_info": "[03时57分 ~ 07时28分]"
         },
         {
+          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
+          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "阿斯利康：美国药品价格将会下降，但欧洲药品价格必须上涨；我们不需要新的减肥产品交易。",
           "url": "https://flash.jin10.com/detail/20260210154008172800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -305,17 +330,6 @@
           "time_info": "02时43分"
         },
         {
-          "title": "如果想知道法西斯当年怎么上台的，看看现在的日本",
-          "url": "https://news.ifeng.com/c/8qd9RCQ1QUU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
           "title": "40年期日本国债收益率下跌8.0个基点至3.735%。",
           "url": "https://flash.jin10.com/detail/20260210135240844800",
           "source": "金十数据",
@@ -349,15 +363,19 @@
           "time_info": "06时28分"
         },
         {
-          "title": "洗地神论:美国缺电太招笑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350492&amp;topic_name=%E6%B4%97%E5%9C%B0%E7%A5%9E%E8%AE%BA%3A%E7%BE%8E%E5%9B%BD%E7%BC%BA%E7%94%B5%E5%A4%AA%E6%8B%9B%E7%AC%91",
-          "source": "贴吧",
+          "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
+          "url": "https://www.zhihu.com/question/2001734144858793345",
+          "source": "知乎",
           "ranks": [
-            5
+            14,
+            8,
+            6,
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时38分]"
         },
         {
           "title": "评论员：日本对外国人不再友好",
@@ -387,6 +405,29 @@
           "time_info": "[03时57分 ~ 05时31分]"
         },
         {
+          "title": "如何评价第 60 届超级碗中场秀表演？这届「美国春晚」哪个节目最令你印象深刻？",
+          "url": "https://www.zhihu.com/question/2004090100611511791",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 16时38分]"
+        },
+        {
+          "title": "洗地神论:美国缺电太招笑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350492&amp;topic_name=%E6%B4%97%E5%9C%B0%E7%A5%9E%E8%AE%BA%3A%E7%BE%8E%E5%9B%BD%E7%BC%BA%E7%94%B5%E5%A4%AA%E6%8B%9B%E7%AC%91",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时38分]"
+        },
+        {
           "title": "孟加拉国首席顾问：美国承诺建立机制，使来自孟加拉国的特定纺织品和服装在美国享受零关税。",
           "url": "https://flash.jin10.com/detail/20260210010816761800",
           "source": "金十数据",
@@ -397,20 +438,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
-        },
-        {
-          "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
-          "url": "https://www.zhihu.com/question/2001734144858793345",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 15时52分]"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
@@ -447,17 +474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
-        },
-        {
-          "title": "如何评价第 60 届超级碗中场秀表演？这届「美国春晚」哪个节目最令你印象深刻？",
-          "url": "https://www.zhihu.com/question/2004090100611511791",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 15时52分]"
         },
         {
           "title": "外交部回应日本自民党胜选",
@@ -617,6 +633,18 @@
           "time_info": "[05时31分 ~ 06时28分]"
         },
         {
+          "title": "时隔 75 年，沃什和贝森特共推美联储和美国财政部恢复一致性关系，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2004311700736861294",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时38分]"
+        },
+        {
           "title": "美国下调对孟加拉国关税 全额豁免部分纺织品关税",
           "url": "https://flash.jin10.com/detail/20260210031857743800",
           "source": "金十数据",
@@ -627,6 +655,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时32分]"
+        },
+        {
+          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
+          "url": "https://www.zhihu.com/question/2004190292983703175",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 16时38分]"
         },
         {
           "title": "美国铜库存创数十年新高 机构估计总储备达100万吨",
@@ -696,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "惠誉：高市早苗胜选预示日本财政政策转向宽松，信用风险或将上升",
+          "url": "https://wallstreetcn.com/livenews/3052885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美国防部宣布与哈佛断绝关系",
@@ -819,6 +869,17 @@
           "time_info": "14时05分"
         },
         {
+          "title": "巴克莱首席财务官表示，该行“拥有多项手段”来缓解美国信用卡利率可能被设定在10%上限的影响。",
+          "url": "https://flash.jin10.com/detail/20260210160553965800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "日本5年期国债收益率下行2.5个基点，至1.715%。",
           "url": "https://wallstreetcn.com/livenews/3052593",
           "source": "华尔街见闻-快讯",
@@ -885,6 +946,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "美国国会推进住房可负担性法案以应对房价压力",
+          "url": "https://flash.jin10.com/detail/20260210155642333800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "美联储理事米兰：美国通胀再度趋于稳定。",
           "url": "https://wallstreetcn.com/livenews/3052539",
           "source": "华尔街见闻-快讯",
@@ -896,6 +968,17 @@
           "time_info": "07时28分"
         },
         {
+          "title": "伊朗外交部：美国官员有责任不受以色列方面压力的影响，不能让他人代表美国做出外交政策方面的决策。",
+          "url": "https://flash.jin10.com/detail/20260210155550497800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "日本10年期国债收益率下行3.5个基点，至2.255%。",
           "url": "https://wallstreetcn.com/livenews/3052588",
           "source": "华尔街见闻-快讯",
@@ -905,28 +988,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
-          "url": "https://www.zhihu.com/question/2004190292983703175",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
-        },
-        {
-          "title": "时隔 75 年，沃什和贝森特共推美联储和美国财政部恢复一致性关系，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2004311700736861294",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时52分"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥将于2月13日前往德国，出席慕尼黑安全会议。2月15日至16日，鲁比奥将访问斯洛伐克和匈牙利，讨论包括能源和北约在内的双边议题。",
@@ -1001,7 +1062,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
@@ -1240,7 +1301,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -1334,8 +1395,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时42分 ~ 15时52分]"
+          "appearance_count": 14,
+          "time_info": "[01时42分 ~ 16时38分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -1361,6 +1422,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 04时32分]"
+        },
+        {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 16时38分]"
+        },
+        {
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 16时38分]"
         },
         {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
@@ -1396,18 +1483,6 @@
           "time_info": "14时05分"
         },
         {
-          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
-          "url": "https://www.cls.cn/detail/2285532",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 15时52分]"
-        },
-        {
           "title": "不要对AI说谢谢",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1433,17 +1508,16 @@
           "time_info": "[06时28分 ~ 07时28分]"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时17分 ~ 15时52分]"
+          "time_info": "[12时23分 ~ 16时38分]"
         },
         {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
@@ -1463,22 +1537,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 15时52分]"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 15时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 16时38分]"
         },
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -1491,6 +1555,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时17分 ~ 14时05分]"
+        },
+        {
+          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
+          "url": "https://www.cls.cn/detail/2285290",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时05分 ~ 16时38分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -1528,17 +1604,6 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
-          "title": "无惧抛售？大摩首席：AI将继续助涨科技股，关注应用端！",
-          "url": "https://www.cls.cn/detail/2285290",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时05分 ~ 15时52分]"
-        },
-        {
           "title": "据Business Insider：Instagram正在内部测试一款新的应用，意在与Snapchat展开竞争。",
           "url": "https://flash.jin10.com/detail/20260210033525742800",
           "source": "金十数据",
@@ -1573,6 +1638,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时43分]"
+        },
+        {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "AI 恐怖",
@@ -1625,7 +1701,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
         },
