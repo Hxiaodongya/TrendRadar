@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T03:49:45.195216+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-02-12T04:28:44.852448+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 83,
+      "match_count": 86,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "今夜，美国非农或现“百万级”下修",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
@@ -49,30 +49,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
-          "title": "美国财长贝森特：正在追踪伊朗领导层及其在全球转移的资金。",
-          "url": "https://flash.jin10.com/detail/20260212032434907800",
-          "source": "金十数据",
+          "title": "中国女子特警队实力碾压美国男队",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%89%B9%E8%AD%A6%E9%98%9F%E5%AE%9E%E5%8A%9B%E7%A2%BE%E5%8E%8B%E7%BE%8E%E5%9B%BD%E7%94%B7%E9%98%9F",
+          "source": "百度热搜",
           "ranks": [
-            1
+            20,
+            23,
+            18,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
-          "url": "https://wallstreetcn.com/livenews/3053939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "中国女特警实力碾压美国男队",
@@ -85,21 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
-        },
-        {
-          "title": "中国女子特警队实力碾压美国男队",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%89%B9%E8%AD%A6%E9%98%9F%E5%AE%9E%E5%8A%9B%E7%A2%BE%E5%8E%8B%E7%BE%8E%E5%9B%BD%E7%94%B7%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
@@ -109,30 +88,32 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
-          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
-          "url": "https://flash.jin10.com/detail/20260212032206474800",
-          "source": "金十数据",
+          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
+          "url": "https://wallstreetcn.com/livenews/3053939",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
           "url": "https://wallstreetcn.com/livenews/3053938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
         },
         {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
@@ -146,17 +127,6 @@
           "time_info": "01时50分"
         },
         {
-          "title": "美国财长贝森特：抵押贷款利率和10年期国债收益率均已下降。",
-          "url": "https://flash.jin10.com/detail/20260212032132482800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "美国财长贝森特：非农就业数据超过预期。",
           "url": "https://flash.jin10.com/detail/20260212012455051800",
           "source": "金十数据",
@@ -166,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
-          "url": "https://flash.jin10.com/detail/20260212032127249800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
@@ -201,28 +160,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "美国财长贝森特：我认为未来几个月制造业工作岗位将会增加。",
-          "url": "https://flash.jin10.com/detail/20260212031904206800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
-          "url": "https://wallstreetcn.com/livenews/3053933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "美国指责中国开展核爆炸试验，外交部驳斥",
           "url": "https://www.cls.cn/detail/2287126",
           "source": "财联社热门",
@@ -236,6 +173,19 @@
           "time_info": "[00时52分 ~ 02时56分]"
         },
         {
+          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
+          "url": "https://wallstreetcn.com/livenews/3053914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时28分]"
+        },
+        {
           "title": "美国至2月11日4个月国债竞拍-得标利率配置百分比 84.52%，前值12.58%。",
           "url": "https://flash.jin10.com/detail/20260212003303517800",
           "source": "金十数据",
@@ -246,6 +196,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时50分]"
+        },
+        {
+          "title": "美国财长贝森特：正在追踪伊朗领导层及其在全球转移的资金。",
+          "url": "https://flash.jin10.com/detail/20260212032434907800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数3.38。",
@@ -272,6 +234,31 @@
           "time_info": "[00时52分 ~ 01时50分]"
         },
         {
+          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260212032206474800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "摩根大通：如果美国核心CPI接近、或低于分析师预期，预计标普500指数上涨的概率为70%。",
+          "url": "https://wallstreetcn.com/livenews/3053912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时28分]"
+        },
+        {
           "title": "美国至2月11日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
           "url": "https://flash.jin10.com/detail/20260212003225656800",
           "source": "金十数据",
@@ -282,6 +269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时50分]"
+        },
+        {
+          "title": "美国财长贝森特：抵押贷款利率和10年期国债收益率均已下降。",
+          "url": "https://flash.jin10.com/detail/20260212032132482800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
         },
         {
           "title": "德债收益率在美国非农日冲高回落，长端德债收益率跌超3个基点",
@@ -296,16 +295,16 @@
           "time_info": "[01时50分 ~ 02时56分]"
         },
         {
-          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
-          "url": "https://wallstreetcn.com/livenews/3053914",
+          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
+          "url": "https://wallstreetcn.com/livenews/3053933",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            21
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时49分]"
+          "time_info": "[03时49分 ~ 04时28分]"
         },
         {
           "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
@@ -320,6 +319,18 @@
           "time_info": "[00时52分 ~ 01时50分]"
         },
         {
+          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
+          "url": "https://flash.jin10.com/detail/20260212032127249800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
           "title": "美国财政部长贝森特：非农就业人口超过预期。",
           "url": "https://wallstreetcn.com/livenews/3053895",
           "source": "华尔街见闻-快讯",
@@ -332,16 +343,76 @@
           "time_info": "[01时50分 ~ 02时56分]"
         },
         {
-          "title": "摩根大通：如果美国核心CPI接近、或低于分析师预期，预计标普500指数上涨的概率为70%。",
-          "url": "https://wallstreetcn.com/livenews/3053912",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财长贝森特：我认为未来几个月制造业工作岗位将会增加。",
+          "url": "https://flash.jin10.com/detail/20260212031904206800",
+          "source": "金十数据",
           "ranks": [
             5,
-            24
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时49分]"
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "芝加哥女子在美国边境巡逻队枪击案后提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3053932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国财长贝森特：我预计建筑业就业岗位将继续增加。",
+          "url": "https://flash.jin10.com/detail/20260212031719232800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国财长贝森特：2025年美国经济增长率可能达到3%。",
+          "url": "https://flash.jin10.com/detail/20260212031619314800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "诺和诺德CEO Mike Doustdar：美国食品药品管理局（FDA）针对远程药房Hims（“山寨版”）减肥药采取行动，这让人感到欣慰。 现在，超过24万人在使用Wegovy减肥药。",
+          "url": "https://wallstreetcn.com/livenews/3053928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美媒：美国指示第二艘航母做好部署到中东的准备",
+          "url": "https://flash.jin10.com/detail/20260212031614374800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
         },
         {
           "title": "Meta跌幅扩大至2%，刷新日低。 该公司“Dear Algo”已经在美国、新西兰、澳大利亚、英国上线。",
@@ -356,6 +427,18 @@
           "time_info": "[02时56分 ~ 03时49分]"
         },
         {
+          "title": "美国食品药品监督管理局（FDA）：莫德纳(MRNA.O)违背FDA职业科学家的建议，向65岁及以上参与者提供了低于标准的护理，使他们面临严重疾病风险增加的危险。",
+          "url": "https://flash.jin10.com/detail/20260212031215553800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
           "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.177（1月12日为4.173%），投标倍数2.39（前次为2.55）。",
           "url": "https://wallstreetcn.com/livenews/3053907",
           "source": "华尔街见闻-快讯",
@@ -366,6 +449,114 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时49分]"
+        },
+        {
+          "title": "据华尔街日报：三名美国官员透露，美国国防部已指示第二个航空母舰打击群做好部署到中东的准备，美军正在为可能对伊朗发动的袭击做准备。一位官员称，部署命令可能在数小时内下达。",
+          "url": "https://flash.jin10.com/detail/20260212031133708800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3053922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
+          "url": "https://flash.jin10.com/detail/20260212030333471800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国能源部长Wright会见委内瑞拉代总统Rodriguez。",
+          "url": "https://wallstreetcn.com/livenews/3053919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国财政部：美国1月净海关收入为277亿美元。2026财政年度至今赤字为6970亿美元（2025财政年度同期为8400亿美元赤字）。",
+          "url": "https://flash.jin10.com/detail/20260212030248098800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
+          "url": "https://wallstreetcn.com/livenews/3053917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
+          "url": "https://flash.jin10.com/detail/20260212030002185800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
+          "url": "https://flash.jin10.com/detail/20260212025734183800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时49分 ~ 04时28分]"
         },
         {
           "title": "据日经新闻：日本将补贴用于保护卫星信号的抗干扰技术。",
@@ -379,17 +570,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国财长贝森特：我预计建筑业就业岗位将继续增加。",
-          "url": "https://flash.jin10.com/detail/20260212031719232800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
           "url": "https://wallstreetcn.com/livenews/3053866",
           "source": "华尔街见闻-快讯",
@@ -399,39 +579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "芝加哥女子在美国边境巡逻队枪击案后提起诉讼",
-          "url": "https://wallstreetcn.com/livenews/3053932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美国财长贝森特：2025年美国经济增长率可能达到3%。",
-          "url": "https://flash.jin10.com/detail/20260212031619314800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "诺和诺德CEO Mike Doustdar：美国食品药品管理局（FDA）针对远程药房Hims（“山寨版”）减肥药采取行动，这让人感到欣慰。 现在，超过24万人在使用Wegovy减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3053928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "两位安全消息人士称，美国领导的打击“伊斯兰国”联盟部队已从叙利亚的阿尔坦夫基地撤往约旦。",
@@ -445,15 +592,26 @@
           "time_info": "01时50分"
         },
         {
-          "title": "美媒：美国指示第二艘航母做好部署到中东的准备",
-          "url": "https://flash.jin10.com/detail/20260212031614374800",
+          "title": "美国食品药品监督管理局（FDA）高级官员：卫生部长小肯尼迪并未参与FDA的疫苗政策。小肯尼迪未参与莫德纳产品的任何环节。",
+          "url": "https://flash.jin10.com/detail/20260212033409420800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国本财年至今关税收入飙升逾300%",
+          "url": "https://flash.jin10.com/detail/20260212033122882800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "伊朗议会安全委员会主席：相信美国已经避免了对伊朗采取军事行动。",
@@ -467,15 +625,15 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国食品药品监督管理局（FDA）：莫德纳(MRNA.O)违背FDA职业科学家的建议，向65岁及以上参与者提供了低于标准的护理，使他们面临严重疾病风险增加的危险。",
-          "url": "https://flash.jin10.com/detail/20260212031215553800",
+          "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
+          "url": "https://flash.jin10.com/detail/20260212032551630800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时49分"
+          "time_info": "04时28分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -487,28 +645,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "据华尔街日报：三名美国官员透露，美国国防部已指示第二个航空母舰打击群做好部署到中东的准备，美军正在为可能对伊朗发动的袭击做准备。一位官员称，部署命令可能在数小时内下达。",
-          "url": "https://flash.jin10.com/detail/20260212031133708800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
@@ -533,17 +669,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3053922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "美国能源部：美国能源部长赖特将与委内瑞拉临时总统罗德里格斯会面。",
           "url": "https://flash.jin10.com/detail/20260212022640580800",
           "source": "金十数据",
@@ -566,17 +691,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
-          "url": "https://flash.jin10.com/detail/20260212030333471800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "美国政府发放一批通用许可证，允许多家油田服务公司可以在特定限制条件下进入委内瑞拉展开业务。",
           "url": "https://wallstreetcn.com/livenews/3053856",
           "source": "华尔街见闻-快讯",
@@ -588,17 +702,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国能源部长Wright会见委内瑞拉代总统Rodriguez。",
-          "url": "https://wallstreetcn.com/livenews/3053919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "美国能源部：美国能源部长赖特在访问期间将直接与委内瑞拉临时领导层接触。",
           "url": "https://flash.jin10.com/detail/20260212022533484800",
           "source": "金十数据",
@@ -608,17 +711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "美国财政部：美国1月净海关收入为277亿美元。2026财政年度至今赤字为6970亿美元（2025财政年度同期为8400亿美元赤字）。",
-          "url": "https://flash.jin10.com/detail/20260212030248098800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "数字货币市场走低，美国非农就业报告给小币种带来一波尖锐的冲高回落行情",
@@ -654,28 +746,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
-          "url": "https://wallstreetcn.com/livenews/3053917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
-          "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
-          "url": "https://flash.jin10.com/detail/20260212030002185800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
-        },
-        {
           "title": "摩根大通：如果美国核心CPI接近或低于分析师预期，预计标普500指数上涨的概率为70%。",
           "url": "https://flash.jin10.com/detail/20260212021913646800",
           "source": "金十数据",
@@ -685,17 +755,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
-        },
-        {
-          "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
-          "url": "https://flash.jin10.com/detail/20260212025734183800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时49分"
         },
         {
           "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
@@ -726,7 +785,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -748,7 +807,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -781,7 +840,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -825,7 +884,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -913,7 +972,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时49分"
         },
@@ -943,7 +1002,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -953,8 +1012,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -965,8 +1024,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -976,8 +1035,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -988,8 +1047,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -999,8 +1058,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1010,8 +1069,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 03时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 04时28分]"
+        },
+        {
+          "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
+          "url": "https://flash.jin10.com/detail/20260212035557254800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "如何评价《明日方舟》2026 新年活动 Side Story《辞岁行》剧情?",
@@ -1022,8 +1092,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 03时49分]"
+          "appearance_count": 6,
+          "time_info": "[01时49分 ~ 04时28分]"
+        },
+        {
+          "title": "马斯克旗下xAI披露全体会议的视频。",
+          "url": "https://wallstreetcn.com/livenews/3053940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -1031,11 +1112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时28分]"
         },
         {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
@@ -1043,11 +1125,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时28分]"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -1071,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "中美AI“隔空开打”",
+          "url": "https://www.toutiao.com/trending/7605571340929601066/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
