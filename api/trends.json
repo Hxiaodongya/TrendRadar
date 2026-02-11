@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T17:41:57.299174+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-02-11T18:39:19.669237+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 160,
+      "match_count": 168,
       "titles": [
         {
           "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
@@ -178,11 +178,12 @@
             2,
             5,
             15,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时39分]"
         },
         {
           "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
@@ -194,6 +195,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时53分 ~ 04时35分]"
+        },
+        {
+          "title": "0%！美国12月零售销售意外停滞，假日季尾声消费疲软",
+          "url": "https://wallstreetcn.com/articles/3765429",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时39分]"
         },
         {
           "title": "美国队铲倒韩国队 武大靖笑好大声",
@@ -220,6 +233,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 16时35分]"
+        },
+        {
+          "title": "百万就业大军将凭空“蒸发”？今晚美国非农“年度大修”万众瞩目",
+          "url": "https://www.cls.cn/detail/2287005",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 18时39分]"
         },
         {
           "title": "美国至2月10日6周国债竞拍-得标利率 3.635%，前值3.64%。",
@@ -250,7 +277,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -264,18 +291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
-        },
-        {
-          "title": "0%！美国12月零售销售意外停滞，假日季尾声消费疲软",
-          "url": "https://wallstreetcn.com/articles/3765429",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 17时41分]"
         },
         {
           "title": "道明证券：预计美国1月非农就业增长4.5万个岗位 失业率继续企稳",
@@ -309,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "印尼部长：印尼总统普拉博沃将于2月19日出席加沙和平委员会会议，在会议期间将与美国签署关税协议。",
+          "url": "https://flash.jin10.com/detail/20260211182753660800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "中国台湾证交所股价指数收高1.6%，报33605.71点。",
@@ -346,6 +372,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "由软银支持的美国软件公司Icertis考虑以50亿美元价格出售。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "胡锡进：日本这次选举是典型的民粹主义狂欢，很低质",
           "url": "https://news.ifeng.com/c/8qec1PYiH19",
           "source": "凤凰网",
@@ -368,6 +405,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时55分 ~ 05时34分]"
+        },
+        {
+          "title": "消息人士称，美国软件公司Icertis正与高盛就潜在出售事宜合作。",
+          "url": "https://flash.jin10.com/detail/20260211182425049800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "据彭博，维权投资者Ancora据称买入华纳兄弟探索公司的股份。 另据华尔街日报，Ancora已购入华纳兄弟探索公司2亿美元的股份，并敦促其退出与奈飞的交易。 Ancora计划增持更多股份；如果华纳董事会拒绝与派拉蒙进行谈判，Ancora可能会发起代理人战争（Proxy Fight）。",
@@ -419,19 +467,6 @@
           "time_info": "[03时55分 ~ 05时34分]"
         },
         {
-          "title": "百万就业大军将凭空“蒸发”？今晚美国非农“年度大修”万众瞩目",
-          "url": "https://www.cls.cn/detail/2287005",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 17时41分]"
-        },
-        {
           "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.96。",
           "url": "https://wallstreetcn.com/livenews/3053163",
           "source": "华尔街见闻-快讯",
@@ -442,6 +477,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时54分]"
+        },
+        {
+          "title": "美国指责中国开展核爆炸试验，外交部驳斥",
+          "url": "https://www.cls.cn/detail/2287126",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时39分]"
         },
         {
           "title": "EIA：预计美国用电需求至2027年续创新高",
@@ -664,6 +711,17 @@
           "time_info": "[03时54分 ~ 05时34分]"
         },
         {
+          "title": "澳大利亚专家：邀以总统来访时机不对，背后有美国影响",
+          "url": "https://news.ifeng.com/c/8qeu9fczS6T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时39分]"
+        },
+        {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
           "url": "https://flash.jin10.com/detail/20260211050353108800",
           "source": "金十数据",
@@ -746,6 +804,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "今夜，美国非农或现“百万级”下修",
+          "url": "https://wallstreetcn.com/articles/3765468",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时39分]"
         },
         {
           "title": "美国至2月6日当周API库欣原油库存 140万桶，前值-139.4万桶。",
@@ -1107,26 +1176,15 @@
           "time_info": "[03时55分 ~ 04时35分]"
         },
         {
-          "title": "美国指责中国开展核爆炸试验，外交部驳斥",
-          "url": "https://www.cls.cn/detail/2287126",
-          "source": "财联社热门",
+          "title": "据悉，由软银支持的美国软件公司Icertis考虑以50亿美元价格出售。",
+          "url": "https://flash.jin10.com/detail/20260211182408084800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
-          "title": "澳大利亚专家：邀以总统来访时机不对，背后有美国影响",
-          "url": "https://news.ifeng.com/c/8qeu9fczS6T",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
+          "time_info": "18时39分"
         },
         {
           "title": "美国贷款违约率飙升至近十年来最高水平",
@@ -1157,9 +1215,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "美国得克萨斯州一机场因“特殊安全原因”停飞10天",
+          "url": "https://wallstreetcn.com/livenews/3053676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "市场消息：美国国会议员们对国防部使用Grok提出质疑。",
@@ -1182,17 +1251,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "今夜，美国非农或现“百万级”下修",
-          "url": "https://wallstreetcn.com/articles/3765468",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "英媒：美国施压乌克兰春季举行总统选举及俄乌和平协议公投",
@@ -1278,7 +1336,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1311,7 +1369,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1336,6 +1394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "美国银行全球研究：将法拉利目标价从360欧元上调至375欧元。",
+          "url": "https://flash.jin10.com/detail/20260211180755095800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "加拿大要控制戈迪·豪大桥 美国：不可接受",
@@ -1388,9 +1457,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "美国30年期国债收益率下行2个基点至4.77%，为12月11日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3053659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "美联储哈玛克：美国政府正走在不可持续的财政轨道上。",
@@ -1633,6 +1713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "保罗在美国被禁言",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "EIA短期能源展望报告：预计美国馏分油消费量将在2027年创下历史新高。",
@@ -1891,8 +1982,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时39分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -1904,8 +1995,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时15分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时15分 ~ 18时39分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -1941,6 +2032,19 @@
           "time_info": "[00时53分 ~ 09时15分]"
         },
         {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时39分]"
+        },
+        {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
@@ -1954,8 +2058,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 17时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 18时39分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -1983,19 +2087,6 @@
           "time_info": "[12时20分 ~ 17时41分]"
         },
         {
-          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
-          "url": "https://www.cls.cn/detail/2286740",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 17时41分]"
-        },
-        {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
           "url": "https://www.cls.cn/detail/2286559",
           "source": "财联社热门",
@@ -2008,6 +2099,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时15分 ~ 15时46分]"
+        },
+        {
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时39分]"
         },
         {
           "title": "AI制图骗局",
@@ -2023,19 +2128,6 @@
           "time_info": "[03时54分 ~ 05时34分]"
         },
         {
-          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
-          "url": "https://www.zhihu.com/question/2004629058894389561",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 17时41分]"
-        },
-        {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
           "url": "https://wallstreetcn.com/livenews/3053191",
           "source": "华尔街见闻-快讯",
@@ -2047,6 +2139,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 04时35分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时39分]"
         },
         {
           "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
@@ -2073,18 +2177,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时52分 ~ 07时31分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时41分]"
         },
         {
           "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
@@ -2117,11 +2209,12 @@
           "ranks": [
             14,
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时46分 ~ 17时41分]"
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 18时39分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -2134,6 +2227,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时35分]"
+        },
+        {
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时39分]"
         },
         {
           "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
@@ -2170,18 +2276,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时29分]"
-        },
-        {
-          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
-          "url": "https://www.zhihu.com/question/2004509950915868142",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时41分]"
         },
         {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
@@ -2245,7 +2339,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
