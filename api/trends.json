@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:14:17.835310+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-02-12T13:58:33.081073+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 163,
+      "match_count": 172,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -72,6 +72,18 @@
           "time_info": "[00时52分 ~ 07时22分]"
         },
         {
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
+          "url": "https://wallstreetcn.com/articles/3765528",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时58分]"
+        },
+        {
           "title": "中国女特警实力碾压美国男队",
           "url": "https://www.toutiao.com/trending/7605420621232623131/",
           "source": "今日头条",
@@ -94,23 +106,12 @@
           "ranks": [
             18,
             15,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时14分]"
-        },
-        {
-          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
-          "url": "https://wallstreetcn.com/articles/3765528",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时58分]"
         },
         {
           "title": "核军控硬拉中国，俄高官批美国“双标”",
@@ -120,8 +121,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 13时58分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -135,6 +136,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时25分]"
+        },
+        {
+          "title": "立陶宛：考虑将“台湾代表处”变为“台北代表处”",
+          "url": "https://news.ifeng.com/c/8qgEp7wGjRb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -159,6 +171,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "市场消息：美国商务部长卢特尼克将于周四在华盛顿与日经济产业大臣赤泽亮正会面。",
+          "url": "https://flash.jin10.com/detail/20260212132822892800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美国商务部长卢特尼克将于周四在华盛顿与日经济产业大臣赤泽亮正会面。",
+          "url": "https://wallstreetcn.com/livenews/3054211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国财长贝森特：非农就业数据超过预期。",
@@ -225,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "土耳其外长：美国可能对伊朗铀浓缩的部分要求保持灵活",
+          "url": "https://flash.jin10.com/detail/20260212130856196800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "Link Data Services数据显示，加拿大Cold Lake重油较美国墨西哥湾沿岸的WTI原油的折扣幅度扩大至8.50美元/桶，创2023年12月8日以来最阔。",
@@ -736,6 +781,18 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
+          "title": "消息人士称，AeroVironment的Locust激光反无人机武器已于周三由美国陆军部署在得州埃尔帕索机场附近。",
+          "url": "https://flash.jin10.com/detail/20260212115423521800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
           "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
           "url": "https://wallstreetcn.com/livenews/3053980",
           "source": "华尔街见闻-快讯",
@@ -746,6 +803,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时22分]"
+        },
+        {
+          "title": "美国准备向中东增派航母打击群 苹果据悉开发新版Siri再次遇挫 | 环球市场",
+          "url": "https://www.cls.cn/detail/2287806",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
@@ -880,6 +949,17 @@
           "time_info": "[02时56分 ~ 03时49分]"
         },
         {
+          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
+          "url": "https://www.toutiao.com/trending/7604684055234002990/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
           "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
           "url": "https://flash.jin10.com/detail/20260212054108494800",
           "source": "金十数据",
@@ -914,6 +994,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时28分]"
+        },
+        {
+          "title": "泽连斯基：若俄方同意，将于下周在美国举行新一轮谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585795",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
@@ -951,15 +1043,15 @@
           "time_info": "00时52分"
         },
         {
-          "title": "消息人士称，AeroVironment的Locust激光反无人机武器已于周三由美国陆军部署在得州埃尔帕索机场附近。",
-          "url": "https://flash.jin10.com/detail/20260212115423521800",
+          "title": "印度尼西亚外交部：普拉博沃总统将于2月19日在美国出席和平委员会会议。",
+          "url": "https://flash.jin10.com/detail/20260212130526209800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时58分"
         },
         {
           "title": "伊朗最高领袖顾问：正与美国磋商下一轮谈判时间",
@@ -1006,6 +1098,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "据英国《金融时报》：土耳其外交部长表示，将美伊会谈扩大到弹道导弹问题只会带来“另一场战争”。",
+          "url": "https://flash.jin10.com/detail/20260212130453672800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "美国2026财年前四个月预算赤字缩小17%，关税收入大增",
           "url": "https://wallstreetcn.com/livenews/3053951",
           "source": "华尔街见闻-快讯",
@@ -1050,15 +1153,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "美国准备向中东增派航母打击群 苹果据悉开发新版Siri再次遇挫 | 环球市场",
-          "url": "https://www.cls.cn/detail/2287806",
-          "source": "财联社热门",
+          "title": "据英国《金融时报》：土耳其外交部长表示，美国方面似乎愿意在明确界定的范围内容忍伊朗的铀浓缩，这是积极的。",
+          "url": "https://flash.jin10.com/detail/20260212130412709800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时58分"
         },
         {
           "title": "美国能源部长Wright：我们希望通过公平的商业条件（营商环境）来吸引投资。",
@@ -1094,6 +1197,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "据英国《金融时报》：土耳其高级外交官表示，美国和伊朗在核协议问题上表现出灵活性。",
+          "url": "https://flash.jin10.com/detail/20260212130309687800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
           "url": "https://wallstreetcn.com/livenews/3053974",
           "source": "华尔街见闻-快讯",
@@ -1114,6 +1228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "速度滑冰男子 1000 米，宁忠岩 1 分 07 秒 34 夺铜，美国斯托尔兹夺冠，廉子文被取消成绩，如何看待？",
+          "url": "https://www.zhihu.com/question/2005092208278201357",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -1155,7 +1280,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1191,17 +1316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
-          "url": "https://www.toutiao.com/trending/7604684055234002990/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房地美将于本周四公布其2025年第四季度和全年财务业绩。",
@@ -1402,17 +1516,6 @@
           "time_info": "00时52分"
         },
         {
-          "title": "泽连斯基：若俄方同意，将于下周在美国举行新一轮谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585795",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "日本最高外汇事务官员三村淳：不会就外汇水平发表评论。",
           "url": "https://flash.jin10.com/detail/20260212081914149800",
           "source": "金十数据",
@@ -1562,7 +1665,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1826,7 +1929,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1892,7 +1995,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -1900,7 +2003,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -1939,8 +2042,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时58分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时58分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -1952,8 +2067,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时58分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -1962,11 +2077,12 @@
           "ranks": [
             14,
             15,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 13时58分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1980,16 +2096,17 @@
           "time_info": "[00时52分 ~ 09时08分]"
         },
         {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            9,
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时14分]"
+          "time_info": "[09时07分 ~ 13时58分]"
         },
         {
           "title": "如何评价《明日方舟》2026 新年活动 Side Story《辞岁行》剧情?",
@@ -2005,6 +2122,17 @@
           "time_info": "[01时49分 ~ 05时25分]"
         },
         {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
           "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
           "url": "https://flash.jin10.com/detail/20260212045127691800",
           "source": "金十数据",
@@ -2016,15 +2144,26 @@
           "time_info": "05时25分"
         },
         {
-          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
-          "url": "https://wallstreetcn.com/livenews/3054185",
+          "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054213",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "马斯克重组xAI 拟设四大核心板块",
@@ -2038,29 +2177,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
-          "url": "https://www.cls.cn/detail/2287778",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时14分]"
-        },
-        {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "五角大楼施压AI巨头 力求在机密网络无限制部署大模型",
           "url": "https://flash.jin10.com/detail/20260212084523268800",
           "source": "金十数据",
@@ -2070,17 +2186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "支付宝AI付笔数超1.2亿",
-          "url": "https://wallstreetcn.com/livenews/3054179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -2108,6 +2213,18 @@
           "time_info": "[02时56分 ~ 04时28分]"
         },
         {
+          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
+          "url": "https://wallstreetcn.com/livenews/3054185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
           "title": "马斯克旗下xAI披露全体会议的视频。",
           "url": "https://wallstreetcn.com/livenews/3053940",
           "source": "华尔街见闻-快讯",
@@ -2118,6 +2235,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时25分]"
+        },
+        {
+          "title": "支付宝AI付笔数超1.2亿",
+          "url": "https://wallstreetcn.com/livenews/3054179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 13时58分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -2145,16 +2287,16 @@
           "time_info": "[02时56分 ~ 04时28分]"
         },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            13
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时14分]"
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -2169,6 +2311,18 @@
           "time_info": "[01时50分 ~ 02时56分]"
         },
         {
+          "title": "马斯克xAI全员大会宣布裁员",
+          "url": "https://www.toutiao.com/trending/7605774882411908671/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时58分]"
+        },
+        {
           "title": "四川女生相亲焦虑获AI高能量安慰",
           "url": "https://www.toutiao.com/trending/7605518522093371418/",
           "source": "今日头条",
@@ -2178,17 +2332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
@@ -2213,6 +2356,28 @@
           "time_info": "04时28分"
         },
         {
+          "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
+          "url": "https://wallstreetcn.com/livenews/3054196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
+          "url": "https://wallstreetcn.com/livenews/3054194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
           "url": "https://www.zhihu.com/question/2004565156580049390",
           "source": "知乎",
@@ -2222,17 +2387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "马斯克xAI全员大会宣布裁员",
-          "url": "https://www.toutiao.com/trending/7605774882411908671/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "依视路陆逊梯卡（EssilorLuxottica）四季度营收76亿欧元，分析师预期71.5亿欧元。 四季度剔除汇率因素后营收增长18.4%，分析师预期增长11.5%。 全年营收284.9亿欧元，分析师预期280.9亿欧元。 全年剔除汇率因素的营收增长11.2%，分析师预期增长9.19%。 全年销售超过700万套人工智能眼镜（AI glasses）。 预计营收将在未来五年稳步增长。 依视路陆逊梯卡ADR涨幅扩大至8.6%。",
@@ -2252,7 +2406,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -2266,6 +2420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "机械开发设计岗会不会被 ai 取代?",
+          "url": "https://www.zhihu.com/question/1892919652683850639",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
@@ -2285,7 +2450,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -2307,7 +2472,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
