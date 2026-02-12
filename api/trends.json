@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T13:58:33.081073+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-02-12T14:55:44.949705+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 172,
+      "match_count": 179,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -45,6 +45,18 @@
           "time_info": "[00时52分 ~ 09时08分]"
         },
         {
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
+          "url": "https://wallstreetcn.com/articles/3765528",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时55分]"
+        },
+        {
           "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
           "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
           "source": "凤凰网",
@@ -70,18 +82,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时52分 ~ 07时22分]"
-        },
-        {
-          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
-          "url": "https://wallstreetcn.com/articles/3765528",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时58分]"
         },
         {
           "title": "中国女特警实力碾压美国男队",
@@ -110,8 +110,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "核军控硬拉中国，俄高官批美国“双标”",
@@ -121,8 +121,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时55分]"
+        },
+        {
+          "title": "立陶宛：考虑将“台湾代表处”变为“台北代表处”",
+          "url": "https://news.ifeng.com/c/8qgEp7wGjRb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时55分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -136,17 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时25分]"
-        },
-        {
-          "title": "立陶宛：考虑将“台湾代表处”变为“台北代表处”",
-          "url": "https://news.ifeng.com/c/8qgEp7wGjRb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -179,18 +179,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "美国商务部长卢特尼克将于周四在华盛顿与日经济产业大臣赤泽亮正会面。",
-          "url": "https://wallstreetcn.com/livenews/3054211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -217,6 +206,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "据日本时事通讯社：日本财务大臣片山皋月表示，未与日本首相高市早苗讨论外汇问题。",
+          "url": "https://flash.jin10.com/detail/20260212142219716800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美国能源部长Wright：未来将讨论企业的债务重组问题。",
           "url": "https://wallstreetcn.com/livenews/3054007",
           "source": "华尔街见闻-快讯",
@@ -226,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美元兑日元短线拉升，日内涨0.02%，此前报道称日本要求美联储在1月进行汇率询价。",
+          "url": "https://wallstreetcn.com/livenews/3054252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
@@ -267,7 +278,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -531,6 +542,18 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
+          "title": "美国商务部长卢特尼克将于周四在华盛顿与日经济产业大臣赤泽亮正会面。",
+          "url": "https://wallstreetcn.com/livenews/3054211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时55分]"
+        },
+        {
           "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
           "url": "https://flash.jin10.com/detail/20260212003139866800",
           "source": "金十数据",
@@ -614,6 +637,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时14分]"
+        },
+        {
+          "title": "美国准备向中东增派航母打击群 苹果据悉开发新版Siri再次遇挫 | 环球市场",
+          "url": "https://www.cls.cn/detail/2287806",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时55分]"
         },
         {
           "title": "芝加哥女子在美国边境巡逻队枪击案后提起诉讼",
@@ -733,6 +768,18 @@
           "time_info": "[03时49分 ~ 05时25分]"
         },
         {
+          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
+          "url": "https://www.toutiao.com/trending/7604684055234002990/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时55分]"
+        },
+        {
           "title": "美国28岁华人女孩遭枪杀 前男友自首",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD28%E5%B2%81%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%89%8D%E7%94%B7%E5%8F%8B%E8%87%AA%E9%A6%96",
           "source": "百度热搜",
@@ -755,6 +802,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时25分]"
+        },
+        {
+          "title": "泽连斯基：若俄方同意，将于下周在美国举行新一轮谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585795",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时55分]"
         },
         {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
@@ -803,18 +863,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时22分]"
-        },
-        {
-          "title": "美国准备向中东增派航母打击群 苹果据悉开发新版Siri再次遇挫 | 环球市场",
-          "url": "https://www.cls.cn/detail/2287806",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
@@ -913,6 +961,18 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
+          "title": "速度滑冰男子 1000 米，宁忠岩 1 分 07 秒 34 夺铜，美国斯托尔兹夺冠，廉子文被取消成绩，如何看待？",
+          "url": "https://www.zhihu.com/question/2005092208278201357",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时55分]"
+        },
+        {
           "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
           "url": "https://flash.jin10.com/detail/20260212032551630800",
           "source": "金十数据",
@@ -949,17 +1009,6 @@
           "time_info": "[02时56分 ~ 03时49分]"
         },
         {
-          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
-          "url": "https://www.toutiao.com/trending/7604684055234002990/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时58分]"
-        },
-        {
           "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
           "url": "https://flash.jin10.com/detail/20260212054108494800",
           "source": "金十数据",
@@ -994,18 +1043,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时28分]"
-        },
-        {
-          "title": "泽连斯基：若俄方同意，将于下周在美国举行新一轮谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585795",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
@@ -1049,7 +1086,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1074,6 +1111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "日本要求美联储在1月进行汇率询价。（日本时事通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3054249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "委内瑞拉代总统会见美国能源部长",
@@ -1104,7 +1152,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1142,6 +1190,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "据日本时事通讯社：日本财务大臣片山皋月表示，已与日本首相高市早苗商讨如何就附带福利的税收抵免及食品销售税减免展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260212141718805800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美国内政部长Burgum：美国处于围绕委内瑞拉发放矿业许可的正轨之上。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3054003",
           "source": "华尔街见闻-快讯",
@@ -1159,9 +1218,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "据日本时事通讯社：日本方面要求美联储在1月进行汇率询价。",
+          "url": "https://flash.jin10.com/detail/20260212141631746800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "美国能源部长Wright：我们希望通过公平的商业条件（营商环境）来吸引投资。",
@@ -1203,7 +1273,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1228,17 +1298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "速度滑冰男子 1000 米，宁忠岩 1 分 07 秒 34 夺铜，美国斯托尔兹夺冠，廉子文被取消成绩，如何看待？",
-          "url": "https://www.zhihu.com/question/2005092208278201357",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -1593,6 +1652,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "惠誉评级：日本大型金融集团比同行更能抵御利率冲击。",
+          "url": "https://flash.jin10.com/detail/20260212135030654800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "墨西哥比索兑美元刷新日低，此前墨西哥总统辛鲍姆置评美国总统特朗普和美墨加贸易协议。",
           "url": "https://wallstreetcn.com/livenews/3053849",
           "source": "华尔街见闻-快讯",
@@ -1756,6 +1826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美国佛州发生枪击事件致多人死亡",
+          "url": "https://www.toutiao.com/trending/7605412979613827108/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "美国2月6日当周EIA库欣地区原油库存变动 107.1万桶，前值 -74.3万桶。",
@@ -2003,7 +2084,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -2042,8 +2123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -2054,8 +2135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时55分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -2064,11 +2145,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -2078,11 +2160,12 @@
             14,
             15,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时52分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -2094,6 +2177,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时52分 ~ 09时08分]"
+        },
+        {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时55分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -2122,15 +2216,27 @@
           "time_info": "[01时49分 ~ 05时25分]"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 14时55分]"
+        },
+        {
+          "title": "男子用AI一夜赚够一线房首付",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "市场继续寻找AI时代的潜在输家 今日轮到地产服务",
@@ -2142,28 +2248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
-          "url": "https://wallstreetcn.com/livenews/3054213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "从Deepseek到Seedance中国AI成了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "马斯克重组xAI 拟设四大核心板块",
@@ -2186,6 +2270,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 14时55分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -2225,6 +2323,18 @@
           "time_info": "[12时14分 ~ 13时58分]"
         },
         {
+          "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时55分]"
+        },
+        {
           "title": "马斯克旗下xAI披露全体会议的视频。",
           "url": "https://wallstreetcn.com/livenews/3053940",
           "source": "华尔街见闻-快讯",
@@ -2249,19 +2359,6 @@
           "time_info": "[12时14分 ~ 13时58分]"
         },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时58分]"
-        },
-        {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
           "url": "https://wallstreetcn.com/articles/3765478",
           "source": "华尔街见闻",
@@ -2272,6 +2369,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时14分]"
+        },
+        {
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时55分]"
         },
         {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
@@ -2285,18 +2395,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 04时28分]"
-        },
-        {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时58分]"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -2362,7 +2460,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -2373,9 +2471,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "蚂蚁阿福开启春节支付宝红包活动 AI医疗行业有望再度站上风口",
+          "url": "https://www.cls.cn/detail/2287850",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -2428,7 +2537,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -2464,6 +2573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "因AI挑战及美国降息担忧，印度IT板块大跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3054222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "智谱盘中拉升，日内涨幅扩大至20%，公司上调AI编程订阅套餐价格并将推出新模型。",
