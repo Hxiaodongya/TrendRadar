@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T07:22:43.037073+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2026-02-12T09:08:10.181448+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 131,
+      "match_count": 155,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
         },
         {
           "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
@@ -83,19 +84,43 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
         },
         {
           "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
           "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
+        },
+        {
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
+          "url": "https://wallstreetcn.com/articles/3765528",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时08分]"
+        },
+        {
+          "title": "核军控硬拉中国，俄高官批美国“双标”",
+          "url": "https://news.ifeng.com/c/8qftr0bn9t0",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -109,17 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 05时25分]"
-        },
-        {
-          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
-          "url": "https://wallstreetcn.com/articles/3765528",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -174,7 +188,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -229,7 +243,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -687,6 +701,17 @@
           "time_info": "[03时49分 ~ 05时25分]"
         },
         {
+          "title": "网红「保罗在美国」晒妻子私密分娩过程，并在其中带货，被指过度消费伴侣隐私，如何看待内容创作的伦理边界？",
+          "url": "https://www.zhihu.com/question/2004666271950725740",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
           "url": "https://wallstreetcn.com/livenews/3053980",
           "source": "华尔街见闻-快讯",
@@ -831,6 +856,28 @@
           "time_info": "[02时56分 ~ 03时49分]"
         },
         {
+          "title": "美国1月非农录得13万远超预期 市场削减美联储降息押注",
+          "url": "https://www.cls.cn/detail/2287648",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "美国28岁华人女孩遭枪杀 前男友自首",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD28%E5%B2%81%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%89%8D%E7%94%B7%E5%8F%8B%E8%87%AA%E9%A6%96",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
           "url": "https://flash.jin10.com/detail/20260212054108494800",
           "source": "金十数据",
@@ -919,7 +966,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -933,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌4.5个基点，至2.190%。",
+          "url": "https://flash.jin10.com/detail/20260212084009976800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国2026财年前四个月预算赤字缩小17%，关税收入大增",
@@ -952,7 +1010,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -974,7 +1032,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -985,7 +1043,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1001,6 +1059,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "日本40年期国债收益率跌8.0个基点，至3.645%。",
+          "url": "https://flash.jin10.com/detail/20260212083126904800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
           "url": "https://wallstreetcn.com/livenews/3053974",
           "source": "华尔街见闻-快讯",
@@ -1010,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "日本30年期国债收益率下行7.5个基点至3.420%。 日本40年期国债收益率下行8个基点至3.645%。",
+          "url": "https://wallstreetcn.com/livenews/3054059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
@@ -1029,7 +1109,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1067,6 +1147,28 @@
           "time_info": "06时20分"
         },
         {
+          "title": "日本20年期国债收益率下行5个基点至3.055%。",
+          "url": "https://wallstreetcn.com/livenews/3054057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "美国联邦住房金融局局长普尔特：房地美将于本周四公布其2025年第四季度和全年财务业绩。",
+          "url": "https://flash.jin10.com/detail/20260212082434603800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美国能源部：美国能源部长赖特将与委内瑞拉临时总统罗德里格斯会面。",
           "url": "https://flash.jin10.com/detail/20260212022640580800",
           "source": "金十数据",
@@ -1078,6 +1180,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "日本两年期国债收益率下跌1.0个基点，至1.290%。",
+          "url": "https://flash.jin10.com/detail/20260212082220747800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
           "url": "https://wallstreetcn.com/livenews/3053969",
           "source": "华尔街见闻-快讯",
@@ -1087,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：正以高度紧迫感密切关注市场动态，不对具体汇率水平发表评论；我们丝毫没有放松警惕；与美国当局保持密切联系。",
+          "url": "https://wallstreetcn.com/livenews/3054055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国能源部：美国能源部长赖特也将访问委内瑞拉的部分油田。",
@@ -1109,6 +1233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "日本5年期国债收益率下跌2.5个基点，至1.675%。",
+          "url": "https://flash.jin10.com/detail/20260212082213746800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国政府发放一批通用许可证，允许多家油田服务公司可以在特定限制条件下进入委内瑞拉展开业务。",
@@ -1144,6 +1279,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "日本最高外汇事务官员三村淳：不能放松警惕。",
+          "url": "https://flash.jin10.com/detail/20260212082001271800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "数字货币市场走低，美国非农就业报告给小币种带来一波尖锐的冲高回落行情",
           "url": "https://wallstreetcn.com/livenews/3053882",
           "source": "华尔街见闻-快讯",
@@ -1172,7 +1318,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1188,6 +1334,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "日本最高外汇事务官员三村淳：与美国当局保持密切联系。",
+          "url": "https://flash.jin10.com/detail/20260212081923697800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "法国总统马克龙：美国对欧洲经济施加的关税是一种“胁迫机制”。 欧洲在激活防范措施时“反应太迟缓”。 碳边界调整机制（CBAM）是一种必要的工具，但只有使用了才会有作用。 必须继续追求平衡的贸易伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3053854",
           "source": "华尔街见闻-快讯",
@@ -1197,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：不会就外汇水平发表评论。",
+          "url": "https://flash.jin10.com/detail/20260212081914149800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国雅宝四季度净销售14.3亿美元，分析师预期13.5亿美元。 四季度调整后每股亏损0.53美元，分析师预期亏损0.48美元。 四季度调整后EBITDA为2.687亿美元，分析师预期2.403亿美元。",
@@ -1210,6 +1378,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "日本40年期国债收益率下行5.5个基点至3.67%。",
+          "url": "https://wallstreetcn.com/livenews/3054048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
           "url": "https://flash.jin10.com/detail/20260212053407550800",
           "source": "金十数据",
@@ -1219,6 +1398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：正以高度紧迫感密切关注市场。",
+          "url": "https://flash.jin10.com/detail/20260212081913369800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "摩根大通：如果美国核心CPI接近或低于分析师预期，预计标普500指数上涨的概率为70%。",
@@ -1260,7 +1450,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -1364,6 +1554,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "日本40年期国债收益率下跌5.5个基点，至3.670%。",
+          "url": "https://flash.jin10.com/detail/20260212081056936800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美国2月6日当周EIA精炼厂设备利用率变化 -1.1%，预期 -0.5%，前值 -0.4%。",
           "url": "https://wallstreetcn.com/livenews/3053846",
           "source": "华尔街见闻-快讯",
@@ -1430,6 +1631,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "春运首周 中国境内往返日本旅客量同比下降约54%",
+          "url": "https://wallstreetcn.com/livenews/3054040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "专家：美国封锁下古巴陷入至暗时刻",
           "url": "https://www.toutiao.com/trending/7605551826205445675/",
           "source": "今日头条",
@@ -1474,6 +1686,17 @@
           "time_info": "00时52分"
         },
         {
+          "title": "日本30年期国债收益率下行5个基点至3.445%。",
+          "url": "https://wallstreetcn.com/livenews/3054039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "美国大使馆：美国能源部长赖特抵达加拉加斯。",
           "url": "https://flash.jin10.com/detail/20260211235905121800",
           "source": "金十数据",
@@ -1494,6 +1717,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌5.5个基点，至3.440%。",
+          "url": "https://flash.jin10.com/detail/20260212080058499800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "美国10年期国债收益率在国债拍卖后走高，最新报4.168%，上涨2.3个基点。",
@@ -1529,6 +1763,28 @@
           "time_info": "02时56分"
         },
         {
+          "title": "日本1月国内企业商品物价指数环比 0.2%，预期 0.2%，前值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3054036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "日本1月国内企业商品物价指数年率 2.3%，预期2.30%，前值2.40%。",
+          "url": "https://flash.jin10.com/detail/20260212075004459800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
           "title": "白宫经济委员会主任哈塞特：美联储还有大量降息空间。 人们放弃观望，投身劳动力市场。 高水平的薪资增速驱使人们进入就业市场。 通胀数据将是美联储做决定的关键。 预计美国GDP将在今年增长4%-5%。",
           "url": "https://wallstreetcn.com/livenews/3053838",
           "source": "华尔街见闻-快讯",
@@ -1538,12 +1794,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "日本1月国内企业商品物价指数同比 2.3%，预期 2.3%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3054035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -1558,29 +1825,43 @@
           "time_info": "[00时52分 ~ 05时25分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
+        },
+        {
           "title": "最癫的AI赛博榨菜",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
           "source": "bilibili 热搜",
           "ranks": [
             1,
             8,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            6
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -1591,19 +1872,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
-        },
-        {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1613,8 +1883,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 09时08分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时08分]"
         },
         {
           "title": "如何评价《明日方舟》2026 新年活动 Side Story《辞岁行》剧情?",
@@ -1641,17 +1923,6 @@
           "time_info": "05时25分"
         },
         {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
           "title": "马斯克重组xAI 拟设四大核心板块",
           "url": "https://flash.jin10.com/detail/20260212043905187800",
           "source": "金十数据",
@@ -1661,6 +1932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "五角大楼施压AI巨头 力求在机密网络无限制部署大模型",
+          "url": "https://flash.jin10.com/detail/20260212084523268800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -1713,6 +1995,28 @@
           "time_info": "[02时56分 ~ 04时28分]"
         },
         {
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
+          "url": "https://wallstreetcn.com/articles/3765478",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3053889",
           "source": "华尔街见闻-快讯",
@@ -1723,6 +2027,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时56分]"
+        },
+        {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "四川女生相亲焦虑获AI高能量安慰",
+          "url": "https://www.toutiao.com/trending/7605518522093371418/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "据Business Insider：马斯克在周二深夜主持xAI全体员工会议，讨论公司的重组事宜。",
@@ -1789,6 +2115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "华泰证券：字节seedance2.0出圈，AI视频迎工业化奇点",
+          "url": "https://wallstreetcn.com/livenews/3054043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "白宫经济委员会主任哈塞特：AI繁荣能驱动生产力和经济增速。",
