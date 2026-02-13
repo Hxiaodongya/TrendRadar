@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T06:22:35.566479+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-02-14T07:21:20.712875+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 111,
+      "match_count": 116,
       "titles": [
         {
           "title": "王毅与美国务卿鲁比奥会谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "息事宁人?日本释放中国船长",
@@ -27,19 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
-        },
-        {
-          "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
-          "url": "https://www.zhihu.com/question/2005639895000044849",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "王毅与美国务卿鲁比奥会谈",
@@ -50,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "美国1月CPI同比2.4%低于预期，核心CPI降至四年来最低水平",
@@ -60,11 +49,24 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
+          "url": "https://www.zhihu.com/question/2005639895000044849",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -74,11 +76,12 @@
             4,
             6,
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "外交部回应日本扣押中国渔船",
@@ -93,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -105,8 +108,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -116,8 +119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -127,8 +130,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "太猖狂!日本扣押中国渔船",
@@ -139,8 +142,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "中方正协助被日本扣押中国船员返回",
@@ -151,8 +154,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -163,8 +166,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：希望与伊朗达成协议。",
@@ -175,8 +178,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：与伊朗一直很难达成协议。",
@@ -187,19 +190,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时22分]"
-        },
-        {
-          "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3055385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
         },
         {
           "title": "台湾艺人在郑州做主播：日子有奔头儿",
@@ -209,11 +201,23 @@
             26,
             18,
             15,
-            24
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团宣布，事件合约成交量达到1亿手。",
+          "url": "https://wallstreetcn.com/livenews/3055396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "市场消息：美国商务部初步支持一家矿业企业的申请，对进口俄罗斯钯金征收近133%的反倾销税。",
@@ -225,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国五角大楼在强行掳走委内瑞拉总统马杜罗的过程中使用了Anthropic的Claude模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3055395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "伊朗外长：内塔尼亚胡是战争贩子",
@@ -260,15 +275,26 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国银行将CEO Moynihan年薪从3500万美元提高至4100万美元。",
-          "url": "https://wallstreetcn.com/livenews/3055382",
+          "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
+          "url": "https://wallstreetcn.com/livenews/3055394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "13F报告显示：安大略省教师退休基金会（OTPP）四季度建仓做多Meta等。 增持iShares iBoxx $高收益公司债ETF、英伟达、罗克韦尔自动化、迪士尼等。 清仓霍尼韦尔、微软、Pinterest、礼来制药等。 减持小马智行、AT&T、美国银行等。 重仓资产包括GFL Environment、iShares iBoxx $高收益公司债ETF、Capital One、沃尔玛、Salesforce。",
+          "url": "https://wallstreetcn.com/livenews/3055392",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
           "title": "据美国政治新闻网站Politico：美国卫生与公众服务部部长小罗伯特·F·肯尼迪的高级助手将离职。",
@@ -280,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "美国零售商Lowe’s裁掉600名企业员工和支持岗位。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3055381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -321,6 +336,19 @@
           "time_info": "[01时34分 ~ 04时25分]"
         },
         {
+          "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
           "url": "https://wallstreetcn.com/livenews/3055317",
           "source": "华尔街见闻-快讯",
@@ -349,6 +377,41 @@
           "time_info": "[01时34分 ~ 04时25分]"
         },
         {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
+        },
+        {
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
+        },
+        {
+          "title": "亚马逊支持的核能公司X-Energy Reactor Co.的核反应堆燃料获得美国监管机构批准。",
+          "url": "https://flash.jin10.com/detail/20260214033606451800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时21分]"
+        },
+        {
           "title": "美国总统特朗普重申：与北约关系良好。",
           "url": "https://wallstreetcn.com/livenews/3055341",
           "source": "华尔街见闻-快讯",
@@ -375,6 +438,32 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
+          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
+          "url": "https://wallstreetcn.com/livenews/3055361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时21分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持美元净多头头寸创2025年6月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3055360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时21分]"
+        },
+        {
           "title": "英媒：美国务卿鲁比奥缺席慕尼黑乌克兰会议",
           "url": "https://flash.jin10.com/detail/20260214021709000800",
           "source": "金十数据",
@@ -387,6 +476,18 @@
           "time_info": "[02时31分 ~ 03时35分]"
         },
         {
+          "title": "美国国土安全部（DHS）围绕移民与海关执法局（ICE）追踪问题传唤谷歌、Meta、Reddit、以及Discord。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3055385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "文件显示，美国航空(AAL.O)寻求批准从迈阿密运营飞往加拉加斯和马拉开波的美国航班。",
           "url": "https://flash.jin10.com/detail/20260214021608055800",
           "source": "金十数据",
@@ -397,30 +498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时35分]"
-        },
-        {
-          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
-          "url": "https://wallstreetcn.com/livenews/3055361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持美元净多头头寸创2025年6月份以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3055360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时22分]"
         },
         {
           "title": "据美国政治新闻网站Politico：美国卫生与公众服务部副部长吉姆·奥尼尔和总法律顾问迈克·斯图尔特将卸任现任职务。",
@@ -447,6 +524,18 @@
           "time_info": "[00时32分 ~ 01时34分]"
         },
         {
+          "title": "美国银行将CEO Moynihan年薪从3500万美元提高至4100万美元。",
+          "url": "https://wallstreetcn.com/livenews/3055382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "美国2月13日当周天然气钻井数 133，前值 130。",
           "url": "https://wallstreetcn.com/livenews/3055329",
           "source": "华尔街见闻-快讯",
@@ -459,6 +548,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 05时26分]"
+        },
+        {
+          "title": "美国零售商Lowe’s裁掉600名企业员工和支持岗位。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3055381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "美国2月13日当周石油钻井数 409，前值 412。",
@@ -489,51 +590,15 @@
           "time_info": "[02时31分 ~ 05时26分]"
         },
         {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
+          "title": "波兰外长：美国在俄乌冲突中获利却不让欧洲拥有发言权",
+          "url": "https://flash.jin10.com/detail/20260214031755987800",
+          "source": "金十数据",
           "ranks": [
-            9,
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时22分]"
-        },
-        {
-          "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时22分]"
-        },
-        {
-          "title": "美国总统特朗普：通胀报告非常棒。",
-          "url": "https://flash.jin10.com/detail/20260214023609797800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时22分]"
-        },
-        {
-          "title": "亚马逊支持的核能公司X-Energy Reactor Co.的核反应堆燃料获得美国监管机构批准。",
-          "url": "https://flash.jin10.com/detail/20260214033606451800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时22分]"
+          "time_info": "[04时25分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -562,17 +627,6 @@
           "time_info": "[02时31分 ~ 04时25分]"
         },
         {
-          "title": "波兰外长：美国在俄乌冲突中获利却不让欧洲拥有发言权",
-          "url": "https://flash.jin10.com/detail/20260214031755987800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 06时22分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持NYMEX WTI原油净多头头寸增加5,937手合约，至86,314手合约，创逾六个月新高。 所持布伦特和WTI原油净多头头寸增至365,366手合约，创大约八个月新高。 所持NYMEX汽油净多头头寸增至80,056手合约，创逾两个月新高。",
           "url": "https://wallstreetcn.com/livenews/3055356",
           "source": "华尔街见闻-快讯",
@@ -583,6 +637,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "美国贸易代表办公室：美国和厄瓜多尔料将在未来几周签署贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3055380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "美国拟对俄罗斯钯金征收133%初步反倾销税",
@@ -607,6 +673,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
+          "url": "https://wallstreetcn.com/livenews/3055379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -643,6 +721,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 02时31分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款18.719万亿美元，之前一周18.645万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3055376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3055375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "美国总统特朗普：当前谈判格陵兰问题。",
@@ -705,6 +807,18 @@
           "time_info": "[01时34分 ~ 02时31分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
+          "url": "https://wallstreetcn.com/livenews/3055367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "波兰外长：美国在俄乌冲突中获利却不让欧洲拥有发言权",
           "url": "https://wallstreetcn.com/livenews/3055349",
           "source": "华尔街见闻-快讯",
@@ -726,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "美国贸易代表办公室：美国和厄瓜多尔料将在未来几周签署贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3055380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "美国国土安全部：终止也门的临时保护身份。",
@@ -761,17 +864,6 @@
           "time_info": "01时34分"
         },
         {
-          "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
-          "url": "https://wallstreetcn.com/livenews/3055379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
           "url": "https://flash.jin10.com/detail/20260214005802211800",
           "source": "金十数据",
@@ -781,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
@@ -816,17 +919,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美联储：美国上周银行存款18.719万亿美元，之前一周18.645万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3055376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
           "url": "https://flash.jin10.com/detail/20260214005621423800",
           "source": "金十数据",
@@ -847,17 +939,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
-          "url": "https://wallstreetcn.com/livenews/3055375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "美国终止也门公民的临时保护身份。",
@@ -1012,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
-          "url": "https://wallstreetcn.com/livenews/3055367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "纽约联储GDPNow模型显示，美国2025年第四季度经济增速预期为2.71%（此前为2.69%）；2026年第一季度为2.63%（此前为2.59%）。",
@@ -1303,7 +1373,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -1313,8 +1383,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -1322,11 +1392,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -1337,8 +1408,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -1349,8 +1420,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -1361,8 +1432,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -1372,8 +1443,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -1386,8 +1457,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -1439,11 +1510,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时35分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时35分 ~ 07时21分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -1459,6 +1531,30 @@
           "time_info": "[02时31分 ~ 04时25分]"
         },
         {
+          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
+          "url": "https://wallstreetcn.com/livenews/3055377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
+          "url": "https://www.zhihu.com/question/1969140298404853132",
+          "source": "知乎",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
           "url": "https://flash.jin10.com/detail/20260214020718488800",
           "source": "金十数据",
@@ -1470,15 +1566,15 @@
           "time_info": "02时31分"
         },
         {
-          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
-          "url": "https://wallstreetcn.com/livenews/3055377",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -1490,17 +1586,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
-          "url": "https://www.zhihu.com/question/1969140298404853132",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "FTC升级对微软反垄断调查，向竞争对手质询云与AI业务",
