@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:35:26.071129+08:00",
-  "total_titles_processed": 2020,
+  "generated_at": "2026-02-13T23:32:57.649970+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 252,
+      "match_count": 265,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 22时35分]"
+          "appearance_count": 10,
+          "time_info": "[16时31分 ~ 23时32分]"
         },
         {
           "title": "美国涉爱泼斯坦案听证会吵成一团，美司法部长与国会议员对喷 5 小时，庭审中透露了哪些关键信息？",
@@ -57,6 +57,17 @@
           "time_info": "[00时45分 ~ 09时11分]"
         },
         {
+          "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
+          "url": "https://www.zhihu.com/question/2005639895000044849",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时30分 ~ 23时32分]"
+        },
+        {
           "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
           "url": "https://m.thepaper.cn/newsDetail_forward_32583664",
           "source": "澎湃新闻",
@@ -71,17 +82,6 @@
           "time_info": "[03时44分 ~ 13时53分]"
         },
         {
-          "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
-          "url": "https://www.zhihu.com/question/2005639895000044849",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时30分 ~ 22时35分]"
-        },
-        {
           "title": "中方回应日本扣押中国渔船",
           "url": "https://news.ifeng.com/c/8qiCGsBqPHB",
           "source": "凤凰网",
@@ -92,6 +92,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[17时33分 ~ 22时35分]"
+        },
+        {
+          "title": "太猖狂!日本扣押中国渔船",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时32分]"
         },
         {
           "title": "让美国造船业再次伟大？美媒：韩国人自己都不想干",
@@ -133,18 +145,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时45分 ~ 14时45分]"
-        },
-        {
-          "title": "太猖狂!日本扣押中国渔船",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 22时35分]"
         },
         {
           "title": "中方回应日本扣押中国渔船",
@@ -221,6 +221,17 @@
           "time_info": "[02时45分 ~ 09时11分]"
         },
         {
+          "title": "王毅与美国务卿鲁比奥会谈",
+          "url": "https://www.toutiao.com/trending/7605305923930718218/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时32分]"
+        },
+        {
           "title": "日媒：日本扣押一艘中国渔船，船长被逮捕",
           "url": "https://news.ifeng.com/c/8qhsTBfhicI",
           "source": "凤凰网",
@@ -243,17 +254,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时10分 ~ 16时31分]"
-        },
-        {
-          "title": "王毅与美国务卿鲁比奥会谈",
-          "url": "https://www.toutiao.com/trending/7605305923930718218/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "美国原油期货收跌约2.8%",
@@ -280,15 +280,15 @@
           "time_info": "19时24分"
         },
         {
-          "title": "美国通胀超预期降温，市场押注年内三次降息概率对半开",
-          "url": "https://flash.jin10.com/detail/20260213221551842800",
+          "title": "美国联邦贸易委员会（FTC）加大对微软(MSFT.O)的调查力度，就云和人工智能问题向竞争对手取证。",
+          "url": "https://flash.jin10.com/detail/20260213231654274800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时35分"
+          "time_info": "23时32分"
         },
         {
           "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。",
@@ -308,9 +308,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.douyin.com/hot/2399989",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "两艘美国海军舰船相撞致2伤",
@@ -403,7 +414,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -417,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "美国国防部就采购流程改革寻求业界意见。",
+          "url": "https://flash.jin10.com/detail/20260213230957744800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美国海军两舰艇在南美洲附近海域相撞，2 人受伤，反映出其舰艇管理存在哪些问题？",
@@ -495,6 +517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "美国财政部发布与委内瑞拉相关的通用许可证，允许部分涉及委内瑞拉国家石油公司的交易。美国授权就某些委内瑞拉投资展开谈判。",
+          "url": "https://flash.jin10.com/detail/20260213230441630800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美联储理事米兰：美国财政前景正在改善且经济增长表现强劲，这进一步巩固了美元的储备货币地位。",
@@ -630,6 +663,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 13时53分]"
+        },
+        {
+          "title": "美国通胀超预期降温，市场押注年内三次降息概率对半开",
+          "url": "https://flash.jin10.com/detail/20260213221551842800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时35分 ~ 23时32分]"
         },
         {
           "title": "日本央行审议委员田村直树：我一直认为日本的中性利率至少在1%左右，但要注意的是，衡量方法不同则估值也会存在差异。",
@@ -860,6 +905,18 @@
           "time_info": "[21时55分 ~ 22时35分]"
         },
         {
+          "title": "王毅与美国务卿鲁比奥会谈",
+          "url": "https://www.douyin.com/hot/2399915",
+          "source": "抖音",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时35分 ~ 23时32分]"
+        },
+        {
           "title": "岚目镜观｜从执政美国到选举美国：2026中期选举与“两个美国”的另一面相",
           "url": "https://m.thepaper.cn/newsDetail_forward_32584344",
           "source": "澎湃新闻",
@@ -883,6 +940,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时10分 ~ 14时45分]"
+        },
+        {
+          "title": "伊朗外长：内塔尼亚胡是战争贩子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596568",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时32分]"
         },
         {
           "title": "台湾艺人在郑州做主播：日子有奔头儿",
@@ -1293,17 +1362,6 @@
           "time_info": "[03时44分 ~ 04时23分]"
         },
         {
-          "title": "伊朗外长：内塔尼亚胡是战争贩子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32596568",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时35分]"
-        },
-        {
           "title": "美国总统特朗普：只要我想谈，我就和他们谈。",
           "url": "https://flash.jin10.com/detail/20260213030534579800",
           "source": "金十数据",
@@ -1388,6 +1446,17 @@
           "time_info": "[05时24分 ~ 06时21分]"
         },
         {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://news.ifeng.com/c/8qidID0KDkk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国司法部反垄断主管盖尔·斯莱特宣布辞职。",
           "url": "https://flash.jin10.com/detail/20260213000446781800",
           "source": "金十数据",
@@ -1441,6 +1510,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.toutiao.com/trending/7605877620357516836/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "中方正协助被日本扣押中国船员返回",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%8D%8F%E5%8A%A9%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%91%98%E8%BF%94%E5%9B%9E",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "据华尔街日报：美国在镇压抗议活动后向伊朗输送了数千台星链终端设备。",
@@ -1509,6 +1600,17 @@
           "time_info": "20时32分"
         },
         {
+          "title": "美国授权针对特定的委内瑞拉投资的谈判。 美国允许与委内瑞拉石油公司PDVSA相关的某些交易。",
+          "url": "https://wallstreetcn.com/livenews/3055269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "据华尔街日报：美国官员表示，特朗普政府上月秘密向伊朗输送了数千台星链终端。",
           "url": "https://flash.jin10.com/detail/20260213000356551800",
           "source": "金十数据",
@@ -1559,7 +1661,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -1597,6 +1699,17 @@
           "time_info": "21时55分"
         },
         {
+          "title": "货币市场预计，欧洲央行在12月之前降息的可能性为40%，而在公布美国CPI数据之前，这一概率仅为30%。",
+          "url": "https://flash.jin10.com/detail/20260213225406614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国30年期国债收益率拍卖后延续跌势，降至4.759%，下跌5.5个基点。",
           "url": "https://flash.jin10.com/detail/20260213020333679800",
           "source": "金十数据",
@@ -1628,6 +1741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
+          "url": "https://wallstreetcn.com/livenews/3055266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "美联储：截至2月11日当周，经季节性调整后，美国商业票据余额增加197亿美元，至1.431万亿美元。未经季节性调整的商业票据余额减少45亿美元，至1.413万亿美元。未经季节性调整的外国金融类商业票据余额增加25亿美元，至3952亿美元。",
@@ -1669,7 +1793,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -1768,7 +1892,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -1881,6 +2005,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "加拿大安桥管道公司（Enbridge）：即使更多委内瑞拉石油流入美国，对加拿大原油的需求仍在增长。",
+          "url": "https://flash.jin10.com/detail/20260213224039072800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.09%，前值6.10%。",
@@ -1999,7 +2134,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -2037,6 +2172,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "美国社交媒体成瘾案开庭审理：家长控诉社媒诱导孩子自杀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596351",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产降至7.77 万亿美元。",
           "url": "https://flash.jin10.com/detail/20260213041622233800",
           "source": "金十数据",
@@ -2068,17 +2214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "王毅与美国务卿鲁比奥会谈",
-          "url": "https://www.douyin.com/hot/2399915",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
         },
         {
           "title": "临时拨款到期 美国土安全部将于13日晚停摆",
@@ -2142,7 +2277,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -2219,7 +2354,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -2373,7 +2508,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -2904,12 +3039,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时55分"
+        },
+        {
+          "title": "美国重要共和党参议员Tillis仍拒绝推进沃什的美联储主席提名",
+          "url": "https://wallstreetcn.com/livenews/3055244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -2919,8 +3065,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时11分 ~ 22时35分]"
+          "appearance_count": 17,
+          "time_info": "[09时11分 ~ 23时32分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -2936,6 +3082,19 @@
           "time_info": "[00时45分 ~ 09时11分]"
         },
         {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时31分 ~ 23时32分]"
+        },
+        {
           "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
           "source": "澎湃新闻",
@@ -2949,19 +3108,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[09时11分 ~ 20时32分]"
-        },
-        {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 22时35分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -3008,8 +3154,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时10分 ~ 22时35分]"
+          "appearance_count": 16,
+          "time_info": "[12时10分 ~ 23时32分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时33分 ~ 23时32分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -3034,8 +3193,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时11分 ~ 22时35分]"
+          "appearance_count": 16,
+          "time_info": "[09时11分 ~ 23时32分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -3046,8 +3205,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时42分 ~ 22时35分]"
+          "appearance_count": 12,
+          "time_info": "[15时42分 ~ 23时32分]"
         },
         {
           "title": "杭州大哥开1人公司靠AI月入200万",
@@ -3071,11 +3230,28 @@
             18,
             17,
             14,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时42分 ~ 22时35分]"
+          "appearance_count": 12,
+          "time_info": "[15时42分 ~ 23时32分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23,
+            18,
+            20,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时42分 ~ 23时32分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -3087,19 +3263,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 09时11分]"
-        },
-        {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时33分 ~ 22时35分]"
         },
         {
           "title": "杭州大哥开1人公司靠AI月入200万",
@@ -3148,22 +3311,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 07时19分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            18,
-            20,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时42分 ~ 22时35分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -3279,15 +3426,37 @@
           "time_info": "[00时45分 ~ 05时24分]"
         },
         {
+          "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
+          "url": "https://wallstreetcn.com/livenews/3055274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "据知情人士透露，Shield AI（护盾人工智能）洽谈按120亿美元估值融资10亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3055240",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
+        },
+        {
+          "title": "美国劳工部寻求为工人提高AI培训。（Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3055273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
@@ -3296,7 +3465,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -3636,6 +3805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
+          "url": "https://wallstreetcn.com/livenews/3055261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
