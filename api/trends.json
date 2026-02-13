@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T02:31:38.041106+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-02-14T03:35:23.672122+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 84,
+      "match_count": 95,
       "titles": [
         {
           "title": "王毅与美国务卿鲁比奥会谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "息事宁人?日本释放中国船长",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "王毅与美国务卿鲁比奥会谈",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -62,19 +62,46 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
-          "title": "英媒：美国务卿鲁比奥缺席慕尼黑乌克兰会议",
-          "url": "https://flash.jin10.com/detail/20260214021709000800",
+          "title": "美国1月CPI同比2.4%低于预期，核心CPI降至四年来最低水平",
+          "url": "https://wallstreetcn.com/articles/3765700",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
+        },
+        {
+          "title": "外交部回应日本扣押中国渔船",
+          "url": "https://www.douyin.com/hot/2399431",
+          "source": "抖音",
+          "ranks": [
+            2,
+            8,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
+        },
+        {
+          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
+          "url": "https://flash.jin10.com/detail/20260214031056570800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时35分"
         },
         {
           "title": "市场消息：美国商务部初步支持一家矿业企业的申请，对进口俄罗斯钯金征收近133%的反倾销税。",
@@ -88,28 +115,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "文件显示，美国航空(AAL.O)寻求批准从迈阿密运营飞往加拉加斯和马拉开波的美国航班。",
-          "url": "https://flash.jin10.com/detail/20260214021608055800",
-          "source": "金十数据",
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://news.ifeng.com/c/8qidID0KDkk",
+          "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "外交部回应日本扣押中国渔船",
-          "url": "https://www.douyin.com/hot/2399431",
-          "source": "抖音",
-          "ranks": [
-            2,
-            8,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "伊朗外长：内塔尼亚胡是战争贩子",
@@ -134,15 +148,70 @@
           "time_info": "01时34分"
         },
         {
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
           "url": "https://wallstreetcn.com/livenews/3055332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.toutiao.com/trending/7605877620357516836/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E8%A2%AB%E6%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "美国总统特朗普重申：与北约关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3055341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "据美国政治新闻网站Politico：美国卫生与公众服务部部长小罗伯特·F·肯尼迪的高级助手将离职。",
@@ -156,37 +225,42 @@
           "time_info": "00时32分"
         },
         {
-          "title": "日本释放被捕的中国渔船船长",
-          "url": "https://news.ifeng.com/c/8qidID0KDkk",
-          "source": "凤凰网",
+          "title": "太猖狂!日本扣押中国渔船",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
+          "source": "贴吧",
           "ranks": [
-            6
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
-          "title": "日本释放被捕的中国渔船船长",
-          "url": "https://www.toutiao.com/trending/7605877620357516836/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "日本释放被捕的中国渔船船长",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E8%A2%AB%E6%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF",
+          "title": "台湾艺人在郑州做主播：日子有奔头儿",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E5%9C%A8%E9%83%91%E5%B7%9E%E5%81%9A%E4%B8%BB%E6%92%AD%EF%BC%9A%E6%97%A5%E5%AD%90%E6%9C%89%E5%A5%94%E5%A4%B4%E5%84%BF",
           "source": "百度热搜",
           "ranks": [
-            7
+            26,
+            18,
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
+        },
+        {
+          "title": "中方正协助被日本扣押中国船员返回",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%8D%8F%E5%8A%A9%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%91%98%E8%BF%94%E5%9B%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -194,23 +268,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时31分]"
-        },
-        {
-          "title": "美国1月CPI同比2.4%低于预期，核心CPI降至四年来最低水平",
-          "url": "https://wallstreetcn.com/articles/3765700",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时35分]"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
@@ -218,11 +281,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时35分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
@@ -230,11 +294,49 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时35分]"
+        },
+        {
+          "title": "英媒：美国务卿鲁比奥缺席慕尼黑乌克兰会议",
+          "url": "https://flash.jin10.com/detail/20260214021709000800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时31分]"
+          "time_info": "[02时31分 ~ 03时35分]"
+        },
+        {
+          "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
+          "url": "https://wallstreetcn.com/livenews/3055316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 03时35分]"
+        },
+        {
+          "title": "文件显示，美国航空(AAL.O)寻求批准从迈阿密运营飞往加拉加斯和马拉开波的美国航班。",
+          "url": "https://flash.jin10.com/detail/20260214021608055800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
         },
         {
           "title": "据美国政治新闻网站Politico：美国卫生与公众服务部副部长吉姆·奥尼尔和总法律顾问迈克·斯图尔特将卸任现任职务。",
@@ -261,52 +363,16 @@
           "time_info": "[00时32分 ~ 01时34分]"
         },
         {
-          "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
-          "url": "https://wallstreetcn.com/livenews/3055316",
+          "title": "美国2月13日当周天然气钻井数 133，前值 130。",
+          "url": "https://wallstreetcn.com/livenews/3055329",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时31分]"
-        },
-        {
-          "title": "太猖狂!日本扣押中国渔船",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "台湾艺人在郑州做主播：日子有奔头儿",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA%E5%9C%A8%E9%83%91%E5%B7%9E%E5%81%9A%E4%B8%BB%E6%92%AD%EF%BC%9A%E6%97%A5%E5%AD%90%E6%9C%89%E5%A5%94%E5%A4%B4%E5%84%BF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            18,
+            6,
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "中方正协助被日本扣押中国船员返回",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%8D%8F%E5%8A%A9%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%91%98%E8%BF%94%E5%9B%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
         },
         {
           "title": "美国拟对俄罗斯钯金征收133%初步反倾销税",
@@ -321,6 +387,18 @@
           "time_info": "[01时34分 ~ 02时31分]"
         },
         {
+          "title": "美国2月13日当周石油钻井数 409，前值 412。",
+          "url": "https://wallstreetcn.com/livenews/3055328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
+        },
+        {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
           "url": "https://wallstreetcn.com/livenews/3055310",
           "source": "华尔街见闻-快讯",
@@ -331,6 +409,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 02时31分]"
+        },
+        {
+          "title": "美国2月13日当周总钻井数 551，前值 551。",
+          "url": "https://wallstreetcn.com/livenews/3055327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
         },
         {
           "title": "美国三大股指悉数转跌，纳指跌超0.3%。",
@@ -355,6 +445,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 02时31分]"
+        },
+        {
+          "title": "日本宣布针对越南的、价值100亿美元的日元贷款，用于越南铁路线和天然气工厂。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3055326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
         },
         {
           "title": "美国总统特朗普：当前谈判格陵兰问题。",
@@ -416,17 +518,6 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美国2月13日当周天然气钻井数 133，前值 130。",
-          "url": "https://wallstreetcn.com/livenews/3055329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
           "title": "美国国土安全部：终止也门的临时保护身份。",
           "url": "https://flash.jin10.com/detail/20260214000237042800",
           "source": "金十数据",
@@ -449,15 +540,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美国2月13日当周石油钻井数 409，前值 412。",
-          "url": "https://wallstreetcn.com/livenews/3055328",
+          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时35分"
         },
         {
           "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
@@ -471,15 +562,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "美国2月13日当周总钻井数 551，前值 551。",
-          "url": "https://wallstreetcn.com/livenews/3055327",
-          "source": "华尔街见闻-快讯",
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时35分"
         },
         {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
@@ -510,20 +601,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
         {
-          "title": "日本宣布针对越南的、价值100亿美元的日元贷款，用于越南铁路线和天然气工厂。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3055326",
-          "source": "华尔街见闻-快讯",
+          "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时35分"
         },
         {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
@@ -543,7 +634,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -576,7 +667,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -609,7 +700,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -653,7 +744,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -686,9 +777,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "美国最高法院定于2月20日宣判，关税悬案再次进入倒计时",
@@ -708,7 +810,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -741,7 +843,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -755,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "波兰外长：美国在俄乌冲突中获利却不让欧洲拥有发言权",
+          "url": "https://wallstreetcn.com/livenews/3055349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "据Politico援引两名美国卫生与公众服务部官员及匿名人士报道，副部长奥尼尔已被提供政府内其他职位。",
@@ -774,7 +887,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -801,6 +914,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国联邦航空管理局（FAA）：美国航空公司必须证明其飞行员招聘基于择优录用，否则将面临联邦航空管理局的调查。",
+          "url": "https://flash.jin10.com/detail/20260214022756186800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
           "title": "美国国防部就采购流程改革寻求业界意见。",
           "url": "https://flash.jin10.com/detail/20260213230957744800",
           "source": "金十数据",
@@ -818,7 +942,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -840,9 +964,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美国法官下令特朗普政府协助一名因违反法院命令而被驱逐至洪都拉斯的大学生返美。",
+          "url": "https://flash.jin10.com/detail/20260214022214783800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
           "title": "美国财政部发布与委内瑞拉相关的通用许可证，允许部分涉及委内瑞拉国家石油公司的交易。美国授权就某些委内瑞拉投资展开谈判。",
@@ -862,7 +997,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -873,7 +1008,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -895,7 +1030,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -917,7 +1052,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -939,7 +1074,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
@@ -950,7 +1085,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         }
@@ -958,7 +1093,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "小伙5个月用AI做120多个App",
@@ -968,8 +1103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -979,8 +1114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -991,30 +1126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
-        },
-        {
-          "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
-          "url": "https://wallstreetcn.com/livenews/3055331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
-          "url": "https://wallstreetcn.com/livenews/3055330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -1025,8 +1138,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -1037,8 +1150,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -1048,8 +1161,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -1061,8 +1174,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -1071,11 +1184,48 @@
           "ranks": [
             24,
             21,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 03时35分]"
+        },
+        {
+          "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
+          "url": "https://wallstreetcn.com/livenews/3055331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
+        },
+        {
+          "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
+          "url": "https://wallstreetcn.com/livenews/3055330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
+        },
+        {
+          "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
+          "url": "https://wallstreetcn.com/livenews/3055325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 03时35分]"
         },
         {
           "title": "市场消息：OpenAI的语音控制技术被选中用于美国无人机集群竞赛。",
@@ -1084,20 +1234,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         },
         {
-          "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
-          "url": "https://wallstreetcn.com/livenews/3055325",
-          "source": "华尔街见闻-快讯",
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "03时35分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
