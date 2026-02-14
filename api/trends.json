@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T21:38:04.220098+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-02-14T22:18:25.601502+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 180,
+      "match_count": 183,
       "titles": [
         {
           "title": "王毅会见美国国务卿鲁比奥",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时01分 ~ 21时38分]"
+          "appearance_count": 16,
+          "time_info": "[12时01分 ~ 22时18分]"
         },
         {
           "title": "王毅与美国务卿鲁比奥会谈",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 21时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时18分]"
         },
         {
           "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
@@ -74,8 +74,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时04分 ~ 21时38分]"
+          "appearance_count": 17,
+          "time_info": "[09时04分 ~ 22时18分]"
         },
         {
           "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
@@ -105,11 +105,12 @@
             15,
             16,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 21时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时18分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -212,11 +213,12 @@
             21,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 21时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时18分]"
         },
         {
           "title": "美国气候政策发生“最重大逆转”",
@@ -240,6 +242,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "鲁比奥：美国不希望盟友变软弱",
+          "url": "https://news.ifeng.com/c/8qk7rgCde5e",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时23分 ~ 22时18分]"
         },
         {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
@@ -281,17 +294,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 09时04分]"
-        },
-        {
-          "title": "鲁比奥：美国不希望盟友变软弱",
-          "url": "https://news.ifeng.com/c/8qk7rgCde5e",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时23分 ~ 21时38分]"
         },
         {
           "title": "中方回应日本选举称「一些深层次、结构性的问题等值得日本各界有识之士和国际社会深思」，如何理解？",
@@ -347,6 +349,29 @@
           "time_info": "[03时35分 ~ 09时04分]"
         },
         {
+          "title": "台湾恐付出高昂代价！马英九：对美立场硬起来才能获尊重",
+          "url": "https://news.ifeng.com/c/8qk3DD1GRmg",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 22时18分]"
+        },
+        {
+          "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：对美国国务卿鲁比奥在慕尼黑会议上的演讲“深感安心”。",
           "url": "https://flash.jin10.com/detail/20260214175304256800",
           "source": "金十数据",
@@ -360,6 +385,28 @@
           "time_info": "[18时16分 ~ 20时24分]"
         },
         {
+          "title": "王毅：日本若要再赌一次，只会输得更惨",
+          "url": "https://news.ifeng.com/c/8qkAXaA7HZu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美国务卿：古巴的唯一出路是开放经济",
+          "url": "https://flash.jin10.com/detail/20260214212442292800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
           "source": "澎湃新闻",
@@ -370,17 +417,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时35分 ~ 09时04分]"
-        },
-        {
-          "title": "台湾恐付出高昂代价！马英九：对美立场硬起来才能获尊重",
-          "url": "https://news.ifeng.com/c/8qk3DD1GRmg",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 21时38分]"
         },
         {
           "title": "市场消息：美国商务部初步支持一家矿业企业的申请，对进口俄罗斯钯金征收近133%的反倾销税。",
@@ -425,17 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "美国2月13日当周高收益公司债销售160亿美元，之前一周供应56.9亿美元；发行人9家。 2月份迄今，垃圾债累计供应217亿美元，1月同期174亿美元。 2026年迄今，高收益债券累计发行591亿美元，上年同期发行457亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "日本试探中国底线",
@@ -483,17 +508,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
           "url": "https://flash.jin10.com/detail/20260214165909253800",
           "source": "金十数据",
@@ -520,6 +534,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时34分 ~ 04时25分]"
+        },
+        {
+          "title": "王毅拿德国与日本作对比",
+          "url": "https://www.toutiao.com/trending/7605590688838811698/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时18分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
@@ -697,6 +723,19 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
+          "title": "法国外交部发言人：我们正在与美国协调，寻求加强欧洲主权。",
+          "url": "https://flash.jin10.com/detail/20260214195103840800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时18分]"
+        },
+        {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
           "url": "https://wallstreetcn.com/livenews/3055361",
           "source": "华尔街见闻-快讯",
@@ -736,6 +775,19 @@
           "time_info": "[05时26分 ~ 07时21分]"
         },
         {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时18分]"
+        },
+        {
           "title": "英媒：美国务卿鲁比奥缺席慕尼黑乌克兰会议",
           "url": "https://flash.jin10.com/detail/20260214021709000800",
           "source": "金十数据",
@@ -772,6 +824,31 @@
           "time_info": "[07时21分 ~ 09时04分]"
         },
         {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国经常询问乌克兰可以做出哪些让步，却从未这样问俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20260214193712148800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时18分]"
+        },
+        {
           "title": "文件显示，美国航空(AAL.O)寻求批准从迈阿密运营飞往加拉加斯和马拉开波的美国航班。",
           "url": "https://flash.jin10.com/detail/20260214021608055800",
           "source": "金十数据",
@@ -782,18 +859,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时35分]"
-        },
-        {
-          "title": "法国外交部发言人：我们正在与美国协调，寻求加强欧洲主权。",
-          "url": "https://flash.jin10.com/detail/20260214195103840800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时38分]"
         },
         {
           "title": "美国五角大楼在强行掳走委内瑞拉总统马杜罗的过程中使用了Anthropic的Claude模型。（华尔街日报）",
@@ -859,18 +924,6 @@
           "time_info": "[07时21分 ~ 09时04分]"
         },
         {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时38分]"
-        },
-        {
           "title": "据美国政治新闻网站Politico：美国卫生与公众服务部副部长吉姆·奥尼尔和总法律顾问迈克·斯图尔特将卸任现任职务。",
           "url": "https://flash.jin10.com/detail/20260214001212984800",
           "source": "金十数据",
@@ -881,18 +934,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时34分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国经常询问乌克兰可以做出哪些让步，却从未这样问俄罗斯。",
-          "url": "https://flash.jin10.com/detail/20260214193712148800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时38分]"
         },
         {
           "title": "美国银行策略师们认为：美国达拉斯联储主席Lorie Logan（2026年FOMC票委）对于“货币政策利率与准备金余额利率（IORB）”关系的措辞发生大幅变化，可能意味着她对理想的利率的看法出现变化。",
@@ -1046,6 +1087,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时21分 ~ 19时15分]"
+        },
+        {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时18分]"
         },
         {
           "title": "因拨款问题陷入僵局 美国国土安全部再次停摆",
@@ -1215,6 +1269,18 @@
           "time_info": "[17时21分 ~ 19时15分]"
         },
         {
+          "title": "美国要花383亿美元建拘留中心",
+          "url": "https://wallstreetcn.com/livenews/3055545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持NYMEX WTI原油净多头头寸增加5,937手合约，至86,314手合约，创逾六个月新高。 所持布伦特和WTI原油净多头头寸增至365,366手合约，创大约八个月新高。 所持NYMEX汽油净多头头寸增至80,056手合约，创逾两个月新高。",
           "url": "https://wallstreetcn.com/livenews/3055356",
           "source": "华尔街见闻-快讯",
@@ -1287,29 +1353,6 @@
           "time_info": "[01时34分 ~ 02时31分]"
         },
         {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时38分]"
-        },
-        {
-          "title": "王毅拿德国与日本作对比",
-          "url": "https://www.toutiao.com/trending/7605590688838811698/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
-        },
-        {
           "title": "美国三大股指悉数转跌，纳指跌超0.3%。",
           "url": "https://wallstreetcn.com/livenews/3055286",
           "source": "华尔街见闻-快讯",
@@ -1344,6 +1387,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "北约秘书长吕特：北约与美国在乌克兰和平谈判问题上立场一致。",
+          "url": "https://flash.jin10.com/detail/20260214203748980800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
         },
         {
           "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
@@ -1382,6 +1437,18 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "美国国务院：美国国务卿鲁比奥对叙利亚政府承诺与美国和全球联盟充分合作表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20260214203733946800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
           "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
           "url": "https://wallstreetcn.com/livenews/3055306",
           "source": "华尔街见闻-快讯",
@@ -1392,6 +1459,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 02时31分]"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥强调在叙利亚东北部落实永久停火与整合协议的重要性。",
+          "url": "https://flash.jin10.com/detail/20260214202724226800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
         },
         {
           "title": "美国总统特朗普称赞通胀下降，声称：今天发布了不错的金融数据。",
@@ -1415,6 +1494,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时14分 ~ 19时15分]"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥会见了叙利亚外交部长阿萨德·沙伊巴尼和叙利亚民主力量总司令马兹卢姆·阿卜迪。",
+          "url": "https://flash.jin10.com/detail/20260214202531771800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
         },
         {
           "title": "美国银行业围绕上诉货币监理署（OCC）监管行动提出新的路径。（Blaw）",
@@ -1453,6 +1544,42 @@
           "time_info": "[12时01分 ~ 13时09分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：希望美国继续参与谈判，也希望欧洲能更多地参与。",
+          "url": "https://flash.jin10.com/detail/20260214201021867800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
+          "title": "美国军方：使用由固定翼飞机、旋翼机和无人机投送的精确弹药，打击了伊斯兰国的基础设施和武器储存设施。",
+          "url": "https://flash.jin10.com/detail/20260214200450739800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
+          "title": "美国军方：2月3日至12日，在叙利亚对30多个“伊斯兰国”目标发动了10次空袭。",
+          "url": "https://flash.jin10.com/detail/20260214200314368800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
           "title": "波兰外长：美国在俄乌冲突中获利却不让欧洲拥有发言权",
           "url": "https://wallstreetcn.com/livenews/3055349",
           "source": "华尔街见闻-快讯",
@@ -1476,6 +1603,18 @@
           "time_info": "[13时09分 ~ 14时31分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时18分]"
+        },
+        {
           "title": "美国总统特朗普：美国是北约的重要成员。",
           "url": "https://flash.jin10.com/detail/20260214005914666800",
           "source": "金十数据",
@@ -1485,17 +1624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "美国要花383亿美元建拘留中心",
-          "url": "https://wallstreetcn.com/livenews/3055545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "美国国土安全部：终止也门的临时保护身份。",
@@ -1641,17 +1769,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "北约秘书长吕特：北约与美国在乌克兰和平谈判问题上立场一致。",
-          "url": "https://flash.jin10.com/detail/20260214203748980800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "美国终止也门公民的临时保护身份。",
           "url": "https://flash.jin10.com/detail/20260213234408953800",
           "source": "金十数据",
@@ -1729,17 +1846,6 @@
           "time_info": "20时24分"
         },
         {
-          "title": "美国国务院：美国国务卿鲁比奥对叙利亚政府承诺与美国和全球联盟充分合作表示欢迎。",
-          "url": "https://flash.jin10.com/detail/20260214203733946800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "美国或将削减关税，钢铁与铝业巨头股价应声下跌",
           "url": "https://wallstreetcn.com/livenews/3055283",
           "source": "华尔街见闻-快讯",
@@ -1784,17 +1890,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国国务院：美国国务卿鲁比奥强调在叙利亚东北部落实永久停火与整合协议的重要性。",
-          "url": "https://flash.jin10.com/detail/20260214202724226800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "美国总统特朗普赞扬美国通胀下降。",
           "url": "https://flash.jin10.com/detail/20260214005209209800",
           "source": "金十数据",
@@ -1804,17 +1899,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "美国国务院：美国国务卿鲁比奥会见了叙利亚外交部长阿萨德·沙伊巴尼和叙利亚民主力量总司令马兹卢姆·阿卜迪。",
-          "url": "https://flash.jin10.com/detail/20260214202531771800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
@@ -1861,17 +1945,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "乌克兰总统泽连斯基：希望美国继续参与谈判，也希望欧洲能更多地参与。",
-          "url": "https://flash.jin10.com/detail/20260214201021867800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "立陶宛外长：若欧盟行动迟缓，将优先与美国签署关键矿产双边协议",
           "url": "https://flash.jin10.com/detail/20260213232910284800",
           "source": "金十数据",
@@ -1905,17 +1978,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国军方：使用由固定翼飞机、旋翼机和无人机投送的精确弹药，打击了伊斯兰国的基础设施和武器储存设施。",
-          "url": "https://flash.jin10.com/detail/20260214200450739800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "据国际文传电讯社：俄罗斯总统特使德米特里耶夫将于近期在日内瓦与美国代表举行会谈。",
           "url": "https://flash.jin10.com/detail/20260214003529637800",
           "source": "金十数据",
@@ -1925,17 +1987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "美国军方：2月3日至12日，在叙利亚对30多个“伊斯兰国”目标发动了10次空袭。",
-          "url": "https://flash.jin10.com/detail/20260214200314368800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "据Politico援引两名美国卫生与公众服务部官员及匿名人士报道，副部长奥尼尔已被提供政府内其他职位。",
@@ -2015,17 +2066,6 @@
           "time_info": "03时35分"
         },
         {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "美国国防部就采购流程改革寻求业界意见。",
           "url": "https://flash.jin10.com/detail/20260213230957744800",
           "source": "金十数据",
@@ -2101,6 +2141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "泽连斯基承认美国要求乌方作出妥协",
+          "url": "https://www.toutiao.com/trending/7605831052489670697/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美国总统特朗普：我认为内塔尼亚胡应该获得赦免。",
@@ -2205,7 +2256,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -2219,17 +2270,15 @@
           "time_info": "[00时32分 ~ 07时21分]"
         },
         {
-          "title": "AI无视版权,老外集火围殴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
           "source": "贴吧",
           "ranks": [
-            1,
-            5,
-            7
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时31分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[18时15分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
@@ -2245,17 +2294,6 @@
           "time_info": "[07时21分 ~ 18时16分]"
         },
         {
-          "title": "AI女副总因反色情被炒鱿鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时15分 ~ 21时38分]"
-        },
-        {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
           "url": "https://www.zhihu.com/question/2005725246167147371",
           "source": "知乎",
@@ -2267,8 +2305,22 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[13时09分 ~ 22时18分]"
+        },
+        {
+          "title": "AI无视版权,老外集火围殴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 14,
-          "time_info": "[13时09分 ~ 21时38分]"
+          "time_info": "[14时31分 ~ 22时18分]"
         },
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -2281,8 +2333,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时19分 ~ 21时38分]"
+          "appearance_count": 12,
+          "time_info": "[16时19分 ~ 22时18分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -2322,11 +2374,26 @@
             16,
             17,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 21时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时18分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时21分 ~ 22时18分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -2339,8 +2406,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时19分 ~ 21时38分]"
+          "appearance_count": 12,
+          "time_info": "[16时19分 ~ 22时18分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -2355,11 +2422,12 @@
             19,
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 21时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 22时18分]"
         },
         {
           "title": "小伙5个月用AI做120多个App",
@@ -2388,11 +2456,12 @@
             20,
             19,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时35分 ~ 21时38分]"
+          "appearance_count": 21,
+          "time_info": "[03时35分 ~ 22时18分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -2422,18 +2491,16 @@
           "time_info": "[00时32分 ~ 07时21分]"
         },
         {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
+          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
+          "url": "https://www.zhihu.com/question/2003986885089981631",
+          "source": "知乎",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时21分 ~ 21时38分]"
+          "appearance_count": 7,
+          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -2450,18 +2517,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 05时26分]"
-        },
-        {
-          "title": "2026 年春节 AI 红包大战预计烧掉 45 亿，真的能让用户接受 AI 智能成为日常生活的标配吗？",
-          "url": "https://www.zhihu.com/question/2003986885089981631",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时14分 ~ 21时38分]"
         },
         {
           "title": "AI智能体首次主动攻击人类维护者",
@@ -2559,6 +2614,54 @@
           "time_info": "[12时01分 ~ 13时09分]"
         },
         {
+          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
+          "url": "https://wallstreetcn.com/articles/3765732",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时18分]"
+        },
+        {
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时18分]"
+        },
+        {
+          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时18分]"
+        },
+        {
+          "title": "本周，“AI颠覆一切”的狼终于来了",
+          "url": "https://wallstreetcn.com/articles/3765735",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时18分]"
+        },
+        {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
           "url": "https://wallstreetcn.com/livenews/3055325",
           "source": "华尔街见闻-快讯",
@@ -2584,27 +2687,16 @@
           "time_info": "[15时27分 ~ 16时20分]"
         },
         {
-          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
-          "url": "https://wallstreetcn.com/articles/3765732",
-          "source": "华尔街见闻",
+          "title": "印度AI峰会“五天赛程”安排",
+          "url": "https://wallstreetcn.com/livenews/3055544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
-        },
-        {
-          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
-          "url": "https://wallstreetcn.com/livenews/3055529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时38分]"
+          "time_info": "[21时38分 ~ 22时18分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
@@ -2631,26 +2723,28 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
-          "url": "https://wallstreetcn.com/articles/3765728",
-          "source": "华尔街见闻",
+          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
+          "url": "https://wallstreetcn.com/livenews/3055541",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
+          "time_info": "[21时38分 ~ 22时18分]"
         },
         {
-          "title": "本周，“AI颠覆一切”的狼终于来了",
-          "url": "https://wallstreetcn.com/articles/3765735",
-          "source": "华尔街见闻",
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
+          "time_info": "[21时38分 ~ 22时18分]"
         },
         {
           "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
@@ -2676,17 +2770,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "印度AI峰会“五天赛程”安排",
-          "url": "https://wallstreetcn.com/livenews/3055544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
           "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
           "url": "https://wallstreetcn.com/livenews/3055412",
           "source": "华尔街见闻-快讯",
@@ -2696,28 +2779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "意大利能源公司埃尼集团Eni确认：在安哥拉周边海域Algaita-01区块发现石油。",
-          "url": "https://wallstreetcn.com/livenews/3055541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -2795,6 +2856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "今年情人节用AI做恋爱主角",
+          "url": "https://www.douyin.com/hot/2400789",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     }
