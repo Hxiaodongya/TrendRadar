@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T12:01:30.381392+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-02-14T13:09:53.290148+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 133,
+      "match_count": 136,
       "titles": [
         {
           "title": "王毅与美国务卿鲁比奥会谈",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "息事宁人?日本释放中国船长",
@@ -41,37 +41,12 @@
           "ranks": [
             4,
             5,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
-        },
-        {
-          "title": "王毅与美国务卿鲁比奥会谈",
-          "url": "https://www.douyin.com/hot/2399915",
-          "source": "抖音",
-          "ranks": [
-            1,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
-        },
-        {
-          "title": "日本释放被捕的中国渔船船长",
-          "url": "https://www.toutiao.com/trending/7605877620357516836/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
@@ -87,6 +62,34 @@
           "time_info": "[00时32分 ~ 09时04分]"
         },
         {
+          "title": "王毅与美国务卿鲁比奥会谈",
+          "url": "https://www.douyin.com/hot/2399915",
+          "source": "抖音",
+          "ranks": [
+            1,
+            8,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
+        },
+        {
+          "title": "日本释放被捕的中国渔船船长",
+          "url": "https://www.toutiao.com/trending/7605877620357516836/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            5,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
+        },
+        {
           "title": "外交部回应日本扣押中国渔船",
           "url": "https://www.douyin.com/hot/2399431",
           "source": "抖音",
@@ -96,11 +99,12 @@
             13,
             15,
             16,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 09时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -116,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -129,8 +133,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "太猖狂!日本扣押中国渔船",
@@ -139,11 +143,12 @@
           "ranks": [
             10,
             11,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "日本释放被捕的中国渔船船长",
@@ -186,6 +191,20 @@
           "time_info": "[00时32分 ~ 09时04分]"
         },
         {
+          "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时35分 ~ 13时09分]"
+        },
+        {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
           "url": "https://flash.jin10.com/detail/20260214031056570800",
           "source": "金十数据",
@@ -225,18 +244,16 @@
           "time_info": "[03时35分 ~ 09时04分]"
         },
         {
-          "title": "日本扣押一中国渔船并逮捕船长，外交部：望日方严格遵守有关协定、公正执法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448613",
+          "title": "王毅会见美国国务卿鲁比奥",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32607676",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            8,
-            6
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时35分 ~ 12时01分]"
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时09分]"
         },
         {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
@@ -251,17 +268,6 @@
           "time_info": "[03时35分 ~ 09时04分]"
         },
         {
-          "title": "王毅会见美国国务卿鲁比奥",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32607676",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "市场消息：美国商务部初步支持一家矿业企业的申请，对进口俄罗斯钯金征收近133%的反倾销税。",
           "url": "https://flash.jin10.com/detail/20260214010446734800",
           "source": "金十数据",
@@ -271,6 +277,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美国选手马里宁自由滑重大失误",
+          "url": "https://www.toutiao.com/trending/7605955804092743721/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时09分]"
         },
         {
           "title": "伊朗外长：内塔尼亚胡是战争贩子",
@@ -431,18 +449,6 @@
           "time_info": "[03时35分 ~ 07时21分]"
         },
         {
-          "title": "美国选手马里宁自由滑重大失误",
-          "url": "https://www.toutiao.com/trending/7605955804092743721/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时01分]"
-        },
-        {
           "title": "美国总统特朗普重申：与北约关系良好。",
           "url": "https://wallstreetcn.com/livenews/3055341",
           "source": "华尔街见闻-快讯",
@@ -467,6 +473,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时22分]"
+        },
+        {
+          "title": "中方回应日本选举称「一些深层次、结构性的问题等值得日本各界有识之士和国际社会深思」，如何理解？",
+          "url": "https://www.zhihu.com/question/2005619389051986415",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时09分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -553,18 +572,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时04分]"
-        },
-        {
-          "title": "中方回应日本选举称「一些深层次、结构性的问题等值得日本各界有识之士和国际社会深思」，如何理解？",
-          "url": "https://www.zhihu.com/question/2005619389051986415",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时01分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -707,6 +714,53 @@
           "time_info": "[02时31分 ~ 04时25分]"
         },
         {
+          "title": "德国对美国摊牌了",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%91%8A%E7%89%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时09分]"
+        },
+        {
+          "title": "伦铝跳水！报道：美国考虑部分取消铝和钢铁关税",
+          "url": "https://wallstreetcn.com/articles/3765658",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时09分]"
+        },
+        {
+          "title": "中国为何突然大量进口美国玉米",
+          "url": "https://www.toutiao.com/trending/7605965166294958089/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时09分]"
+        },
+        {
+          "title": "美国气候政策发生“最重大逆转”",
+          "url": "https://news.ifeng.com/c/8qjHnBLEM9O",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时09分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：2月10日当周，投机者所持NYMEX WTI原油净多头头寸增加5,937手合约，至86,314手合约，创逾六个月新高。 所持布伦特和WTI原油净多头头寸增至365,366手合约，创大约八个月新高。 所持NYMEX汽油净多头头寸增至80,056手合约，创逾两个月新高。",
           "url": "https://wallstreetcn.com/livenews/3055356",
           "source": "华尔街见闻-快讯",
@@ -779,6 +833,17 @@
           "time_info": "[01时34分 ~ 02时31分]"
         },
         {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时09分]"
+        },
+        {
           "title": "美国三大股指悉数转跌，纳指跌超0.3%。",
           "url": "https://wallstreetcn.com/livenews/3055286",
           "source": "华尔街见闻-快讯",
@@ -815,29 +880,6 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "德国对美国摊牌了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%91%8A%E7%89%8C%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时01分]"
-        },
-        {
-          "title": "伦铝跳水！报道：美国考虑部分取消铝和钢铁关税",
-          "url": "https://wallstreetcn.com/articles/3765658",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时01分]"
-        },
-        {
           "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
           "url": "https://wallstreetcn.com/livenews/3055375",
           "source": "华尔街见闻-快讯",
@@ -872,29 +914,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "中国为何突然大量进口美国玉米",
-          "url": "https://www.toutiao.com/trending/7605965166294958089/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时01分]"
-        },
-        {
-          "title": "美国气候政策发生“最重大逆转”",
-          "url": "https://news.ifeng.com/c/8qjHnBLEM9O",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时01分]"
         },
         {
           "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
@@ -943,6 +962,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "外媒：白宫撤销“温室气体危害认定” 引发美国社会各界广泛反对",
+          "url": "https://wallstreetcn.com/livenews/3055443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时09分]"
         },
         {
           "title": "波兰外长：美国在俄乌冲突中获利却不让欧洲拥有发言权",
@@ -1001,6 +1032,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "日本释放被扣押中国渔船船长",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E8%A2%AB%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E8%88%B9%E9%95%BF%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "美国选手马里宁自由滑重大失误",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%80%89%E6%89%8B%E9%A9%AC%E9%87%8C%E5%AE%81%E8%87%AA%E7%94%B1%E6%BB%91%E9%87%8D%E5%A4%A7%E5%A4%B1%E8%AF%AF",
           "source": "百度热搜",
@@ -1021,17 +1063,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "美国最高法院将于2月20日就特朗普关税案公布意见",
@@ -1265,17 +1296,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "外媒：白宫撤销“温室气体危害认定” 引发美国社会各界广泛反对",
-          "url": "https://wallstreetcn.com/livenews/3055443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
           "title": "纽约联储GDPNow模型显示，美国2025年第四季度经济增速预期为2.71%（此前为2.69%）；2026年第一季度为2.63%（此前为2.59%）。",
           "url": "https://flash.jin10.com/detail/20260214015140840800",
           "source": "金十数据",
@@ -1331,6 +1351,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "一年了 美国还在追着DeepSeek抹黑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%BA%86+%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%9C%A8%E8%BF%BD%E7%9D%80DeepSeek%E6%8A%B9%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "据Politico援引两名美国卫生与公众服务部官员及匿名人士报道，副部长奥尼尔已被提供政府内其他职位。",
           "url": "https://flash.jin10.com/detail/20260213232056786800",
           "source": "金十数据",
@@ -1384,6 +1415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "日媒披露特朗普拒绝在中日间力挺日本",
+          "url": "https://www.toutiao.com/trending/7605283067519008810/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）加大对微软(MSFT.O)的调查力度，就云和人工智能问题向竞争对手取证。",
@@ -1568,7 +1610,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
@@ -1587,7 +1629,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -1632,11 +1674,12 @@
           "ranks": [
             5,
             6,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -1645,11 +1688,12 @@
           "ranks": [
             8,
             9,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 12时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 13时09分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -1679,6 +1723,33 @@
           "time_info": "[00时32分 ~ 07时21分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 13时09分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时35分 ~ 13时09分]"
+        },
+        {
           "title": "Seedance2.0展示中国AI潜力",
           "url": "https://www.douyin.com/hot/2398167",
           "source": "抖音",
@@ -1693,44 +1764,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 05时26分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 12时01分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            15,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时35分 ~ 09时04分]"
-        },
-        {
-          "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
-          "url": "https://flash.jin10.com/detail/20260214113020245800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时01分"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -1761,6 +1794,31 @@
           "time_info": "[02时31分 ~ 05时26分]"
         },
         {
+          "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
+          "url": "https://flash.jin10.com/detail/20260214113020245800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 13时09分]"
+        },
+        {
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 13时09分]"
+        },
+        {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
           "url": "https://wallstreetcn.com/livenews/3055325",
           "source": "华尔街见闻-快讯",
@@ -1786,18 +1844,6 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 12时01分]"
-        },
-        {
           "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
           "url": "https://www.zhihu.com/question/1969140298404853132",
           "source": "知乎",
@@ -1821,6 +1867,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "科大讯飞总裁吴晓如：2025年公司海外营收超10亿元 AI核心业务推动出海提速",
           "url": "https://wallstreetcn.com/livenews/3055412",
           "source": "华尔街见闻-快讯",
@@ -1830,6 +1887,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -1882,7 +1950,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         },
