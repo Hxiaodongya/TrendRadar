@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T15:32:07.048814+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-02-15T16:21:03.072862+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "王毅：日本若要再赌一次，只会输得更惨",
@@ -31,6 +31,41 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 16时21分]"
+        },
+        {
+          "title": "美国是欧洲的孩子？学者：鲁比奥只是希望欧方沉浸在这套叙事里",
+          "url": "https://news.ifeng.com/c/8qkgAuQCAav",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 16时21分]"
+        },
+        {
+          "title": "王毅警告日本 现场爆发热烈掌声",
+          "url": "https://www.toutiao.com/trending/7605877620357762596/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 16时21分]"
+        },
+        {
           "title": "美国考虑降低钢铝关税？这对金属意味着什么",
           "url": "https://wallstreetcn.com/articles/3765738",
           "source": "华尔街见闻",
@@ -41,19 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时19分 ~ 15时32分]"
-        },
-        {
-          "title": "火力全开!王毅警告日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 15时32分]"
+          "appearance_count": 17,
+          "time_info": "[02时19分 ~ 16时21分]"
         },
         {
           "title": "王毅拿德国与日本作对比",
@@ -71,17 +95,6 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "美国是欧洲的孩子？学者：鲁比奥只是希望欧方沉浸在这套叙事里",
-          "url": "https://news.ifeng.com/c/8qkgAuQCAav",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 15时32分]"
-        },
-        {
           "title": "美国务卿：古巴的唯一出路是开放经济",
           "url": "https://flash.jin10.com/detail/20260214212442292800",
           "source": "金十数据",
@@ -94,6 +107,18 @@
           "time_info": "[00时17分 ~ 09时10分]"
         },
         {
+          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
+          "url": "https://www.cls.cn/detail/2290485",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 16时21分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩：与美国参议院Lindsey Graham等人的会谈情况不错。",
           "url": "https://wallstreetcn.com/livenews/3055565",
           "source": "华尔街见闻-快讯",
@@ -103,11 +128,12 @@
             20,
             23,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 15时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "鲁比奥：美国不希望盟友变软弱",
@@ -119,19 +145,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 03时17分]"
-        },
-        {
-          "title": "王毅警告日本 现场爆发热烈掌声",
-          "url": "https://www.toutiao.com/trending/7605877620357762596/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 15时32分]"
         },
         {
           "title": "泽连斯基：美国总问乌方可以做哪些让步，却从不问俄方",
@@ -158,6 +171,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 14时38分]"
+        },
+        {
+          "title": "王毅警告日本 现场爆发热烈掌声",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC+%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            17,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 16时21分]"
         },
         {
           "title": "台湾恐付出高昂代价！马英九：对美立场硬起来才能获尊重",
@@ -206,11 +234,12 @@
             21,
             25,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "太猖狂!日本扣押中国渔船",
@@ -224,16 +253,17 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
-          "source": "财联社热门",
+          "title": "日本市场近期发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3765744",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            4
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时21分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -258,20 +288,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时10分]"
-        },
-        {
-          "title": "王毅警告日本 现场爆发热烈掌声",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC+%E7%8E%B0%E5%9C%BA%E7%88%86%E5%8F%91%E7%83%AD%E7%83%88%E6%8E%8C%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 15时32分]"
         },
         {
           "title": "北约秘书长吕特：北约与美国在乌克兰和平谈判问题上立场一致。",
@@ -395,19 +411,6 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
-          "title": "日本市场近期发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3765744",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时32分]"
-        },
-        {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://wallstreetcn.com/livenews/3055576",
           "source": "华尔街见闻-快讯",
@@ -416,11 +419,88 @@
             12,
             15,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 16时21分]"
+        },
+        {
+          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
+          "url": "https://wallstreetcn.com/articles/3765749",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时21分]"
+        },
+        {
+          "title": "2026慕安会｜王毅在德国严正警告日本，150秒脱稿答问值得反复观看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32612179",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时21分]"
+        },
+        {
+          "title": "泽连斯基：美国老是要乌克兰让步",
+          "url": "https://wallstreetcn.com/livenews/3055572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            19,
+            20,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 16时21分]"
+        },
+        {
+          "title": "日本探测船采集含稀土淤泥返回，将推进经济性评估",
+          "url": "https://news.ifeng.com/c/8qlJB59vIp4",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时21分]"
+        },
+        {
+          "title": "中领馆提醒中国公民避免前往日本",
+          "url": "https://www.toutiao.com/trending/7606918530118336555/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时21分]"
+        },
+        {
+          "title": "桑切斯称美国重金发展核武是个错误",
+          "url": "https://flash.jin10.com/detail/20260215151427934800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "王毅警告日本现场爆发热烈掌声",
@@ -434,55 +514,17 @@
           "time_info": "09时10分"
         },
         {
-          "title": "泽连斯基：美国老是要乌克兰让步",
-          "url": "https://wallstreetcn.com/livenews/3055572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 15时32分]"
-        },
-        {
-          "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
-          "url": "https://wallstreetcn.com/articles/3765749",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 15时32分]"
-        },
-        {
           "title": "市场消息：美国国务卿鲁比奥与日本外务大臣茂木敏充于周六会晤，重申其致力于加强双边关系的承诺。",
           "url": "https://flash.jin10.com/detail/20260215141859404800",
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时32分]"
-        },
-        {
-          "title": "2026慕安会｜王毅在德国严正警告日本，150秒脱稿答问值得反复观看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32612179",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时21分]"
         },
         {
           "title": "英媒：若美国愿意解除制裁 伊朗将考虑就核谈判做出妥协",
@@ -490,11 +532,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时21分]"
         },
         {
           "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
@@ -502,34 +545,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时21分]"
         },
         {
-          "title": "日本探测船采集含稀土淤泥返回，将推进经济性评估",
-          "url": "https://news.ifeng.com/c/8qlJB59vIp4",
-          "source": "凤凰网",
+          "title": "李沅禧购物视频被日本网友炎上",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%85%E7%A6%A7%E8%B4%AD%E7%89%A9%E8%A7%86%E9%A2%91%E8%A2%AB%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%82%8E%E4%B8%8A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
+            29,
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时48分 ~ 15时32分]"
-        },
-        {
-          "title": "中领馆提醒中国公民避免前往日本",
-          "url": "https://www.toutiao.com/trending/7606918530118336555/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 15时32分]"
+          "time_info": "[15时31分 ~ 16时21分]"
         },
         {
           "title": "原料短缺 美国巧克力零售价格持续上涨",
@@ -543,6 +576,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时48分 ~ 15时32分]"
+        },
+        {
+          "title": "日本大阪持刀伤人事件致1死",
+          "url": "https://www.douyin.com/hot/2401256",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "日本大阪持刀伤人事件致1人死亡 1名嫌疑人被控制",
@@ -592,6 +647,17 @@
           "time_info": "[12时12分 ~ 13时48分]"
         },
         {
+          "title": "欧洲官员批评美国务卿演讲",
+          "url": "https://www.toutiao.com/trending/7606296838584582163/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
           "title": "日本有人想拉美国下水 能得逞吗",
           "url": "https://www.toutiao.com/trending/7606132183580917823/",
           "source": "今日头条",
@@ -612,17 +678,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时11分 ~ 12时12分]"
-        },
-        {
-          "title": "李沅禧购物视频被日本网友炎上",
-          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%85%E7%A6%A7%E8%B4%AD%E7%89%A9%E8%A7%86%E9%A2%91%E8%A2%AB%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%82%8E%E4%B8%8A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "据Politico：美国司法部就爱泼斯坦案卷的删节内容致函议员。",
@@ -727,7 +782,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
@@ -752,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "本周，“AI颠覆一切”的狼终于来了",
@@ -767,8 +822,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -783,6 +838,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 09时10分]"
+        },
+        {
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 16时21分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -808,11 +876,12 @@
             1,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
@@ -847,11 +916,12 @@
             8,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -888,11 +958,12 @@
             22,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 16时21分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -905,19 +976,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 09时10分]"
-        },
-        {
-          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时14分 ~ 15时32分]"
         },
         {
           "title": "印度AI峰会“五天赛程”安排",
@@ -942,6 +1000,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时10分]"
+        },
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时21分]"
+        },
+        {
+          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
+          "url": "https://wallstreetcn.com/articles/3765746",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时21分]"
         },
         {
           "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
@@ -1002,27 +1084,29 @@
           "time_info": "[09时10分 ~ 13时48分]"
         },
         {
-          "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
-          "url": "https://wallstreetcn.com/articles/3765746",
+          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
+          "url": "https://wallstreetcn.com/articles/3765753",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时32分]"
+          "time_info": "[13时48分 ~ 16时21分]"
         },
         {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
+          "title": "网文行业在未来二三十年真的会被 AI 给废掉吗？",
+          "url": "https://www.zhihu.com/question/1997776604575864283",
+          "source": "知乎",
           "ranks": [
             9,
-            10
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 16时21分]"
         },
         {
           "title": "AI智能体首次主动攻击人类维护者",
@@ -1036,30 +1120,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时19分 ~ 06时13分]"
-        },
-        {
-          "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
-          "url": "https://wallstreetcn.com/articles/3765753",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 15时32分]"
-        },
-        {
-          "title": "网文行业在未来二三十年真的会被 AI 给废掉吗？",
-          "url": "https://www.zhihu.com/question/1997776604575864283",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 15时32分]"
         },
         {
           "title": "Clawdbot 开始雇佣人类，如何看待人类为 AI 打工，是噱头还是终结者降临？",
@@ -1095,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 13时48分]"
+        },
+        {
+          "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610345",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
         },
         {
           "title": "杨丽萍67岁仍在学习AI",
