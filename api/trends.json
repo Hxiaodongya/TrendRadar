@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T06:14:01.510515+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-02-16T07:16:37.614265+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "王毅警告日本 现场爆发热烈掌声",
@@ -27,19 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "“新美联储通讯社”：美国经济或已实现软着陆，但宣布胜利为时过早",
-          "url": "https://wallstreetcn.com/livenews/3055632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
@@ -55,6 +44,18 @@
           "time_info": "[00时16分 ~ 06时14分]"
         },
         {
+          "title": "“新美联储通讯社”：美国经济或已实现软着陆，但宣布胜利为时过早",
+          "url": "https://wallstreetcn.com/livenews/3055632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
           "source": "财联社热门",
@@ -62,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -74,8 +75,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
@@ -84,11 +85,23 @@
           "ranks": [
             3,
             12,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "美联储传声筒：美国经济或已实现软着陆，但无人愿轻言胜利",
@@ -104,15 +117,28 @@
           "time_info": "[00时16分 ~ 06时14分]"
         },
         {
-          "title": "火力全开!王毅警告日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
+          "title": "美国防部称在印度洋拦截一艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3055623",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
+          "url": "https://wallstreetcn.com/livenews/3055618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "美国国务卿鲁比奥：（谈及伊朗时表示）我们在和激进的什叶派神职人员打交道、在和那些基于纯粹神学做出地缘政治决策的人打交道。没有人能和伊朗成功达成协议，但我们会尝试。",
@@ -126,6 +152,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 06时14分]"
+        },
+        {
+          "title": "中国冰壶女队5比6美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9F5%E6%AF%946%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            20,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
@@ -148,17 +188,6 @@
             10,
             19,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "美国防部称在印度洋拦截一艘油轮",
-          "url": "https://wallstreetcn.com/livenews/3055623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -204,17 +233,6 @@
           "time_info": "[00时16分 ~ 06时14分]"
         },
         {
-          "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
-          "url": "https://wallstreetcn.com/livenews/3055618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
           "title": "鲁比奥会见日本外相，协调两国首脑会谈",
           "url": "https://news.ifeng.com/c/8qkpGZduu6P",
           "source": "凤凰网",
@@ -224,20 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时17分]"
-        },
-        {
-          "title": "中国冰壶女队5比6美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9F5%E6%AF%946%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            20,
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "美国战争部：昨夜，美军对（超大型原油运输船）“维罗妮卡三号”实施了登临检查、海上拦截和登船行动。该船从加勒比海被一路追踪至印度洋，其试图违抗检疫指令。",
@@ -261,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "伊朗外长及代表团已出发前往日内瓦 准备与美国开展新一轮会谈",
-          "url": "https://flash.jin10.com/detail/20260216050609770800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
         },
         {
           "title": "加拿大石油为何被美国“吃定70年”",
@@ -301,16 +294,29 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
+          "title": "伊朗外长及代表团已出发前往日内瓦 准备与美国开展新一轮会谈",
+          "url": "https://flash.jin10.com/detail/20260216050609770800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时16分]"
+        },
+        {
           "title": "中国游客在日本酒店预订取消率超50%",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%E5%8F%96%E6%B6%88%E7%8E%87%E8%B6%8550%25",
           "source": "百度热搜",
           "ranks": [
             24,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 07时16分]"
         },
         {
           "title": "慕安会观察：美国“甜枣”骗不了欧洲",
@@ -318,11 +324,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "侯汉廷痛批民进党当局，甘当美国“提款机”",
@@ -334,6 +341,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时17分]"
+        },
+        {
+          "title": "日本游客为免票背了1个月滕王阁序",
+          "url": "https://www.toutiao.com/trending/7607008817620189227/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "美国务卿：向中东派兵是为防御，仍尝试与伊朗达成协议",
+          "url": "https://news.ifeng.com/c/8qmDbCkeOUn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "日经民调：日本内阁支持率上升2个百分点至69%。",
+          "url": "https://flash.jin10.com/detail/20260216062020680800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         },
         {
           "title": "日本游客为免票背了1个月《滕王阁序》",
@@ -367,17 +408,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "日本游客为免票背了1个月滕王阁序",
-          "url": "https://www.toutiao.com/trending/7607008817620189227/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
@@ -393,19 +423,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -417,8 +448,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -428,8 +459,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -439,23 +483,12 @@
             10,
             9,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32617346",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -465,21 +498,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "分析师：AI风险主导市场 投资者抛售相关股票",
-          "url": "https://flash.jin10.com/detail/20260215225328791800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -490,8 +510,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "分析师：AI风险主导市场 投资者抛售相关股票",
+          "url": "https://flash.jin10.com/detail/20260215225328791800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            17,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -502,8 +536,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -514,8 +548,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -526,8 +560,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "AI女副总因反色情被炒鱿鱼",
@@ -537,8 +571,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -548,19 +582,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
-          "url": "https://flash.jin10.com/detail/20260216054636166800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时16分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -568,11 +591,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
+        },
+        {
+          "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
+          "url": "https://flash.jin10.com/detail/20260216054636166800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时14分]"
+          "time_info": "[06时14分 ~ 07时16分]"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -580,11 +616,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时14分]"
+          "appearance_count": 3,
+          "time_info": "[05时15分 ~ 07时16分]"
         }
       ]
     }
