@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T18:39:44.155882+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-02-16T19:33:32.298541+08:00",
+  "total_titles_processed": 1247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 88,
+      "match_count": 106,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 19时33分]"
         },
         {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
@@ -95,8 +95,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 19时33分]"
         },
         {
           "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
@@ -310,6 +310,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
+          "url": "https://flash.jin10.com/detail/20260216191911022800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "中国冰壶女队vs美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -332,6 +343,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "日本经济大臣：展望未来，就业和收入环境的改善以及各项政策措施预计将支撑渐进的复苏过程。",
           "url": "https://flash.jin10.com/detail/20260216084630679800",
           "source": "金十数据",
@@ -341,6 +363,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "印度贸易官员：预计美国本周将把对印度商品的关税降至18%。",
+          "url": "https://flash.jin10.com/detail/20260216191602680800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "日本12月工业产出同比终值 2.6%，初值 2.6%。",
@@ -393,6 +437,28 @@
           "time_info": "15时04分"
         },
         {
+          "title": "印度贸易官员：印度首席谈判代表将于下周前往美国，以敲定贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260216191514462800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：与美国国务卿卢比奥进行了友好而严肃的会谈。 仍然准备好主办乌克兰-俄罗斯和平峰会。",
+          "url": "https://wallstreetcn.com/livenews/3055728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
           "url": "https://wallstreetcn.com/livenews/3055689",
           "source": "华尔街见闻-快讯",
@@ -421,6 +487,18 @@
           "time_info": "[14时01分 ~ 17时41分]"
         },
         {
+          "title": "否认南京大屠杀的日本酒店老板死了",
+          "url": "https://www.baidu.com/s?wd=%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%9A%84%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E8%80%81%E6%9D%BF%E6%AD%BB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 19时33分]"
+        },
+        {
           "title": "加拿大石油为何被美国“吃定70年”",
           "url": "https://www.toutiao.com/trending/7607091523754135082/",
           "source": "今日头条",
@@ -445,6 +523,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时07分 ~ 15时04分]"
+        },
+        {
+          "title": "被王毅痛斥后日本急了",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 19时33分]"
         },
         {
           "title": "日本央行行长植田和男：日本首相高市早苗未提出具体政策请求。 与首相讨论了经济问题。 此次会面仅为总体交换意见。",
@@ -509,18 +599,6 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "否认南京大屠杀的日本酒店老板死了",
-          "url": "https://www.baidu.com/s?wd=%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%9A%84%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E8%80%81%E6%9D%BF%E6%AD%BB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时04分 ~ 18时39分]"
-        },
-        {
           "title": "伊朗外长及代表团已出发前往日内瓦 准备与美国开展新一轮会谈",
           "url": "https://flash.jin10.com/detail/20260216050609770800",
           "source": "金十数据",
@@ -545,16 +623,15 @@
           "time_info": "[16时34分 ~ 17时41分]"
         },
         {
-          "title": "被王毅痛斥后日本急了",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
+          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时04分 ~ 18时39分]"
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "中国游客在日本酒店预订取消率超50%",
@@ -592,17 +669,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 09时08分]"
-        },
-        {
-          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
-          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时39分]"
         },
         {
           "title": "伊朗大秀肌肉回应美国施压",
@@ -701,6 +767,18 @@
           "time_info": "[14时01分 ~ 15时04分]"
         },
         {
+          "title": "日本流感病例数连续第二周达警报级别 部分学校停课",
+          "url": "https://wallstreetcn.com/livenews/3055709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时33分]"
+        },
+        {
           "title": "日本游客为免票背了1个月滕王阁序",
           "url": "https://www.toutiao.com/trending/7607008817620189227/",
           "source": "今日头条",
@@ -711,6 +789,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "博思格钢铁CEO：已将美国中游投资计划的优先级下调。",
@@ -744,6 +833,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
+          "url": "https://flash.jin10.com/detail/20260216191100927800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "日本防卫大臣炒作俄朝军事合作威胁",
@@ -801,6 +901,17 @@
           "time_info": "15时04分"
         },
         {
+          "title": "美国国务卿鲁比奥：匈牙利走向何方由选民决定。",
+          "url": "https://flash.jin10.com/detail/20260216191040654800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "被王毅痛斥后日本急了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -812,13 +923,24 @@
           "time_info": "14时01分"
         },
         {
+          "title": "2026 年 NBA 全明星赛，赛制改为美国星队、美国条纹队，世界队大乱斗，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2006618233311028444",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "日本流感病例数连续第二周达警报级别 部分学校停课",
           "url": "https://flash.jin10.com/detail/20260216174703967800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -832,17 +954,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "日本流感病例数连续第二周达警报级别 部分学校停课",
-          "url": "https://wallstreetcn.com/livenews/3055709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
         },
         {
           "title": "日本四季度经济勉强实现增长 但复苏格局仍缺乏持续性的强劲驱动力",
@@ -867,6 +978,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
+          "url": "https://flash.jin10.com/detail/20260216185958619800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "日本12月设备利用指数 101.3，前值100。",
           "url": "https://flash.jin10.com/detail/20260216123915965800",
           "source": "金十数据",
@@ -876,6 +998,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：欧尔班在和平委员会中扮演着不可或缺的角色。",
+          "url": "https://flash.jin10.com/detail/20260216185949196800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "美国青少年春节联欢晚会在新泽西举行",
@@ -909,6 +1042,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（对匈牙利总理欧尔班表示）美国希望匈牙利发展良好，因为这符合美国的国家利益，尤其是在您（欧尔班）担任匈牙利领导人的这段时间。",
+          "url": "https://flash.jin10.com/detail/20260216185930437800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "日本12月设备利用指数月率 1.3%，前值-5.30%。",
@@ -955,6 +1099,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "美国国务卿鲁比奥：美国总统特朗普坚定致力于你们（匈牙利总理欧尔班）的成功。",
+          "url": "https://flash.jin10.com/detail/20260216185813326800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "政府报告：日本2025年实际GDP同比增长1.1%。",
           "url": "https://flash.jin10.com/detail/20260216075844833800",
           "source": "金十数据",
@@ -986,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国和匈牙利正步入双边关系的“黄金时代”。",
+          "url": "https://flash.jin10.com/detail/20260216185636466800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "日本第四季度GDP平减指数年率初值 3.4%，前值3.40%。",
@@ -1032,6 +1198,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "匈牙利总理欧尔班：我向美国国务卿鲁比奥保证，匈牙利仍然支持美国在乌克兰的和平努力。",
+          "url": "https://flash.jin10.com/detail/20260216185342902800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "日本第四季度实际GDP年化季率初值 0.2%，预期1.60%，前值-2.30%。",
           "url": "https://flash.jin10.com/detail/20260216075010279800",
           "source": "金十数据",
@@ -1043,6 +1220,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "日本央行行长植田和男：首相高市早苗在会面期间并未提出具体要求",
+          "url": "https://wallstreetcn.com/livenews/3055701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
           "title": "宝岛台湾迎春年味浓",
           "url": "https://www.toutiao.com/trending/7606924171822776326/",
           "source": "今日头条",
@@ -1052,12 +1240,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "美国和匈牙利即将签署一项民用核能协议",
+          "url": "https://flash.jin10.com/detail/20260216184745572800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -1080,8 +1279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 19时33分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -1120,8 +1319,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 19时33分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -1160,8 +1359,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 19时33分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -1215,8 +1414,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 18时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 19时33分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -1233,6 +1432,19 @@
           "time_info": "[00时16分 ~ 15时04分]"
         },
         {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 19时33分]"
+        },
+        {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
           "url": "https://flash.jin10.com/detail/20260215225328791800",
           "source": "金十数据",
@@ -1247,19 +1459,6 @@
           "time_info": "[00时16分 ~ 07时16分]"
         },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 18时39分]"
-        },
-        {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
           "url": "https://wallstreetcn.com/articles/3765773",
           "source": "华尔街见闻",
@@ -1268,8 +1467,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -1282,8 +1481,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 19时33分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -1295,8 +1494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -1311,6 +1510,33 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时01分 ~ 17时41分]"
+        },
+        {
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 19时33分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时04分 ~ 19时33分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -1350,30 +1576,29 @@
           "time_info": "[14时01分 ~ 15时04分]"
         },
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
+          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
+          "url": "https://wallstreetcn.com/articles/3765769",
+          "source": "华尔街见闻",
           "ranks": [
             9,
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时04分 ~ 18时39分]"
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            18,
-            16,
-            14
+            19,
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时04分 ~ 18时39分]"
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -1389,31 +1614,6 @@
           "time_info": "[05时15分 ~ 07时16分]"
         },
         {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时39分]"
-        },
-        {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时39分]"
-        },
-        {
           "title": "AI解锁东西方经典马形象",
           "url": "https://s.weibo.com/weibo?q=%23AI%E8%A7%A3%E9%94%81%E4%B8%9C%E8%A5%BF%E6%96%B9%E7%BB%8F%E5%85%B8%E9%A9%AC%E5%BD%A2%E8%B1%A1%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1423,6 +1623,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时39分 ~ 19时33分]"
         },
         {
           "title": "全球用户涌入中国AI视频生成模型",
@@ -1458,15 +1669,15 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
+          "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
+          "url": "https://wallstreetcn.com/livenews/3055722",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "19时33分"
         },
         {
           "title": "UP主联合手搓AI春晚",
@@ -1486,7 +1697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
