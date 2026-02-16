@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T09:08:08.398924+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-02-16T12:13:36.303355+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -31,6 +31,18 @@
           "time_info": "[00时16分 ~ 07时16分]"
         },
         {
+          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
+          "url": "https://www.cls.cn/detail/2290485",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
+        },
+        {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
           "url": "https://news.ifeng.com/c/8qliDhCOKEa",
           "source": "凤凰网",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
-          "url": "https://www.cls.cn/detail/2290485",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
         },
         {
           "title": "“新美联储通讯社”：美国经济或已实现软着陆，但宣布胜利为时过早",
@@ -85,11 +86,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
@@ -247,6 +249,17 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
+          "title": "被王毅痛斥后，日本急了",
+          "url": "https://news.ifeng.com/c/8qmk6Z79y4c",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "美国战争部：昨夜，美军对（超大型原油运输船）“维罗妮卡三号”实施了登临检查、海上拦截和登船行动。该船从加勒比海被一路追踪至印度洋，其试图违抗检疫指令。",
           "url": "https://flash.jin10.com/detail/20260215194716674800",
           "source": "金十数据",
@@ -265,7 +278,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -287,7 +300,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -298,7 +311,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -309,7 +322,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -390,6 +403,64 @@
           "time_info": "[07时16分 ~ 09时08分]"
         },
         {
+          "title": "高金素梅被查！港媒：台湾政治正站在十字路口",
+          "url": "https://news.ifeng.com/c/8qmgSZYUvwX",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时13分]"
+        },
+        {
+          "title": "国民党质疑台当局单向美国进贡",
+          "url": "https://news.ifeng.com/c/8qmgSZYUvwL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时13分]"
+        },
+        {
+          "title": "日本四季度名义GDP季环比初值 0.6%，预期 1%，前值 -0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3055649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时13分]"
+        },
+        {
+          "title": "日本四季度实际GDP季环比初值 0.1%，预期 0.4%，前值 -0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时13分]"
+        },
+        {
+          "title": "日本四季度实际GDP平减指数同比初值 3.4%，预期 3.2%，前值 3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3055647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时13分]"
+        },
+        {
           "title": "侯汉廷痛批民进党当局，甘当美国“提款机”",
           "url": "https://v.ifeng.com/c/8qlVdqxR0qc",
           "source": "凤凰网",
@@ -401,26 +472,16 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "高金素梅被查！港媒：台湾政治正站在十字路口",
-          "url": "https://news.ifeng.com/c/8qmgSZYUvwX",
-          "source": "凤凰网",
+          "title": "日本四季度实际GDP年化季环比初值 0.2%，预期 1.6%，前值 -2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3055646",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            9,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
-        },
-        {
-          "title": "国民党质疑台当局单向美国进贡",
-          "url": "https://news.ifeng.com/c/8qmgSZYUvwL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "time_info": "[09时08分 ~ 12时13分]"
         },
         {
           "title": "日本游客为免票背了1个月滕王阁序",
@@ -435,35 +496,13 @@
           "time_info": "[00时16分 ~ 07时16分]"
         },
         {
-          "title": "日本四季度名义GDP季环比初值 0.6%，预期 1%，前值 -0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3055649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
           "title": "日本第四季度GDP增长乏力或促进一步财政宽松",
           "url": "https://flash.jin10.com/detail/20260216084114753800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "日本四季度实际GDP季环比初值 0.1%，预期 0.4%，前值 -0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3055648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -474,18 +513,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "日本四季度实际GDP平减指数同比初值 3.4%，预期 3.2%，前值 3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3055647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -507,18 +535,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "日本四季度实际GDP年化季环比初值 0.2%，预期 1.6%，前值 -2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3055646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -529,7 +546,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -540,7 +557,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -578,13 +595,24 @@
           "time_info": "00时16分"
         },
         {
+          "title": "2025年底日本经济增长低于市场预期",
+          "url": "https://www.toutiao.com/trending/7607106309015519286/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "政府报告：日本2025年实际GDP同比增长1.1%。",
           "url": "https://flash.jin10.com/detail/20260216075844833800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -595,7 +623,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -606,7 +634,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -617,7 +645,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -628,7 +656,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -639,7 +667,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -650,7 +678,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -658,7 +686,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -681,19 +709,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
           "url": "https://wallstreetcn.com/articles/3765760",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
@@ -717,8 +746,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -732,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -753,11 +782,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -765,11 +795,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -777,11 +808,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -800,22 +832,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时13分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -857,6 +891,18 @@
           "time_info": "[06时14分 ~ 07时16分]"
         },
         {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时13分]"
+        },
+        {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
           "url": "https://flash.jin10.com/detail/20260216042956745800",
           "source": "金十数据",
@@ -868,17 +914,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时16分]"
-        },
-        {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "AI解锁东西方经典马形象",
@@ -923,6 +958,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "AI定制祝福语惊艳你的朋友圈",
+          "url": "https://www.baidu.com/s?wd=AI%E5%AE%9A%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%AF%AD%E6%83%8A%E8%89%B3%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     }
