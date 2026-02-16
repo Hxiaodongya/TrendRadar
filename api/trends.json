@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T12:13:36.303355+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-02-16T14:01:28.715844+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 57,
+      "match_count": 69,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
@@ -87,11 +87,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
@@ -173,6 +174,17 @@
           "time_info": "[00时16分 ~ 07时16分]"
         },
         {
+          "title": "被王毅痛斥后，日本急了",
+          "url": "https://news.ifeng.com/c/8qmk6Z79y4c",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 14时01分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
           "url": "https://flash.jin10.com/detail/20260215215525567800",
           "source": "金十数据",
@@ -249,15 +261,15 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "被王毅痛斥后，日本急了",
-          "url": "https://news.ifeng.com/c/8qmk6Z79y4c",
-          "source": "凤凰网",
+          "title": "日本经济2025年增长1.1%",
+          "url": "https://flash.jin10.com/detail/20260216134508890800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "14时01分"
         },
         {
           "title": "美国战争部：昨夜，美军对（超大型原油运输船）“维罗妮卡三号”实施了登临检查、海上拦截和登船行动。该船从加勒比海被一路追踪至印度洋，其试图违抗检疫指令。",
@@ -283,6 +295,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "日本12月工业产出同比终值 2.6%，初值 2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "中国冰壶女队vs美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -305,6 +328,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "日本12月工业产出环比终值 -0.1%，初值 -0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3055683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "日本经济大臣：展望未来，就业和收入环境的改善以及各项政策措施预计将支撑渐进的复苏过程。",
           "url": "https://flash.jin10.com/detail/20260216084630679800",
           "source": "金十数据",
@@ -314,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "日本12月设备利用指数环比 1.3%，前值 -5.3%。",
+          "url": "https://wallstreetcn.com/livenews/3055682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "日本经济大臣：日本经济持续温和复苏。",
@@ -366,6 +411,28 @@
           "time_info": "[06时14分 ~ 07时16分]"
         },
         {
+          "title": "高金素梅被查！港媒：台湾政治正站在十字路口",
+          "url": "https://news.ifeng.com/c/8qmgSZYUvwX",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时01分]"
+        },
+        {
+          "title": "国民党质疑台当局单向美国进贡",
+          "url": "https://news.ifeng.com/c/8qmgSZYUvwL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时01分]"
+        },
+        {
           "title": "中国游客在日本酒店预订取消率超50%",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%E5%8F%96%E6%B6%88%E7%8E%87%E8%B6%8550%25",
           "source": "百度热搜",
@@ -401,28 +468,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 09时08分]"
-        },
-        {
-          "title": "高金素梅被查！港媒：台湾政治正站在十字路口",
-          "url": "https://news.ifeng.com/c/8qmgSZYUvwX",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时13分]"
-        },
-        {
-          "title": "国民党质疑台当局单向美国进贡",
-          "url": "https://news.ifeng.com/c/8qmgSZYUvwL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时13分]"
         },
         {
           "title": "日本四季度名义GDP季环比初值 0.6%，预期 1%，前值 -0.1%。",
@@ -507,6 +552,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "日本防卫大臣炒作俄朝军事合作威胁",
+          "url": "https://www.toutiao.com/trending/7606499137953579051/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "5年期日本国债收益率跌2个基点，至1.660%。",
           "url": "https://flash.jin10.com/detail/20260216083048355800",
           "source": "金十数据",
@@ -538,6 +594,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "被王毅痛斥后日本急了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "日本10年期国债收益率上涨0.5个基点，至2.215%。",
+          "url": "https://flash.jin10.com/detail/20260216130720598800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日，中国、韩国、越南、美国、加拿大等地金融市场都将迎来假期，敬请各位投资者留意。",
@@ -573,6 +651,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "日本12月设备利用指数 101.3，前值100。",
+          "url": "https://flash.jin10.com/detail/20260216123915965800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "美国青少年春节联欢晚会在新泽西举行",
           "url": "https://www.toutiao.com/trending/7606365654391980042/",
           "source": "今日头条",
@@ -582,6 +671,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "日本12月库存月率终值 0.9%，前值1%。",
+          "url": "https://flash.jin10.com/detail/20260216123409513800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "日本12月设备利用指数月率 1.3%，前值-5.30%。",
+          "url": "https://flash.jin10.com/detail/20260216123300817800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "学者：全世界不答应日本招魂军国主义",
@@ -601,9 +712,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "日本12月工业产出年率终值 2.6%，前值2.60%。",
+          "url": "https://flash.jin10.com/detail/20260216123245871800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "政府报告：日本2025年实际GDP同比增长1.1%。",
@@ -615,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "日本12月工业产出月率终值 -0.1%，前值-0.10%。",
+          "url": "https://flash.jin10.com/detail/20260216123237024800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "日本第四季度名义GDP季率初值 0.6%，前值-0.10%。",
@@ -686,7 +819,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -709,8 +842,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -721,8 +854,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
@@ -743,11 +876,12 @@
           "ranks": [
             11,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -761,8 +895,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -786,8 +920,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -796,11 +930,12 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -833,11 +968,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -845,11 +981,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -864,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
+          "url": "https://wallstreetcn.com/livenews/3055681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -899,8 +1047,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时01分]"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -914,6 +1062,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时16分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 14时01分]"
         },
         {
           "title": "AI解锁东西方经典马形象",
@@ -960,15 +1120,15 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "14时01分"
         },
         {
           "title": "AI定制祝福语惊艳你的朋友圈",
@@ -977,7 +1137,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
