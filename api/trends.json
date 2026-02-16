@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T20:36:09.927164+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-02-16T21:59:36.817900+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 110,
+      "match_count": 119,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 20时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 21时59分]"
         },
         {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
@@ -92,11 +92,12 @@
             22,
             23,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 20时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 21时59分]"
         },
         {
           "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
@@ -202,6 +203,17 @@
           "time_info": "[00时16分 ~ 06时14分]"
         },
         {
+          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
+          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 21时59分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：（对欧洲表示）我们不希望你们依赖我们。我们并不是在要求你们成为美国的附庸。",
           "url": "https://flash.jin10.com/detail/20260215212825269800",
           "source": "金十数据",
@@ -278,6 +290,18 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
+          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时59分]"
+        },
+        {
           "title": "伊朗高官：愿与美国达成为双方带来经济利益的核协议",
           "url": "https://flash.jin10.com/detail/20260216143137748800",
           "source": "金十数据",
@@ -287,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
-        },
-        {
-          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
-          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时36分]"
         },
         {
           "title": "国民党质疑台当局单向美国进贡",
@@ -334,6 +347,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "网络状况监测网站DownDetector：美国有11266名用户反映社交媒体平台“X”出现故障。",
+          "url": "https://flash.jin10.com/detail/20260216213759160800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "中国冰壶女队vs美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -356,18 +380,6 @@
           "time_info": "09时08分"
         },
         {
-          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时36分]"
-        },
-        {
           "title": "日本经济大臣：展望未来，就业和收入环境的改善以及各项政策措施预计将支撑渐进的复苏过程。",
           "url": "https://flash.jin10.com/detail/20260216084630679800",
           "source": "金十数据",
@@ -388,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "美联储理事鲍曼：美国银行将根据《巴塞尔协议》规定执行新的抵押贷款资本要求。",
+          "url": "https://wallstreetcn.com/livenews/3055757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "日本12月工业产出同比终值 2.6%，初值 2.6%。",
@@ -438,17 +461,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
-        },
-        {
-          "title": "印度官员：印度主要采取配额制向美国开放农业部门。",
-          "url": "https://wallstreetcn.com/livenews/3055734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "日经225指数收跌0.2%，报56806.41点。 日本东证指数收跌0.8%，报3787.38点。",
@@ -663,6 +675,31 @@
           "time_info": "[19时33分 ~ 20时36分]"
         },
         {
+          "title": "印度官员：印度主要采取配额制向美国开放农业部门。",
+          "url": "https://wallstreetcn.com/livenews/3055734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
+        },
+        {
+          "title": "2026 年 NBA 全明星赛，赛制改为美国星队、美国条纹队，世界队大乱斗，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2006618233311028444",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 21时59分]"
+        },
+        {
           "title": "中国游客在日本酒店预订取消率超50%",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E9%A2%84%E8%AE%A2%E5%8F%96%E6%B6%88%E7%8E%87%E8%B6%8550%25",
           "source": "百度热搜",
@@ -698,18 +735,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时16分 ~ 09时08分]"
-        },
-        {
-          "title": "2026 年 NBA 全明星赛，赛制改为美国星队、美国条纹队，世界队大乱斗，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2006618233311028444",
-          "source": "知乎",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 20时36分]"
         },
         {
           "title": "日本流感病例数连续第二周达警报级别 部分学校停课",
@@ -845,6 +870,18 @@
           "time_info": "[14时01分 ~ 15时04分]"
         },
         {
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 21时59分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
           "url": "https://flash.jin10.com/detail/20260216185958619800",
           "source": "金十数据",
@@ -954,7 +991,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -992,6 +1029,28 @@
           "time_info": "15时04分"
         },
         {
+          "title": "美联储理事鲍曼：美国银行业将在巴塞尔计划中看到新的抵押贷款资本要求。",
+          "url": "https://flash.jin10.com/detail/20260216212557395800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国防长海格塞斯“接近”切断五角大楼与Anthropic的商业联系。海格塞斯接近将Anthropic列为“供应链风险”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3055750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "被王毅痛斥后日本急了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8E%8B%E6%AF%85%E7%97%9B%E6%96%A5%E5%90%8E%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -1012,17 +1071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
-        },
-        {
-          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
-          "url": "https://wallstreetcn.com/livenews/3055729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时36分"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日，中国、韩国、越南、美国、加拿大等地金融市场都将迎来假期，敬请各位投资者留意。",
@@ -1053,7 +1101,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -1113,6 +1161,17 @@
           "time_info": "15时04分"
         },
         {
+          "title": "美国国防部长赫格塞思接近决定将Anthropic公司列为“供应链风险”。",
+          "url": "https://flash.jin10.com/detail/20260216205022419800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "日本12月设备利用指数月率 1.3%，前值-5.30%。",
           "url": "https://flash.jin10.com/detail/20260216123300817800",
           "source": "金十数据",
@@ -1122,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "美国国防部长赫格塞思接近切断国防部与Anthropic的关系。",
+          "url": "https://flash.jin10.com/detail/20260216204941281800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "学者：全世界不答应日本招魂军国主义",
@@ -1168,6 +1238,28 @@
           "time_info": "19时33分"
         },
         {
+          "title": "美国国务院：在布达佩斯，美国国务卿鲁比奥签署了美匈民用核能政府间协议。",
+          "url": "https://flash.jin10.com/detail/20260216204647824800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "美国石油封锁加剧能源危机，古巴暂停年度雪茄节",
+          "url": "https://wallstreetcn.com/livenews/3055753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
           "title": "政府报告：日本2025年实际GDP同比增长1.1%。",
           "url": "https://flash.jin10.com/detail/20260216075844833800",
           "source": "金十数据",
@@ -1188,6 +1280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥通过中欧洲民用核能协议推进国家安全。",
+          "url": "https://flash.jin10.com/detail/20260216204636490800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "日本第四季度名义GDP季率初值 0.6%，前值-0.10%。",
@@ -1314,7 +1417,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -1337,8 +1440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 20时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 21时59分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -1407,8 +1510,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 21时59分]"
         },
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -1419,8 +1522,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 21时59分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -1444,8 +1547,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 20时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 21时59分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -1471,8 +1574,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 21时59分]"
+        },
+        {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 21时59分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -1530,19 +1646,6 @@
           "time_info": "[00时16分 ~ 15时04分]"
         },
         {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时36分]"
-        },
-        {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
           "url": "https://flash.jin10.com/detail/20260215225328791800",
           "source": "金十数据",
@@ -1563,11 +1666,12 @@
           "ranks": [
             9,
             13,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时04分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 21时59分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -1578,11 +1682,27 @@
             18,
             16,
             14,
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 21时59分]"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时04分 ~ 20时36分]"
+          "time_info": "[16时34分 ~ 21时59分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -1597,18 +1717,15 @@
           "time_info": "[16时34分 ~ 20时36分]"
         },
         {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            17,
-            15,
-            13
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -1623,6 +1740,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时01分 ~ 17时41分]"
+        },
+        {
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 21时59分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -1662,17 +1791,6 @@
           "time_info": "[14时01分 ~ 15时04分]"
         },
         {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 20时36分]"
-        },
-        {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
           "url": "https://flash.jin10.com/detail/20260216042956745800",
           "source": "金十数据",
@@ -1684,6 +1802,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时16分]"
+        },
+        {
+          "title": "这波三角洲AI春晚真该留到今晚看",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时59分]"
         },
         {
           "title": "AI解锁东西方经典马形象",
@@ -1707,17 +1837,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时33分 ~ 20时36分]"
-        },
-        {
-          "title": "这波三角洲AI春晚真该留到今晚看",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "全球用户涌入中国AI视频生成模型",
@@ -1762,6 +1881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "德银：AI“输家”惨遭抛售的种子早在2022年就已种下",
+          "url": "https://wallstreetcn.com/livenews/3055751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
