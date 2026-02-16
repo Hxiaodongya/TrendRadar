@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T21:59:36.817900+08:00",
-  "total_titles_processed": 1450,
+  "generated_at": "2026-02-16T22:40:00.470061+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 119,
+      "match_count": 120,
       "titles": [
         {
           "title": "财报后，美国四大云厂市值蒸发1万亿美元，市场甚至寻求对冲“大厂风险”",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 21时59分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 22时40分]"
         },
         {
           "title": "加州州长：从未想到美国竟成“全球最不稳定之源”",
@@ -96,8 +96,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 21时59分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 22时40分]"
         },
         {
           "title": "美国国务卿鲁比奥：叙利亚局势朝着正确的方向发展。",
@@ -114,6 +114,17 @@
           "time_info": "[00时16分 ~ 07时16分]"
         },
         {
+          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
+          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时40分]"
+        },
+        {
           "title": "美国防部称在印度洋拦截一艘油轮",
           "url": "https://wallstreetcn.com/livenews/3055623",
           "source": "华尔街见闻-快讯",
@@ -125,6 +136,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 09时08分]"
+        },
+        {
+          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时33分 ~ 22时40分]"
         },
         {
           "title": "美联储传声筒：美国经济或已实现软着陆，但无人愿轻言胜利",
@@ -203,17 +226,6 @@
           "time_info": "[00时16分 ~ 06时14分]"
         },
         {
-          "title": "台湾选将拜年抢合体！杨琼璎江启臣将与卢秀燕同框",
-          "url": "https://news.ifeng.com/c/8qn4t4j82tE",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时59分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：（对欧洲表示）我们不希望你们依赖我们。我们并不是在要求你们成为美国的附庸。",
           "url": "https://flash.jin10.com/detail/20260215212825269800",
           "source": "金十数据",
@@ -290,18 +302,6 @@
           "time_info": "[00时16分 ~ 01时17分]"
         },
         {
-          "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时33分 ~ 21时59分]"
-        },
-        {
           "title": "伊朗高官：愿与美国达成为双方带来经济利益的核协议",
           "url": "https://flash.jin10.com/detail/20260216143137748800",
           "source": "金十数据",
@@ -347,17 +347,6 @@
           "time_info": "09时08分"
         },
         {
-          "title": "网络状况监测网站DownDetector：美国有11266名用户反映社交媒体平台“X”出现故障。",
-          "url": "https://flash.jin10.com/detail/20260216213759160800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
           "title": "中国冰壶女队vs美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E5%A5%B3%E9%98%9Fvs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -380,6 +369,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "市场消息：美国联合航空公司选择通用电气航空航天公司的GENX发动机为新型787梦想客机提供动力。",
+          "url": "https://flash.jin10.com/detail/20260216220342084800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "日本经济大臣：展望未来，就业和收入环境的改善以及各项政策措施预计将支撑渐进的复苏过程。",
           "url": "https://flash.jin10.com/detail/20260216084630679800",
           "source": "金十数据",
@@ -400,17 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
-        },
-        {
-          "title": "美联储理事鲍曼：美国银行将根据《巴塞尔协议》规定执行新的抵押贷款资本要求。",
-          "url": "https://wallstreetcn.com/livenews/3055757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "日本12月工业产出同比终值 2.6%，初值 2.6%。",
@@ -579,6 +568,18 @@
           "time_info": "[19时33分 ~ 20时36分]"
         },
         {
+          "title": "网络状况监测网站DownDetector：美国有11266名用户反映社交媒体平台“X”出现故障。",
+          "url": "https://flash.jin10.com/detail/20260216213759160800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时40分]"
+        },
+        {
           "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
           "url": "https://flash.jin10.com/detail/20260216191824464800",
           "source": "金十数据",
@@ -613,6 +614,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时33分 ~ 20时36分]"
+        },
+        {
+          "title": "美联储理事鲍曼：美国银行将根据《巴塞尔协议》规定执行新的抵押贷款资本要求。",
+          "url": "https://wallstreetcn.com/livenews/3055757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时40分]"
         },
         {
           "title": "背滕王阁序被免票日本男子发声",
@@ -846,6 +859,18 @@
           "time_info": "[19时33分 ~ 20时36分]"
         },
         {
+          "title": "美联储理事鲍曼：美国银行业将在巴塞尔计划中看到新的抵押贷款资本要求。",
+          "url": "https://flash.jin10.com/detail/20260216212557395800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时40分]"
+        },
+        {
           "title": "日本四季度实际GDP年化季环比初值 0.2%，预期 1.6%，前值 -2.3%。",
           "url": "https://wallstreetcn.com/livenews/3055646",
           "source": "华尔街见闻-快讯",
@@ -856,6 +881,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 12时13分]"
+        },
+        {
+          "title": "美国防长海格塞斯“接近”切断五角大楼与Anthropic的商业联系。海格塞斯接近将Anthropic列为“供应链风险”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3055750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时40分]"
         },
         {
           "title": "日本10年期国债收益率上涨0.5个基点，至2.215%。",
@@ -928,6 +965,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 07时16分]"
+        },
+        {
+          "title": "美国石油封锁加剧能源危机，古巴暂停年度雪茄节",
+          "url": "https://wallstreetcn.com/livenews/3055753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时40分]"
         },
         {
           "title": "博思格钢铁CEO：已将美国中游投资计划的优先级下调。",
@@ -1027,28 +1076,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
-        },
-        {
-          "title": "美联储理事鲍曼：美国银行业将在巴塞尔计划中看到新的抵押贷款资本要求。",
-          "url": "https://flash.jin10.com/detail/20260216212557395800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美国防长海格塞斯“接近”切断五角大楼与Anthropic的商业联系。海格塞斯接近将Anthropic列为“供应链风险”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3055750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "被王毅痛斥后日本急了",
@@ -1167,7 +1194,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1189,7 +1216,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1244,18 +1271,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美国石油封锁加剧能源危机，古巴暂停年度雪茄节",
-          "url": "https://wallstreetcn.com/livenews/3055753",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1288,7 +1304,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1440,8 +1456,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 21时59分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 22时40分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -1484,6 +1500,18 @@
           "time_info": "[00时16分 ~ 19时33分]"
         },
         {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时40分]"
+        },
+        {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
           "source": "澎湃新闻",
@@ -1499,6 +1527,19 @@
           "time_info": "[00时16分 ~ 17时41分]"
         },
         {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时40分]"
+        },
+        {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
@@ -1510,20 +1551,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 21时59分]"
-        },
-        {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时59分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 22时40分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -1547,8 +1576,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 21时59分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 22时40分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -1574,21 +1603,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 21时59分]"
-        },
-        {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时59分]"
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 22时40分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -1602,6 +1618,36 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 12时13分]"
+        },
+        {
+          "title": "如何看待字节跳动也开始做 AI 芯片？",
+          "url": "https://www.zhihu.com/question/397296807",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时04分 ~ 22时40分]"
+        },
+        {
+          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时04分 ~ 22时40分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -1660,36 +1706,6 @@
           "time_info": "[00时16分 ~ 07时16分]"
         },
         {
-          "title": "如何看待字节跳动也开始做 AI 芯片？",
-          "url": "https://www.zhihu.com/question/397296807",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时04分 ~ 21时59分]"
-        },
-        {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时04分 ~ 21时59分]"
-        },
-        {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
           "source": "澎湃新闻",
@@ -1701,8 +1717,21 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时34分 ~ 22时40分]"
+        },
+        {
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时59分]"
+          "time_info": "[18时39分 ~ 22时40分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -1715,17 +1744,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时34分 ~ 20时36分]"
-        },
-        {
-          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
-          "url": "https://wallstreetcn.com/livenews/3055756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -1742,16 +1760,16 @@
           "time_info": "[14时01分 ~ 17时41分]"
         },
         {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
+          "title": "这波三角洲AI春晚真该留到今晚看",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            15
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时39分 ~ 21时59分]"
+          "time_info": "[20时35分 ~ 22时40分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -1791,6 +1809,18 @@
           "time_info": "[14时01分 ~ 15时04分]"
         },
         {
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时40分]"
+        },
+        {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
           "url": "https://flash.jin10.com/detail/20260216042956745800",
           "source": "金十数据",
@@ -1802,18 +1832,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时15分 ~ 07时16分]"
-        },
-        {
-          "title": "这波三角洲AI春晚真该留到今晚看",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时59分]"
         },
         {
           "title": "AI解锁东西方经典马形象",
@@ -1837,6 +1855,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时33分 ~ 20时36分]"
+        },
+        {
+          "title": "德银：AI“输家”惨遭抛售的种子早在2022年就已种下",
+          "url": "https://wallstreetcn.com/livenews/3055751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时40分]"
         },
         {
           "title": "全球用户涌入中国AI视频生成模型",
@@ -1881,17 +1911,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "德银：AI“输家”惨遭抛售的种子早在2022年就已种下",
-          "url": "https://wallstreetcn.com/livenews/3055751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
         },
         {
           "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
