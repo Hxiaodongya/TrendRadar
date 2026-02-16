@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-17T06:17:44.614005+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-17T07:19:31.996660+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
           "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "火力全开!王毅警告日本",
@@ -27,8 +28,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -37,11 +38,12 @@
           "ranks": [
             1,
             4,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时26分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时26分 ~ 07时19分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -50,11 +52,34 @@
           "ranks": [
             4,
             7,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时26分 ~ 06时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时26分 ~ 07时19分]"
+        },
+        {
+          "title": "匈牙利与美国签署核能合作协议",
+          "url": "https://wallstreetcn.com/livenews/3055854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "匈牙利与美国签署核能合作协议",
+          "url": "https://flash.jin10.com/detail/20260217070639711800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -126,6 +151,19 @@
           "time_info": "[02时29分 ~ 04时19分]"
         },
         {
+          "title": "美国空军向中东增派18架F-35战斗机",
+          "url": "https://wallstreetcn.com/livenews/3055829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时19分]"
+        },
+        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -191,18 +229,6 @@
           "time_info": "[02时29分 ~ 04时19分]"
         },
         {
-          "title": "美国空军向中东增派18架F-35战斗机",
-          "url": "https://wallstreetcn.com/livenews/3055829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时17分]"
-        },
-        {
           "title": "知情人士：SpaceX将参与美国防部自主无人机技术竞标",
           "url": "https://flash.jin10.com/detail/20260217024016312800",
           "source": "金十数据",
@@ -238,6 +264,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时31分]"
+        },
+        {
+          "title": "全球领先的金属和电子产品回收商Sims：预计有色金属市场将保持强劲，关税预计将继续支撑美国黑色和有色金属的需求。",
+          "url": "https://flash.jin10.com/detail/20260217052846924800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
         },
         {
           "title": "美国驻以色列大使就伊核谈判表态称致力于和平，但警告若为了未来而战不可避免，那就开战。",
@@ -360,26 +398,27 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
-          "title": "全球领先的金属和电子产品回收商Sims：预计有色金属市场将保持强劲，关税预计将继续支撑美国黑色和有色金属的需求。",
-          "url": "https://flash.jin10.com/detail/20260217052846924800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "伊朗大秀肌肉回应美国施压",
           "url": "https://www.toutiao.com/trending/7607336004873096742/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 07时19分]"
+        },
+        {
+          "title": "据日本朝日新闻：日本将于夏季开始就反间谍法进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260217062034981800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "07时19分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -429,7 +468,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -440,8 +479,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -452,8 +491,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -464,8 +503,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -476,8 +515,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -490,8 +529,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -501,8 +540,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -513,19 +552,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
           "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -533,11 +573,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
@@ -555,17 +596,6 @@
           "time_info": "[00时31分 ~ 05时19分]"
         },
         {
-          "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
-          "url": "https://flash.jin10.com/detail/20260217053748212800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
           "title": "刘维用AI与去世父母姥姥隔空相见",
           "url": "https://www.toutiao.com/trending/7607362287455797294/",
           "source": "今日头条",
@@ -577,6 +607,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时30分 ~ 03时26分]"
+        },
+        {
+          "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
+          "url": "https://flash.jin10.com/detail/20260217053748212800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -604,6 +646,54 @@
           "time_info": "[05时19分 ~ 06时17分]"
         },
         {
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
+          "url": "https://wallstreetcn.com/livenews/3055839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
+          "url": "https://flash.jin10.com/detail/20260217052828769800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -616,37 +706,26 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
-          "title": "OpenAI：系统（恢复）全面运作。",
-          "url": "https://wallstreetcn.com/livenews/3055842",
+          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
+          "url": "https://wallstreetcn.com/livenews/3055850",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时19分"
         },
         {
-          "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
-          "url": "https://wallstreetcn.com/livenews/3055839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
-          "url": "https://flash.jin10.com/detail/20260217052828769800",
+          "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
+          "url": "https://flash.jin10.com/detail/20260217064752239800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时19分"
         },
         {
           "title": "OpenAI：系统已恢复全面运作。",
@@ -655,20 +734,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
         {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
+          "url": "https://flash.jin10.com/detail/20260217055715846800",
+          "source": "金十数据",
           "ranks": [
-            12
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时17分"
+          "time_info": "07时19分"
         }
       ]
     }
