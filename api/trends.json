@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-17T18:35:27.740534+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2026-02-17T19:33:11.800188+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 90,
+      "match_count": 96,
       "titles": [
+        {
+          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 19时33分]"
+        },
         {
           "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
           "url": "https://m.thepaper.cn/newsDetail_forward_32620966",
@@ -32,31 +46,18 @@
           "time_info": "[09时07分 ~ 18时35分]"
         },
         {
-          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 18时35分]"
-        },
-        {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
           "url": "https://wallstreetcn.com/articles/3765802",
           "source": "华尔街见闻",
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时52分 ~ 18时35分]"
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 19时33分]"
         },
         {
           "title": "火力全开!王毅警告日本",
@@ -132,15 +133,15 @@
           "time_info": "14时44分"
         },
         {
-          "title": "哈梅内伊强调美国无法摧毁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3055945",
-          "source": "华尔街见闻-快讯",
+          "title": "美国银行：将美国雅宝(ALB.N)评级从中性评级上调至买入；将目标价从167.00美元上调至190.00美元。",
+          "url": "https://flash.jin10.com/detail/20260217192538547800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "19时33分"
         },
         {
           "title": "匈牙利与美国签署核能合作协议",
@@ -182,9 +183,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "美国天然气期货日内跌幅达3.00%，现报3.145美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260217192409745800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -241,6 +253,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时29分 ~ 06时17分]"
+        },
+        {
+          "title": "黄循财：日本给我们的苦难教训极重",
+          "url": "https://www.toutiao.com/trending/7606935704773361670/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时33分]"
         },
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -398,6 +424,18 @@
           "time_info": "[13时52分 ~ 14时44分]"
         },
         {
+          "title": "哈梅内伊强调美国无法摧毁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3055945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时33分]"
+        },
+        {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3055860",
           "source": "华尔街见闻-快讯",
@@ -475,19 +513,6 @@
           "time_info": "[12时09分 ~ 14时44分]"
         },
         {
-          "title": "黄循财：日本给我们的苦难教训极重",
-          "url": "https://www.toutiao.com/trending/7606935704773361670/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时35分]"
-        },
-        {
           "title": "美国日本春节想针对台海搞事",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A5%E6%9C%AC%E6%98%A5%E8%8A%82%E6%83%B3%E9%92%88%E5%AF%B9%E5%8F%B0%E6%B5%B7%E6%90%9E%E4%BA%8B%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -535,6 +560,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时19分]"
+        },
+        {
+          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
+          "url": "https://wallstreetcn.com/livenews/3055940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时33分]"
         },
         {
           "title": "美国驻以色列大使就伊核谈判表态称致力于和平，但警告若为了未来而战不可避免，那就开战。",
@@ -633,6 +670,18 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
+          "title": "文件：日本财务省预计到2029财年偿债成本相比本财年几乎翻番",
+          "url": "https://wallstreetcn.com/livenews/3055935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时33分]"
+        },
+        {
           "title": "美国加州即将面临一场巨大的冬季风暴",
           "url": "https://wallstreetcn.com/livenews/3055784",
           "source": "华尔街见闻-快讯",
@@ -729,6 +778,17 @@
           "time_info": "[13时52分 ~ 14时44分]"
         },
         {
+          "title": "中国冰壶男队8比5美国队",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E7%94%B7%E9%98%9F8%E6%AF%945%E7%BE%8E%E5%9B%BD%E9%98%9F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
+        },
+        {
           "title": "日本20年期国债收益率延续跌势，最新下挫10.5个基点至2.975%；日本10年期国债收益率下跌8个基点，至2.13%。",
           "url": "https://flash.jin10.com/detail/20260217135419023800",
           "source": "金十数据",
@@ -773,15 +833,15 @@
           "time_info": "17时37分"
         },
         {
-          "title": "美国土安全部长与下属传出婚外情，特朗普回应：没听说过，会去了解",
-          "url": "https://wallstreetcn.com/livenews/3055940",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗革命卫队海军指挥官：在战争中投入战场的武器与演习中展示的不同。",
+          "url": "https://flash.jin10.com/detail/20260217192239948800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "19时33分"
         },
         {
           "title": "日本2025年查获的非法毒品总量超过3吨，为6年来首次突破该水平。",
@@ -817,24 +877,13 @@
           "time_info": "17时37分"
         },
         {
-          "title": "文件：日本财务省预计到2029财年偿债成本相比本财年几乎翻番",
-          "url": "https://wallstreetcn.com/livenews/3055935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "新加坡反思日本侵略",
           "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%8D%E6%80%9D%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -878,7 +927,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -911,9 +960,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "美国纯正零件公司 (Genuine Parts)计划拆分汽车零部件和工业零部件部门。",
+          "url": "https://flash.jin10.com/detail/20260217185540608800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "5年期日本国债收益率跌1.5个基点，至1.655%。",
@@ -947,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "法国外长：绕过欧洲制裁是要付出代价的。俄罗斯将无法再通过在我们海岸附近活动的幽灵舰队来肆无忌惮地为其战争提供资金。‘格林奇’号油轮在福斯港耗费数百万欧元并被扣留三周后，终于离开了法国水域。",
+          "url": "https://flash.jin10.com/detail/20260217183834065800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         },
         {
           "title": "美国总统特朗普：乌克兰最好回到谈判桌上。",
@@ -1043,7 +1114,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1119,8 +1190,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 16时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 19时33分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -1146,8 +1217,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 18时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 19时33分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -1172,8 +1243,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 16时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 19时33分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -1202,6 +1273,17 @@
           "time_info": "[00时30分 ~ 09时07分]"
         },
         {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时33分]"
+        },
+        {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
           "url": "https://wallstreetcn.com/livenews/3055799",
           "source": "华尔街见闻-快讯",
@@ -1215,17 +1297,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时19分]"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "豆包：除夕豆包AI互动总数达19亿",
@@ -1288,6 +1359,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 03时26分]"
+        },
+        {
+          "title": "户口本只剩自己 刘维用AI和家人团圆",
+          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时33分]"
         },
         {
           "title": "OpenAI：系统（恢复）全面运作。",
@@ -1461,18 +1545,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时43分 ~ 16时34分]"
-        },
-        {
-          "title": "户口本只剩自己 刘维用AI和家人团圆",
-          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时35分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
