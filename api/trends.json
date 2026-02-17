@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:43:33.376483+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-17T16:34:37.072993+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 16时34分]"
         },
         {
           "title": "火力全开!王毅警告日本",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 16时34分]"
         },
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -82,6 +82,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时26分 ~ 07时19分]"
+        },
+        {
+          "title": "鲁比奥：美国对华断绝关系是不可思议的",
+          "url": "https://news.ifeng.com/c/8qoK0Q7gPA2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 16时34分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -120,17 +131,6 @@
           "time_info": "14时44分"
         },
         {
-          "title": "鲁比奥：美国对华断绝关系是不可思议的",
-          "url": "https://news.ifeng.com/c/8qoK0Q7gPA2",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 15时43分]"
-        },
-        {
           "title": "匈牙利与美国签署核能合作协议",
           "url": "https://flash.jin10.com/detail/20260217070639711800",
           "source": "金十数据",
@@ -162,17 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
-        },
-        {
-          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
-          "url": "https://wallstreetcn.com/livenews/3055906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -271,6 +260,19 @@
           "time_info": "[05时19分 ~ 07时19分]"
         },
         {
+          "title": "日本20年期国债收益率下跌10个基点至2.98%。 日本40年期国债收益率下跌12个基点至3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 16时34分]"
+        },
+        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -360,18 +362,6 @@
           "time_info": "[13时52分 ~ 14时44分]"
         },
         {
-          "title": "日本20年期国债收益率下跌10个基点至2.98%。 日本40年期国债收益率下跌12个基点至3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3055889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 15时43分]"
-        },
-        {
           "title": "特朗普称他将间接参与美国和伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3055860",
           "source": "华尔街见闻-快讯",
@@ -384,6 +374,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时07分 ~ 14时44分]"
+        },
+        {
+          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
+          "url": "https://wallstreetcn.com/livenews/3055906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时34分]"
         },
         {
           "title": "知情人士：SpaceX将参与美国防部自主无人机技术竞标",
@@ -606,6 +608,18 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
+          "title": "美国国债收益率下跌",
+          "url": "https://wallstreetcn.com/livenews/3055894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时34分]"
+        },
+        {
           "title": "伊朗大秀肌肉回应美国施压",
           "url": "https://www.toutiao.com/trending/7607336004873096742/",
           "source": "今日头条",
@@ -616,6 +630,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 07时19分]"
+        },
+        {
+          "title": "日经225指数收跌0.4%，报56,566.49点。 日本东证指数收跌0.7%，报3,761.55点。",
+          "url": "https://wallstreetcn.com/livenews/3055893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时34分]"
         },
         {
           "title": "市场消息：日本首相高市早苗考虑制定多年期预算以促进增长和危机管理。",
@@ -652,6 +678,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "黄循财：日本给我们的苦难教训极重",
+          "url": "https://www.toutiao.com/trending/7606935704773361670/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "据日本朝日新闻：日本将于夏季开始就反间谍法进行谈判。",
           "url": "https://flash.jin10.com/detail/20260217062034981800",
           "source": "金十数据",
@@ -672,28 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "美国国债收益率下跌",
-          "url": "https://wallstreetcn.com/livenews/3055894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "日经225指数收跌0.4%，报56,566.49点。 日本东证指数收跌0.7%，报3,761.55点。",
-          "url": "https://wallstreetcn.com/livenews/3055893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -746,7 +761,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -757,7 +772,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -815,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国总统特朗普：认为和平委员会将远远超出加沙。",
@@ -875,7 +901,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -886,8 +912,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 15时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 16时34分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -910,8 +936,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 15时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 16时34分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -936,8 +962,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 15时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 16时34分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -958,11 +984,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 15时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 16时34分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -1194,6 +1221,17 @@
           "time_info": "[13时52分 ~ 14时44分]"
         },
         {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 16时34分]"
+        },
+        {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
@@ -1238,26 +1276,26 @@
           "time_info": "07时19分"
         },
         {
-          "title": "当高定遇上AI，“上海定制”的变与不变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
           "title": "印度阿达尼集团：将投资建设绿色能源驱动的AI就绪数据中心，目标在2035年前提升数据中心容量。",
           "url": "https://flash.jin10.com/detail/20260217145958963800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "阿达尼计划投资千亿美元建数据中心 瞄准印度AI领域的崛起机遇",
+          "url": "https://wallstreetcn.com/livenews/3055895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }
