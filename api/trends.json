@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T01:47:43.916646+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-18T02:42:15.802146+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 51,
+      "match_count": 63,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "黄循财：日本给我们的苦难教训极重",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "美国三大股指开盘涨跌不一，科技股普跌，黄金跌破4900，白银暴跌7.5%",
@@ -38,8 +38,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
+        },
+        {
+          "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
+          "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "time_info": "[02时41分 ~ 02时42分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -48,20 +59,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
         {
-          "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
-          "url": "https://wallstreetcn.com/livenews/3056072",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：福特提议允许中国车企进入美国",
+          "url": "https://news.ifeng.com/c/8qp1qt0C9om",
+          "source": "凤凰网",
           "ranks": [
-            2
+            5,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "美国能源部长赖特：如果国际能源署坚持“气候事务”，我们就不参与。",
@@ -70,7 +83,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -81,18 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（2月13日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3056069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -109,16 +111,16 @@
           "time_info": "[00时44分 ~ 01时47分]"
         },
         {
-          "title": "美媒：福特提议允许中国车企进入美国",
-          "url": "https://news.ifeng.com/c/8qp1qt0C9om",
-          "source": "凤凰网",
+          "title": "美国纽约市长Mamdani计划上调房产税，希望能弥补50亿美元预算缺口。",
+          "url": "https://wallstreetcn.com/livenews/3056072",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7
+            2,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "time_info": "[01时47分 ~ 02时42分]"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -169,6 +171,41 @@
           "time_info": "[00时44分 ~ 01时47分]"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（2月13日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3056069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时42分]"
+        },
+        {
+          "title": "日本国会今日将举行首相指名选举",
+          "url": "https://news.ifeng.com/c/8qpRmmnWLWB",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 02时42分]"
+        },
+        {
+          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291035",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 02时42分]"
+        },
+        {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
           "url": "https://flash.jin10.com/detail/20260217235812714800",
           "source": "金十数据",
@@ -179,6 +216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时47分]"
+        },
+        {
+          "title": "美国女友来中国过年是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%8F%8B%E6%9D%A5%E4%B8%AD%E5%9B%BD%E8%BF%87%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 02时42分]"
         },
         {
           "title": "乌克兰外长：俄罗斯故意袭击在乌克兰的美国企业。",
@@ -241,15 +289,49 @@
           "time_info": "[00时44分 ~ 01时47分]"
         },
         {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.6%，投标倍数2.71。 拍卖六个月期国债，得标利率3.5%，投标倍数3.08。",
+          "url": "https://wallstreetcn.com/livenews/3056060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时42分]"
+        },
+        {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://www.toutiao.com/trending/7606880300451086355/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 02时42分]"
+        },
+        {
           "title": "美国能源部长赖特：我们对国际能源署做出的变化仍不满意。",
           "url": "https://flash.jin10.com/detail/20260218011228811800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：俄罗斯、乌克兰和美国之间的三边会谈首日已结束。会谈聚焦于实际问题和可能决策的机制。",
+          "url": "https://flash.jin10.com/detail/20260218021817157800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "Palantir：我们已经将总部迁往美国佛罗里达州迈阿密。",
@@ -269,7 +351,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -280,20 +362,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
         {
-          "title": "日本国会今日将举行首相指名选举",
-          "url": "https://news.ifeng.com/c/8qpRmmnWLWB",
-          "source": "凤凰网",
+          "title": "美国财政部拍卖六周期国债，得标利率3.640%，投标倍数2.75。 拍卖52周期国债，得标利率3.345%，投标倍数2.96。",
+          "url": "https://wallstreetcn.com/livenews/3056083",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "02时42分"
         },
         {
           "title": "加拿大寻求减少对美国武器的依赖",
@@ -313,9 +395,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
+          "url": "https://flash.jin10.com/detail/20260218021023992800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "市场消息：美国商品期货交易委员会（CFTC）主席宣布“通过执法进行监管”的时代结束。",
@@ -335,29 +428,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率3.6%，投标倍数2.71。 拍卖六个月期国债，得标利率3.5%，投标倍数3.08。",
-          "url": "https://wallstreetcn.com/livenews/3056060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291035",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -368,7 +439,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -390,7 +461,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -401,9 +472,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国至2月17日6周国债竞拍-得标利率配置百分比 35.75%，前值85.03%。",
+          "url": "https://flash.jin10.com/detail/20260218020516769800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国SEC主席推动披露制度现代化 拟精简风险清单",
@@ -434,9 +516,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国至2月17日6周国债竞拍-投标倍数 2.75，前值2.96。",
+          "url": "https://flash.jin10.com/detail/20260218020322922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
@@ -467,9 +560,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国至2月17日6周国债竞拍-得标利率 3.64%，前值3.64%。",
+          "url": "https://flash.jin10.com/detail/20260218020316340800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "印度在与美国缓和贸易冲突之际扣押了受制裁的“影子舰队”油轮。",
@@ -489,9 +593,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国至2月17日1年期国债竞拍-得标利率 3.345%，前值3.39%。",
+          "url": "https://flash.jin10.com/detail/20260218020203998800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "ADP：美国每周新增就业人数连续第三周走强",
@@ -511,9 +626,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国至2月17日1年期国债竞拍-投标倍数 2.96，前值3.42。",
+          "url": "https://flash.jin10.com/detail/20260218020203972800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -522,7 +648,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -533,9 +659,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国至2月17日1年期国债竞拍-得标利率配置百分比 32.64%，前值29.55%。",
+          "url": "https://flash.jin10.com/detail/20260218020203794800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "美国住宅建筑商信心指数跌至五个月低点，受可负担性困扰拖累",
@@ -555,7 +692,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -566,7 +703,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -585,7 +722,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -596,8 +733,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -607,8 +744,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
+        },
+        {
+          "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
+          "url": "https://wallstreetcn.com/livenews/3056090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -618,8 +766,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -629,8 +777,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
+        },
+        {
+          "title": "王菲化妆师改口问就是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -645,26 +804,82 @@
           "time_info": "[00时44分 ~ 01时47分]"
         },
         {
-          "title": "王菲化妆师改口问就是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
-        },
-        {
           "title": "摩根大通：AI带来的扰动将推动小型银行合并",
           "url": "https://wallstreetcn.com/livenews/3056057",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时42分]"
+        },
+        {
+          "title": "Anthropic发布新一代AI模型Claude Sonnet 4.6",
+          "url": "https://flash.jin10.com/detail/20260218021512170800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "Anthropic发布新AI模型：操控计算机能力大幅提升",
+          "url": "https://wallstreetcn.com/livenews/3056082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "报道：苹果大改AI眼镜等三款可穿戴设备",
+          "url": "https://wallstreetcn.com/livenews/3056080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "美联储理事、原来负责金融监管事务的副主席Barr：在一段时期内按兵不动可能是适宜的。 望看到证据表明美国通胀显著下降，然后再继续降息。 1月就业数据表明，劳动力市场正在趋于稳定。 短期而言，人工智能（AI）可能会深度干扰就业市场；其长期效果可能基本上偏正面。 AI可能会推高中性利率，意味着更高的政策背景。",
+          "url": "https://wallstreetcn.com/livenews/3056079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        },
+        {
+          "title": "苹果加速布局AI穿戴设备 三款新品细节曝光",
+          "url": "https://flash.jin10.com/detail/20260218020812842800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "02时42分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)加大力度研发面向人工智能时代的智能眼镜、吊坠和带摄像头的AirPods等产品。",
+          "url": "https://flash.jin10.com/detail/20260218015731881800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     }
