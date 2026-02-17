@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T13:52:21.315149+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-02-17T14:44:58.233578+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "内塔尼亚胡：以色列计划10年内停止接受美国资金援助",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 14时44分]"
         },
         {
           "title": "火力全开!王毅警告日本",
@@ -40,8 +40,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时44分]"
+        },
+        {
+          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时44分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -58,17 +72,16 @@
           "time_info": "[03时26分 ~ 07时19分]"
         },
         {
-          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
-          "source": "澎湃新闻",
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
             5,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
         },
         {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
@@ -96,26 +109,26 @@
           "time_info": "12时09分"
         },
         {
-          "title": "日本财政部预测：到2029财年，日本发债规模将较2026财年增长28%",
-          "url": "https://flash.jin10.com/detail/20260217134852910800",
+          "title": "日本5年期国债收益率下跌5.5个基点，至1.615%。",
+          "url": "https://flash.jin10.com/detail/20260217141316019800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时44分"
         },
         {
-          "title": "市场消息：日本财政部预测显示，受债务发行成本上升影响，日本2029财年债券发行规模可能达到38万亿日元，较2026财年增长28%。",
-          "url": "https://flash.jin10.com/detail/20260217134201091800",
-          "source": "金十数据",
+          "title": "日本20年期国债收益率下跌10个基点至2.98%。 日本40年期国债收益率下跌12个基点至3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055889",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时44分"
         },
         {
           "title": "匈牙利与美国签署核能合作协议",
@@ -129,17 +142,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "日本5年期国债拍卖投标倍数为3.10，创自2025年8月以来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260217113615582800",
           "source": "金十数据",
@@ -149,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "日本两年期国债收益率下跌3.5个基点，至1.230%。",
+          "url": "https://flash.jin10.com/detail/20260217140250484800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥还将围绕安全问题开会。 加墨两国将扩“大港口对港口的贸易”。 我们在医药、农业领域看到投资机会。",
@@ -221,6 +234,17 @@
           "time_info": "[01时31分 ~ 05时19分]"
         },
         {
+          "title": "鲁比奥：美国对华断绝关系是不可思议的",
+          "url": "https://news.ifeng.com/c/8qoK0Q7gPA2",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时44分]"
+        },
+        {
           "title": "据日经新闻：日本瑞穗银行证券公司面临内幕交易调查。",
           "url": "https://flash.jin10.com/detail/20260217014829717800",
           "source": "金十数据",
@@ -286,6 +310,18 @@
           "time_info": "[04时19分 ~ 06时17分]"
         },
         {
+          "title": "日本财政部预测：到2029财年，日本发债规模将较2026财年增长28%",
+          "url": "https://flash.jin10.com/detail/20260217134852910800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
+        },
+        {
           "title": "市场消息：美国共和党参议员格雷厄姆会见以色列总理内塔尼亚胡。",
           "url": "https://flash.jin10.com/detail/20260216234955341800",
           "source": "金十数据",
@@ -312,15 +348,30 @@
           "time_info": "[02时29分 ~ 04时19分]"
         },
         {
-          "title": "鲁比奥：美国对华断绝关系是不可思议的",
-          "url": "https://news.ifeng.com/c/8qoK0Q7gPA2",
-          "source": "凤凰网",
+          "title": "市场消息：日本财政部预测显示，受债务发行成本上升影响，日本2029财年债券发行规模可能达到38万亿日元，较2026财年增长28%。",
+          "url": "https://flash.jin10.com/detail/20260217134201091800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 13时52分]"
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 14时44分]"
         },
         {
           "title": "知情人士：SpaceX将参与美国防部自主无人机技术竞标",
@@ -334,19 +385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 13时52分]"
         },
         {
           "title": "市场消息：SpaceX将参与美国国防部自主无人机技术竞标。",
@@ -373,6 +411,31 @@
           "time_info": "[00时30分 ~ 01时31分]"
         },
         {
+          "title": "日本今日将发行2.5万亿日元1.600%五年期债券。",
+          "url": "https://wallstreetcn.com/livenews/3055870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时44分]"
+        },
+        {
+          "title": "日本12月第三产业活动指数环比 -0.5%，前值 -0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3055882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
+        },
+        {
           "title": "全球领先的金属和电子产品回收商Sims：预计有色金属市场将保持强劲，关税预计将继续支撑美国黑色和有色金属的需求。",
           "url": "https://flash.jin10.com/detail/20260217052846924800",
           "source": "金十数据",
@@ -395,18 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时29分]"
-        },
-        {
-          "title": "日本今日将发行2.5万亿日元1.600%五年期债券。",
-          "url": "https://wallstreetcn.com/livenews/3055870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -469,6 +520,30 @@
           "time_info": "[00时31分 ~ 01时31分]"
         },
         {
+          "title": "美国日本春节想针对台海搞事",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A5%E6%9C%AC%E6%98%A5%E8%8A%82%E6%83%B3%E9%92%88%E5%AF%B9%E5%8F%B0%E6%B5%B7%E6%90%9E%E4%BA%8B%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 14时44分]"
+        },
+        {
+          "title": "日本东证指数下跌1.0%，报3,749.41。",
+          "url": "https://flash.jin10.com/detail/20260217132131107800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
+        },
+        {
           "title": "加拿大负责美国贸易事务的部长Leblanc在墨西哥城讲话：大约370加拿大商界领袖为了对话而齐聚墨西哥。 加拿大在墨西哥寻找行业合作伙伴和出口商。 庞巴迪（Bombardier）、Bimbo等公司将参与对话。",
           "url": "https://wallstreetcn.com/livenews/3055789",
           "source": "华尔街见闻-快讯",
@@ -529,26 +604,38 @@
           "time_info": "[03时26分 ~ 07时19分]"
         },
         {
-          "title": "日本12月第三产业活动指数环比 -0.5%，前值 -0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3055882",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：日本首相高市早苗考虑制定多年期预算以促进增长和危机管理。",
+          "url": "https://flash.jin10.com/detail/20260217130844101800",
+          "source": "金十数据",
           "ranks": [
-            6
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
+        },
+        {
+          "title": "日本20年期国债收益率延续跌势，最新下挫10.5个基点至2.975%；日本10年期国债收益率下跌8个基点，至2.13%。",
+          "url": "https://flash.jin10.com/detail/20260217135419023800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时44分"
         },
         {
-          "title": "美国日本春节想针对台海搞事",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A5%E6%9C%AC%E6%98%A5%E8%8A%82%E6%83%B3%E9%92%88%E5%AF%B9%E5%8F%B0%E6%B5%B7%E6%90%9E%E4%BA%8B%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "日本40年期国债收益率下跌12个基点至3.6%。",
+          "url": "https://flash.jin10.com/detail/20260217135110025800",
+          "source": "金十数据",
           "ranks": [
-            13
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "14时44分"
         },
         {
           "title": "据日本朝日新闻：日本将于夏季开始就反间谍法进行谈判。",
@@ -562,17 +649,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "日本东证指数下跌1.0%，报3,749.41。",
-          "url": "https://flash.jin10.com/detail/20260217132131107800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "亚盘交易时段，金银价格出现V型走势，现已收复早间大部分跌幅；日本前央行官员放风，加息窗口或锁定在4月，当前，金银油多头占比均达80%及以上，日内，留意俄乌及美伊谈判将相继在日内瓦举行，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260217110709315800",
           "source": "金十数据",
@@ -582,17 +658,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
-        },
-        {
-          "title": "市场消息：日本首相高市早苗考虑制定多年期预算以促进增长和危机管理。",
-          "url": "https://flash.jin10.com/detail/20260217130844101800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
@@ -678,7 +743,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -744,7 +809,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -763,8 +828,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 14时44分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -787,8 +852,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 14时44分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -813,19 +878,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 14时44分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
           "url": "https://www.cls.cn/detail/2290580",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 14时44分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -833,11 +899,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 14时44分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -892,17 +959,6 @@
           "time_info": "12时09分"
         },
         {
-          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
-          "url": "https://wallstreetcn.com/livenews/3055884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "刘维用AI与去世父母姥姥隔空相见",
           "url": "https://www.toutiao.com/trending/7607362287455797294/",
           "source": "今日头条",
@@ -914,6 +970,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时30分 ~ 03时26分]"
+        },
+        {
+          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+          "url": "https://wallstreetcn.com/livenews/3055884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
         },
         {
           "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
@@ -993,6 +1061,19 @@
           "time_info": "[06时17分 ~ 09时07分]"
         },
         {
+          "title": "春晚AI率比我论文高",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时44分]"
+        },
+        {
           "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
           "url": "https://wallstreetcn.com/livenews/3055834",
           "source": "华尔街见闻-快讯",
@@ -1030,18 +1111,6 @@
           "time_info": "[06时17分 ~ 07时19分]"
         },
         {
-          "title": "春晚AI率比我论文高",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时52分]"
-        },
-        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -1052,6 +1121,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时31分]"
+        },
+        {
+          "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
+          "url": "https://flash.jin10.com/detail/20260217132112980800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时44分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -1085,17 +1166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        },
-        {
-          "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
-          "url": "https://flash.jin10.com/detail/20260217132112980800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
