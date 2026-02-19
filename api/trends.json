@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T00:40:25.145500+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-20T01:42:50.287326+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 38,
+      "match_count": 69,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
         },
         {
           "title": "Meta Platforms(META.O)：将在2026年美国大选竞选活动的最后一周继续屏蔽我们平台上的新政治广告。",
@@ -30,15 +52,15 @@
           "time_info": "00时40分"
         },
         {
-          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
-          "source": "澎湃新闻",
+          "title": "美国能源信息署：美国从沙特阿拉伯进口的原油在最新一周上升至2022年6月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260220010851361800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
         },
         {
           "title": "美国总统特朗普考虑禁止某些移民家庭住房救助。（BLAW）",
@@ -52,17 +74,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
           "title": "俄罗斯警告美国：后果严重！",
           "url": "https://news.ifeng.com/c/8qsAoRWFwt4",
           "source": "凤凰网",
@@ -70,8 +81,99 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "日本挖到稀土,全是选举戏码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "俄外交部：日本若不反省，则二战罪行仍在持续",
+          "url": "https://news.ifeng.com/c/8qsQ9oPUDTC",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "美国农民加码大豆种植",
+          "url": "https://wallstreetcn.com/livenews/3056697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
+          "url": "https://news.ifeng.com/c/8qsBz1kTjhm",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "美国首都华盛顿宣布进入紧急状态，9 亿升污水泄漏带来大量与粪便有关的细菌和致病病原体，具体是什么情况？",
+          "url": "https://www.zhihu.com/question/2007893638286373683",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "中国游客锐减6成 日本旅游业叫苦连天",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F6%E6%88%90+%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E5%8F%AB%E8%8B%A6%E8%BF%9E%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "美国NASA将“星际客机”事故列为与航天飞机悲剧同级的重大事故",
+          "url": "https://wallstreetcn.com/livenews/3056720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
         },
         {
           "title": "美国民主党参议员沃伦对美联储银行监管部门内部的人事变动提出质疑",
@@ -85,37 +187,15 @@
           "time_info": "00时40分"
         },
         {
-          "title": "美国农民加码大豆种植",
-          "url": "https://wallstreetcn.com/livenews/3056697",
+          "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.01%，前值6.09%。",
+          "url": "https://wallstreetcn.com/livenews/3056719",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "日本挖到稀土,全是选举戏码",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "俄外交部：日本若不反省，则二战罪行仍在持续",
-          "url": "https://news.ifeng.com/c/8qsQ9oPUDTC",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
         },
         {
           "title": "美国联邦能源监管委员会将取消美国西部地区1000美元/兆瓦时的软性电力价格上限。",
@@ -129,15 +209,37 @@
           "time_info": "00时40分"
         },
         {
-          "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
-          "url": "https://news.ifeng.com/c/8qsBz1kTjhm",
-          "source": "凤凰网",
+          "title": "金十数据整理：美国当周EIA库存数据最值一览",
+          "url": "https://flash.jin10.com/detail/20260220010245542800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
+          "url": "https://flash.jin10.com/detail/20260220010107773800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国上周EIA原油库存锐减超900万桶",
+          "url": "https://wallstreetcn.com/livenews/3056717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "美国若武力介入台湾代价巨大",
@@ -151,15 +253,92 @@
           "time_info": "00时40分"
         },
         {
-          "title": "美国首都华盛顿宣布进入紧急状态，9 亿升污水泄漏带来大量与粪便有关的细菌和致病病原体，具体是什么情况？",
-          "url": "https://www.zhihu.com/question/2007893638286373683",
-          "source": "知乎",
+          "title": "美国至2月13日当周EIA战略石油储备库存 22.9万桶，前值-0.1万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010107004800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国总统特朗普：“和平委员会”可能会有助于化解世界上的“（那些）热点”问题。",
+          "url": "https://wallstreetcn.com/livenews/3056716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国至2月13日当周EIA精炼厂设备利用率 91%，预期89.8%，前值89.4%。",
+          "url": "https://flash.jin10.com/detail/20260220010048590800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国至2月13日当周EIA精炼油库存 -456.6万桶，预期-144万桶，前值-270.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010003677800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报，数据发布时间因周一休市而推后了一天。",
+          "url": "https://wallstreetcn.com/livenews/3056714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国至2月13日当周EIA原油进口 -113.2万桶，前值91.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010003669800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国至2月13日当周EIA汽油库存 -321.3万桶，预期-28.4万桶，前值116万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010003496800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国至2月13日当周EIA成品油进口 13.3万桶/日，前值-45.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260220010003493801",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "美国至2月13日当周EIA天然气库存 -1440亿立方英尺，预期-1460亿立方英尺，前值-2490亿立方英尺。",
@@ -173,6 +352,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国至2月13日当周EIA新配方汽油库存 0.3万桶，前值-0.7万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010003495800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周天然气库存减少1440亿立方英尺（分析师预计减少1490亿立方英尺），周环比下降6.50%（之前一周下降10.11%），至2.07万亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3056687",
           "source": "华尔街见闻-快讯",
@@ -182,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美国至2月13日当周EIA取暖油库存 36.2万桶，前值20.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010003493800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "美国2月13日当周EIA天然气库存变动 -1440亿立方英尺。",
@@ -206,6 +407,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国至2月13日当周EIA原油库存 -901.4万桶，预期214.9万桶，前值853万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010003469800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
           "url": "https://wallstreetcn.com/livenews/3056683",
           "source": "华尔街见闻-快讯",
@@ -215,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美国纽约州撤回自动驾驶出租车计划，Waymo扩张进程受挫",
+          "url": "https://wallstreetcn.com/livenews/3056708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "美国国务卿鲁比奥：我们还有很长的路要走。加沙没有B计划。",
@@ -228,6 +451,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国至2月13日当周EIA俄克拉荷马州库欣原油库存 -109.5万桶，前值107.1万桶。",
+          "url": "https://flash.jin10.com/detail/20260220010003435800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布天然气库存周报。",
           "url": "https://wallstreetcn.com/livenews/3056682",
           "source": "华尔街见闻-快讯",
@@ -239,15 +473,37 @@
           "time_info": "00时40分"
         },
         {
-          "title": "中国游客锐减6成 日本旅游业叫苦连天",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F6%E6%88%90+%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E5%8F%AB%E8%8B%A6%E8%BF%9E%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "美国财政部拍卖四周期国债，得标利率3.625%，投标倍数2.94。 拍卖八周期国债，得标利率3.630%，投标倍数2.82。",
+          "url": "https://wallstreetcn.com/livenews/3056707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国至2月13日当周EIA精炼油产量 2.8万桶/日，前值4.5万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260220010003409800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "美国至2月13日当周EIA汽油产量 29万桶/日，前值13.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260220010003408800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
         },
         {
           "title": "美国总统特朗普：我才不在乎诺贝尔奖。",
@@ -259,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美国至2月13日当周EIA投产原油量 7.7万桶/日，前值-2.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260220010003385800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "美国总统特朗普：美国将向“和平委员会”提供100亿美元。 挪威将主办一场关于“和平委员会”的活动。",
@@ -283,6 +550,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国被曝最早本周末攻打伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E6%9C%80%E6%97%A9%E6%9C%AC%E5%91%A8%E6%9C%AB%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "美国总统特朗普：和平委员会将监督联合国。",
           "url": "https://flash.jin10.com/detail/20260219232201749800",
           "source": "金十数据",
@@ -292,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美国总统特朗普：“和平委员会”将牵头处理加沙事务。",
+          "url": "https://flash.jin10.com/detail/20260220005449110800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "美国总统特朗普：必须解决黎巴嫩的问题。 联合国为支持加沙而募集20亿美元。",
@@ -305,15 +594,15 @@
           "time_info": "00时40分"
         },
         {
-          "title": "俄外长：美国若打击伊朗后果严重",
-          "url": "https://www.douyin.com/hot/2405736",
-          "source": "抖音",
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
           "ranks": [
-            23
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
         },
         {
           "title": "美国总统特朗普：将确保联合国具有可行性。",
@@ -327,6 +616,28 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国总统特朗普：“和平委员会”可能致力于解决世界热点问题。",
+          "url": "https://flash.jin10.com/detail/20260220005412830800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
+          "title": "日本福冈发生伤人事件 3人被刺伤",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%86%88%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6+3%E4%BA%BA%E8%A2%AB%E5%88%BA%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "美国总统特朗普：联合国确实拥有巨大的潜力。",
           "url": "https://flash.jin10.com/detail/20260219232103100800",
           "source": "金十数据",
@@ -338,6 +649,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国总统特朗普签署经全体成员投票通过的“加沙和平委员会”财政决议案。",
+          "url": "https://flash.jin10.com/detail/20260220005138396800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "美国至2月13日当周EIA天然气库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260219232000000800",
           "source": "金十数据",
@@ -347,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美国至2月13日当周EIA原油库存、库欣原油库存、战略石油储备库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260220005000000800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         },
         {
           "title": "美国总统特朗普：美国将为和平委员会出资100亿美元。",
@@ -415,6 +748,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国至2月19日8周国债竞拍-得标利率配置百分比 79.43%，前值34.72%。",
+          "url": "https://flash.jin10.com/detail/20260220003608677800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
+        },
+        {
           "title": "伊朗总统：不会屈服于美国胁迫",
           "url": "https://wallstreetcn.com/livenews/3056670",
           "source": "华尔街见闻-快讯",
@@ -429,7 +773,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -439,8 +783,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -450,8 +794,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
+          "url": "https://wallstreetcn.com/livenews/3056721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "01时42分"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -461,8 +816,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -472,8 +827,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -483,19 +838,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
-          "url": "https://wallstreetcn.com/livenews/3056681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -505,8 +849,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -514,6 +858,17 @@
           "source": "贴吧",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时42分]"
+        },
+        {
+          "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
+          "url": "https://wallstreetcn.com/livenews/3056681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
