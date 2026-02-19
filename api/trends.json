@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T09:08:35.008894+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-02-19T12:10:04.441468+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 151,
+      "match_count": 160,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时10分]"
         },
         {
           "title": "中国行之后，美国网红感叹：美国人被教唆恨中国，蠢透了",
@@ -134,6 +134,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时46分 ~ 06时22分]"
+        },
+        {
+          "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
+          "url": "https://news.ifeng.com/c/8qrAxqIMvRo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "日本挖到稀土,全是选举戏码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
@@ -382,6 +404,18 @@
           "time_info": "[02时38分 ~ 04时28分]"
         },
         {
+          "title": "日本若介入台湾问题 中方必迎头痛击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时10分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren询问摩根大通CEO戴蒙是否支持信用卡费用上限方案。",
           "url": "https://wallstreetcn.com/livenews/3056452",
           "source": "华尔街见闻-快讯",
@@ -416,6 +450,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时40分 ~ 05时27分]"
+        },
+        {
+          "title": "美国将从叙利亚撤出所有军队",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BB%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E6%92%A4%E5%87%BA%E6%89%80%E6%9C%89%E5%86%9B%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时10分]"
         },
         {
           "title": "据克里姆林宫，俄罗斯并没有与美国讨论古巴问题。 俄罗斯总统普京称，俄方认为，（美国）对古巴施加新版限制是让人无法接受的。（国际文传电讯社IFX）",
@@ -526,6 +572,18 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
+          "title": "10年期日本国债收益率上升1个基点至2.145%。",
+          "url": "https://wallstreetcn.com/livenews/3056540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时10分]"
+        },
+        {
           "title": "美国至2月13日当周API库欣原油库存 -136.7万桶，前值140万桶。",
           "url": "https://flash.jin10.com/detail/20260219053842217800",
           "source": "金十数据",
@@ -548,6 +606,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
+          "url": "https://wallstreetcn.com/livenews/3056538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时10分]"
         },
         {
           "title": "美国12月外资净买入美国公债 -416亿美元，前值856亿美元。",
@@ -584,6 +654,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3056537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时10分]"
         },
         {
           "title": "高市早苗：希望日本央行与政府密切合作，以持久实现通胀目标",
@@ -634,6 +716,17 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
+          "title": "傅聪：日若介入台湾问题必将迎头痛击",
+          "url": "https://www.toutiao.com/trending/7607327972428628004/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
           "title": "美国12月国际资本净流入 449亿美元，前值2120亿美元。",
           "url": "https://flash.jin10.com/detail/20260219050052624800",
           "source": "金十数据",
@@ -656,6 +749,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3056534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 12时10分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
@@ -692,6 +808,17 @@
           "time_info": "[05时27分 ~ 06时22分]"
         },
         {
+          "title": "春晚台湾元素在岛内引发热议",
+          "url": "https://www.toutiao.com/trending/7607622616203673641/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
           "title": "俄古外长举行会谈 俄方重申反对美国对古封锁",
           "url": "https://flash.jin10.com/detail/20260219005629008800",
           "source": "金十数据",
@@ -714,15 +841,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "10年期日本国债收益率上升1个基点至2.145%。",
-          "url": "https://wallstreetcn.com/livenews/3056540",
-          "source": "华尔街见闻-快讯",
+          "title": "日本10年期国债收益率上涨1.0个基点，至2.145%。",
+          "url": "https://flash.jin10.com/detail/20260219114015527800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "12时10分"
         },
         {
           "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
@@ -736,15 +863,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "特朗普称美国今年贸易逆差将数十年来首次逆转",
-          "url": "https://wallstreetcn.com/livenews/3056538",
-          "source": "华尔街见闻-快讯",
+          "title": "日本20年期国债拍卖投标倍数为3.08，创2025年5月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260219113956647800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "12时10分"
         },
         {
           "title": "美国能源部煤电令再次触发联邦与各州的权力博弈",
@@ -756,17 +883,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "特朗普将于美国东部时间周四下午4点（北京时间次日凌晨5点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3056537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         },
         {
           "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
@@ -786,7 +902,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -800,17 +916,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "美国将从叙利亚撤出所有军队",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BB%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E6%92%A4%E5%87%BA%E6%89%80%E6%9C%89%E5%86%9B%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         },
         {
           "title": "美国至2月18日4个月国债竞拍-得标利率配置百分比 86.82%，前值84.52%。",
@@ -879,17 +984,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3056534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
           "title": "美国至2月18日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
           "url": "https://flash.jin10.com/detail/20260219003539400800",
           "source": "金十数据",
@@ -940,18 +1034,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "日本若介入台湾问题 中方必迎头痛击",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1039,7 +1122,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1050,7 +1133,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1116,7 +1199,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1138,7 +1221,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1193,7 +1276,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1204,7 +1287,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1270,7 +1353,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1281,7 +1364,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1347,7 +1430,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1391,7 +1474,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1413,7 +1496,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1468,7 +1551,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1512,7 +1595,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1526,6 +1609,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "美国南方司令部司令访委 与委内瑞拉代总统会面",
+          "url": "https://flash.jin10.com/detail/20260219110650096800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "美国参议员沃伦警告美联储与财政部：严禁救助加密货币亿万富翁",
+          "url": "https://wallstreetcn.com/livenews/3056555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "日本挖到含稀土泥浆的真相来了",
@@ -1556,7 +1661,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1600,7 +1705,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1644,7 +1749,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1655,7 +1760,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1688,7 +1793,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1710,7 +1815,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -1732,7 +1837,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -1740,7 +1845,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -1751,8 +1856,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时10分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -1786,11 +1891,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时10分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1801,8 +1907,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时10分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -1811,11 +1917,12 @@
           "ranks": [
             8,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时10分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -1824,11 +1931,12 @@
           "ranks": [
             14,
             15,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 12时10分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -1842,6 +1950,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时37分 ~ 09时08分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 12时10分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -1878,17 +2009,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -2021,6 +2141,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
+          "url": "https://flash.jin10.com/detail/20260219114656970800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -2030,6 +2161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
