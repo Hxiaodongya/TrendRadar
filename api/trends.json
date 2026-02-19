@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T13:52:37.587655+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-02-19T14:46:35.841614+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 168,
+      "match_count": 177,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时46分]"
         },
         {
           "title": "中国行之后，美国网红感叹：美国人被教唆恨中国，蠢透了",
@@ -108,6 +108,17 @@
           "time_info": "[00时50分 ~ 09时08分]"
         },
         {
+          "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
+          "url": "https://news.ifeng.com/c/8qrAxqIMvRo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时46分]"
+        },
+        {
           "title": "再次连任日本首相的高市早苗，啥背景？",
           "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
           "source": "凤凰网",
@@ -118,6 +129,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时50分 ~ 02时38分]"
+        },
+        {
+          "title": "日本挖到稀土,全是选举戏码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时46分]"
         },
         {
           "title": "日本教练谈苏翊鸣：最难那关挺过来了",
@@ -136,28 +158,6 @@
           "time_info": "[01时46分 ~ 06时22分]"
         },
         {
-          "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
-          "url": "https://news.ifeng.com/c/8qrAxqIMvRo",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时52分]"
-        },
-        {
-          "title": "日本挖到稀土,全是选举戏码",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时52分]"
-        },
-        {
           "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
           "url": "https://www.cls.cn/detail/2291035",
           "source": "财联社热门",
@@ -165,8 +165,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时27分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[04时27分 ~ 14时46分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -180,6 +180,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "乌克兰总统泽连斯基：我知道美国人，可能还有一些欧洲人，正在与俄罗斯讨论一份新文件，内容涉及北约和俄罗斯。当他们有了这样的文件，就可以讨论一切。但对我来说，重要的是他们要和我们讨论我们在北约的潜在位置。不是仅仅和俄罗斯人讨论，而是和我们讨论。因为这关乎到我们。但他们也可能在没有我们的情况下进行讨论。也许有些我们不知道的事。无论如何，如果发生意外，我们会做出反应。",
+          "url": "https://flash.jin10.com/detail/20260219141318363800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：所谓“和平委员会”与加沙相关的超过50亿美元资金承诺将来自美国的多个州。",
           "url": "https://wallstreetcn.com/livenews/3056441",
           "source": "华尔街见闻-快讯",
@@ -189,17 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "报道：德国总理默茨警告美国勿挑起关税战，称计划与中方讨论未来合作",
-          "url": "https://wallstreetcn.com/livenews/3056578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "负责加美贸易事务的加拿大部长多米尼克·勒布朗：将在未来几周内与美国贸易代表格里尔会面，讨论《美墨加协定》审查事宜。",
@@ -236,15 +236,26 @@
           "time_info": "07时19分"
         },
         {
-          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
-          "url": "https://wallstreetcn.com/livenews/3056575",
+          "title": "市场消息：日本金融厅计划推出1800亿日元计划以援助地区性银行的并购事宜。",
+          "url": "https://flash.jin10.com/detail/20260219140733257800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "俄外长：美国试图将俄罗斯挤出全球能源市场",
+          "url": "https://wallstreetcn.com/livenews/3056580",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "14时46分"
         },
         {
           "title": "负责加美贸易事务的加拿大部长多米尼克·勒布朗：墨西哥与加拿大在确保降低美国实施的部分行业关税方面有着非常相似的利益。",
@@ -256,6 +267,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "日本若介入台湾问题 中方必迎头痛击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            8,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时46分]"
+        },
+        {
+          "title": "报道：德国总理默茨警告美国勿挑起关税战，称计划与中方讨论未来合作",
+          "url": "https://wallstreetcn.com/livenews/3056578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -330,6 +367,18 @@
           "time_info": "[07时19分 ~ 09时08分]"
         },
         {
+          "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
+          "url": "https://wallstreetcn.com/livenews/3056575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
+        },
+        {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
           "url": "https://flash.jin10.com/detail/20260219000628825800",
           "source": "金十数据",
@@ -378,19 +427,6 @@
           "time_info": "[05时27分 ~ 06时22分]"
         },
         {
-          "title": "日本若介入台湾问题 中方必迎头痛击",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时52分]"
-        },
-        {
           "title": "美国财长贝森特赞赏美联储理事兼负责金融监管事务的副主席鲍曼对于银行抵押贷款的态度。",
           "url": "https://flash.jin10.com/detail/20260219051805587800",
           "source": "金十数据",
@@ -425,6 +461,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时46分]"
         },
         {
           "title": "美联储理事鲍曼：（适用于美国的）新版巴塞尔协议计划处于在一季度末之前敲定的正轨之上。",
@@ -475,6 +523,18 @@
           "time_info": "[03时40分 ~ 05时27分]"
         },
         {
+          "title": "傅聪：日若介入台湾问题必将迎头痛击",
+          "url": "https://www.toutiao.com/trending/7607327972428628004/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时46分]"
+        },
+        {
           "title": "美国将从叙利亚撤出所有军队",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%BB%8E%E5%8F%99%E5%88%A9%E4%BA%9A%E6%92%A4%E5%87%BA%E6%89%80%E6%9C%89%E5%86%9B%E9%98%9F",
           "source": "百度热搜",
@@ -485,18 +545,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时08分 ~ 12时10分]"
-        },
-        {
-          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时52分]"
         },
         {
           "title": "据克里姆林宫，俄罗斯并没有与美国讨论古巴问题。 俄罗斯总统普京称，俄方认为，（美国）对古巴施加新版限制是让人无法接受的。（国际文传电讯社IFX）",
@@ -763,15 +811,15 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
-          "title": "傅聪：日若介入台湾问题必将迎头痛击",
-          "url": "https://www.toutiao.com/trending/7607327972428628004/",
-          "source": "今日头条",
+          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
+          "url": "https://news.ifeng.com/c/8qs0hWI4Cnu",
+          "source": "凤凰网",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "time_info": "[13时52分 ~ 14时46分]"
         },
         {
           "title": "美国12月国际资本净流入 449亿美元，前值2120亿美元。",
@@ -810,6 +858,18 @@
           "time_info": "[09时08分 ~ 12时10分]"
         },
         {
+          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
           "url": "https://wallstreetcn.com/livenews/3056445",
           "source": "华尔街见闻-快讯",
@@ -844,6 +904,17 @@
           "time_info": "[05时27分 ~ 06时22分]"
         },
         {
+          "title": "美国国债崩盘的可能性有多大",
+          "url": "https://www.toutiao.com/trending/7608382647953264166/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
+        },
+        {
           "title": "俄古外长举行会谈 俄方重申反对美国对古封锁",
           "url": "https://flash.jin10.com/detail/20260219005629008800",
           "source": "金十数据",
@@ -853,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "日本时事通讯社民调显示，对日本首相高市早苗内阁的支持率上升了2.8个百分点，达到63.8%。",
+          "url": "https://flash.jin10.com/detail/20260219140345667800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "加拿大负责美国贸易事务的部长Leblanc：加拿大与墨西哥两国的企业本周举办了1900次会议。",
@@ -943,17 +1025,6 @@
           "time_info": "05时27分"
         },
         {
-          "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
-          "url": "https://news.ifeng.com/c/8qs0hWI4Cnu",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "美国至2月18日4个月国债竞拍-得标利率配置百分比 86.82%，前值84.52%。",
           "url": "https://flash.jin10.com/detail/20260219003601813800",
           "source": "金十数据",
@@ -996,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌5.0个基点，至3.320%。",
+          "url": "https://flash.jin10.com/detail/20260219135428142800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
@@ -1062,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "印度矿业部长：正在与美国就关键矿产的合作进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260219135411044800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "日本2月13日当周净买进国外股票 -258亿日元。",
@@ -1163,6 +1256,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "日本20年期国债收益率下跌2.0个基点，至2.950%。",
+          "url": "https://flash.jin10.com/detail/20260219135226524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "日本2月13日当周净买进国外债券 -4895亿日元。",
           "url": "https://wallstreetcn.com/livenews/3056533",
           "source": "华尔街见闻-快讯",
@@ -1262,17 +1366,6 @@
           "time_info": "09时08分"
         },
         {
-          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "美国至2月18日20年期国债竞拍-得标利率配置百分比 15.91%，前值3.89%。",
           "url": "https://flash.jin10.com/detail/20260219020424765800",
           "source": "金十数据",
@@ -1326,6 +1419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "日本40年期国债收益率下跌5.0个基点，至3.555%。",
+          "url": "https://flash.jin10.com/detail/20260219135148619800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "日本12月核心机械订单环比 19.1%，前值 -11%。",
@@ -1548,6 +1652,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "美网红称美国人被教唆恨中国太蠢",
+          "url": "https://www.toutiao.com/trending/7607974318374535231/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
           "url": "https://flash.jin10.com/detail/20260219024719874800",
           "source": "金十数据",
@@ -1609,7 +1724,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1730,7 +1845,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -1845,17 +1960,6 @@
           "time_info": "03时40分"
         },
         {
-          "title": "美国国债崩盘的可能性有多大",
-          "url": "https://www.toutiao.com/trending/7608382647953264166/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普随时准备介入华盛顿特区的供水危机。",
           "url": "https://flash.jin10.com/detail/20260219024439079800",
           "source": "金十数据",
@@ -1928,7 +2032,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         }
@@ -1947,8 +2051,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时46分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -1998,8 +2102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时46分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -2013,8 +2117,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时46分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -2028,8 +2132,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时46分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -2052,8 +2156,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 14时46分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -2065,8 +2169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时46分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -2083,6 +2187,18 @@
           "time_info": "[02时37分 ~ 06时22分]"
         },
         {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://wallstreetcn.com/livenews/3056579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
+        },
+        {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
           "url": "https://flash.jin10.com/detail/20260219022513866800",
           "source": "金十数据",
@@ -2092,17 +2208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://flash.jin10.com/detail/20260219134816589800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "英伟达深入印度市场，在当地构建一系列合作伙伴关系、作出基础设施承诺。该公司向印度数据中心公司Yotta Data Services和人工智能（AI）云平台公司E2E Networks Ltd.提供先进的Blackwell Ultra GPUs。",
@@ -2116,17 +2221,6 @@
           "time_info": "01时46分"
         },
         {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://wallstreetcn.com/livenews/3056579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
           "url": "https://wallstreetcn.com/livenews/3056438",
           "source": "华尔街见闻-快讯",
@@ -2137,6 +2231,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时28分]"
+        },
+        {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://flash.jin10.com/detail/20260219134816589800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
         },
         {
           "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
@@ -2175,6 +2281,19 @@
           "time_info": "[01时46分 ~ 02时38分]"
         },
         {
+          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 14时46分]"
+        },
+        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -2199,6 +2318,18 @@
           "time_info": "[05时27分 ~ 06时22分]"
         },
         {
+          "title": "印度AI峰会大学展示泡沫塑料版无人机",
+          "url": "https://www.toutiao.com/trending/7608301157190156351/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
+        },
+        {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
           "url": "https://wallstreetcn.com/livenews/3056415",
           "source": "华尔街见闻-快讯",
@@ -2211,16 +2342,28 @@
           "time_info": "[01时46分 ~ 02时38分]"
         },
         {
-          "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056559",
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            16
+            7,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时10分 ~ 13时52分]"
+          "time_info": "[13时52分 ~ 14时46分]"
+        },
+        {
+          "title": "300亿对冲基金大佬发声：2026全球最大“地雷”，竟然是AI？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260219131203549800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时46分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
@@ -2269,17 +2412,6 @@
           "time_info": "06时22分"
         },
         {
-          "title": "印度AI峰会大学展示泡沫塑料版无人机",
-          "url": "https://www.toutiao.com/trending/7608301157190156351/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
           "url": "https://flash.jin10.com/detail/20260219114656970800",
           "source": "金十数据",
@@ -2289,17 +2421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        },
-        {
-          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
-          "url": "https://wallstreetcn.com/livenews/3056572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
@@ -2322,17 +2443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "300亿对冲基金大佬发声：2026全球最大“地雷”，竟然是AI？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260219131203549800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "市场消息：瑞士的调查发现，在33份婴儿食品样本中，有2份含有蜡样芽孢杆菌毒素（Cereulide）。",
@@ -2385,7 +2495,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
