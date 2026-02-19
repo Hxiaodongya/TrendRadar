@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:34:02.648584+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-02-19T19:31:26.937800+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 199,
+      "match_count": 204,
       "titles": [
         {
           "title": "傅聪：日本若敢武力介入台湾问题，中方必将迎头痛击",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时50分 ~ 19时31分]"
         },
         {
           "title": "中国行之后，美国网红感叹：美国人被教唆恨中国，蠢透了",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 19时31分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -115,8 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 19时31分]"
         },
         {
           "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
@@ -127,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时27分 ~ 18时34分]"
+          "appearance_count": 15,
+          "time_info": "[04时27分 ~ 19时31分]"
         },
         {
           "title": "美国女友来中国过年是什么体验",
@@ -161,6 +161,21 @@
           "time_info": "[00时50分 ~ 09时08分]"
         },
         {
+          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时52分 ~ 19时31分]"
+        },
+        {
           "title": "再次连任日本首相的高市早苗，啥背景？",
           "url": "https://news.ifeng.com/c/8qqh0pKi2AT",
           "source": "凤凰网",
@@ -189,21 +204,6 @@
           "time_info": "[01时46分 ~ 06时22分]"
         },
         {
-          "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时52分 ~ 18时34分]"
-        },
-        {
           "title": "美学者：美若武力介入台湾，第一周内损失两个航母战斗群",
           "url": "https://news.ifeng.com/c/8qsFEmWAaEt",
           "source": "凤凰网",
@@ -211,8 +211,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时31分]"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 19时31分]"
         },
         {
           "title": "台湾女子被臭豆腐店熏到焦虑拔头发",
@@ -224,20 +239,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时52分 ~ 17时35分]"
-        },
-        {
-          "title": "俄外长：美国若打击伊朗后果严重",
-          "url": "https://www.douyin.com/hot/2405736",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 18时34分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -273,6 +274,28 @@
           "time_info": "02时38分"
         },
         {
+          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "俄罗斯警告美国：后果严重！",
+          "url": "https://news.ifeng.com/c/8qsAoRWFwt4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 19时31分]"
+        },
+        {
           "title": "负责加美贸易事务的加拿大部长多米尼克·勒布朗：将在未来几周内与美国贸易代表格里尔会面，讨论《美墨加协定》审查事宜。",
           "url": "https://flash.jin10.com/detail/20260219064740044800",
           "source": "金十数据",
@@ -293,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "美国考虑与墨西哥、加拿大达成双边贸易协议，双边贸易协定或将取代美墨加协定。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3056619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
@@ -354,6 +366,20 @@
           "time_info": "[13时52分 ~ 16时31分]"
         },
         {
+          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
+          "url": "https://wallstreetcn.com/livenews/3056602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时31分]"
+        },
+        {
           "title": "负责加美贸易事务的加拿大部长多米尼克·勒布朗：墨西哥与加拿大在确保降低美国实施的部分行业关税方面有着非常相似的利益。",
           "url": "https://flash.jin10.com/detail/20260219063755548800",
           "source": "金十数据",
@@ -363,6 +389,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "美国首都宣布进入紧急状态",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 19时31分]"
         },
         {
           "title": "俄外长：美国对伊朗的任何新打击将产生严重后果",
@@ -405,30 +444,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时46分 ~ 17时35分]"
-        },
-        {
-          "title": "俄罗斯警告美国：后果严重！",
-          "url": "https://news.ifeng.com/c/8qsAoRWFwt4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 18时34分]"
-        },
-        {
-          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
-          "url": "https://wallstreetcn.com/livenews/3056602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时34分]"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -503,18 +518,6 @@
           "time_info": "[07时19分 ~ 09时08分]"
         },
         {
-          "title": "美国首都宣布进入紧急状态",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E9%83%BD%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 18时34分]"
-        },
-        {
           "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
           "url": "https://flash.jin10.com/detail/20260219000628825800",
           "source": "金十数据",
@@ -549,6 +552,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "美国考虑与墨西哥、加拿大达成双边贸易协议，双边贸易协定或将取代美墨加协定。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3056619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "美国总统特朗普：我们可以关照大西洋。",
@@ -816,6 +831,18 @@
           "time_info": "[00时50分 ~ 01时46分]"
         },
         {
+          "title": "欧洲斯托克600指数跌幅扩大至0.5%；美国股指期货触及盘中低点，纳斯达克100指数期货下跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
+        },
+        {
           "title": "美国至2月13日当周API取暖油库存 31.6万桶，前值26.2万桶。",
           "url": "https://flash.jin10.com/detail/20260219053849959800",
           "source": "金十数据",
@@ -826,6 +853,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "美国在中东的空中力量集结规模为2003年以来最大",
+          "url": "https://flash.jin10.com/detail/20260219175351669800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "10年期日本国债收益率上升1个基点至2.145%。",
@@ -874,6 +913,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 12时10分]"
+        },
+        {
+          "title": "美国能源部长赖特：一些欧洲国家正在悄然调整能源政策。 坚持净零排放的欧洲官员可能会被投票罢免。 如果国际能源署不做出改变，美国可能会退出该组织。",
+          "url": "https://wallstreetcn.com/livenews/3056613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "“抛售美国”论暂不成立：去年海外投资者净买1.55万亿美元美长期金融资产",
@@ -1007,6 +1058,18 @@
           "time_info": "[06时22分 ~ 07时19分]"
         },
         {
+          "title": "日本厚生省专家组批准住友制药的帕金森病诱导多能干细胞衍生疗法。",
+          "url": "https://flash.jin10.com/detail/20260219174228906800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时31分]"
+        },
+        {
           "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
           "url": "https://wallstreetcn.com/livenews/3056534",
           "source": "华尔街见闻-快讯",
@@ -1064,6 +1127,17 @@
           "time_info": "[13时52分 ~ 14时46分]"
         },
         {
+          "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
+          "url": "https://news.ifeng.com/c/8qsBz1kTjhm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "俄古外长举行会谈 俄方重申反对美国对古封锁",
           "url": "https://flash.jin10.com/detail/20260219005629008800",
           "source": "金十数据",
@@ -1097,26 +1171,15 @@
           "time_info": "07时19分"
         },
         {
-          "title": "欧洲斯托克600指数跌幅扩大至0.5%；美国股指期货触及盘中低点，纳斯达克100指数期货下跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3056615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "美国在中东的空中力量集结规模为2003年以来最大",
-          "url": "https://flash.jin10.com/detail/20260219175351669800",
+          "title": "投资管理公司Aviva Investors预计日本央行将加息两次。",
+          "url": "https://flash.jin10.com/detail/20260219184627677800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时34分"
+          "time_info": "19时31分"
         },
         {
           "title": "日本10年期国债收益率上涨1.0个基点，至2.145%。",
@@ -1130,6 +1193,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "Aviva Investors将对日本政府债券的立场从长期的“做空”上调至“中性”。",
+          "url": "https://flash.jin10.com/detail/20260219184603195800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
           "url": "https://wallstreetcn.com/livenews/3056484",
           "source": "华尔街见闻-快讯",
@@ -1139,17 +1213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "美国能源部长赖特：一些欧洲国家正在悄然调整能源政策。 坚持净零排放的欧洲官员可能会被投票罢免。 如果国际能源署不做出改变，美国可能会退出该组织。",
-          "url": "https://wallstreetcn.com/livenews/3056613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "日本20年期国债拍卖投标倍数为3.08，创2025年5月以来最低水平。",
@@ -1227,17 +1290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "日本厚生省专家组批准住友制药的帕金森病诱导多能干细胞衍生疗法。",
-          "url": "https://flash.jin10.com/detail/20260219174228906800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -1466,7 +1518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1554,7 +1606,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1722,6 +1774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "日本12月核心机械订单同比 16.8%，前值 -6.4%。",
@@ -1983,7 +2046,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2016,7 +2079,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2082,7 +2145,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2115,7 +2178,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2236,7 +2299,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2269,7 +2332,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2310,7 +2373,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -2372,8 +2435,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 19时31分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -2385,8 +2448,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时50分 ~ 19时31分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -2402,8 +2465,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 19时31分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -2421,8 +2484,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时50分 ~ 19时31分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -2440,8 +2503,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时50分 ~ 18时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时50分 ~ 19时31分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -2610,6 +2673,19 @@
           "time_info": "[12时10分 ~ 15时43分]"
         },
         {
+          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3056605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时31分]"
+        },
+        {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
           "url": "https://wallstreetcn.com/livenews/3056596",
           "source": "华尔街见闻-快讯",
@@ -2645,18 +2721,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时22分]"
-        },
-        {
-          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3056605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时34分]"
         },
         {
           "title": "爱尔兰财政部：AI应用已冲击爱尔兰毕业生就业市场",
@@ -2740,6 +2804,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -2749,6 +2824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
