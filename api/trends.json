@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T22:33:30.659244+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2026-02-20T23:29:49.269358+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 273,
+      "match_count": 300,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -44,6 +44,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗石油部长：与美国石油合作并非不可能",
+          "url": "https://news.ifeng.com/c/8qtwXLy365G",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时23分 ~ 23时29分]"
         },
         {
           "title": "美国 2025 年贸易逆差录得 9015 亿美元，较去年仅下降 20 亿美元，对此你怎么看？",
@@ -89,18 +101,6 @@
           "time_info": "[00时40分 ~ 07时21分]"
         },
         {
-          "title": "伊朗石油部长：与美国石油合作并非不可能",
-          "url": "https://news.ifeng.com/c/8qtwXLy365G",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 22时33分]"
-        },
-        {
           "title": "俄外交部：日本若不反省，则二战罪行仍在持续",
           "url": "https://news.ifeng.com/c/8qsQ9oPUDTC",
           "source": "凤凰网",
@@ -143,11 +143,12 @@
             11,
             14,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时40分 ~ 22时33分]"
+          "appearance_count": 26,
+          "time_info": "[00时40分 ~ 23时29分]"
         },
         {
           "title": "中国游客锐减6成 日本旅游业叫苦连天",
@@ -229,6 +230,33 @@
           "time_info": "[02时38分 ~ 09时04分]"
         },
         {
+          "title": "美伊战争一触即发吗",
+          "url": "https://www.toutiao.com/trending/7608862192707833382/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            4,
+            2,
+            15,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 23时29分]"
+        },
+        {
+          "title": "日本一货船与渔船发生相撞，多人死伤",
+          "url": "https://news.ifeng.com/c/8qu6fj6FuQy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
+        },
+        {
           "title": "日本福冈发生伤人事件 3人被刺伤",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%86%88%E5%8F%91%E7%94%9F%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6+3%E4%BA%BA%E8%A2%AB%E5%88%BA%E4%BC%A4",
           "source": "百度热搜",
@@ -244,30 +272,31 @@
           "time_info": "[01时42分 ~ 07时21分]"
         },
         {
-          "title": "美伊战争一触即发吗",
-          "url": "https://www.toutiao.com/trending/7608862192707833382/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            4,
-            2,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时54分]"
-        },
-        {
-          "title": "日本一货船与渔船发生相撞，多人死伤",
-          "url": "https://news.ifeng.com/c/8qu6fj6FuQy",
+          "title": "撤销5类非战斗限制，日本拟大幅松绑武器出口规则",
+          "url": "https://news.ifeng.com/c/8qtv0U1LKbC",
           "source": "凤凰网",
           "ranks": [
-            5
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
+          "appearance_count": 7,
+          "time_info": "[19时23分 ~ 23时29分]"
+        },
+        {
+          "title": "默茨警告美国加征关税别太过分",
+          "url": "https://www.douyin.com/hot/2406442",
+          "source": "抖音",
+          "ranks": [
+            6,
+            11,
+            21,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时23分 ~ 23时29分]"
         },
         {
           "title": "美国若武力介入台湾代价巨大",
@@ -313,39 +342,13 @@
           "time_info": "[13时45分 ~ 16时29分]"
         },
         {
-          "title": "撤销5类非战斗限制，日本拟大幅松绑武器出口规则",
-          "url": "https://news.ifeng.com/c/8qtv0U1LKbC",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 22时33分]"
-        },
-        {
-          "title": "默茨警告美国加征关税别太过分",
-          "url": "https://www.douyin.com/hot/2406442",
-          "source": "抖音",
-          "ranks": [
-            6,
-            11,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 22时33分]"
-        },
-        {
           "title": "印尼国家石油公司首席执行官：来自美国的液化石油气进口量可能从目前的57%增至70%。",
           "url": "https://flash.jin10.com/detail/20260220222233983800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -361,15 +364,15 @@
           "time_info": "06时21分"
         },
         {
-          "title": "美国将印度纳入与稳定供应链有关的Pax Silica集团。",
-          "url": "https://wallstreetcn.com/livenews/3056971",
+          "title": "欧盟委员会：正在分析美国最高法院关税裁决。",
+          "url": "https://wallstreetcn.com/livenews/3056998",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时33分"
+          "time_info": "23时29分"
         },
         {
           "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
@@ -402,7 +405,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -429,15 +432,37 @@
           "time_info": "18时27分"
         },
         {
+          "title": "高盛集团：2026年开局不错，上调美国的投资级债券市场销售预期至2.1万亿美元。 上调欧洲高评级（即前述投资级）债券供应预期至8500亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3056997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "印尼国家石油公司首席执行官：来自美国的能源产品进口将通过招标程序进行。",
           "url": "https://flash.jin10.com/detail/20260220222152202800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：关税政策被最高法院驳回之后，敦促特朗普政府对美国民众退税。",
+          "url": "https://wallstreetcn.com/livenews/3056996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "印尼与美国签署互惠贸易协定。",
@@ -462,6 +487,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：让（美联储政策）利率具有轻微限制性是审慎的做法。",
+          "url": "https://wallstreetcn.com/livenews/3056994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "伊朗石油部长：伊朗与美国石油合作并非不可能",
           "url": "https://wallstreetcn.com/livenews/3056916",
           "source": "华尔街见闻-快讯",
@@ -474,6 +510,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时31分 ~ 20时32分]"
+        },
+        {
+          "title": "高志凯看完《惊蛰无声》后喊话美国",
+          "url": "https://www.toutiao.com/trending/7608332437038497798/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            2,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
         },
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
@@ -509,6 +559,28 @@
           "time_info": "09时04分"
         },
         {
+          "title": "敦豪：正密切关注美国关税相关的法律动态，以确保客户能够依法充分行使自身权利。",
+          "url": "https://flash.jin10.com/detail/20260220231723756800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（2月19日，美联储青睐的PCE通胀指标披露前夜）担保隔夜融资利率（SOFR）报3.67%，之前一天报3.73%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3056993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "印尼与美国签署互惠贸易协定。",
           "url": "https://wallstreetcn.com/livenews/3056837",
           "source": "华尔街见闻-快讯",
@@ -534,19 +606,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时04分 ~ 14时41分]"
-        },
-        {
-          "title": "高志凯看完《惊蛰无声》后喊话美国",
-          "url": "https://www.toutiao.com/trending/7608332437038497798/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
         },
         {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
@@ -687,6 +746,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时54分 ~ 22时33分]"
+        },
+        {
+          "title": "美国将印度纳入与稳定供应链有关的Pax Silica集团。",
+          "url": "https://wallstreetcn.com/livenews/3056971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时29分]"
         },
         {
           "title": "美国参议院Warren向美联储理事鲍曼询问关于美联储监督管理部门领导层关系的信息。",
@@ -861,6 +932,17 @@
           "time_info": "[01时42分 ~ 04时23分]"
         },
         {
+          "title": "终于，美国开始还钱了",
+          "url": "https://news.ifeng.com/c/8qtv0U1LKYV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
+        },
+        {
           "title": "西方石油：预计2026年中游业务收益将略有下降。与2025年相比，在美国陆上业务的支出预计将减少4亿美元。",
           "url": "https://flash.jin10.com/detail/20260220022901254800",
           "source": "金十数据",
@@ -935,6 +1017,41 @@
           "time_info": "[01时42分 ~ 04时23分]"
         },
         {
+          "title": "日本一货船与游船碰撞 多人死伤",
+          "url": "https://www.toutiao.com/trending/7607873021679992841/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
+        },
+        {
+          "title": "九成议员支持修宪，日本彻底撕掉和平伪装",
+          "url": "https://news.ifeng.com/c/8qu28qoqKsI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
+        },
+        {
+          "title": "扎哈罗娃：美国在乌克兰问题上的立场具有双重性",
+          "url": "https://news.ifeng.com/c/8qttIC1x9wi",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
+        },
+        {
           "title": "美国向联合国支付1.6亿美元部分欠款",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E6%94%AF%E4%BB%981.6%E4%BA%BF%E7%BE%8E%E5%85%83%E9%83%A8%E5%88%86%E6%AC%A0%E6%AC%BE",
           "source": "百度热搜",
@@ -960,6 +1077,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 06时21分]"
+        },
+        {
+          "title": "日本冰壶女运动员撞脸孙燕姿",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B0%E5%A3%B6%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E6%92%9E%E8%84%B8%E5%AD%99%E7%87%95%E5%A7%BF",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            20,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
         },
         {
           "title": "美国两大人工智能巨头CEO拒绝牵手",
@@ -1000,30 +1131,6 @@
           "time_info": "[02时39分 ~ 04时23分]"
         },
         {
-          "title": "终于，美国开始还钱了",
-          "url": "https://news.ifeng.com/c/8qtv0U1LKYV",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
-        },
-        {
-          "title": "日本一货船与游船碰撞 多人死伤",
-          "url": "https://www.toutiao.com/trending/7607873021679992841/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
-        },
-        {
           "title": "美国上周EIA原油库存锐减超900万桶",
           "url": "https://wallstreetcn.com/livenews/3056717",
           "source": "华尔街见闻-快讯",
@@ -1035,17 +1142,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 03时37分]"
-        },
-        {
-          "title": "九成议员支持修宪，日本彻底撕掉和平伪装",
-          "url": "https://news.ifeng.com/c/8qu28qoqKsI",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
         },
         {
           "title": "美国总统特朗普：“和平委员会”可能会有助于化解世界上的“（那些）热点”问题。",
@@ -1074,17 +1170,6 @@
           "time_info": "[12时06分 ~ 14时41分]"
         },
         {
-          "title": "扎哈罗娃：美国在乌克兰问题上的立场具有双重性",
-          "url": "https://news.ifeng.com/c/8qttIC1x9wi",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
-        },
-        {
           "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报，数据发布时间因周一休市而推后了一天。",
           "url": "https://wallstreetcn.com/livenews/3056714",
           "source": "华尔街见闻-快讯",
@@ -1108,19 +1193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时23分 ~ 20时32分]"
-        },
-        {
-          "title": "日本冰壶女运动员撞脸孙燕姿",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%86%B0%E5%A3%B6%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%E6%92%9E%E8%84%B8%E5%AD%99%E7%87%95%E5%A7%BF",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
         },
         {
           "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
@@ -1182,6 +1254,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时27分]"
+        },
+        {
+          "title": "美国经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
+          "url": "https://wallstreetcn.com/livenews/3056966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时29分]"
         },
         {
           "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
@@ -1691,20 +1775,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
         {
-          "title": "美国经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
-          "url": "https://wallstreetcn.com/livenews/3056966",
+          "title": "美国贸易法院待审的关税退税诉讼案件达数百起。 然而，并未就关税退款资格问题作出裁决。",
+          "url": "https://wallstreetcn.com/livenews/3056992",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时33分"
+          "time_info": "23时29分"
         },
         {
           "title": "美国民主党参议员沃伦对美联储银行监管部门内部的人事变动提出质疑",
@@ -1735,7 +1819,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1757,9 +1841,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国最高法院裁定特朗普政府大规模关税政策违法",
+          "url": "https://wallstreetcn.com/livenews/3056991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国联邦能源监管委员会将取消美国西部地区1000美元/兆瓦时的软性电力价格上限。",
@@ -1801,9 +1896,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "在美国最高法院裁定反对美国总统特朗普的全球关税后，美国玩具公司股价上涨。",
+          "url": "https://flash.jin10.com/detail/20260220231634690800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国2025年GDP增长2.2%，2024年增长2.8%。",
@@ -1812,9 +1918,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国最高法院推翻特朗普关税",
+          "url": "https://wallstreetcn.com/livenews/3056989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "日本多地市民团体集会，反对部署“战斧”导弹",
@@ -1845,9 +1962,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国12月新屋销售环比 -1.7%，预期 0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3056988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "日本胆敢介入台湾中方必将迎头痛击",
@@ -1911,9 +2039,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国12月新屋销售 74.5万户，预期 74万户。",
+          "url": "https://wallstreetcn.com/livenews/3056987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "标普：目前判断美国在未来12个月内开始衰退的概率为20%-25%，低于9月份的30%。",
@@ -1944,9 +2083,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者信心指数终值 56.6，初值 57.3。",
+          "url": "https://wallstreetcn.com/livenews/3056986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普：计划在必要时利用冗长辩论来推动“拯救美国法案”在美国国会获得通过。",
@@ -2010,9 +2160,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者现况指数终值 56.6，初值 58.3。",
+          "url": "https://wallstreetcn.com/livenews/3056985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国参议院少数党领袖舒默选择弗吉尼亚州民主党州长斯潘伯格下周就特朗普的国情咨文发表回应。",
@@ -2076,9 +2237,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者预期指数终值 56.6，初值 56.6。",
+          "url": "https://wallstreetcn.com/livenews/3056984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国至2月13日当周EIA汽油库存 -321.3万桶，预期-28.4万桶，前值116万桶。",
@@ -2186,9 +2358,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月密歇根大学5年通胀预期终值 3.3，初值 3.4。",
+          "url": "https://wallstreetcn.com/livenews/3056983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国至2月13日当周EIA成品油进口 13.3万桶/日，前值-45.6万桶/日。",
@@ -2241,9 +2424,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月密歇根大学1年通胀预期终值 3.4，初值 3.5。",
+          "url": "https://wallstreetcn.com/livenews/3056982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国至2月13日当周EIA天然气库存 -1440亿立方英尺，预期-1460亿立方英尺，前值-2490亿立方英尺。",
@@ -2329,7 +2523,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -2362,7 +2556,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -2428,7 +2622,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -2461,7 +2655,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -2521,6 +2715,17 @@
           "time_info": "21时54分"
         },
         {
+          "title": "在最高法院裁定反对美国总统特朗普的全球关税后，iShares MSCI韩国ETF延续涨势，最新上涨3.2%。",
+          "url": "https://flash.jin10.com/detail/20260220231123679800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "特朗普称伊朗必须与美国达成“有意义的协议”",
           "url": "https://wallstreetcn.com/livenews/3056683",
           "source": "华尔街见闻-快讯",
@@ -2549,9 +2754,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月标普全球制造业PMI初值 51.2，前值 52.4。",
+          "url": "https://wallstreetcn.com/livenews/3056980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国国务卿鲁比奥：我们还有很长的路要走。加沙没有B计划。",
@@ -2637,9 +2853,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月标普全球服务业PMI初值 52.3，前值 52.7。",
+          "url": "https://wallstreetcn.com/livenews/3056979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国至2月13日当周EIA精炼油产量 2.8万桶/日，前值4.5万桶/日。",
@@ -2686,6 +2913,17 @@
           "time_info": "20时32分"
         },
         {
+          "title": "美国贸易法院待审的关税退税诉讼案件达数百起。",
+          "url": "https://flash.jin10.com/detail/20260220230912553800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
           "url": "https://wallstreetcn.com/livenews/3056800",
           "source": "华尔街见闻-快讯",
@@ -2703,9 +2941,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "美国2月标普全球综合PMI初值 52.3，前值 53。",
+          "url": "https://wallstreetcn.com/livenews/3056978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国至2月13日当周EIA汽油产量 29万桶/日，前值13.9万桶/日。",
@@ -2728,6 +2977,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "美国最高法院并未就关税退款资格问题作出裁决。",
+          "url": "https://flash.jin10.com/detail/20260220230903937800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普：我才不在乎诺贝尔奖。",
@@ -2772,6 +3032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "提醒：北京时间22:45，将公布美国2月标普全球服务业、制造业、综合PMI初值。",
+          "url": "https://wallstreetcn.com/livenews/3056975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国大模型“双雄”当众拒绝握手",
@@ -2838,6 +3109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
+        },
+        {
+          "title": "欧洲汽车股飙升，此前美国最高法院驳回了特朗普的关税政策。",
+          "url": "https://flash.jin10.com/detail/20260220230723968800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普：必须解决黎巴嫩的问题。 联合国为支持加沙而募集20亿美元。",
@@ -2915,6 +3197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
+        },
+        {
+          "title": "美国通胀压力依然顽固，美股三大股指集体走低",
+          "url": "https://wallstreetcn.com/livenews/3056973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国一机场将更名为特朗普国际机场",
@@ -3003,6 +3296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
+        },
+        {
+          "title": "美国官员表示，美国针对伊朗的军事规划已高度成熟。",
+          "url": "https://flash.jin10.com/detail/20260220230553820800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国总统特朗普：美国将为和平委员会出资100亿美元。",
@@ -3206,7 +3510,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -3289,11 +3593,12 @@
             13,
             16,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时40分 ~ 22时33分]"
+          "appearance_count": 26,
+          "time_info": "[00时40分 ~ 23时29分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -3304,11 +3609,12 @@
             16,
             19,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时40分 ~ 22时33分]"
+          "appearance_count": 26,
+          "time_info": "[00时40分 ~ 23时29分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -3343,8 +3649,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时29分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -3360,6 +3666,32 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时41分 ~ 20时32分]"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 23时29分]"
+        },
+        {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时23分 ~ 23时29分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -3386,29 +3718,17 @@
           "time_info": "07时21分"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 22时33分]"
-        },
-        {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
           "source": "财联社热门",
           "ranks": [
             13,
-            6,
-            4
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时33分]"
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 23时29分]"
         },
         {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
@@ -3420,17 +3740,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
-        },
-        {
-          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -3447,17 +3756,17 @@
           "time_info": "[01时42分 ~ 04时23分]"
         },
         {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            12,
-            11
+            20,
+            16,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时23分 ~ 22时33分]"
+          "time_info": "[20时32分 ~ 23时29分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -3522,6 +3831,18 @@
           "time_info": "[20时32分 ~ 21时54分]"
         },
         {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时29分]"
+        },
+        {
           "title": "什么样的软件会被AI淘汰？",
           "url": "https://wallstreetcn.com/articles/3765860",
           "source": "华尔街见闻",
@@ -3534,16 +3855,28 @@
           "time_info": "[06时21分 ~ 09时04分]"
         },
         {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时33分]"
+          "time_info": "[21时53分 ~ 23时29分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时53分 ~ 23时29分]"
         },
         {
           "title": "我国科学家用天文AI模型绘制“极致深空图”",
@@ -3596,28 +3929,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时06分 ~ 14时41分]"
-        },
-        {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
-        },
-        {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时53分 ~ 22时33分]"
         },
         {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
@@ -3678,13 +3989,24 @@
           "time_info": "05时23分"
         },
         {
+          "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
+          "url": "https://www.cls.cn/detail/2291896",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "OpenAI智能音箱定价可能在200至300美元之间。",
           "url": "https://flash.jin10.com/detail/20260220220448240800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -3706,7 +4028,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
