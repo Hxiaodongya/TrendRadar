@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T13:45:53.297925+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-02-20T14:41:30.131176+08:00",
+  "total_titles_processed": 1129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 175,
+      "match_count": 186,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 14时41分]"
         },
         {
           "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
@@ -94,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 14时41分]"
         },
         {
           "title": "美媒爆料：美国正推动北约政策“恢复出厂设置”",
@@ -134,8 +134,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 14时41分]"
         },
         {
           "title": "美国被曝最早本周末攻打伊朗",
@@ -185,6 +185,18 @@
           "time_info": "[01时42分 ~ 07时21分]"
         },
         {
+          "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。 日本将加快重启核反应堆，也将推进新一代反应堆的开发与安装具体计划。",
+          "url": "https://wallstreetcn.com/livenews/3056867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
+        },
+        {
           "title": "美国若武力介入台湾代价巨大",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%8B%A5%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E4%BB%A3%E4%BB%B7%E5%B7%A8%E5%A4%A7%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -201,15 +213,30 @@
           "time_info": "[00时40分 ~ 07时21分]"
         },
         {
-          "title": "日本首相高市早苗：将加速开发南鸟岛附近海底稀土资源。",
-          "url": "https://flash.jin10.com/detail/20260220131836639800",
-          "source": "金十数据",
+          "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
+          "url": "https://wallstreetcn.com/livenews/3056864",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
+        },
+        {
+          "title": "中国冰壶女队6:9日本",
+          "url": "https://www.douyin.com/hot/2406285",
+          "source": "抖音",
+          "ranks": [
+            26,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时41分]"
         },
         {
           "title": "美国总统特朗普：石油和天然气正在增产。",
@@ -223,15 +250,15 @@
           "time_info": "06时21分"
         },
         {
-          "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。 日本将加快重启核反应堆，也将推进新一代反应堆的开发与安装具体计划。",
-          "url": "https://wallstreetcn.com/livenews/3056867",
+          "title": "日本首相高市早苗：将在不依赖赤字融资债券的情况下，暂停征收食品和饮料的销售税两年。将在初夏前拟定销售税减税的中期方案，并迅速提交税制改革法案。",
+          "url": "https://wallstreetcn.com/livenews/3056868",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "14时41分"
         },
         {
           "title": "Meta Platforms(META.O)：将在2026年美国大选竞选活动的最后一周继续屏蔽我们平台上的新政治广告。",
@@ -245,17 +272,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "日本首相高市早苗：也将推进新一代反应堆的开发与安装具体计划。",
-          "url": "https://flash.jin10.com/detail/20260220131700709800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "美国银行对私人信用交易承诺250亿美元现金。",
           "url": "https://wallstreetcn.com/livenews/3056756",
           "source": "华尔街见闻-快讯",
@@ -267,28 +283,17 @@
           "time_info": "04时23分"
         },
         {
-          "title": "日本首相高市早苗：日本将加快重启核反应堆。",
-          "url": "https://flash.jin10.com/detail/20260220131636098800",
-          "source": "金十数据",
+          "title": "美国 2025 年贸易逆差录得 9015 亿美元，较去年仅下降 20 亿美元，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2007954812189295280",
+          "source": "知乎",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "中国冰壶女队6:9日本",
-          "url": "https://www.douyin.com/hot/2406285",
-          "source": "抖音",
-          "ranks": [
-            26,
-            5,
-            6
+            13,
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时45分]"
+          "time_info": "[12时05分 ~ 14时41分]"
         },
         {
           "title": "印尼与美国签署互惠贸易协定。",
@@ -302,17 +307,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。",
-          "url": "https://flash.jin10.com/detail/20260220131630918800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "美国总统特朗普考虑禁止某些移民家庭住房救助。（BLAW）",
           "url": "https://wallstreetcn.com/livenews/3056700",
           "source": "华尔街见闻-快讯",
@@ -322,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
-        },
-        {
-          "title": "日本首相高市早苗：日本国内的投资严重不足，将通过多年预算和长期基金推动大胆投资。 不会推行破坏市场信心的鲁莽财政政策。 将稳步降低债务与GDP比率，恢复财政可持续性；将维护市场信任，并将明确具体的财政指标。 将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。 政府将于下月开始为17个战略领域推出投资路线图。",
-          "url": "https://wallstreetcn.com/livenews/3056864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
         },
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
@@ -368,6 +351,45 @@
           "time_info": "09时04分"
         },
         {
+          "title": "印尼与美国签署互惠贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3056837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 14时41分]"
+        },
+        {
+          "title": "美国向联合国支付1.6亿美元部分欠款",
+          "url": "https://news.ifeng.com/c/8qt5v4Gxswi",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时41分]"
+        },
+        {
+          "title": "美国一高校兄弟会诡异入会仪式曝光",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%AB%98%E6%A0%A1%E5%85%84%E5%BC%9F%E4%BC%9A%E8%AF%A1%E5%BC%82%E5%85%A5%E4%BC%9A%E4%BB%AA%E5%BC%8F%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时41分]"
+        },
+        {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
           "url": "https://flash.jin10.com/detail/20260220021119038800",
           "source": "金十数据",
@@ -379,19 +401,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时23分]"
-        },
-        {
-          "title": "印尼与美国签署互惠贸易协定。",
-          "url": "https://wallstreetcn.com/livenews/3056837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 13时45分]"
         },
         {
           "title": "美国财政部拍卖90亿美元30年期通胀保值国债（TIPS），得标利率2.473%，投标倍数2.75。",
@@ -459,6 +468,18 @@
           "time_info": "[09时04分 ~ 13时45分]"
         },
         {
+          "title": "日本首相高市早苗：将加速开发南鸟岛附近海底稀土资源。",
+          "url": "https://flash.jin10.com/detail/20260220131836639800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
+        },
+        {
           "title": "美国参议院Warren向美联储理事鲍曼询问关于美联储监督管理部门领导层关系的信息。",
           "url": "https://wallstreetcn.com/livenews/3056739",
           "source": "华尔街见闻-快讯",
@@ -470,6 +491,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 05时23分]"
+        },
+        {
+          "title": "日本首相高市早苗：也将推进新一代反应堆的开发与安装具体计划。",
+          "url": "https://flash.jin10.com/detail/20260220131700709800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
         },
         {
           "title": "汇丰在美国债务资本市场团队裁员10%。",
@@ -484,6 +517,18 @@
           "time_info": "[07时21分 ~ 09时04分]"
         },
         {
+          "title": "日本首相高市早苗：日本将加快重启核反应堆。",
+          "url": "https://flash.jin10.com/detail/20260220131636098800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
+        },
+        {
           "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
           "url": "https://flash.jin10.com/detail/20260220034308215800",
           "source": "金十数据",
@@ -494,6 +539,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时23分]"
+        },
+        {
+          "title": "日本首相高市早苗：日本将设立自己的“外国投资委员会（CFIUS）”，以审查外国投资。",
+          "url": "https://flash.jin10.com/detail/20260220131630918800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
         },
         {
           "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
@@ -532,18 +589,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 04时23分]"
-        },
-        {
-          "title": "美国向联合国支付1.6亿美元部分欠款",
-          "url": "https://news.ifeng.com/c/8qt5v4Gxswi",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时45分]"
         },
         {
           "title": "西方石油：预计2026年中游业务收益将略有下降。与2025年相比，在美国陆上业务的支出预计将减少4亿美元。",
@@ -647,19 +692,6 @@
           "time_info": "[00时40分 ~ 06时21分]"
         },
         {
-          "title": "美国一高校兄弟会诡异入会仪式曝光",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E9%AB%98%E6%A0%A1%E5%85%84%E5%BC%9F%E4%BC%9A%E8%AF%A1%E5%BC%82%E5%85%A5%E4%BC%9A%E4%BB%AA%E5%BC%8F%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时45分]"
-        },
-        {
           "title": "美国两大人工智能巨头CEO拒绝牵手",
           "url": "https://www.toutiao.com/trending/7608479654936674347/",
           "source": "今日头条",
@@ -698,18 +730,6 @@
           "time_info": "[02时39分 ~ 04时23分]"
         },
         {
-          "title": "美国 2025 年贸易逆差录得 9015 亿美元，较去年仅下降 20 亿美元，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2007954812189295280",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时45分]"
-        },
-        {
           "title": "美国上周EIA原油库存锐减超900万桶",
           "url": "https://wallstreetcn.com/livenews/3056717",
           "source": "华尔街见闻-快讯",
@@ -736,6 +756,19 @@
           "time_info": "[01时42分 ~ 03时37分]"
         },
         {
+          "title": "美国与印尼达成贸易协议 将对印征收19%关税",
+          "url": "https://wallstreetcn.com/livenews/3056846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时41分]"
+        },
+        {
           "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报，数据发布时间因周一休市而推后了一天。",
           "url": "https://wallstreetcn.com/livenews/3056714",
           "source": "华尔街见闻-快讯",
@@ -747,6 +780,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 03时37分]"
+        },
+        {
+          "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
+          "url": "https://wallstreetcn.com/livenews/3056840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时41分]"
         },
         {
           "title": "美国卫生与公众服务部：美国疾控中心疫苗顾问二月份会议推迟。",
@@ -773,6 +819,18 @@
           "time_info": "[04时23分 ~ 05时23分]"
         },
         {
+          "title": "日本首相高市早苗：政府将于下月开始为17个战略领域推出投资路线图。",
+          "url": "https://flash.jin10.com/detail/20260220131303233800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
+        },
+        {
           "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
           "url": "https://flash.jin10.com/detail/20260220034121662800",
           "source": "金十数据",
@@ -783,6 +841,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时23分]"
+        },
+        {
+          "title": "日本首相高市早苗：将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。",
+          "url": "https://flash.jin10.com/detail/20260220131214875800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
         },
         {
           "title": "美国农民加码大豆种植",
@@ -843,6 +913,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时23分]"
+        },
+        {
+          "title": "日本首相高市早苗：充分考虑财政纪律的政策定义了高市内阁的“负责任、积极主动的财政政策”。",
+          "url": "https://flash.jin10.com/detail/20260220131203809800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时41分]"
         },
         {
           "title": "美国向联合国支付1.6亿美元部分欠款",
@@ -951,18 +1033,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时04分 ~ 12时06分]"
-        },
-        {
-          "title": "美国与印尼达成贸易协议 将对印征收19%关税",
-          "url": "https://wallstreetcn.com/livenews/3056846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时45分]"
         },
         {
           "title": "美国至2月13日当周EIA精炼厂设备利用率 91%，预期89.8%，前值89.4%。",
@@ -1085,18 +1155,6 @@
           "time_info": "[02时39分 ~ 03时37分]"
         },
         {
-          "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
-          "url": "https://wallstreetcn.com/livenews/3056840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时45分]"
-        },
-        {
           "title": "美国纽约州撤回自动驾驶出租车计划，Waymo扩张进程受挫",
           "url": "https://wallstreetcn.com/livenews/3056708",
           "source": "华尔街见闻-快讯",
@@ -1132,17 +1190,6 @@
           "time_info": "09时04分"
         },
         {
-          "title": "日本首相高市早苗：政府将于下月开始为17个战略领域推出投资路线图。",
-          "url": "https://flash.jin10.com/detail/20260220131303233800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
           "title": "美国民主党参议员沃伦对美联储银行监管部门内部的人事变动提出质疑",
           "url": "https://flash.jin10.com/detail/20260219235900908800",
           "source": "金十数据",
@@ -1163,17 +1210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
-        },
-        {
-          "title": "日本首相高市早苗：将力争在本财年年底前尽早通过包括2026/27财年税制改革立法在内的关键法案。",
-          "url": "https://flash.jin10.com/detail/20260220131214875800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
         },
         {
           "title": "美国联邦能源监管委员会将取消美国西部地区1000美元/兆瓦时的软性电力价格上限。",
@@ -1198,15 +1234,15 @@
           "time_info": "05时23分"
         },
         {
-          "title": "日本首相高市早苗：充分考虑财政纪律的政策定义了高市内阁的“负责任、积极主动的财政政策”。",
-          "url": "https://flash.jin10.com/detail/20260220131203809800",
+          "title": "日本首相高市早苗：希望有关修宪的讨论能够加速推进，并且公众讨论能够更加深入。",
+          "url": "https://flash.jin10.com/detail/20260220135106100800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "14时41分"
         },
         {
           "title": "日本多地市民团体集会，反对部署“战斧”导弹",
@@ -1226,7 +1262,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1259,9 +1295,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "日本首相高市早苗：将审查外国人土地收购规则。",
+          "url": "https://flash.jin10.com/detail/20260220134650460800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "标普：目前判断美国在未来12个月内开始衰退的概率为20%-25%，低于9月份的30%。",
@@ -1281,7 +1328,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1314,9 +1361,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "日本首相高市早苗：将设立由首相主持的国家情报委员会，以整合各机构的情报收集工作。",
+          "url": "https://flash.jin10.com/detail/20260220134002939800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国总统特朗普宣称：2月18日会见了诺华制药（NOVN.SW）的CEO。 对方说，美国关税迫使他修建新的工厂。",
@@ -1358,7 +1416,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1413,9 +1471,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "日本首相高市早苗：我们将于今年修订日本的“安保三文件”。将加快审查日本的国防装备出口规则，以加强威慑力和日本的国防工业基础。",
+          "url": "https://flash.jin10.com/detail/20260220133915454800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.791万亿美元。",
@@ -1460,6 +1529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "日本首相高市早苗：旨在全方位进一步加强与美国的联系。",
+          "url": "https://flash.jin10.com/detail/20260220133514879800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国总统特朗普兜售自己针对钢铁和钢铁衍生产品挑起的关税。 赞赏Coosa Steel Corp.。",
@@ -1512,9 +1592,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "日本首相高市早苗：若可能，最早将于下月访美。",
+          "url": "https://flash.jin10.com/detail/20260220133505793800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周天然气库存减少1440亿立方英尺（分析师预计减少1490亿立方英尺），周环比下降6.50%（之前一周下降10.11%），至2.07万亿立方英尺。",
@@ -1559,6 +1650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "日本首相高市早苗：日本正面临自二战以来最复杂、最严峻的安全环境。",
+          "url": "https://flash.jin10.com/detail/20260220133141472800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国2月13日当周EIA天然气库存变动 -1440亿立方英尺。",
@@ -1622,7 +1724,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1682,6 +1784,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "日本首相高市早苗：将在初夏前拟定销售税减税的中期方案，并迅速提交税制改革法案。",
+          "url": "https://flash.jin10.com/detail/20260220132935462800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布天然气库存周报。",
           "url": "https://wallstreetcn.com/livenews/3056682",
           "source": "华尔街见闻-快讯",
@@ -1713,6 +1826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "日本首相高市早苗：将在不依赖赤字融资债券的情况下，暂停征收食品和饮料的销售税两年。",
+          "url": "https://flash.jin10.com/detail/20260220132914591800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国总统特朗普：（美国的）石油和天然气正在增产。 从委内瑞拉攫取的5000万桶石油正被运往得州休斯敦。",
@@ -1820,7 +1944,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -1875,9 +1999,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "美国一机场将更名为特朗普国际机场",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%9C%BA%E5%9C%BA%E5%B0%86%E6%9B%B4%E5%90%8D%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美国总统特朗普：联合国确实拥有巨大的潜力。",
@@ -1908,7 +2043,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -2059,7 +2194,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -2108,8 +2243,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 14时41分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -2121,8 +2256,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 14时41分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -2242,8 +2377,34 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时41分]"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时45分]"
+          "time_info": "[12时06分 ~ 14时41分]"
+        },
+        {
+          "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
+          "url": "https://wallstreetcn.com/livenews/3056838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时41分]"
         },
         {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
@@ -2281,30 +2442,6 @@
           "time_info": "[12时05分 ~ 12时06分]"
         },
         {
-          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3056842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时45分]"
-        },
-        {
-          "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
-          "url": "https://wallstreetcn.com/livenews/3056838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时45分]"
-        },
-        {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
           "url": "https://flash.jin10.com/detail/20260220043316320800",
           "source": "金十数据",
@@ -2314,6 +2451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.toutiao.com/trending/7607847863079108650/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
@@ -2338,6 +2486,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "据英国金融时报：英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。",
           "url": "https://flash.jin10.com/detail/20260220081800116800",
           "source": "金十数据",
@@ -2358,6 +2517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
+          "url": "https://flash.jin10.com/detail/20260220132611953800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "中美AI科技转向",
