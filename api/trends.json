@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T17:20:46.199757+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-21T18:15:31.120881+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 217,
+      "match_count": 219,
       "titles": [
         {
           "title": "特朗普全球关税被推翻！美国最高法院裁定违法，超1750亿美元税收面临退款",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时29分 ~ 17时20分]"
+          "appearance_count": 18,
+          "time_info": "[01时29分 ~ 18时15分]"
         },
         {
           "title": "日本一货船与渔船发生相撞，多人死伤",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 18时15分]"
         },
         {
           "title": "美国最高法院裁定特朗普政府大规模关税政策违法 ，这会带来哪些影响？关税政策会撤回吗？",
@@ -71,21 +71,6 @@
           "time_info": "[01时29分 ~ 16时18分]"
         },
         {
-          "title": "日本挖到稀土,全是选举戏码",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21,
-            23,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时20分]"
-        },
-        {
           "title": "中国代表重申：日本没资格要求入常",
           "url": "https://news.ifeng.com/c/8qurLBUotqS",
           "source": "凤凰网",
@@ -94,8 +79,37 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 17时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时15分]"
+        },
+        {
+          "title": "美联储最青睐的通胀指标超预期！美国12月核心PCE物价指数同比3%",
+          "url": "https://wallstreetcn.com/articles/3765907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 18时15分]"
+        },
+        {
+          "title": "日本挖到稀土,全是选举戏码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21,
+            23,
+            25,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "撤销5类非战斗限制，日本拟大幅松绑武器出口规则",
@@ -109,17 +123,22 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
-          "title": "美联储最青睐的通胀指标超预期！美国12月核心PCE物价指数同比3%",
-          "url": "https://wallstreetcn.com/articles/3765907",
-          "source": "华尔街见闻",
+          "title": "美媒：哈梅内伊及其子成为美国考虑的打击目标",
+          "url": "https://wallstreetcn.com/livenews/3057156",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            1,
+            5,
+            6,
+            7,
+            12,
+            14,
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 17时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时56分 ~ 18时15分]"
         },
         {
           "title": "终于，美国开始还钱了",
@@ -186,21 +205,22 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
-          "title": "美媒：哈梅内伊及其子成为美国考虑的打击目标",
-          "url": "https://wallstreetcn.com/livenews/3057156",
+          "title": "韩国：与美国贸易协议在关税裁决后仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3057155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            5,
+            2,
             6,
             7,
-            12,
-            14,
-            21
+            8,
+            13,
+            15,
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 17时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时56分 ~ 18时15分]"
         },
         {
           "title": "美国总统特朗普：共和党人对自己太不忠诚了！团结起来，齐心协力，赢得胜利！",
@@ -233,23 +253,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时19分]"
-        },
-        {
-          "title": "韩国：与美国贸易协议在关税裁决后仍然有效",
-          "url": "https://wallstreetcn.com/livenews/3057155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            7,
-            8,
-            13,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 17时20分]"
         },
         {
           "title": "泰国商务部官员：泰国外贸在1月和2月表现强劲；美国关税决定在上半年的影响预计有限。",
@@ -299,6 +302,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时56分 ~ 16时18分]"
+        },
+        {
+          "title": "美国会返还关税吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%BF%94%E8%BF%98%E5%85%B3%E7%A8%8E%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            22,
+            16,
+            21,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 18时15分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
@@ -523,6 +542,20 @@
           "time_info": "[04时19分 ~ 09时03分]"
         },
         {
+          "title": "时隔14年 美国打算重开驻叙利亚大使馆",
+          "url": "https://wallstreetcn.com/livenews/3057166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 18时15分]"
+        },
+        {
           "title": "美国副总统万斯：总统特朗普将动用其他广泛的关税权力。",
           "url": "https://wallstreetcn.com/livenews/3057090",
           "source": "华尔街见闻-快讯",
@@ -552,34 +585,6 @@
           "time_info": "[11时56分 ~ 16时18分]"
         },
         {
-          "title": "美国会返还关税吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%BF%94%E8%BF%98%E5%85%B3%E7%A8%8E%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            22,
-            16,
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时20分]"
-        },
-        {
-          "title": "时隔14年 美国打算重开驻叙利亚大使馆",
-          "url": "https://wallstreetcn.com/livenews/3057166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时20分]"
-        },
-        {
           "title": "美国总统特朗普：某些大法官“不想做正确的事”。",
           "url": "https://flash.jin10.com/detail/20260221022408660800",
           "source": "金十数据",
@@ -589,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美国在约旦空军基地部署超60架军用飞机",
+          "url": "https://flash.jin10.com/detail/20260221174324840800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美国总统特朗普：我们将用新的方式来攫取更多（外国）资金。",
@@ -691,6 +707,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时56分 ~ 16时18分]"
+        },
+        {
+          "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
+          "url": "https://news.ifeng.com/c/8qvXaKA67vQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "据华尔街日报：美国情报部门称，叙利亚极端组织“伊斯兰国”（ISIS）拘留营坍塌后，至少有15,000人逃脱。",
@@ -914,6 +941,19 @@
           "time_info": "[05时15分 ~ 07时19分]"
         },
         {
+          "title": "时隔14年 美国打算重开驻叙利亚大使馆",
+          "url": "https://flash.jin10.com/detail/20260221150843723800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时15分]"
+        },
+        {
           "title": "美国总统特朗普：最高法院的关税判决极度让人失望。 对最高法院的特定成员感到羞耻，他们缺乏勇气去做正确的事。 对那些（判定关税政策违法）持异议的成员表示感谢，他们真的让人感到骄傲。 最高法院“是愚蠢的”，他们是“走狗”。 在我看来，法院已经动摇了。 关税官司是经济国家安全的象征，对国家安全具有重要意义。 好消息是，还有比IEEPA更好的方法。 对美国占便宜的国家欣喜若狂，他们“在街头载歌载舞”的日子不会太长。",
           "url": "https://wallstreetcn.com/livenews/3057062",
           "source": "华尔街见闻-快讯",
@@ -1012,18 +1052,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 07时19分]"
-        },
-        {
-          "title": "时隔14年 美国打算重开驻叙利亚大使馆",
-          "url": "https://flash.jin10.com/detail/20260221150843723800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时20分]"
         },
         {
           "title": "大豆价格回吐涨幅，美国最高法院推翻特朗普关税",
@@ -1186,6 +1214,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 07时19分]"
+        },
+        {
+          "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2008503061484631366",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 18时15分]"
         },
         {
           "title": "美国副总统万斯：（谈及最高法院对关税的裁决）法院此举无法无天，这是明摆着的事实。",
@@ -1405,15 +1444,16 @@
           "time_info": "[06时14分 ~ 09时03分]"
         },
         {
-          "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2008503061484631366",
-          "source": "知乎",
+          "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
+          "url": "https://wallstreetcn.com/livenews/3057170",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时20分]"
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时15分]"
         },
         {
           "title": "美国财长：可能会维持2026年关税收入不变，别指望关税收入会减少",
@@ -1476,6 +1516,18 @@
           "time_info": "[03时31分 ~ 04时19分]"
         },
         {
+          "title": "美媒：若伊朗发展核武器的途径被堵死，美国或接受伊朗象征性保留铀浓缩能力",
+          "url": "https://flash.jin10.com/detail/20260221163950914800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时15分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：2月17日当周，投机者所持COMEX黄金净多头头寸增加3,019手合约，至96,057手合约，创三周新高。 所持COMEX白银净多头头寸创三周新高。 所持COMEX铜净多头头寸创20周新低。 所持NYMEX铂金净多头头寸创四周新高，所持NYMEX钯金净多头头寸创三年新高。",
           "url": "https://wallstreetcn.com/livenews/3057101",
           "source": "华尔街见闻-快讯",
@@ -1498,6 +1550,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时19分]"
+        },
+        {
+          "title": "美国关税重置为10%，东盟出口商暂获喘息之机",
+          "url": "https://flash.jin10.com/detail/20260221161149941800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时15分]"
         },
         {
           "title": "德国工商总会：美国最高法院裁决限制了美国在贸易政策中的行政权力。",
@@ -1536,6 +1600,18 @@
           "time_info": "[09时03分 ~ 11时56分]"
         },
         {
+          "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
+          "url": "https://flash.jin10.com/detail/20260221161057186800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时15分]"
+        },
+        {
           "title": "美国全国零售联合会表示，敦促下级法院确保向美国进口商退还关税的流程无缝衔接。",
           "url": "https://flash.jin10.com/detail/20260220235842167800",
           "source": "金十数据",
@@ -1570,6 +1646,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 11时56分]"
+        },
+        {
+          "title": "法国总统马克龙：美国最高法院关于美国总统特朗普关税的裁决表明，拥有制衡权力和法治是件好事。",
+          "url": "https://flash.jin10.com/detail/20260221160513093800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时15分]"
         },
         {
           "title": "美国国债价格扩大跌幅，此前最高法院推翻特朗普关税政策，让投资者担忧美国债务问题",
@@ -1797,17 +1885,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "美国国家公路交通安全管理局（NHTSA）：丰田汽车召回4,374辆美国车辆。",
-          "url": "https://wallstreetcn.com/livenews/3057170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "沃顿预算模型经济学家：美国或需退还1750亿美元关税",
           "url": "https://wallstreetcn.com/livenews/3057000",
           "source": "华尔街见闻-快讯",
@@ -1885,17 +1962,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "美媒：若伊朗发展核武器的途径被堵死，美国或接受伊朗象征性保留铀浓缩能力",
-          "url": "https://flash.jin10.com/detail/20260221163950914800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "欧盟：正在分析美国最高法院关税裁决",
           "url": "https://wallstreetcn.com/livenews/3056998",
           "source": "华尔街见闻-快讯",
@@ -1905,17 +1971,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "美国关税重置为10%，东盟出口商暂获喘息之机",
-          "url": "https://flash.jin10.com/detail/20260221161149941800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "高盛集团：2026年开局不错，上调美国的投资级债券市场销售预期至2.1万亿美元。 上调欧洲高评级（即前述投资级）债券供应预期至8500亿欧元。",
@@ -1929,17 +1984,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "据美国国家公路交通安全管理局（NHTSA），丰田汽车公司召回美国市场4374辆汽车。",
-          "url": "https://flash.jin10.com/detail/20260221161057186800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "美国参议院民主党成员Warren：关税政策被最高法院驳回之后，敦促特朗普政府对美国民众退税。",
           "url": "https://wallstreetcn.com/livenews/3056996",
           "source": "华尔街见闻-快讯",
@@ -1949,17 +1993,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "法国总统马克龙：美国最高法院关于美国总统特朗普关税的裁决表明，拥有制衡权力和法治是件好事。",
-          "url": "https://flash.jin10.com/detail/20260221160513093800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         },
         {
           "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：让（美联储政策）利率具有轻微限制性是审慎的做法。 政策利率比中性利率高出25-50个基点。 如果通胀回落至2%，将允许下调政策利率。 如果通胀上行，必须考虑加息。",
@@ -2669,8 +2702,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -2697,8 +2730,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时14分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[06时14分 ~ 18时15分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -2725,8 +2758,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -2770,11 +2803,12 @@
             23,
             25,
             27,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 17时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 18时15分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -2914,11 +2948,12 @@
           "url": "https://www.toutiao.com/trending/7609182148255305259/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时18分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 18时15分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
