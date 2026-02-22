@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T12:07:40.349046+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-02-22T13:44:07.473897+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
@@ -47,6 +47,23 @@
           "time_info": "[00时16分 ~ 12时07分]"
         },
         {
+          "title": "高院否决、特朗普再加！美国关税税率现在变成什么样了？",
+          "url": "https://wallstreetcn.com/articles/3765933",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时44分]"
+        },
+        {
           "title": "白宫官员确认，美国总统特朗普计划于 3 月 31 日至 4 月 2 日访问中国，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2008503061484631366",
           "source": "知乎",
@@ -62,22 +79,6 @@
           "time_info": "[00时16分 ~ 09时07分]"
         },
         {
-          "title": "高院否决、特朗普再加！美国关税税率现在变成什么样了？",
-          "url": "https://wallstreetcn.com/articles/3765933",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时07分]"
-        },
-        {
           "title": "佩斯科夫：日本对俄罗斯一直充满敌意，俄日关系已跌至冰点",
           "url": "https://m.thepaper.cn/newsDetail_forward_32639569",
           "source": "澎湃新闻",
@@ -91,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时44分]"
         },
         {
           "title": "德国总理默茨：（被问及德国企业因美国关税裁决而将收回数十亿美元资金）在采取相关行动之前，我们得先与美国政府进行沟通，我将在大约一周后前往华盛顿。",
@@ -163,6 +164,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 07时15分]"
+        },
+        {
+          "title": "赵少康：美国大法官都这么判了，台政府还犹豫什么？",
+          "url": "https://news.ifeng.com/c/8qwZFHEpvsQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 13时44分]"
         },
         {
           "title": "欧洲央行管委Panetta：关税对美国自身的伤害大于对其他国家。 关税导致了贸易流动格局重组。 美国需要欧洲。 欧洲需要共同债务来实现增长。 通胀风险可能双向发展。 货币政策必须保持灵活。",
@@ -256,17 +268,6 @@
           "time_info": "[00时16分 ~ 07时15分]"
         },
         {
-          "title": "赵少康：美国大法官都这么判了，台政府还犹豫什么？",
-          "url": "https://news.ifeng.com/c/8qwZFHEpvsQ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时07分]"
-        },
-        {
           "title": "澳舰过航台湾海峡 解放军全程跟踪",
           "url": "https://www.baidu.com/s?wd=%E6%BE%B3%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1+%E8%A7%A3%E6%94%BE%E5%86%9B%E5%85%A8%E7%A8%8B%E8%B7%9F%E8%B8%AA",
           "source": "百度热搜",
@@ -327,37 +328,38 @@
           "time_info": "[05时13分 ~ 09时07分]"
         },
         {
-          "title": "美媒：受停摆影响，美国国土安全部将暂停预先安检和全球入境计划",
-          "url": "https://flash.jin10.com/detail/20260222110224533800",
+          "title": "韩国外交部强烈抗议日本举行“竹岛日”活动",
+          "url": "https://flash.jin10.com/detail/20260222132336777800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "13时44分"
         },
         {
-          "title": "据华盛顿邮报：美国国土安全部将在停摆持续期间暂停美国运输安全管理局预检和全球入境计划。",
-          "url": "https://flash.jin10.com/detail/20260222105833262800",
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
+          "title": "巴西总统卢拉：我与美国总统特朗普会晤的议程是贸易、移民和投资。",
+          "url": "https://flash.jin10.com/detail/20260222124152678800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "中国驻美国大使谢锋会见桥水基金创始人达利欧",
-          "url": "https://wallstreetcn.com/livenews/3057237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "13时44分"
         },
         {
           "title": "“对等关税”被美国高院驳回，特朗普还有什么招？",
@@ -372,16 +374,41 @@
           "time_info": "[00时16分 ~ 02时20分]"
         },
         {
+          "title": "韩媒：顾及中国，韩国拒绝了美国",
+          "url": "https://news.ifeng.com/c/8qwcus587ao",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 13时44分]"
+        },
+        {
           "title": "美国弗吉尼亚州里士满发生枪击案 致2死7伤",
           "url": "https://flash.jin10.com/detail/20260222090010622800",
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 13时44分]"
+        },
+        {
+          "title": "中国驻美国大使谢锋会见桥水基金创始人达利欧",
+          "url": "https://wallstreetcn.com/livenews/3057237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时07分]"
+          "time_info": "[12时07分 ~ 13时44分]"
         },
         {
           "title": "美国司法部对奈飞收购华纳兄弟的交易进行“深入”调查",
@@ -389,11 +416,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 13时44分]"
         },
         {
           "title": "美国总统特朗普：将派遣海上医疗船前往格陵兰岛",
@@ -401,11 +429,36 @@
           "source": "金十数据",
           "ranks": [
             5,
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 13时44分]"
+        },
+        {
+          "title": "美媒：受停摆影响，美国国土安全部将暂停预先安检和全球入境计划",
+          "url": "https://flash.jin10.com/detail/20260222110224533800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时07分 ~ 12时07分]"
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
+          "title": "据华盛顿邮报：美国国土安全部将在停摆持续期间暂停美国运输安全管理局预检和全球入境计划。",
+          "url": "https://flash.jin10.com/detail/20260222105833262800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时44分]"
         },
         {
           "title": "美媒：哈梅内伊及其子成为美国考虑的打击目标",
@@ -432,16 +485,27 @@
           "time_info": "[09时06分 ~ 12时07分]"
         },
         {
-          "title": "韩媒：顾及中国，韩国拒绝了美国",
-          "url": "https://news.ifeng.com/c/8qwcus587ao",
-          "source": "凤凰网",
+          "title": "美国加征「全球进口关税」一日后，将新关税税率升至 15%，会有哪些影响？税率还会增加吗？",
+          "url": "https://www.zhihu.com/question/2008803593088623486",
+          "source": "知乎",
           "ranks": [
             11,
             12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时07分]"
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
+          "title": "如何看美国宣布终止一系列关税措施",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E4%B8%80%E7%B3%BB%E5%88%97%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时44分]"
         },
         {
           "title": "郭正亮：看到中国发展快 美国急坏了",
@@ -456,6 +520,65 @@
           "time_info": "[00时16分 ~ 01时18分]"
         },
         {
+          "title": "美国伊利诺伊州州长向白宫寄账单 要求白宫退还近87亿美元关税税款",
+          "url": "https://flash.jin10.com/detail/20260222102251569800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
+          "title": "阿联酋、埃及、约旦等14国及国际组织发表联合声明，谴责美国驻以色列大使“危险且具有煽动性”的言论",
+          "url": "https://wallstreetcn.com/livenews/3057233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
+          "title": "美国贸易代表办公室：新301条款调查将覆盖大多数主要贸易伙伴",
+          "url": "https://wallstreetcn.com/articles/3765937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
+          "title": "美国伊利诺伊州州长向白宫寄账单，要求后者退还近87亿美元关税税款",
+          "url": "https://wallstreetcn.com/livenews/3057228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
+          "title": "日本多地连发集体食物中毒事件 逾百人“中招”",
+          "url": "https://wallstreetcn.com/livenews/3057221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
           "title": "专家：俄罗斯人的战争逻辑与众不同",
           "url": "https://www.toutiao.com/trending/7608857666928148522/",
           "source": "今日头条",
@@ -467,81 +590,15 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国伊利诺伊州州长向白宫寄账单 要求白宫退还近87亿美元关税税款",
-          "url": "https://flash.jin10.com/detail/20260222102251569800",
+          "title": "日本岩手县确认一起高致病性禽流感疫情",
+          "url": "https://flash.jin10.com/detail/20260222114844152800",
           "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "阿联酋、埃及、约旦等14国及国际组织发表联合声明，谴责美国驻以色列大使“危险且具有煽动性”的言论",
-          "url": "https://wallstreetcn.com/livenews/3057233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国加征「全球进口关税」一日后，将新关税税率升至 15%，会有哪些影响？税率还会增加吗？",
-          "url": "https://www.zhihu.com/question/2008803593088623486",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "美国伊利诺伊州州长向白宫寄账单，要求后者退还近87亿美元关税税款",
-          "url": "https://wallstreetcn.com/livenews/3057228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "日本多地连发集体食物中毒事件 逾百人“中招”",
-          "url": "https://wallstreetcn.com/livenews/3057221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "如何看美国宣布终止一系列关税措施",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E4%B8%80%E7%B3%BB%E5%88%97%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "13时44分"
         },
         {
           "title": "日本挖到稀土,全是选举戏码",
@@ -558,7 +615,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -569,8 +626,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时44分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -581,8 +638,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时44分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -594,8 +651,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时44分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -603,11 +660,36 @@
           "source": "抖音",
           "ranks": [
             13,
-            11
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时06分 ~ 13时44分]"
+        },
+        {
+          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
+          "url": "https://wallstreetcn.com/articles/3765938",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时06分 ~ 12时07分]"
+          "time_info": "[12时07分 ~ 13时44分]"
+        },
+        {
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时44分]"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -621,15 +703,27 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
+          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
+          "url": "https://wallstreetcn.com/articles/3765936",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
+          "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
+          "url": "https://wallstreetcn.com/livenews/3057217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时44分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -638,29 +732,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
-          "url": "https://wallstreetcn.com/livenews/3057217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
