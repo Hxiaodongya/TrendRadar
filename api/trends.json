@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T17:20:28.955346+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-02-22T18:17:28.517352+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 70,
+      "match_count": 75,
       "titles": [
         {
           "title": "泰国智库批特朗普关税政策：别人在搭桥，美国在筑墙",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时17分]"
         },
         {
           "title": "德国总理默茨：美国最高法院裁决中的令人安心之处在于，美国的权力分立机制似乎仍在发挥作用。",
@@ -167,6 +167,18 @@
           "time_info": "[02时19分 ~ 09时07分]"
         },
         {
+          "title": "韩媒：顾及中国，韩国拒绝了美国",
+          "url": "https://news.ifeng.com/c/8qwcus587ao",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时17分]"
+        },
+        {
           "title": "美国支持对朝鲜制裁豁免，特朗普向金正恩释放信号？",
           "url": "https://v.ifeng.com/c/8qvj0HzaSkk",
           "source": "凤凰网",
@@ -176,6 +188,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时16分 ~ 07时15分]"
+        },
+        {
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 18时17分]"
         },
         {
           "title": "欧洲央行管委Panetta：关税对美国自身的伤害大于对其他国家。 关税导致了贸易流动格局重组。 美国需要欧洲。 欧洲需要共同债务来实现增长。 通胀风险可能双向发展。 货币政策必须保持灵活。",
@@ -189,18 +214,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 09时07分]"
-        },
-        {
-          "title": "韩媒：顾及中国，韩国拒绝了美国",
-          "url": "https://news.ifeng.com/c/8qwcus587ao",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时20分]"
         },
         {
           "title": "据福克斯新闻：在美国与伊朗紧张局势升级之际，美国军用飞机出现在葡萄牙拉热什空军基地的停机坪上。这是美国在该地区进行更大规模的军力增派之后的最新迹象。",
@@ -229,19 +242,6 @@
           "time_info": "[00时16分 ~ 09时07分]"
         },
         {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 17时20分]"
-        },
-        {
           "title": "魏东旭：美胆敢介入台海下场可想而知",
           "url": "https://www.toutiao.com/trending/7609231159834345491/",
           "source": "今日头条",
@@ -256,6 +256,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 06时13分]"
+        },
+        {
+          "title": "美国加征「全球进口关税」一日后，将新关税税率升至 15%，会有哪些影响？税率还会增加吗？",
+          "url": "https://www.zhihu.com/question/2008803593088623486",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 18时17分]"
         },
         {
           "title": "据英国金融时报：法国方面表示，欧盟拥有反击美国总统特朗普关税的工具。",
@@ -301,23 +313,61 @@
             1,
             2,
             5,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 18时17分]"
         },
         {
-          "title": "美国加征「全球进口关税」一日后，将新关税税率升至 15%，会有哪些影响？税率还会增加吗？",
-          "url": "https://www.zhihu.com/question/2008803593088623486",
-          "source": "知乎",
+          "title": "中国驻美国大使谢锋会见桥水基金创始人达利欧",
+          "url": "https://wallstreetcn.com/livenews/3057237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12
+            4,
+            6,
+            8,
+            9,
+            12,
+            18,
+            22
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时07分 ~ 17时20分]"
+          "time_info": "[12时07分 ~ 18时17分]"
+        },
+        {
+          "title": "美国洛杉矶港负责人：美总统加征关税加剧企业不确定性",
+          "url": "https://wallstreetcn.com/livenews/3057243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 18时17分]"
+        },
+        {
+          "title": "阿联酋、埃及、约旦等14国及国际组织发表联合声明，谴责美国驻以色列大使“危险且具有煽动性”的言论",
+          "url": "https://wallstreetcn.com/livenews/3057233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            12,
+            13,
+            16,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 18时17分]"
         },
         {
           "title": "澳舰过航台湾海峡 解放军全程跟踪",
@@ -343,22 +393,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 06时13分]"
-        },
-        {
-          "title": "中国驻美国大使谢锋会见桥水基金创始人达利欧",
-          "url": "https://wallstreetcn.com/livenews/3057237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            8,
-            9,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 17时20分]"
         },
         {
           "title": "韩国外交部强烈抗议日本举行“竹岛日”活动",
@@ -399,18 +433,18 @@
           "time_info": "[07时15分 ~ 09时07分]"
         },
         {
-          "title": "美国洛杉矶港负责人：美总统加征关税加剧企业不确定性",
-          "url": "https://wallstreetcn.com/livenews/3057243",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：美国有效关税税率仍低于最高法院裁决前水平",
+          "url": "https://flash.jin10.com/detail/20260222151554517800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            3,
-            6,
-            12
+            1,
+            4,
+            19,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时20分]"
+          "time_info": "[15时30分 ~ 18时17分]"
         },
         {
           "title": "美国贸易代表办公室：新301条款调查将覆盖大多数主要贸易伙伴",
@@ -428,17 +462,33 @@
           "time_info": "[13时43分 ~ 17时20分]"
         },
         {
-          "title": "分析师：美国有效关税税率仍低于最高法院裁决前水平",
-          "url": "https://flash.jin10.com/detail/20260222151554517800",
+          "title": "德媒：特朗普向格陵兰岛派遣医院船的举动可能加剧美国与丹麦的紧张关系",
+          "url": "https://flash.jin10.com/detail/20260222150204772800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 18时17分]"
+        },
+        {
+          "title": "美国洛杉矶港负责人：美总统加征关税加剧企业不确定性",
+          "url": "https://flash.jin10.com/detail/20260222141626270800",
           "source": "金十数据",
           "ranks": [
             1,
-            4,
-            19
+            6,
+            9,
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 18时17分]"
         },
         {
           "title": "高院否决是\"一回事\"，美国退税是\"另一回事”",
@@ -453,44 +503,15 @@
           "time_info": "[05时13分 ~ 09时07分]"
         },
         {
-          "title": "伊朗高级官员：伊朗与美国在制裁减免问题上存在分歧",
-          "url": "https://flash.jin10.com/detail/20260222164508792800",
+          "title": "美国总统特使：伊朗可能“大概一周内”就能生产出工业级炸弹",
+          "url": "https://flash.jin10.com/detail/20260222172455189800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "德媒：特朗普向格陵兰岛派遣医院船的举动可能加剧美国与丹麦的紧张关系",
-          "url": "https://flash.jin10.com/detail/20260222150204772800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时20分]"
-        },
-        {
-          "title": "阿联酋、埃及、约旦等14国及国际组织发表联合声明，谴责美国驻以色列大使“危险且具有煽动性”的言论",
-          "url": "https://wallstreetcn.com/livenews/3057233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            12,
-            13,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 17时20分]"
+          "time_info": "18时17分"
         },
         {
           "title": "美国伊利诺伊州州长向白宫寄账单，要求后者退还近87亿美元关税税款",
@@ -524,17 +545,6 @@
           "time_info": "[12时07分 ~ 16时19分]"
         },
         {
-          "title": "伊朗高级官员：美国公司始终可以作为承包商参与伊朗的油气田开发。",
-          "url": "https://flash.jin10.com/detail/20260222163551859800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "据华盛顿邮报：美国国土安全部将在停摆持续期间暂停美国运输安全管理局预检和全球入境计划。",
           "url": "https://flash.jin10.com/detail/20260222105833262800",
           "source": "金十数据",
@@ -550,40 +560,37 @@
           "time_info": "[12时07分 ~ 16时19分]"
         },
         {
-          "title": "伊朗高级官员：伊朗不会将其石油和矿产资源的控制权移交美国。",
-          "url": "https://flash.jin10.com/detail/20260222163531910800",
+          "title": "美国总统特使：特朗普很好奇伊朗为什么还没有屈服？",
+          "url": "https://flash.jin10.com/detail/20260222171300975800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时17分"
         },
         {
-          "title": "美国洛杉矶港负责人：美总统加征关税加剧企业不确定性",
-          "url": "https://flash.jin10.com/detail/20260222141626270800",
-          "source": "金十数据",
+          "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
+          "url": "https://wallstreetcn.com/livenews/3057256",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            6,
-            9,
-            24
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
-          "title": "伊朗高级官员：在《不扩散核武器条约》框架内，伊朗拥有进行铀浓缩活动的权利，这一权利必须得到承认。伊朗与美国将于三月初举行间接会谈，达成临时协议的可能性存在。",
-          "url": "https://flash.jin10.com/detail/20260222163516833800",
-          "source": "金十数据",
+          "title": "伊朗官员称伊朗与美国在解除制裁问题上存在分歧，计划于3月初举行新一轮会谈。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3057255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时17分"
         },
         {
           "title": "美国土安全部收购仓库改建拘留中心",
@@ -703,11 +710,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗高级官员：伊朗与美国在制裁减免问题上存在分歧",
+          "url": "https://flash.jin10.com/detail/20260222164508792800",
+          "source": "金十数据",
+          "ranks": [
+            1,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时20分]"
+          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "部分“停摆”持续 美国土安全部暂停两项机场快速通关项目",
@@ -715,11 +735,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗高级官员：美国公司始终可以作为承包商参与伊朗的油气田开发。",
+          "url": "https://flash.jin10.com/detail/20260222163551859800",
+          "source": "金十数据",
+          "ranks": [
+            2,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时20分]"
+          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "韩国就独岛主权问题向日本表示强烈抗议",
@@ -727,11 +760,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时17分]"
         },
         {
           "title": "美国总统特使威特科夫称，关于结束乌克兰战争的新一轮和平会谈将在三周内举行。",
@@ -739,11 +773,59 @@
           "source": "金十数据",
           "ranks": [
             3,
-            18
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗高级官员：伊朗不会将其石油和矿产资源的控制权移交美国。",
+          "url": "https://flash.jin10.com/detail/20260222163531910800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时20分]"
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "玉渊谭天：美国对华哪些关税被停止征收？",
+          "url": "https://wallstreetcn.com/articles/3765953",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗高级官员：在《不扩散核武器条约》框架内，伊朗拥有进行铀浓缩活动的权利，这一权利必须得到承认。伊朗与美国将于三月初举行间接会谈，达成临时协议的可能性存在。",
+          "url": "https://flash.jin10.com/detail/20260222163516833800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "韩国外交部强烈抗议日本举行“竹岛日”活动",
+          "url": "https://news.ifeng.com/c/8qx0g6BhHN6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 18时17分]"
         },
         {
           "title": "日本岩手县确认一起高致病性禽流感疫情",
@@ -758,6 +840,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时44分 ~ 16时19分]"
+        },
+        {
+          "title": "特朗普：C罗美国需要你",
+          "url": "https://www.douyin.com/hot/2408278",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 18时17分]"
         },
         {
           "title": "如何看美国宣布终止一系列关税措施",
@@ -796,28 +889,6 @@
           "time_info": "[09时06分 ~ 12时07分]"
         },
         {
-          "title": "韩国外交部强烈抗议日本举行“竹岛日”活动",
-          "url": "https://news.ifeng.com/c/8qx0g6BhHN6",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普：C罗美国需要你",
-          "url": "https://www.douyin.com/hot/2408278",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时20分]"
-        },
-        {
           "title": "郭正亮：看到中国发展快 美国急坏了",
           "url": "https://www.toutiao.com/trending/7608749166064336939/",
           "source": "今日头条",
@@ -828,6 +899,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 01时18分]"
+        },
+        {
+          "title": "伊朗高级官员：伊朗与美国在制裁缓解的范围和机制上存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260222163309848800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗国防消息人士：特朗普在西亚的扩张是针对伊朗和阿拉伯国家的“勒索”；伊朗不会陷入漫长且徒劳的谈判进程；如果美国或以色列发动战争，伊朗的反应将是广泛且无限制的。",
+          "url": "https://flash.jin10.com/detail/20260222162245388800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "玉渊谭天：美国通过IEEPA路径对外国产品加征关税已难以为继",
+          "url": "https://flash.jin10.com/detail/20260222155643511800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
+        },
+        {
+          "title": "玉渊谭天：美国最高法裁决后，对华IEEPA关税应自动取消",
+          "url": "https://flash.jin10.com/detail/20260222155325171800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "日本岩手确认一起高致病性禽流感疫情",
@@ -853,59 +972,15 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "伊朗高级官员：伊朗与美国在制裁缓解的范围和机制上存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260222163309848800",
-          "source": "金十数据",
+          "title": "台湾男子在缅甸妙瓦底被殴打拔指甲",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%94%B7%E5%AD%90%E5%9C%A8%E7%BC%85%E7%94%B8%E5%A6%99%E7%93%A6%E5%BA%95%E8%A2%AB%E6%AE%B4%E6%89%93%E6%8B%94%E6%8C%87%E7%94%B2%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "伊朗国防消息人士：特朗普在西亚的扩张是针对伊朗和阿拉伯国家的“勒索”；伊朗不会陷入漫长且徒劳的谈判进程；如果美国或以色列发动战争，伊朗的反应将是广泛且无限制的。",
-          "url": "https://flash.jin10.com/detail/20260222162245388800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "玉渊谭天：美国对华哪些关税被停止征收？",
-          "url": "https://wallstreetcn.com/articles/3765953",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "玉渊谭天：美国通过IEEPA路径对外国产品加征关税已难以为继",
-          "url": "https://flash.jin10.com/detail/20260222155643511800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "玉渊谭天：美国最高法裁决后，对华IEEPA关税应自动取消",
-          "url": "https://flash.jin10.com/detail/20260222155325171800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时17分"
         },
         {
           "title": "日本挖到稀土,全是选举戏码",
@@ -922,7 +997,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -933,8 +1008,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时17分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -945,8 +1020,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时16分 ~ 17时20分]"
+          "appearance_count": 22,
+          "time_info": "[00时16分 ~ 18时17分]"
+        },
+        {
+          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
+          "url": "https://wallstreetcn.com/articles/3765938",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 18时17分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -963,21 +1054,6 @@
           "time_info": "[00时16分 ~ 17时20分]"
         },
         {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 17时20分]"
-        },
-        {
           "title": "Seedance2.0重写全球AI版图",
           "url": "https://www.douyin.com/hot/2407569",
           "source": "抖音",
@@ -988,11 +1064,12 @@
             14,
             16,
             22,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 17时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 18时17分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -1003,8 +1080,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时07分 ~ 17时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时07分 ~ 18时17分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -1027,8 +1104,22 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 18时17分]"
+        },
+        {
+          "title": "表面风光之下，OpenAI的“四大困境”",
+          "url": "https://wallstreetcn.com/articles/3765945",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时34分 ~ 17时20分]"
+          "time_info": "[15时30分 ~ 18时17分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -1045,8 +1136,8 @@
           "time_info": "[12时07分 ~ 15时30分]"
         },
         {
-          "title": "表面风光之下，OpenAI的“四大困境”",
-          "url": "https://wallstreetcn.com/articles/3765945",
+          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
+          "url": "https://wallstreetcn.com/articles/3765948",
           "source": "华尔街见闻",
           "ranks": [
             10,
@@ -1055,7 +1146,19 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时30分 ~ 17时20分]"
+          "time_info": "[16时19分 ~ 18时17分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时17分]"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -1069,27 +1172,15 @@
           "time_info": "[09时06分 ~ 09时07分]"
         },
         {
-          "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
-          "url": "https://wallstreetcn.com/articles/3765948",
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时20分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
