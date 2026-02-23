@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T02:47:27.252181+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-02-24T03:51:29.930607+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 51,
+      "match_count": 61,
       "titles": [
         {
           "title": "美国海关：将停止征收",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -48,30 +48,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
-          "title": "美国驻黎巴嫩首都贝鲁特大使馆周一在社交平台发文，下令撤离是“出于贝鲁特的安全局势”考虑。",
-          "url": "https://flash.jin10.com/detail/20260224020510435800",
-          "source": "金十数据",
+          "title": "白宫新闻秘书Leavitt：在墨西哥“El Mencho”行动中，美国提供了情报支持。",
+          "url": "https://wallstreetcn.com/livenews/3057625",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时47分"
+          "time_info": "03时51分"
         },
         {
-          "title": "美国能源部长Wright将向（国会山）能源与商务委员会介绍关于委内瑞拉和石油的问题。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3057612",
+          "title": "亚马逊：将在美国路易斯安那州数据中心园区投资120亿美元。 将创造540个全职岗位。 将在当地水资源基础设施投资至多4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3057624",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时47分"
+          "time_info": "03时51分"
         },
         {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
@@ -85,28 +85,6 @@
           "time_info": "00时46分"
         },
         {
-          "title": "美国驻黎巴嫩首都贝鲁特大使馆周一在社交平台发文，命令非紧急美国政府人员及其家属撤离。",
-          "url": "https://flash.jin10.com/detail/20260224020447510800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
-          "url": "https://wallstreetcn.com/livenews/3057611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
           "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
           "source": "凤凰网",
@@ -114,8 +92,114 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
+        },
+        {
+          "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
+          "url": "https://wallstreetcn.com/livenews/3057619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "墨西哥毒枭被击毙引发多起报复性暴力活动，美国参与了此次击毙行动，如何影响美墨关系？",
+          "url": "https://www.zhihu.com/question/2009141894735762758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
+        },
+        {
+          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
+          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
+        },
+        {
+          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
+          "url": "https://www.zhihu.com/question/2005108327592519351",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
+        },
+        {
+          "title": "彻底凉!日本断绝大鹅对话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
+        },
+        {
+          "title": "美国能源部长Wright将向（国会山）能源与商务委员会介绍关于委内瑞拉和石油的问题。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3057612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时51分]"
+        },
+        {
+          "title": "美国纽约州长Hochul提议，当地议会出台“先买后付”制度。",
+          "url": "https://wallstreetcn.com/livenews/3057594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时51分]"
+        },
+        {
+          "title": "美国驻黎巴嫩首都贝鲁特大使馆周一在社交平台发文，下令撤离是“出于贝鲁特的安全局势”考虑。",
+          "url": "https://flash.jin10.com/detail/20260224020510435800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时51分]"
+        },
+        {
+          "title": "美国驻黎巴嫩首都贝鲁特大使馆周一在社交平台发文，命令非紧急美国政府人员及其家属撤离。",
+          "url": "https://flash.jin10.com/detail/20260224020447510800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时51分]"
         },
         {
           "title": "摩根士丹利：美国最高法院对特朗普关税政策的判决结果不至于在短期内改变赤字路径。 特朗普政府可能会挖空心思，从其他方面重新实施关税。 这将让投资者预计短期赤字路径“不至于发生实质性变化”。",
@@ -130,61 +214,16 @@
           "time_info": "[00时46分 ~ 01时54分]"
         },
         {
-          "title": "美国纽约州长Hochul提议，当地议会出台“先买后付”制度。",
-          "url": "https://wallstreetcn.com/livenews/3057594",
+          "title": "欧洲央行行长拉加德：央行独立性至关重要。 美国总统特朗普的美联储主席提名人凯文·沃什面临的最大挑战将是做好自己在美联储的本职工作。",
+          "url": "https://wallstreetcn.com/livenews/3057611",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            16
+            3,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时47分]"
-        },
-        {
-          "title": "墨西哥毒枭被击毙引发多起报复性暴力活动，美国参与了此次击毙行动，如何影响美墨关系？",
-          "url": "https://www.zhihu.com/question/2009141894735762758",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
-        },
-        {
-          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
-          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
-        },
-        {
-          "title": "彻底凉!日本断绝大鹅对话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
-        },
-        {
-          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
-          "url": "https://www.zhihu.com/question/2005108327592519351",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "time_info": "[02时47分 ~ 03时51分]"
         },
         {
           "title": "中方驳斥美声称“中国全面助长战争”",
@@ -192,11 +231,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
           "title": "美国纽约市长Mamdani：仍然建议民众待在室内（从而防范暴风雪天气）。",
@@ -204,11 +244,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时51分]"
+        },
+        {
+          "title": "美国务院对黎巴嫩发布最高级别旅行警告",
+          "url": "https://wallstreetcn.com/livenews/3057606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时51分]"
+        },
+        {
+          "title": "中国裁军大使：美国指责中国开展核爆炸试验毫无事实依据",
+          "url": "https://wallstreetcn.com/livenews/3057610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时51分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
+          "url": "https://wallstreetcn.com/livenews/3057600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时47分]"
+          "time_info": "[02时47分 ~ 03时51分]"
         },
         {
           "title": "多国联合谴责美国驻以色列大使“不负责任”言论",
@@ -282,6 +359,18 @@
           "time_info": "[01时54分 ~ 02时47分]"
         },
         {
+          "title": "美国 2025 年实际 GDP 增速为 2.2%, 如何评价?",
+          "url": "https://www.zhihu.com/question/2008320872948204157",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时51分]"
+        },
+        {
           "title": "美国至2月23日3个月国债竞拍-投标倍数 3.3，前值2.71。",
           "url": "https://flash.jin10.com/detail/20260224003203786800",
           "source": "金十数据",
@@ -347,18 +436,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "美国务院对黎巴嫩发布最高级别旅行警告",
-          "url": "https://wallstreetcn.com/livenews/3057606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
         },
@@ -374,26 +452,48 @@
           "time_info": "00时46分"
         },
         {
-          "title": "中国裁军大使：美国指责中国开展核爆炸试验毫无事实依据",
-          "url": "https://wallstreetcn.com/livenews/3057610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
-          "url": "https://wallstreetcn.com/livenews/3057600",
-          "source": "华尔街见闻-快讯",
+          "title": "美国南方司令部：在加勒比海对一艘疑似毒品快艇发动的空袭中，三人被击毙。",
+          "url": "https://flash.jin10.com/detail/20260224025139834800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时47分"
+          "time_info": "03时51分"
+        },
+        {
+          "title": "代理美国劳工统计局局长：操纵数据的政治指控毫无根据",
+          "url": "https://flash.jin10.com/detail/20260224024517795800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "市场消息：美国国防部向国会提交了调和支出计划，将投入1510亿美元用于舰艇、导弹和战斗机。",
+          "url": "https://flash.jin10.com/detail/20260224024224532800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美国抵押贷款利率跌穿6%，逼平2022年以来最低位",
+          "url": "https://wallstreetcn.com/livenews/3057607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国2月达拉斯联储商业活动指数 0.2，预期 -0.8，前值 -1.2。",
@@ -405,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "代理美国劳工统计局局长：关于“篡改数据”的政治指控毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260224023435161800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "机构：市场对美国最高法院关税案裁决反应平淡",
@@ -451,6 +562,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "据Punchbowl：美国能源部长赖特今天就委内瑞拉及石油问题向国会小组作简报。",
+          "url": "https://flash.jin10.com/detail/20260224022741629800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.590%，投标倍数3.30。 拍卖六个月期国债，得标利率3.525%，投标倍数3.03。",
           "url": "https://wallstreetcn.com/livenews/3057577",
           "source": "华尔街见闻-快讯",
@@ -462,17 +584,6 @@
           "time_info": "01时54分"
         },
         {
-          "title": "美国 2025 年实际 GDP 增速为 2.2%, 如何评价?",
-          "url": "https://www.zhihu.com/question/2008320872948204157",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
           "title": "美国国债收益率进一步下跌；10年期美债收益率下跌4.1个基点，报4.044%。",
           "url": "https://flash.jin10.com/detail/20260223235714715800",
           "source": "金十数据",
@@ -482,6 +593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美国务院对黎巴嫩发布最高级别旅行警告",
+          "url": "https://flash.jin10.com/detail/20260224022500524800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "委内瑞拉外长在联合国人权理事会要求美国释放马杜罗",
@@ -586,7 +708,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -596,8 +718,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -609,20 +731,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
-          "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
-          "url": "https://flash.jin10.com/detail/20260224015302070800",
-          "source": "金十数据",
+          "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
+          "url": "https://wallstreetcn.com/livenews/3057622",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -632,8 +753,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -644,8 +765,32 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时51分]"
+        },
+        {
+          "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
+          "url": "https://flash.jin10.com/detail/20260224015302070800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时51分]"
+        },
+        {
+          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
+          "url": "https://www.cls.cn/detail/2292870",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时51分]"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -654,17 +799,6 @@
           "ranks": [
             12,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时47分]"
-        },
-        {
-          "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
-          "url": "https://www.cls.cn/detail/2292870",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -680,6 +814,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
+          "url": "https://flash.jin10.com/detail/20260224031211079800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
+          "url": "https://flash.jin10.com/detail/20260224030646410800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
@@ -699,7 +855,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
         }
