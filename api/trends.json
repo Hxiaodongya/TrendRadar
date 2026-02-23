@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T17:42:40.943767+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-02-23T18:40:26.877305+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 93,
+      "match_count": 102,
       "titles": [
         {
           "title": "玉渊谭天：美国对华哪些关税被停止征收？",
@@ -75,11 +75,12 @@
           "ranks": [
             3,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 18时40分]"
         },
         {
           "title": "一顿中餐掀翻秘鲁政坛，美国在背后做了什么？",
@@ -104,6 +105,21 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时17分 ~ 15时03分]"
+        },
+        {
+          "title": "美国在约旦军事基地部署大量战机，卫星图像显示超60架",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643013",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 18时40分]"
         },
         {
           "title": "玉渊谭天：如何看待美国宣布终止一系列关税措施",
@@ -175,21 +191,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时14分]"
-        },
-        {
-          "title": "美国在约旦军事基地部署大量战机，卫星图像显示超60架",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643013",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 17时42分]"
         },
         {
           "title": "日本晴空塔电梯急速下降 数人被困",
@@ -352,6 +353,18 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
           "title": "欧洲央行行长：美国关税举措可能破坏美欧贸易平衡",
           "url": "https://wallstreetcn.com/livenews/3057284",
           "source": "华尔街见闻-快讯",
@@ -454,6 +467,17 @@
           "time_info": "[00时17分 ~ 05时15分]"
         },
         {
+          "title": "市场消息：欧盟因美国总统特朗普的关税风险拟冻结对美贸易协议的批准。",
+          "url": "https://flash.jin10.com/detail/20260223182731191800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "日本将增加从澳洲进口的中重稀土品种",
           "url": "https://flash.jin10.com/detail/20260223143641863800",
           "source": "金十数据",
@@ -465,15 +489,15 @@
           "time_info": "15时03分"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "欧盟特使将于周一下午举行会议，讨论欧盟与美国之间的贸易问题。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057437",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时42分"
+          "time_info": "18时40分"
         },
         {
           "title": "美国最高法院裁定“解放日”关税违法，现货黄金和现货白银出现卖出信号。美伊局势持续紧张，美国原油多头占比达63%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -518,6 +542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美国国防部长海格塞斯将于周二上午会见Anthropic首席执行官。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3057435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "美国贸易代表格里尔：正与贸易伙伴保持积极对话，目前尚无任何伙伴表示将退出。",
@@ -693,6 +728,28 @@
           "time_info": "[02时20分 ~ 06时14分]"
         },
         {
+          "title": "美国海关：将停止征收",
+          "url": "https://news.ifeng.com/c/8qyrECE98AN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时40分]"
+        },
+        {
           "title": "美国地质勘探局：阿拉斯加尼科尔斯基地区发生6.3级地震。",
           "url": "https://flash.jin10.com/detail/20260223131929044800",
           "source": "金十数据",
@@ -798,26 +855,15 @@
           "time_info": "16时36分"
         },
         {
-          "title": "美国海关：将停止征收",
-          "url": "https://news.ifeng.com/c/8qyrECE98AN",
-          "source": "凤凰网",
+          "title": "市场消息：欧盟特使将于周一下午的会议上就欧盟与美国之间的贸易问题进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260223182101055800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
+          "time_info": "18时40分"
         },
         {
           "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
@@ -853,6 +899,17 @@
           "time_info": "15时03分"
         },
         {
+          "title": "墨西哥毒枭被击毙引发多起报复性暴力活动，美国参与了此次击毙行动，如何影响美墨关系？",
+          "url": "https://www.zhihu.com/question/2009141894735762758",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：关于第三次世界大战有不同的看法。我相信普京已经开始了这场战争。",
           "url": "https://flash.jin10.com/detail/20260223141905230800",
           "source": "金十数据",
@@ -862,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "市场消息：在美国最高法院推翻特朗普征收关税的决定后，印度正研究此举对与美国双边贸易协定的影响。",
+          "url": "https://flash.jin10.com/detail/20260223181405516800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "消息人士透露，沙特阿美公司向美国石油巨头雪佛龙、埃克森美孚和印度石油公司出售了多批来自贾夫拉的凝析油货物，装船时间为2月下旬至3月。",
@@ -908,6 +976,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
+          "url": "https://v.ifeng.com/c/8qyyvjcjmJE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "欧洲议会官员：将提议暂停批准欧盟与美国贸易协议",
           "url": "https://flash.jin10.com/detail/20260223055348516800",
           "source": "金十数据",
@@ -939,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "据AXIOS网站：美国国防部长赫格塞思将会将Anthropic CEO。",
+          "url": "https://flash.jin10.com/detail/20260223180528330800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "评论员：日本既想吃饭又想砸锅",
@@ -1002,9 +1092,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
+        },
+        {
+          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
+          "url": "https://www.zhihu.com/question/2005108327592519351",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "美国总统特朗普：我们赢得太多了，这不公平。",
@@ -1142,7 +1243,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -1164,8 +1265,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 18时40分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -1227,8 +1328,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 18时40分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -1240,8 +1341,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 17时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 18时40分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -1270,8 +1371,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时59分 ~ 17时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时59分 ~ 18时40分]"
         },
         {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
@@ -1302,11 +1403,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 18时40分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -1352,6 +1454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)表示，在临床试验中，公司的卡格列肽（Cagrisema）效果未能达到不劣于礼来的替尔泊肽（Tirzepatide）的疗效标准。",
+          "url": "https://flash.jin10.com/detail/20260223174209357800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         }
       ]
     }
