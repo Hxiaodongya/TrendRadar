@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T14:00:28.939201+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-02-23T15:03:11.387025+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 75,
+      "match_count": 81,
       "titles": [
         {
           "title": "玉渊谭天：美国对华哪些关税被停止征收？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时00分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时03分]"
         },
         {
           "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时00分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时03分]"
         },
         {
           "title": "玉渊谭天：如何看待美国宣布终止一系列关税措施",
@@ -86,11 +86,12 @@
             17,
             18,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时00分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时03分]"
         },
         {
           "title": "日本一寺庙举行裸祭上万名男性参加",
@@ -135,6 +136,18 @@
           "time_info": "[03时18分 ~ 09时07分]"
         },
         {
+          "title": "彻底凉!日本断绝大鹅对话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时03分]"
+        },
+        {
           "title": "美国贸易代表：最高法关税裁决后，美国双边贸易协议依然有效",
           "url": "https://flash.jin10.com/detail/20260222230723624800",
           "source": "金十数据",
@@ -177,6 +190,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时15分]"
+        },
+        {
+          "title": "受冬季风暴影响，美国众议院和参议院推迟投票",
+          "url": "https://news.ifeng.com/c/8qyOaSsp8B9",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 15时03分]"
         },
         {
           "title": "格陵兰岛总理对美国总统特朗普派遣医疗船前往格陵兰岛的提议说：“不了，谢谢。”",
@@ -224,18 +249,6 @@
           "time_info": "[00时17分 ~ 07时15分]"
         },
         {
-          "title": "彻底凉!日本断绝大鹅对话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时00分]"
-        },
-        {
           "title": "美国纽约市长Mamdani：预计纽约市将出现十年一遇的暴风（雪）天气。 因预计会出现严寒天气，纽约市公立学校将于周一停课。 纽约市从当地时间周日21:00至周一24:00实施出行禁令。 根据紧急状态，全面关闭道路交通。",
           "url": "https://wallstreetcn.com/livenews/3057285",
           "source": "华尔街见闻-快讯",
@@ -262,6 +275,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时14分]"
+        },
+        {
+          "title": "美国在约旦军事基地部署大量战机，卫星图像显示超60架",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32643013",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时03分]"
         },
         {
           "title": "美国贸易代表格里尔：在根据122条款实施的关税到期后，将探讨政策连续性问题。",
@@ -321,18 +347,6 @@
           "time_info": "[00时17分 ~ 06时14分]"
         },
         {
-          "title": "受冬季风暴影响，美国众议院和参议院推迟投票",
-          "url": "https://news.ifeng.com/c/8qyOaSsp8B9",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时00分]"
-        },
-        {
           "title": "欧洲央行行长：美国关税举措可能破坏美欧贸易平衡",
           "url": "https://wallstreetcn.com/livenews/3057284",
           "source": "华尔街见闻-快讯",
@@ -356,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美国供应商就浓缩铀短缺发出警告",
+          "url": "https://flash.jin10.com/detail/20260223144933715800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "德国地球科学研究中心（GFZ）：东南亚Borneo（毗邻马来西亚Sabah和Sarawak、印尼Kalimantan）发生7.1级地震。 美国地质勘探局（USGS）：马来西亚哥打贝卢（Kota Belud）北偏西北55公里处发生7.1级地震。",
@@ -424,26 +449,15 @@
           "time_info": "[00时17分 ~ 05时15分]"
         },
         {
-          "title": "台湾证交所加权股价指数收高0.5%，报33,773.26点。",
-          "url": "https://wallstreetcn.com/livenews/3057366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "美国海关停止征收被最高法院裁定为非法的关税",
-          "url": "https://flash.jin10.com/detail/20260223132929520800",
+          "title": "日本将增加从澳洲进口的中重稀土品种",
+          "url": "https://flash.jin10.com/detail/20260223143641863800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "15时03分"
         },
         {
           "title": "美国最高法院裁定“解放日”关税违法，现货黄金和现货白银出现卖出信号。美伊局势持续紧张，美国原油多头占比达63%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -468,6 +482,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "韩国财政部长：韩国与美国的贸易协议仍然“有效”。",
+          "url": "https://flash.jin10.com/detail/20260223142535860800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
           "title": "报道：新加坡将请美国澄清关税政策",
           "url": "https://wallstreetcn.com/livenews/3057317",
           "source": "华尔街见闻-快讯",
@@ -477,18 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "美国在约旦军事基地部署大量战机，卫星图像显示超60架",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32643013",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时00分]"
         },
         {
           "title": "美国贸易代表格里尔：正与贸易伙伴保持积极对话，目前尚无任何伙伴表示将退出。",
@@ -564,6 +577,18 @@
           "time_info": "[07时15分 ~ 09时07分]"
         },
         {
+          "title": "台湾证交所加权股价指数收高0.5%，报33,773.26点。",
+          "url": "https://wallstreetcn.com/livenews/3057366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时03分]"
+        },
+        {
           "title": "美国副国务卿：毒枭“El Mencho”在军事行动后，于空中转运途中因伤身亡。毒枭“El Mencho”被击毙对墨西哥、美国、拉丁美洲乃至全世界都是重大进展。",
           "url": "https://flash.jin10.com/detail/20260223043034021800",
           "source": "金十数据",
@@ -587,6 +612,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 12时13分]"
+        },
+        {
+          "title": "美国海关停止征收被最高法院裁定为非法的关税",
+          "url": "https://flash.jin10.com/detail/20260223132929520800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时03分]"
         },
         {
           "title": "受冬季风暴影响 美国数千架次航班被取消",
@@ -640,6 +677,42 @@
           "time_info": "[02时20分 ~ 06时14分]"
         },
         {
+          "title": "美国地质勘探局：阿拉斯加尼科尔斯基地区发生6.3级地震。",
+          "url": "https://flash.jin10.com/detail/20260223131929044800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时03分]"
+        },
+        {
+          "title": "美国海关与边境保护局表示，与《国际紧急经济权力法案》（IEEPA）相关的关税编码将于2月24日起在自动化商业环境（ACE）海关系统中停用。",
+          "url": "https://flash.jin10.com/detail/20260223131203499800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时03分]"
+        },
+        {
+          "title": "报道称美国可能在2月23日或2月24日对伊朗发动军事打击",
+          "url": "https://wallstreetcn.com/livenews/3057358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时03分]"
+        },
+        {
           "title": "中方就美国关税动向正式表态",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%B1%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%8A%A8%E5%90%91%E6%AD%A3%E5%BC%8F%E8%A1%A8%E6%80%81%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -649,6 +722,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "美国海关与边境保护局表示，将于美国东部时间2月24日星期二凌晨12:01（北京时间中午13:01）停止根据《国际紧急经济权力法》征收关税。",
+          "url": "https://flash.jin10.com/detail/20260223130907176800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 15时03分]"
         },
         {
           "title": "中国男篮14人出征日本 赵继伟回归",
@@ -697,15 +782,37 @@
           "time_info": "09时07分"
         },
         {
-          "title": "美国地质勘探局：阿拉斯加尼科尔斯基地区发生6.3级地震。",
-          "url": "https://flash.jin10.com/detail/20260223131929044800",
+          "title": "伊朗外长称若遭美国攻击将正当防卫",
+          "url": "https://wallstreetcn.com/livenews/3057368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：关于第三次世界大战有不同的看法。我相信普京已经开始了这场战争。",
+          "url": "https://flash.jin10.com/detail/20260223141905230800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "15时03分"
+        },
+        {
+          "title": "消息人士透露，沙特阿美公司向美国石油巨头雪佛龙、埃克森美孚和印度石油公司出售了多批来自贾夫拉的凝析油货物，装船时间为2月下旬至3月。",
+          "url": "https://flash.jin10.com/detail/20260223141728367800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
@@ -719,17 +826,6 @@
           "time_info": "09时07分"
         },
         {
-          "title": "美国海关与边境保护局表示，与《国际紧急经济权力法案》（IEEPA）相关的关税编码将于2月24日起在自动化商业环境（ACE）海关系统中停用。",
-          "url": "https://flash.jin10.com/detail/20260223131203499800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
           "title": "韩国首尔综指高开1.6%。 日本股市因假期休市。",
           "url": "https://wallstreetcn.com/livenews/3057312",
           "source": "华尔街见闻-快讯",
@@ -739,17 +835,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "报道称美国可能在2月23日或2月24日对伊朗发动军事打击",
-          "url": "https://wallstreetcn.com/livenews/3057358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
         },
         {
           "title": "欧洲议会官员：将提议暂停批准欧盟与美国贸易协议",
@@ -772,17 +857,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "美国海关与边境保护局表示，将于美国东部时间2月24日星期二凌晨12:01（北京时间中午13:01）停止根据《国际紧急经济权力法》征收关税。",
-          "url": "https://flash.jin10.com/detail/20260223130907176800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时00分"
         },
         {
           "title": "评论员：日本既想吃饭又想砸锅",
@@ -824,7 +898,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -890,7 +964,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -931,7 +1005,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -953,8 +1027,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时00分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时03分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -1003,8 +1077,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时00分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时03分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -1016,8 +1090,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 14时00分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时03分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -1045,8 +1119,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时00分]"
+          "appearance_count": 7,
+          "time_info": "[09时07分 ~ 15时03分]"
         },
         {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
@@ -1064,11 +1138,23 @@
           "url": "https://wallstreetcn.com/articles/3765976",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 15时03分]"
+        },
+        {
+          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
+          "url": "https://www.zhihu.com/question/2008217541886043272",
+          "source": "知乎",
+          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
+          "time_info": "[15时02分 ~ 15时03分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -1081,6 +1167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 14时00分]"
+        },
+        {
+          "title": "AI骗局三件套涌入老年机",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%AA%97%E5%B1%80%E4%B8%89%E4%BB%B6%E5%A5%97%E6%B6%8C%E5%85%A5%E8%80%81%E5%B9%B4%E6%9C%BA%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时03分]"
         },
         {
           "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
@@ -1100,7 +1197,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         }
