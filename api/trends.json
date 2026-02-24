@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-25T06:22:33.276065+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-02-25T07:21:57.536319+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 89,
+      "match_count": 92,
       "titles": [
-        {
-          "title": "媒体：日本等来当头一棒",
-          "url": "https://www.toutiao.com/trending/7610063513918160932/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
-        },
         {
           "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
           "url": "https://news.ifeng.com/c/8r0kW5XfaOK",
@@ -26,8 +15,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
+        },
+        {
+          "title": "媒体：日本等来当头一棒",
+          "url": "https://www.toutiao.com/trending/7610063513918160932/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
+        },
+        {
+          "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "中国将与美国进行军控会谈？外交部回应",
@@ -37,20 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
-        },
-        {
-          "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "被中国列入管控清单的20家日本实体，什么来头？",
@@ -69,11 +71,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "商务部将三菱造船株式会社等 20 家日本实体列入出口管制管控名单，哪些信息值得关注？",
@@ -82,11 +85,12 @@
           "ranks": [
             3,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "日本将在距台湾岛110公里处部署导弹",
@@ -98,19 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
-        },
-        {
-          "title": "首次展示！泽连斯基：战争初期，数百人在这里待过(图)",
-          "url": "https://news.ifeng.com/c/8r0aEH6IxnJ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "美国教材为何这么贵",
@@ -122,11 +115,23 @@
             12,
             21,
             6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
+        },
+        {
+          "title": "首次展示！泽连斯基：战争初期，数百人在这里待过(图)",
+          "url": "https://news.ifeng.com/c/8r0aEH6IxnJ",
+          "source": "凤凰网",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "美国35岁“坚强寡妇”，被控毒杀亲夫",
@@ -136,8 +141,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "美国、加拿大、英国、法国、俄罗斯，发布“安全警告”",
@@ -147,8 +152,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -158,8 +163,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "彻底凉!日本断绝大鹅对话",
@@ -169,8 +174,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "市场消息：知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加当地时间下午3点向“八人小组”进行的伊朗问题简报会。",
@@ -206,15 +211,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "美国至2月20日当周API投产原油量 -43.8万桶/日，前值13.4万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260225053406158800",
-          "source": "金十数据",
+          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
+          "url": "https://wallstreetcn.com/livenews/3058387",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
           "title": "美国至2月24日2年期国债竞拍-得标利率 3.455%，前值3.58%。",
@@ -226,17 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "美国至2月20日当周API成品油进口 8.4万桶/日，前值-1.8万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260225053400216800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
@@ -259,17 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "美国至2月20日当周API原油进口 48.6万桶，前值-37.2万桶。",
-          "url": "https://flash.jin10.com/detail/20260225053355499800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "美国两年期国债标售得标利率创2022年以来新低",
@@ -357,6 +340,18 @@
           "time_info": "[00时54分 ~ 02时19分]"
         },
         {
+          "title": "美国至2月20日当周API投产原油量 -43.8万桶/日，前值13.4万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260225053406158800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "美国商务部初步裁定对印度、印尼及老挝太阳能电池板征收反补贴税。",
           "url": "https://flash.jin10.com/detail/20260225013359766800",
           "source": "金十数据",
@@ -367,6 +362,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 02时45分]"
+        },
+        {
+          "title": "美国至2月20日当周API成品油进口 8.4万桶/日，前值-1.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260225053400216800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
@@ -393,6 +400,30 @@
           "time_info": "[00时54分 ~ 02时19分]"
         },
         {
+          "title": "美国至2月20日当周API原油进口 48.6万桶，前值-37.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260225053355499800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "对20家日本实体实施出口管制",
+          "url": "https://www.douyin.com/hot/2409980",
+          "source": "抖音",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 07时21分]"
+        },
+        {
           "title": "美国两名警察遭枪击身亡 嫌犯被击毙",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%90%8D%E8%AD%A6%E5%AF%9F%E9%81%AD%E6%9E%AA%E5%87%BB%E8%BA%AB%E4%BA%A1+%E5%AB%8C%E7%8A%AF%E8%A2%AB%E5%87%BB%E6%AF%99",
           "source": "百度热搜",
@@ -416,6 +447,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 02时19分]"
+        },
+        {
+          "title": "美国至2月20日当周API取暖油库存 -7.1万桶，前值31.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260225053350238800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
@@ -490,6 +533,18 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "美国至2月20日当周API库欣原油库存 179.2万桶，前值-136.7万桶。",
+          "url": "https://flash.jin10.com/detail/20260225053342696800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
           "url": "https://wallstreetcn.com/livenews/3058275",
           "source": "华尔街见闻-快讯",
@@ -514,6 +569,17 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
+          "url": "https://wallstreetcn.com/articles/3766022",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 07时21分]"
+        },
+        {
           "title": "美国至2月24日6周国债竞拍-得标利率 3.635%，前值3.64%。",
           "url": "https://flash.jin10.com/detail/20260225003242717800",
           "source": "金十数据",
@@ -524,6 +590,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 02时19分]"
+        },
+        {
+          "title": "美国至2月20日当周API精炼油库存 -277.1万桶，预期-190万桶，前值-156.7万桶。",
+          "url": "https://flash.jin10.com/detail/20260225053332180800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "美国至2月24日6周国债竞拍-投标倍数 2.82，前值2.75。",
@@ -538,24 +616,48 @@
           "time_info": "[00时54分 ~ 02时19分]"
         },
         {
+          "title": "美国至2月20日当周API汽油库存 -153.5万桶，预期-59.1万桶，前值-31.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260225053325726800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "美国至2月20日当周API原油库存 1142.7万桶，预期125万桶，前值-60.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260225053311247800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存激增超1100万桶",
+          "url": "https://wallstreetcn.com/livenews/3058358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
           "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
           "url": "https://flash.jin10.com/detail/20260225045144248800",
           "source": "金十数据",
           "ranks": [
             12,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "对20家日本实体实施出口管制",
-          "url": "https://www.douyin.com/hot/2409980",
-          "source": "抖音",
-          "ranks": [
-            15,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -680,26 +782,15 @@
           "time_info": "02时45分"
         },
         {
-          "title": "美国至2月20日当周API取暖油库存 -7.1万桶，前值31.6万桶。",
-          "url": "https://flash.jin10.com/detail/20260225053350238800",
+          "title": "Lucid Group(LCID.O)：美国近期的裁员预计将在未来三年内带来高达5亿美元的成本节约。",
+          "url": "https://flash.jin10.com/detail/20260225065034233800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国至2月20日当周API库欣原油库存 179.2万桶，前值-136.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260225053342696800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
           "title": "古巴外长谴责美国对古能源围困",
@@ -713,28 +804,6 @@
           "time_info": "02时45分"
         },
         {
-          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
-          "url": "https://wallstreetcn.com/articles/3766022",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "美国至2月20日当周API精炼油库存 -277.1万桶，预期-190万桶，前值-156.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260225053332180800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "伊朗外交部长：德黑兰将在日内瓦恢复与美国会谈，旨在尽快达成一项公平公正的协议。",
           "url": "https://flash.jin10.com/detail/20260225015805598800",
           "source": "金十数据",
@@ -744,17 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "美国至2月20日当周API汽油库存 -153.5万桶，预期-59.1万桶，前值-31.2万桶。",
-          "url": "https://flash.jin10.com/detail/20260225053325726800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "世贸组织：专家组将审查印度对电池和电动汽车的措施。 美国对税收抵免报告提出上诉。",
@@ -768,35 +826,13 @@
           "time_info": "00时54分"
         },
         {
-          "title": "美国至2月20日当周API原油库存 1142.7万桶，预期125万桶，前值-60.9万桶。",
-          "url": "https://flash.jin10.com/detail/20260225053311247800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存激增超1100万桶",
-          "url": "https://wallstreetcn.com/livenews/3058358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3058357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -840,7 +876,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -851,7 +887,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -865,6 +901,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "数据显示：CME美国国债期货未平仓合约数量激增至3630万手的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260225061905324800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
@@ -884,7 +931,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -906,7 +953,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -1035,25 +1082,26 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
+        },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -1079,11 +1127,12 @@
             10,
             3,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -1094,11 +1143,25 @@
             10,
             9,
             11,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时45分 ~ 07时21分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -1108,23 +1171,12 @@
             9,
             8,
             16,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 06时22分]"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时45分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -1132,11 +1184,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时18分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时18分 ~ 07时21分]"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -1150,26 +1203,38 @@
           "time_info": "02时45分"
         },
         {
+          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
+          "url": "https://wallstreetcn.com/livenews/3058389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，AMD大涨近9%，金银回调",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
           "url": "https://wallstreetcn.com/livenews/3058369",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
-          "url": "https://wallstreetcn.com/livenews/3058364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
@@ -1184,6 +1249,30 @@
           "time_info": "[02时19分 ~ 02时45分]"
         },
         {
+          "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
+          "url": "https://wallstreetcn.com/livenews/3058364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "西安一市民除夕夜被AI给骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时21分]"
+        },
+        {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
           "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
@@ -1196,16 +1285,16 @@
           "time_info": "[00时54分 ~ 02时19分]"
         },
         {
-          "title": "西安一市民除夕夜被AI给骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
+          "url": "https://wallstreetcn.com/livenews/3058363",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            14
+            6,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时22分]"
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -1230,6 +1319,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 02时45分]"
+        },
+        {
+          "title": "Mosaic预计2026年资本开支大约15亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3058359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 07时21分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报383.67点。 在十个板块中，北欧工业板块涨幅最大。 博利登Boliden AB涨4.1%，在一众北欧个股里领跑。",
@@ -1268,26 +1369,37 @@
           "time_info": "[02时19分 ~ 02时45分]"
         },
         {
-          "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
-          "url": "https://wallstreetcn.com/livenews/3058363",
+          "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
+          "url": "https://wallstreetcn.com/livenews/3058382",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
         },
         {
-          "title": "Mosaic预计2026年资本开支大约15亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3058359",
+          "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
+          "url": "https://wallstreetcn.com/livenews/3058376",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "美联储理事库克：AI已经被纳入美联储的预测。",
