@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T13:53:02.450248+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-02-24T14:46:30.575523+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 137,
+      "match_count": 147,
       "titles": [
         {
           "title": "美国海关：将停止征收",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 13时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 14时46分]"
         },
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -64,8 +64,65 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 13时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 14时46分]"
+        },
+        {
+          "title": "商务部：将20家日本实体列入出口管制管控名单",
+          "url": "https://news.ifeng.com/c/8r05GfWUSml",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "商务部将三菱造船株式会社等 20 家日本实体列入出口管制管控名单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2009569467659745146",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "中方对20家日本实体实施出口管制",
+          "url": "https://www.toutiao.com/trending/7610246623687347753/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "20家日本实体被列入出口管控",
+          "url": "https://search.bilibili.com/all?keyword=20%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E8%A2%AB%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "对20家日本实体实施出口管制",
+          "url": "https://www.douyin.com/hot/2409980",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
         },
         {
           "title": "墨西哥毒枭被击毙引发多起报复性暴力活动，美国参与了此次击毙行动，如何影响美墨关系？",
@@ -80,49 +137,17 @@
           "time_info": "[00时45分 ~ 07时27分]"
         },
         {
-          "title": "20家日本实体被列入出口管控",
-          "url": "https://search.bilibili.com/all?keyword=20%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E8%A2%AB%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E6%8E%A7",
-          "source": "bilibili 热搜",
+          "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32646111",
+          "source": "澎湃新闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
-          "title": "商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://news.ifeng.com/c/8r05GfWUSml",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
-          "title": "商务部将三菱造船株式会社等 20 家日本实体列入出口管制管控名单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2009569467659745146",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
-          "title": "中方对20家日本实体实施出口管制",
-          "url": "https://www.toutiao.com/trending/7610246623687347753/",
-          "source": "今日头条",
-          "ranks": [
-            1,
+            7,
+            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时46分]"
         },
         {
           "title": "日本万人参加裸祭仪式，3人重伤昏迷(图)",
@@ -160,30 +185,6 @@
           "time_info": "[00时45分 ~ 05时34分]"
         },
         {
-          "title": "对20家日本实体实施出口管制",
-          "url": "https://www.douyin.com/hot/2409980",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
-          "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32646111",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 13时53分]"
-        },
-        {
           "title": "中国裁军大使：美国指责中方开展核爆炸试验毫无事实依据",
           "url": "https://news.ifeng.com/c/8qzp41Gxxgx",
           "source": "凤凰网",
@@ -194,6 +195,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 09时05分]"
+        },
+        {
+          "title": "商务部：将20家日本实体列入出口管制管控名单",
+          "url": "https://www.cls.cn/detail/2293229",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
@@ -244,6 +257,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "日经225指数收跌0.9%，报57321.09点。 日本东证指数收涨0.2%，报3815.98点。 韩国首尔综指收涨2.1%，报5969.64点。",
+          "url": "https://wallstreetcn.com/livenews/3057919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
           "url": "https://flash.jin10.com/detail/20260224002048880800",
           "source": "金十数据",
@@ -266,24 +290,13 @@
           "time_info": "09时05分"
         },
         {
-          "title": "台湾证交所加权股价指数收高2.7%，报34700.82点。",
-          "url": "https://wallstreetcn.com/livenews/3057891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
           "title": "日本计划加强对外国投资的审查，效仿美国，成立一个新的机构来加强经济安全。新机构将以美国外国投资委员会（CFIB）为蓝本。",
           "url": "https://flash.jin10.com/detail/20260224130448758800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -299,16 +312,17 @@
           "time_info": "05时34分"
         },
         {
-          "title": "商务部：将20家日本实体列入出口管制管控名单",
-          "url": "https://www.cls.cn/detail/2293229",
-          "source": "财联社热门",
+          "title": "中方将20家日本实体列入管控名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            5
+            5,
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -331,18 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        },
-        {
-          "title": "中方将20家日本实体列入管控名单",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
         },
         {
           "title": "美国能源部长Wright将向（国会山）能源与商务委员会介绍关于委内瑞拉和石油的问题。（PunchBowl）",
@@ -418,6 +420,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时54分 ~ 03时51分]"
+        },
+        {
+          "title": "美国海关：将从2月24日起停止征收被最高法院裁定违法的关税",
+          "url": "https://wallstreetcn.com/articles/3765989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
         },
         {
           "title": "美国驻黎巴嫩首都贝鲁特大使馆周一在社交平台发文，下令撤离是“出于贝鲁特的安全局势”考虑。",
@@ -528,6 +542,18 @@
           "time_info": "[00时46分 ~ 01时54分]"
         },
         {
+          "title": "台湾证交所加权股价指数收高2.7%，报34700.82点。",
+          "url": "https://wallstreetcn.com/livenews/3057891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 14时46分]"
+        },
+        {
           "title": "联邦快递(FDX.N)起诉美国政府，要求全额退还紧急关税费用。",
           "url": "https://flash.jin10.com/detail/20260224070130504800",
           "source": "金十数据",
@@ -552,6 +578,42 @@
           "time_info": "[04时33分 ~ 05时34分]"
         },
         {
+          "title": "墨防长：缴获毒枭武器80%来自美国",
+          "url": "https://www.toutiao.com/trending/7609236585661533759/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "美联储“大鸽派”沃勒感叹：美国经济，看不懂！",
+          "url": "https://www.cls.cn/detail/2293037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "日本",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
           "title": "美国 2025 年实际 GDP 增速为 2.2%, 如何评价?",
           "url": "https://www.zhihu.com/question/2008320872948204157",
           "source": "知乎",
@@ -566,15 +628,28 @@
           "time_info": "[02时47分 ~ 05时34分]"
         },
         {
-          "title": "美国海关：将从2月24日起停止征收被最高法院裁定违法的关税",
-          "url": "https://wallstreetcn.com/articles/3765989",
-          "source": "华尔街见闻",
+          "title": "商务部将20家日本实体列入关注名单",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%85%B3%E6%B3%A8%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
+          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "time_info": "[13时52分 ~ 14时46分]"
         },
         {
           "title": "美国纽约市长Mamdani：仍然建议民众待在室内（从而防范暴风雪天气）。",
@@ -603,28 +678,6 @@
           "time_info": "[02时47分 ~ 04时33分]"
         },
         {
-          "title": "墨防长：缴获毒枭武器80%来自美国",
-          "url": "https://www.toutiao.com/trending/7609236585661533759/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
-          "title": "美联储“大鸽派”沃勒感叹：美国经济，看不懂！",
-          "url": "https://www.cls.cn/detail/2293037",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
           "title": "中国裁军大使：美国指责中国开展核爆炸试验毫无事实依据",
           "url": "https://wallstreetcn.com/livenews/3057610",
           "source": "华尔街见闻-快讯",
@@ -636,18 +689,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 04时33分]"
-        },
-        {
-          "title": "日本",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
         },
         {
           "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
@@ -672,29 +713,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 05时34分]"
-        },
-        {
-          "title": "商务部将20家日本实体列入关注名单",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%85%B3%E6%B3%A8%E5%90%8D%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
-          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
-          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
         },
         {
           "title": "美国众议院议长约翰逊：这种情况“史无前例”，没有先例可循。",
@@ -731,6 +749,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 09时05分]"
+        },
+        {
+          "title": "美国教材为何这么贵",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%95%99%E6%9D%90%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 14时46分]"
         },
         {
           "title": "台湾宜兰县发生4.7级地震",
@@ -941,17 +971,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "美国教材为何这么贵",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%95%99%E6%9D%90%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
           "title": "美国众议院议长约翰逊：认为在立法层面就关税问题找到任何前进方向的共识都将是一个挑战。",
           "url": "https://flash.jin10.com/detail/20260224035803679800",
           "source": "金十数据",
@@ -994,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "总部位于香港的加密支付金融科技公司RedotPay据悉考虑赴美进行10亿美元的IPO。消息人士称RedotPay可能最早今年在美国上市，可能在IPO中寻求超过40亿美元的估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "美国众议院议长约翰逊：认为通过立法来实施新关税的意愿不强。",
@@ -1062,6 +1092,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "美国经济背景因素使得美联储有可能在鲍威尔任期结束前一直维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260224141427696800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "代理美国劳工统计局局长：操纵数据的政治指控毫无根据",
           "url": "https://flash.jin10.com/detail/20260224024517795800",
           "source": "金十数据",
@@ -1090,7 +1131,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1112,7 +1153,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1304,6 +1345,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "关税与汇市双重压力下，日本财务大臣片山皋月重申与美方紧密协作",
+          "url": "https://wallstreetcn.com/livenews/3057897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "惠誉：最高法院裁决后，美国长期贸易体制处于变动之中。",
           "url": "https://flash.jin10.com/detail/20260224033527413800",
           "source": "金十数据",
@@ -1321,7 +1373,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1359,6 +1411,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "研究：美国散户推动杠杆ETF交易量激增",
+          "url": "https://flash.jin10.com/detail/20260224134537260800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.590%，投标倍数3.30。 拍卖六个月期国债，得标利率3.525%，投标倍数3.03。",
           "url": "https://wallstreetcn.com/livenews/3057577",
           "source": "华尔街见闻-快讯",
@@ -1370,6 +1433,28 @@
           "time_info": "01时54分"
         },
         {
+          "title": "日本首相高市早苗：将继续监测外汇及债券收益率走势。 芯片是投资的关键战略领域。",
+          "url": "https://wallstreetcn.com/livenews/3057894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "商务部：制止日本“再军事化”企图",
+          "url": "https://www.toutiao.com/trending/7609941973219033139/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "美国国债收益率进一步下跌；10年期美债收益率下跌4.1个基点，报4.044%。",
           "url": "https://flash.jin10.com/detail/20260223235714715800",
           "source": "金十数据",
@@ -1379,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "服从关税终裁 美国政府24日起停止征收违法关税",
@@ -1412,6 +1508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "解放军用实力说话 2026不容台海生乱",
+          "url": "https://www.toutiao.com/trending/7609189242585137215/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "台湾加权指数上涨2.7%，刷新历史新高至34,671.38点。",
@@ -1557,6 +1664,17 @@
           "time_info": "09时05分"
         },
         {
+          "title": "超1000家企业起诉美国政府",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%851000%E5%AE%B6%E4%BC%81%E4%B8%9A%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "美国12月扣除飞机非国防资本耐用品订单环比终值 0.8%，预期 0.6%，初值 0.6%。",
           "url": "https://wallstreetcn.com/livenews/3057539",
           "source": "华尔街见闻-快讯",
@@ -1582,7 +1700,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -1647,8 +1765,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时46分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1658,8 +1776,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -1671,8 +1789,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时34分 ~ 13时53分]"
+          "appearance_count": 7,
+          "time_info": "[05时34分 ~ 14时46分]"
+        },
+        {
+          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
+          "url": "https://wallstreetcn.com/articles/3766006",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时05分 ~ 14时46分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -1687,18 +1817,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时54分 ~ 09时05分]"
-        },
-        {
-          "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
-          "url": "https://wallstreetcn.com/articles/3766006",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时05分 ~ 13时53分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -1743,6 +1861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "Citrini报告作者：文章引发的AI恐慌超预期",
+          "url": "https://wallstreetcn.com/livenews/3057915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -1794,24 +1923,37 @@
           "time_info": "[04时33分 ~ 05时34分]"
         },
         {
+          "title": "Hirai为何当选韩国亚运会LOL队教练",
+          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 14时46分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时46分]"
+        },
+        {
           "title": "外资们也在频繁提AI，如何看2026年行情？",
           "url": "https://www.cls.cn/detail/2292944",
           "source": "财联社热门",
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时53分]"
-        },
-        {
-          "title": "Hirai为何当选韩国亚运会LOL队教练",
-          "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1842,17 +1984,6 @@
           "time_info": "[03时51分 ~ 04时33分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
           "url": "https://wallstreetcn.com/livenews/3057583",
           "source": "华尔街见闻-快讯",
@@ -1876,6 +2007,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -1885,6 +2027,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "贸易战画风突变，一个AI向我道歉，一个还在嘴硬",
