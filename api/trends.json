@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:21:57.536319+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-02-25T09:28:32.240515+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 92,
+      "match_count": 101,
       "titles": [
         {
           "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
@@ -15,20 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
         },
         {
-          "title": "媒体：日本等来当头一棒",
-          "url": "https://www.toutiao.com/trending/7610063513918160932/",
-          "source": "今日头条",
+          "title": "中国将与美国进行军控会谈？外交部回应",
+          "url": "https://news.ifeng.com/c/8r0VIgXcpnx",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
         },
         {
           "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
@@ -40,19 +40,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
         },
         {
-          "title": "中国将与美国进行军控会谈？外交部回应",
-          "url": "https://news.ifeng.com/c/8r0VIgXcpnx",
-          "source": "凤凰网",
+          "title": "媒体：日本等来当头一棒",
+          "url": "https://www.toutiao.com/trending/7610063513918160932/",
+          "source": "今日头条",
           "ranks": [
-            4
+            1,
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
         },
         {
           "title": "被中国列入管控清单的20家日本实体，什么来头？",
@@ -93,19 +95,6 @@
           "time_info": "[00时54分 ~ 07时21分]"
         },
         {
-          "title": "日本将在距台湾岛110公里处部署导弹",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%9C%A8%E8%B7%9D%E5%8F%B0%E6%B9%BE%E5%B2%9B110%E5%85%AC%E9%87%8C%E5%A4%84%E9%83%A8%E7%BD%B2%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
-        },
-        {
           "title": "美国教材为何这么贵",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%95%99%E6%9D%90%E4%B8%BA%E4%BD%95%E8%BF%99%E4%B9%88%E8%B4%B5",
           "source": "bilibili 热搜",
@@ -116,6 +105,42 @@
             21,
             6,
             9,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
+        },
+        {
+          "title": "WW3预热,美国对伊朗动手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
+        },
+        {
+          "title": "彻底凉!日本断绝大鹅对话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
+        },
+        {
+          "title": "日本将在距台湾岛110公里处部署导弹",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%86%E5%9C%A8%E8%B7%9D%E5%8F%B0%E6%B9%BE%E5%B2%9B110%E5%85%AC%E9%87%8C%E5%A4%84%E9%83%A8%E7%BD%B2%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            6,
             7
           ],
           "is_new": false,
@@ -150,28 +175,6 @@
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
-        },
-        {
-          "title": "WW3预热,美国对伊朗动手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350882&amp;topic_name=WW3%E9%A2%84%E7%83%AD%2C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
-        },
-        {
-          "title": "彻底凉!日本断绝大鹅对话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350868&amp;topic_name=%E5%BD%BB%E5%BA%95%E5%87%89%21%E6%97%A5%E6%9C%AC%E6%96%AD%E7%BB%9D%E5%A4%A7%E9%B9%85%E5%AF%B9%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -217,7 +220,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -253,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌0.5个基点，至2.095%。",
+          "url": "https://flash.jin10.com/detail/20260225091844139800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国两年期国债标售得标利率创2022年以来新低",
@@ -412,6 +426,17 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
+          "url": "https://wallstreetcn.com/articles/3766022",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 09时28分]"
+        },
+        {
           "title": "对20家日本实体实施出口管制",
           "url": "https://www.douyin.com/hot/2409980",
           "source": "抖音",
@@ -567,17 +592,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "美国考虑对约六个行业加征新一轮关税，可能涵盖大型电池等",
-          "url": "https://wallstreetcn.com/articles/3766022",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 07时21分]"
         },
         {
           "title": "美国至2月24日6周国债竞拍-得标利率 3.635%，前值3.64%。",
@@ -788,9 +802,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "台湾证交所加权股价指数盘初上涨1.1%，报35091.24点。",
+          "url": "https://wallstreetcn.com/livenews/3058422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "商务部宣布将 20 家日本实体列入出口管制管控名单，涉及哪些领域？将给日本带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2009569700791752615",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "古巴外长谴责美国对古能源围困",
@@ -824,6 +860,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "日本40年期国债收益率上行5个基点至3.565%。",
+          "url": "https://wallstreetcn.com/livenews/3058421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
@@ -909,7 +956,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -958,6 +1005,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "日本40年期国债收益率上升5个基点，至3.565%。",
+          "url": "https://flash.jin10.com/detail/20260225090105700800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国精神航空：公司与其有担保债权人就重组支持协议的关键条款达成原则性协议。预计于春末或夏初退出破产保护。预计公司债务及租赁负债将由申请破产前的74亿美元降至重整后约21亿美元。",
           "url": "https://flash.jin10.com/detail/20260225004840149800",
           "source": "金十数据",
@@ -980,6 +1038,28 @@
           "time_info": "00时54分"
         },
         {
+          "title": "为什么美国花滑主力基本上都是华裔，但中国花滑男女单的成绩却很一般？",
+          "url": "https://www.zhihu.com/question/521184511",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "台湾知名餐厅69岁女员工离奇陈尸冰柜",
+          "url": "https://www.toutiao.com/trending/7610428345077039140/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "尽管美国国防部表示担忧，但议员和2025年空中相撞事故遇难者家属仍敦促美国众议院通过航空安全改革法案。",
           "url": "https://flash.jin10.com/detail/20260225000541074800",
           "source": "金十数据",
@@ -989,6 +1069,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "日本五年期国债收益率下跌2.5个基点，至1.57%；两年期国债收益率下跌2.5个基点，至1.215%。",
+          "url": "https://flash.jin10.com/detail/20260225083224186800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "Alphabet旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至另外四座美国城市。",
@@ -1033,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "日本1月企业服务价格指数同比 2.6%，预期 2.6%，前值 2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3058402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国对俄罗斯与阿联酋的个人和实体实施制裁",
@@ -1082,7 +1184,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1119,6 +1221,51 @@
           "time_info": "[00时54分 ~ 06时22分]"
         },
         {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            12,
+            10,
+            9,
+            11,
+            5,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 09时28分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时45分 ~ 09时28分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 09时28分]"
+        },
+        {
           "title": "李佳薇JKAI声乐大师课",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
           "source": "bilibili 热搜",
@@ -1133,35 +1280,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时21分]"
-        },
-        {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
-            9,
-            11,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时21分]"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时45分 ~ 07时21分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -1179,17 +1297,26 @@
           "time_info": "[00时54分 ~ 07时21分]"
         },
         {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时18分 ~ 07时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -1203,13 +1330,24 @@
           "time_info": "02时45分"
         },
         {
+          "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
+          "url": "https://flash.jin10.com/detail/20260225092013520800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
           "url": "https://wallstreetcn.com/livenews/3058389",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -1220,7 +1358,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -1369,15 +1507,48 @@
           "time_info": "[02时19分 ~ 02时45分]"
         },
         {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
           "url": "https://wallstreetcn.com/livenews/3058382",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -1386,9 +1557,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
+          "url": "https://wallstreetcn.com/livenews/3058417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
@@ -1397,7 +1579,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
