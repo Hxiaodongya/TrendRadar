@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T05:29:27.688279+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-02-26T06:22:08.920908+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 68,
+      "match_count": 77,
       "titles": [
         {
           "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "第1现场｜暴雪肆虐美国，7个州进入紧急状态，纽约成“孤城”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "中国男篮公布客战日本12人名单",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "福建喊话回归台湾回复收到",
@@ -50,8 +50,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "福建喊话回归 台海巡船只回复收到",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "福建喊话回归台湾回复收到",
@@ -77,8 +77,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "美国页岩油增长放缓，压裂服务商转向海外市场",
@@ -100,9 +100,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：若春季薪资谈判结果强于预期，且生产企业迅速转嫁成本，我们有望提前实现物价目标。",
+          "url": "https://flash.jin10.com/detail/20260226055746498800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -140,6 +151,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "日本央行行长植田和男：我们不认为在应对通胀过高的风险方面落后于形势。",
+          "url": "https://flash.jin10.com/detail/20260226055636334800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国众议院一个委员会计划未来数周围绕住房立法草案采取行动。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3059036",
           "source": "华尔街见闻-快讯",
@@ -149,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "日本央行行长植田和男：与1月份相比，我们对达成物价目标的时间预期未作更改，预计通胀将从当前的放缓态势中重新加速。",
+          "url": "https://flash.jin10.com/detail/20260226055624830800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美高度关注人工智能的发展。人工智能将迅速改变按揭贷款市场。我们的重点将放在确保市场保持安全与稳健。",
@@ -168,20 +201,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
         {
-          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
-          "url": "https://wallstreetcn.com/livenews/3059059",
-          "source": "华尔街见闻-快讯",
+          "title": "日本央行行长植田和男：核心通胀率尚未完全达到2%，将引导政策使核心通胀率达到约2%，同时避免其持续高于2%。",
+          "url": "https://flash.jin10.com/detail/20260226055434462800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们的基本立场是，如果经济和物价预测实现的客观可能性有所提高，我们将继续加息。",
+          "url": "https://flash.jin10.com/detail/20260226055324713800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时22分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）：Globex金属、天然气期货与期权市场暂停交易，我们正调查技术故障。",
@@ -270,6 +314,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时29分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
+          "url": "https://wallstreetcn.com/livenews/3059059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "美国从委内瑞拉获得超8000万桶石油",
+          "url": "https://www.toutiao.com/trending/7609896090338918427/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 06时22分]"
         },
         {
           "title": "古巴称向一艘违规的美国快艇开火 致4死",
@@ -374,18 +443,6 @@
           "time_info": "[04时24分 ~ 05时29分]"
         },
         {
-          "title": "美国从委内瑞拉获得超8000万桶石油",
-          "url": "https://www.toutiao.com/trending/7609896090338918427/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 04时24分]"
-        },
-        {
           "title": "美国白宫将召集Meta等科技公司开会，讨论电力成本问题。 Anthropic、微软将于3月份前往白宫。（路透）",
           "url": "https://wallstreetcn.com/livenews/3058999",
           "source": "华尔街见闻-快讯",
@@ -408,6 +465,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时24分]"
+        },
+        {
+          "title": "美国芝加哥联储商业交易所（CME）集团收跌3.7%，创5月份以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3059054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
         },
         {
           "title": "美国商务部将于3月10日举办美国机器人制造活动。（Semafor）",
@@ -481,6 +550,28 @@
           "time_info": "[03时44分 ~ 05时29分]"
         },
         {
+          "title": "美国副总统万斯：暂停向明尼苏达州提供部分医疗补助资金。",
+          "url": "https://flash.jin10.com/detail/20260226055011597800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：任何根据新许可计划出货的H200芯片在进口到美国时都将被征收25%的关税。",
+          "url": "https://flash.jin10.com/detail/20260226054945195800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国总检察长联盟：奈飞与华纳兄弟合并可能“带来灾难性后果”。",
           "url": "https://flash.jin10.com/detail/20260226001027405800",
           "source": "金十数据",
@@ -492,15 +583,15 @@
           "time_info": "00时58分"
         },
         {
-          "title": "美国芝加哥联储商业交易所（CME）集团收跌3.7%，创5月份以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3059054",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务院：所有针对美国政府驻墨西哥人员的限制措施均已解除。美国驻墨西哥大使馆及所有领事馆均正常运作。",
+          "url": "https://flash.jin10.com/detail/20260226054658172800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时22分"
         },
         {
           "title": "美国参议院民主党人坎特威尔敦促美国众议院就航空安全法案再次进行表决。",
@@ -798,12 +889,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "日本央行行长植田和男：将评估12月及此前加息所带来的影响。",
+          "url": "https://flash.jin10.com/detail/20260226050644392800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -813,8 +915,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -826,8 +928,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -837,8 +939,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -849,8 +951,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
           "title": "AI短片 马上好",
@@ -860,33 +962,23 @@
             13,
             9,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 06时22分]"
         },
         {
-          "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3059064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "三星Galaxy S26系列发布：AI三引擎融合+隐私屏首发，两款机型涨价100美元",
-          "url": "https://wallstreetcn.com/livenews/3059063",
+          "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
+          "url": "https://wallstreetcn.com/livenews/3059072",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时22分"
         },
         {
           "title": "Thrive Capital以2850亿美元估值投资OpenAI",
@@ -898,6 +990,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "三星Galaxy S26系列发布：AI三引擎融合+隐私屏首发，两款机型涨价100美元",
+          "url": "https://wallstreetcn.com/livenews/3059063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
         },
         {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
@@ -924,6 +1040,17 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
+          "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
+          "url": "https://www.zhihu.com/question/1916645420085514580",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3059000",
           "source": "华尔街见闻-快讯",
@@ -934,6 +1061,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时51分]"
+        },
+        {
+          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3059057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时22分]"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -947,6 +1086,17 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：客户竞相投资AI计算。 计算需求迅猛增长。 企业对代理的应用飙升。 Grace Blackwell搭配NVLink是推理的王者。",
+          "url": "https://wallstreetcn.com/livenews/3059067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国里士满联储主席Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
           "url": "https://wallstreetcn.com/livenews/3058971",
           "source": "华尔街见闻-快讯",
@@ -956,17 +1106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
-        },
-        {
-          "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3059057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         },
         {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
@@ -991,15 +1130,15 @@
           "time_info": "01时53分"
         },
         {
-          "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
-          "url": "https://www.zhihu.com/question/1916645420085514580",
-          "source": "知乎",
+          "title": "美国证交会文件显示：英伟达表示，我们正在敲定与OpenAI的投资与合作伙伴关系协议，但无法保证一定会与OpenAI达成协议。",
+          "url": "https://flash.jin10.com/detail/20260226054442860800",
+          "source": "金十数据",
           "ranks": [
-            16
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时22分"
         },
         {
           "title": "三星高管：三星新款Galaxy S26手机融合云端与端侧AI，由自研Gauss引擎驱动。",
