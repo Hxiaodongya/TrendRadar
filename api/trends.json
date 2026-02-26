@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T18:35:34.284455+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-02-26T19:32:57.916862+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 196,
+      "match_count": 200,
       "titles": [
         {
           "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
@@ -76,6 +76,22 @@
           "time_info": "[00时57分 ~ 12时06分]"
         },
         {
+          "title": "乌友投奔日军,誓死保卫台湾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350988&amp;topic_name=%E4%B9%8C%E5%8F%8B%E6%8A%95%E5%A5%94%E6%97%A5%E5%86%9B%2C%E8%AA%93%E6%AD%BB%E4%BF%9D%E5%8D%AB%E5%8F%B0%E6%B9%BE",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7,
+            10,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时05分 ~ 19时32分]"
+        },
+        {
           "title": "福建喊话回归台湾回复收到",
           "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%96%8A%E8%AF%9D%E5%9B%9E%E5%BD%92%E5%8F%B0%E6%B9%BE%E5%9B%9E%E5%A4%8D%E6%94%B6%E5%88%B0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -100,21 +116,6 @@
           "time_info": "[00时57分 ~ 06时22分]"
         },
         {
-          "title": "乌友投奔日军,誓死保卫台湾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350988&amp;topic_name=%E4%B9%8C%E5%8F%8B%E6%8A%95%E5%A5%94%E6%97%A5%E5%86%9B%2C%E8%AA%93%E6%AD%BB%E4%BF%9D%E5%8D%AB%E5%8F%B0%E6%B9%BE",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时05分 ~ 18时35分]"
-        },
-        {
           "title": "美国从陈志案获利150亿美元",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -135,8 +136,45 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时45分 ~ 19时32分]"
+        },
+        {
+          "title": "20家日本实体被中方列入管制名单，高市早苗急了",
+          "url": "https://news.ifeng.com/c/8r3lr4eCVpZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时32分]"
+        },
+        {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时45分 ~ 18时35分]"
+          "time_info": "[15时44分 ~ 19时32分]"
+        },
+        {
+          "title": "日本网民称日本确实存在撞人族",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E6%97%A5%E6%9C%AC%E7%A1%AE%E5%AE%9E%E5%AD%98%E5%9C%A8%E6%92%9E%E4%BA%BA%E6%97%8F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时32分]"
         },
         {
           "title": "美国页岩油增长放缓，压裂服务商转向海外市场",
@@ -150,17 +188,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 05时29分]"
-        },
-        {
-          "title": "20家日本实体被中方列入管制名单，高市早苗急了",
-          "url": "https://news.ifeng.com/c/8r3lr4eCVpZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时35分]"
         },
         {
           "title": "迪士尼(DIS.N)：自今日起，美国地区的迪士尼+订阅用户将可访问美国广播公司旗下八家本地电视台的全天候直播流。",
@@ -248,7 +275,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -374,17 +401,6 @@
           "time_info": "16时34分"
         },
         {
-          "title": "日本网民称日本确实存在撞人族",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%A7%B0%E6%97%A5%E6%9C%AC%E7%A1%AE%E5%AE%9E%E5%AD%98%E5%9C%A8%E6%92%9E%E4%BA%BA%E6%97%8F%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "日本央行行长植田和男：我们的基本立场是，如果经济和物价预测实现的客观可能性有所提高，我们将继续加息。",
           "url": "https://flash.jin10.com/detail/20260226055324713800",
           "source": "金十数据",
@@ -413,7 +429,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -466,19 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时53分]"
-        },
-        {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 18时35分]"
         },
         {
           "title": "日本央行审议委员高田创：日本央行也必须注意以可持续的方式实现物价目标。",
@@ -604,6 +607,19 @@
           "time_info": "[01时53分 ~ 06时22分]"
         },
         {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时32分]"
+        },
+        {
           "title": "美国快艇闯入古巴领海，双方交火4人被打死",
           "url": "https://news.ifeng.com/c/8r3Cb63Ks2X",
           "source": "凤凰网",
@@ -718,16 +734,16 @@
           "time_info": "[09时04分 ~ 12时06分]"
         },
         {
-          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
-          "source": "澎湃新闻",
+          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
+          "url": "https://www.cls.cn/detail/2295813",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            19
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时35分]"
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时32分]"
         },
         {
           "title": "美国多州政府和企业：特朗普，退钱！",
@@ -789,6 +805,17 @@
           "time_info": "[01时53分 ~ 02时51分]"
         },
         {
+          "title": "中国男篮vs日本男篮陪看",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时32分]"
+        },
+        {
           "title": "美国亚特兰大联储主席Bostic：对美联储独立性的质疑是一个重大关切。",
           "url": "https://wallstreetcn.com/livenews/3059027",
           "source": "华尔街见闻-快讯",
@@ -837,6 +864,18 @@
           "time_info": "[03时44分 ~ 04时24分]"
         },
         {
+          "title": "中国首次启用关注名单制度，将 20 家日本实体列入关注名单，什么是关注名单制度？这意味着什么？",
+          "url": "https://www.zhihu.com/question/2010325070254452761",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 19时32分]"
+        },
+        {
           "title": "四名美国快艇乘客遭古巴海岸警卫队枪击身亡。（法新社）",
           "url": "https://wallstreetcn.com/livenews/3059024",
           "source": "华尔街见闻-快讯",
@@ -847,6 +886,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时32分]"
         },
         {
           "title": "日本首相高市早苗：完全削减消费税可能会影响公共服务。",
@@ -931,15 +982,15 @@
           "time_info": "[03时44分 ~ 05时29分]"
         },
         {
-          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
-          "url": "https://www.cls.cn/detail/2295813",
-          "source": "财联社热门",
+          "title": "中国男篮vs日本男篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "19时32分"
         },
         {
           "title": "美国副总统万斯：暂停向明尼苏达州提供部分医疗补助资金。",
@@ -1003,7 +1054,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1017,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "陪看：世预赛中国男篮vs日本",
+          "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%EF%BC%9A%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美国国务卿鲁比奥：如果我们发现古巴私营部门在“玩花样”，将任何燃料销售转给政府，这些许可证将被取消。",
@@ -1149,17 +1211,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "中国男篮vs日本男篮陪看",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "美国总检察长联盟：奈飞与华纳兄弟合并可能“带来灾难性后果”。",
@@ -1498,9 +1549,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "日本把宇树机器人改成僧侣",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：美国仍对来自其他国家的资金流动具有吸引力。",
@@ -1558,17 +1620,6 @@
           "time_info": "00时58分"
         },
         {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "美国至2月25日5年期国债竞拍-投标倍数 2.32，前值2.34。",
           "url": "https://flash.jin10.com/detail/20260226020205882800",
           "source": "金十数据",
@@ -1597,7 +1648,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -1611,6 +1662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "中国男篮对战日本首发",
+          "url": "https://www.toutiao.com/trending/7610203899647066139/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美国电动汽车公司Rivian(RIVN.O)与CrunchLabs宣布达成独家合作伙伴关系。",
@@ -1743,17 +1805,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
-        },
-        {
-          "title": "中国首次启用关注名单制度，将 20 家日本实体列入关注名单，什么是关注名单制度？这意味着什么？",
-          "url": "https://www.zhihu.com/question/2010325070254452761",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
         },
         {
           "title": "日本两年期国债收益率上升3个基点，至1.245%。",
@@ -2243,7 +2294,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -2265,11 +2316,26 @@
             4,
             3,
             1,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时57分 ~ 13时50分]"
+          "appearance_count": 16,
+          "time_info": "[00时57分 ~ 19时32分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时05分 ~ 19时32分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -2282,21 +2348,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时05分 ~ 18时35分]"
-        },
-        {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时05分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时05分 ~ 19时32分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -2310,8 +2363,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时05分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[12时05分 ~ 19时32分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -2388,9 +2441,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
+          "url": "https://www.cls.cn/detail/2295732",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 19时32分]"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -2462,18 +2528,6 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
-          "url": "https://www.cls.cn/detail/2295732",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时35分]"
-        },
-        {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美（两房）欢迎人工智能（AI）和一切创新。",
           "url": "https://wallstreetcn.com/livenews/3058976",
           "source": "华尔街见闻-快讯",
@@ -2493,8 +2547,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时35分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时32分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -2601,6 +2655,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "李彦宏：2025年是AI成为百度新核心的关键一年",
+          "url": "https://wallstreetcn.com/livenews/3059527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
           "url": "https://flash.jin10.com/detail/20260226011101407800",
           "source": "金十数据",
@@ -2656,6 +2721,28 @@
           "time_info": "06时22分"
         },
         {
+          "title": "拉加德称欧洲央行将“高度关注”AI对就业市场的影响",
+          "url": "https://wallstreetcn.com/livenews/3059521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "如何看待 Anthropic 用 AI 改写代码致 IBM 大跌？将对软件外包和咨询行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2009576994401118046",
           "source": "知乎",
@@ -2695,7 +2782,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
