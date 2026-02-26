@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:50:37.440559+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-02-26T14:45:54.916389+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 148,
+      "match_count": 160,
       "titles": [
         {
           "title": "美国指责中国曾进行核爆炸试验，外交部驳斥",
@@ -95,8 +95,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时04分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[09时04分 ~ 14时45分]"
+        },
+        {
+          "title": "美国从陈志案获利150亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
         },
         {
           "title": "美国页岩油增长放缓，压裂服务商转向海外市场",
@@ -134,17 +145,6 @@
           "time_info": "06时22分"
         },
         {
-          "title": "日本央行审议委员高田创：过去，一些海外央行不得不以相当快的速度加息，而日本则并非如此。",
-          "url": "https://flash.jin10.com/detail/20260226133212521800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
           "url": "https://wallstreetcn.com/livenews/3059035",
           "source": "华尔街见闻-快讯",
@@ -156,6 +156,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 05时29分]"
+        },
+        {
+          "title": "乌友投奔日军,誓死保卫台湾",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350988&amp;topic_name=%E4%B9%8C%E5%8F%8B%E6%8A%95%E5%A5%94%E6%97%A5%E5%86%9B%2C%E8%AA%93%E6%AD%BB%E4%BF%9D%E5%8D%AB%E5%8F%B0%E6%B9%BE",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
         },
         {
           "title": "美国财政部发布关于向古巴转售委内瑞拉产石油的常见问题解答。美国将支持发放特定许可证，允许将委内瑞拉石油转售至古巴。",
@@ -202,17 +215,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "日本央行审议委员高田创：日本央行也必须注意以可持续的方式实现物价目标。",
-          "url": "https://flash.jin10.com/detail/20260226132440631800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "美国众议院一个委员会计划未来数周围绕住房立法草案采取行动。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3059036",
           "source": "华尔街见闻-快讯",
@@ -222,29 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "乌友投奔日军,誓死保卫台湾",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350988&amp;topic_name=%E4%B9%8C%E5%8F%8B%E6%8A%95%E5%A5%94%E6%97%A5%E5%86%9B%2C%E8%AA%93%E6%AD%BB%E4%BF%9D%E5%8D%AB%E5%8F%B0%E6%B9%BE",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时50分]"
-        },
-        {
-          "title": "美国从陈志案获利150亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "日本央行行长植田和男：与1月份相比，我们对达成物价目标的时间预期未作更改，预计通胀将从当前的放缓态势中重新加速。",
@@ -278,17 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
-        },
-        {
-          "title": "日本央行审议委员高田创：欢迎政府通过增长战略和刺激政策来提振经济增长，日本央行可通过政策予以支持。",
-          "url": "https://flash.jin10.com/detail/20260226132435615800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "美国大豆出口协会CEO：稳定、可预期的美中关系至关重要",
@@ -346,17 +314,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "日本央行审议委员高田创：日本央行理解实现稳定、持续经济增长的重要性。",
-          "url": "https://flash.jin10.com/detail/20260226132327116800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "日本央行行长植田和男：我们的基本立场是，如果经济和物价预测实现的客观可能性有所提高，我们将继续加息。",
           "url": "https://flash.jin10.com/detail/20260226055324713800",
           "source": "金十数据",
@@ -377,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "日本央行审议委员高田创：（在被问及是否将继续在每次货币政策会议上提议加息时）希望根据届时的经济发展情况作出决定。",
-          "url": "https://flash.jin10.com/detail/20260226132321824800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "美国芝加哥商业交易所（CME）：Globex金属、天然气期货与期权市场暂停交易，我们正调查技术故障。",
@@ -416,6 +362,18 @@
           "time_info": "[02时51分 ~ 04时24分]"
         },
         {
+          "title": "日本央行审议委员高田创：过去，一些海外央行不得不以相当快的速度加息，而日本则并非如此。",
+          "url": "https://flash.jin10.com/detail/20260226133212521800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
+        },
+        {
           "title": "美国倾向于发放特别许可证，从而倒卖委内瑞拉石油给古巴。",
           "url": "https://wallstreetcn.com/livenews/3058980",
           "source": "华尔街见闻-快讯",
@@ -426,6 +384,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时53分]"
+        },
+        {
+          "title": "日本央行审议委员高田创：日本央行也必须注意以可持续的方式实现物价目标。",
+          "url": "https://flash.jin10.com/detail/20260226132440631800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
         },
         {
           "title": "芝商所（CME）：Globex平台的金属期货和期权市场将于美国中部时间下午1:31进入盘前阶段。",
@@ -454,6 +424,18 @@
           "time_info": "[02时51分 ~ 04时24分]"
         },
         {
+          "title": "日本央行审议委员高田创：欢迎政府通过增长战略和刺激政策来提振经济增长，日本央行可通过政策予以支持。",
+          "url": "https://flash.jin10.com/detail/20260226132435615800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
+        },
+        {
           "title": "美国针对“出售委内瑞拉石油给古巴”放宽限制。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3059004",
           "source": "华尔街见闻-快讯",
@@ -476,6 +458,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时29分]"
+        },
+        {
+          "title": "日本央行审议委员高田创：日本央行理解实现稳定、持续经济增长的重要性。",
+          "url": "https://flash.jin10.com/detail/20260226132327116800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
+        },
+        {
+          "title": "日本央行审议委员高田创：（在被问及是否将继续在每次货币政策会议上提议加息时）希望根据届时的经济发展情况作出决定。",
+          "url": "https://flash.jin10.com/detail/20260226132321824800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
         },
         {
           "title": "美股七巨头收盘播报｜周三（2月25日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报200.75点，美股盘初走高，日内绝大部分时间持续微幅震荡上行。 “超大”市值科技股指数涨1.53%，报374.60点。",
@@ -652,6 +658,18 @@
           "time_info": "[04时24分 ~ 05时29分]"
         },
         {
+          "title": "日本央行审议委员高田创：我的决策将逐次会议做出。 多种因素都会影响债券的风险溢价。 与政府的沟通十分重要。 在风险溢价过高的特殊情况下，日本央行必须准备好通过市场操作等方式采取行动。 日本央行审议委员高田创：过去一些海外央行曾不得不以相当快的速度加息，而日本目前并非如此。",
+          "url": "https://wallstreetcn.com/livenews/3059295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
+        },
+        {
           "title": "美国白宫将召集Meta等科技公司开会，讨论电力成本问题。 Anthropic、微软将于3月份前往白宫。（路透）",
           "url": "https://wallstreetcn.com/livenews/3058999",
           "source": "华尔街见闻-快讯",
@@ -686,6 +704,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时22分]"
+        },
+        {
+          "title": "日本央行审议委员高田创：通胀目标已基本实现。 很难提前知道加息的速度或终点利率水平。 将密切关注海外经济，以研判日本央行政策。 日本央行当前并未落后于通胀曲线。 汇率对通胀的影响比以往更大，汇率是影响经济的关键因素。",
+          "url": "https://wallstreetcn.com/livenews/3059287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
         },
         {
           "title": "美国商务部将于3月10日举办美国机器人制造活动。（Semafor）",
@@ -787,9 +817,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "日本40年期国债收益率下跌3.0个基点，至3.605%。",
+          "url": "https://flash.jin10.com/detail/20260226142059615800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "日本科研机构用宇树机器人诵经",
@@ -798,7 +839,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -820,7 +861,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -834,17 +875,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "日本央行审议委员高田创：我的决策将逐次会议做出。 多种因素都会影响债券的风险溢价。 与政府的沟通十分重要。 在风险溢价过高的特殊情况下，日本央行必须准备好通过市场操作等方式采取行动。 日本央行审议委员高田创：过去一些海外央行曾不得不以相当快的速度加息，而日本目前并非如此。",
-          "url": "https://wallstreetcn.com/livenews/3059295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "美国国务卿鲁比奥：向古巴私营部门出售石油一直都是合法的。",
@@ -864,7 +894,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -897,9 +927,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "尽管白宫警告称伊朗可能在几天内就能生产武器级核材料，但核专家和联合国官员表示，自去年6月美国和以色列对关键设施进行打击以来，伊朗的核计划基本停滞。",
+          "url": "https://flash.jin10.com/detail/20260226142001095800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "中国男篮vs日本男篮",
+          "url": "https://www.douyin.com/hot/2412274",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国总检察长联盟：奈飞与华纳兄弟合并可能“带来灾难性后果”。",
@@ -930,7 +982,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -996,7 +1048,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1012,15 +1064,15 @@
           "time_info": "09时04分"
         },
         {
-          "title": "日本央行审议委员高田创：通胀目标已基本实现。 很难提前知道加息的速度或终点利率水平。 将密切关注海外经济，以研判日本央行政策。 日本央行当前并未落后于通胀曲线。 汇率对通胀的影响比以往更大，汇率是影响经济的关键因素。",
-          "url": "https://wallstreetcn.com/livenews/3059287",
+          "title": "日本首相高市早苗：预计日本央行将以实现2%通胀目标为导向管理政策。 日本央行的政策并非旨在影响外汇汇率。",
+          "url": "https://wallstreetcn.com/livenews/3059315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "14时45分"
         },
         {
           "title": "美国参议院民主党人坎特威尔敦促美国众议院就航空安全法案再次进行表决。",
@@ -1062,7 +1114,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1087,6 +1139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "日本2025年新生儿数为70万人",
+          "url": "https://wallstreetcn.com/livenews/3059313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
@@ -1128,9 +1191,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "俄罗斯外交部：古巴沿海快艇事件是“美国旨在升级局势、引发冲突的侵略性挑衅”。",
+          "url": "https://flash.jin10.com/detail/20260226140952713800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国5年期国债收益率在国债拍卖后继续走高，最新报3.617%，日内上行2.1个基点。",
@@ -1161,7 +1235,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1183,9 +1257,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "欧洲复兴开发银行首席经济学家表示，美国高关税改变了贸易路线，但并未像人们担心的那样严重打击经济增长。",
+          "url": "https://flash.jin10.com/detail/20260226140050736800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国政府：上周EIA原油库存暴增约1600万桶，创2023年以来最大增幅",
@@ -1282,7 +1367,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1307,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "日本2025年新生儿数量再创新低 连续十年下降",
+          "url": "https://flash.jin10.com/detail/20260226134951360800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国2月20日当周EIA汽油库存变动 -101.1万桶，预期 -150万桶，前值 -321.3万桶。",
@@ -1348,9 +1444,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "男篮生死战迎战日本",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E7%AF%AE%E7%94%9F%E6%AD%BB%E6%88%98%E8%BF%8E%E6%88%98%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "日本两年期国债收益率上升3个基点，至1.245%。",
@@ -1395,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "消息人士：美国航空航天和芯片行业稀土短缺问题日益加剧",
+          "url": "https://flash.jin10.com/detail/20260226134425006800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国2月20日当周EIA精炼厂设备利用率变化 -2.4%，预期 0.5%，前值 1.6%。",
@@ -1447,7 +1565,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1469,7 +1587,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1505,6 +1623,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "高盛：日本央行新委员提名或降低近期加息概率",
+          "url": "https://flash.jin10.com/detail/20260226133945078800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
@@ -1661,6 +1790,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "美国赢麻了？全世界都笑了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%B5%A2%E9%BA%BB%E4%BA%86%EF%BC%9F%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%AC%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "日本央行行长植田和男：将评估12月及此前加息所带来的影响。",
           "url": "https://flash.jin10.com/detail/20260226050644392800",
           "source": "金十数据",
@@ -1689,7 +1829,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
@@ -1767,15 +1907,56 @@
           "time_info": "[00时57分 ~ 09时04分]"
         },
         {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
+        },
+        {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
           "url": "https://www.cls.cn/detail/2295374",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
+        },
+        {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 14时45分]"
         },
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -1789,28 +1970,17 @@
           "time_info": "06时22分"
         },
         {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时50分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
+            10,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
         },
         {
           "title": "Thrive Capital以2850亿美元估值投资OpenAI",
@@ -1822,20 +1992,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 13时50分]"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -1886,16 +2042,15 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
+          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
+          "url": "https://www.zhihu.com/question/2009656278029456894",
+          "source": "知乎",
           "ranks": [
-            10,
-            6
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 14时45分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -1907,17 +2062,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时29分 ~ 06时22分]"
-        },
-        {
-          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
-          "url": "https://www.zhihu.com/question/2009656278029456894",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时50分]"
         },
         {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
@@ -1953,6 +2097,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 00时58分]"
+        },
+        {
+          "title": "AI圈爆火的FARS是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时45分]"
         },
         {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
@@ -2181,18 +2337,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
-          "title": "AI圈爆火的FARS是什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
