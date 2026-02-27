@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T07:20:48.689863+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-02-27T09:04:16.257353+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 117,
+      "match_count": 138,
       "titles": [
         {
           "title": "男篮世界杯预选赛，中国男篮 87-80 逆转日本男篮，如何评价本场比赛？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "中国男篮客场逆转击败日本男篮",
@@ -40,21 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
-        },
-        {
-          "title": "中国男篮战胜日本男篮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "日本撞人族出没,女童惨遭肘击",
@@ -64,19 +52,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[01时51分 ~ 09时04分]"
         },
         {
           "title": "20家日本实体被中方列入管制名单，高市早苗急了",
           "url": "https://news.ifeng.com/c/8r3lr4eCVpZ",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
@@ -90,8 +79,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
+        },
+        {
+          "title": "中国男篮战胜日本男篮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3,
+            2,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -115,11 +119,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "日本物价居然到这种程度了",
@@ -129,11 +134,12 @@
             9,
             10,
             8,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "打不打？美伊关键性核谈判开始，危险分歧下军事冲突风险很高",
@@ -145,8 +151,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "日本队恶意伤人反吹中国犯规",
@@ -159,11 +165,13 @@
             17,
             13,
             18,
-            12
+            12,
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "日本一大学把宇树机器人改成僧侣",
@@ -176,11 +184,12 @@
             22,
             28,
             13,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 09时03分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -188,11 +197,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
@@ -203,8 +213,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "乌友投奔日军,誓死保卫台湾",
@@ -215,8 +225,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "日本男篮主场裁判争议哨不断",
@@ -258,6 +268,17 @@
           "time_info": "[01时51分 ~ 06时26分]"
         },
         {
+          "title": "FIBA竟称“中国男篮从日本偷走胜利”",
+          "url": "https://www.toutiao.com/trending/7610756058185318454/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月25日当周，美国杠杆贷款基金流出15.4亿美元，创2025年4月份以来最大。",
           "url": "https://wallstreetcn.com/livenews/3059740",
           "source": "华尔街见闻-快讯",
@@ -288,7 +309,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -389,7 +410,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -680,6 +701,17 @@
           "time_info": "[00时45分 ~ 01时51分]"
         },
         {
+          "title": "陈丽君台湾巡演人气大爆",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%8F%B0%E6%B9%BE%E5%B7%A1%E6%BC%94%E4%BA%BA%E6%B0%94%E5%A4%A7%E7%88%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
           "title": "乌克兰国家安全与国防委员会秘书乌梅罗夫：新一轮美乌谈判在日内瓦结束。下一轮会谈正在筹备中。我们特别关注了经济集团及对乌克兰的长期支持机制，与政府经济团队及美国共同深入研究了乌克兰复苏方案文件。",
           "url": "https://flash.jin10.com/detail/20260227034035907800",
           "source": "金十数据",
@@ -764,6 +796,17 @@
           "time_info": "[01时51分 ~ 02时37分]"
         },
         {
+          "title": "伊朗威胁美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
           "title": "当地时间26日晚，伊朗和美国在日内瓦举行的第三轮间接谈判在短暂休会后，开始进行第二阶段谈判。（央视）",
           "url": "https://wallstreetcn.com/livenews/3059687",
           "source": "华尔街见闻-快讯",
@@ -788,6 +831,17 @@
           "time_info": "[01时51分 ~ 02时37分]"
         },
         {
+          "title": "美国发动网攻侵占全球虚拟资产",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%8A%A8%E7%BD%91%E6%94%BB%E4%BE%B5%E5%8D%A0%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9F%E8%B5%84%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
           "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
           "url": "https://flash.jin10.com/detail/20260227012041500800",
           "source": "金十数据",
@@ -805,7 +859,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -871,7 +925,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -893,7 +947,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -915,7 +969,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -937,7 +991,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1003,7 +1057,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1041,6 +1095,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "据华尔街日报：美国检察官Jeanine Pirro正在调查美联储主席鲍威尔去年夏天就办公楼翻修工程所提供的证词。",
+          "url": "https://flash.jin10.com/detail/20260227080701982800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "美国2月20日当周EIA天然气库存变动 -520亿立方英尺，预期 -500亿立方英尺，前值 -1440亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3059668",
           "source": "华尔街见闻-快讯",
@@ -1050,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "美国将在巴西举办关键矿产行业活动",
+          "url": "https://wallstreetcn.com/livenews/3059876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "据i24NEWS：熟悉日内瓦美伊核谈判的消息人士称，美国和伊朗之间的分歧仍然很大，形势不容乐观。",
@@ -1091,7 +1167,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1116,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国贸易代表：对部分国家关税将上调，对华关税预计将维持现有水平",
+          "url": "https://flash.jin10.com/detail/20260227080350423800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "美国30年期房贷利率自2022年来首次跌破6%",
@@ -1173,6 +1260,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "日本1月零售销售 12.954万亿日元，前值14.825万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260227075904762800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "美国10年期国债收益率跌至4.01%，创11月28日以来新低。",
           "url": "https://wallstreetcn.com/livenews/3059662",
           "source": "华尔街见闻-快讯",
@@ -1217,6 +1315,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "日本政府：日本1月芯片制造设备产值环比下降12.7%。",
+          "url": "https://flash.jin10.com/detail/20260227075739387800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
           "url": "https://wallstreetcn.com/livenews/3059661",
           "source": "华尔街见闻-快讯",
@@ -1234,9 +1343,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "知情人士透露，美联储正在针对两份传票发起闭门法律挑战。这两份传票是美国检察官Jeanine Pirro对美联储主席鲍威尔进行刑事调查的一部分。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "据CGTN：乌克兰代表团离开与美国的会谈地点。",
@@ -1267,9 +1387,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "日本1月库存月率 0.1%，前值0.9%。",
+          "url": "https://flash.jin10.com/detail/20260227075228610800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国贸易代表：对“部分”国家关税将上调，对华关税预计将维持现有水平",
+          "url": "https://wallstreetcn.com/livenews/3059868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "美国将接手俄罗斯石油公司LukOil（在伊拉克等地的海外）资产的截止日期推后至4月1日。（路透）",
@@ -1305,6 +1447,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "日本1月工业产出年率初值 2.3%，预期5.00%，前值2.60%。",
+          "url": "https://flash.jin10.com/detail/20260227075116880800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "美国2月堪萨斯联储制造业综合指数 5，预期2，前值0。",
           "url": "https://flash.jin10.com/detail/20260227000250102800",
           "source": "金十数据",
@@ -1322,9 +1475,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "日本1月季调后零售销售月率 4.1%，预期1.50%，前值-2.00%。",
+          "url": "https://flash.jin10.com/detail/20260227075100394800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本至2月20日当周外资买进日债 18872亿日元，前值-3930亿日元。",
+          "url": "https://flash.jin10.com/detail/20260227075039104800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "美国联邦贸易委员会及11个州指控沃尔玛(WMT.N)就配送员的基本工资、小费和激励薪酬误导其配送司机。美国联邦贸易委员会称，沃尔玛须实施收入核查计划，以确保司机获得承诺的薪酬和小费。",
@@ -1349,6 +1524,39 @@
           "time_info": "02时37分"
         },
         {
+          "title": "日本至2月20日当周买进外国股票 4085亿日元，前值-258亿日元。",
+          "url": "https://flash.jin10.com/detail/20260227075031760800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本1月零售销售年率 1.8%，预期0.10%，前值-0.90%。",
+          "url": "https://flash.jin10.com/detail/20260227075007334800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本经济产业省：日本制造商们预计2月工业产出环比下滑0.5%，3月下滑2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3059858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：我们民主党参议员工作组将查阅所有未经删减的文件。",
           "url": "https://flash.jin10.com/detail/20260227014705810800",
           "source": "金十数据",
@@ -1358,6 +1566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "日本1月工业产出月率初值 2.2%，预期5.50%，前值-0.10%。",
+          "url": "https://flash.jin10.com/detail/20260227075006354800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "乌克兰将首次通过立陶宛港口接收美国液化天然气",
@@ -1380,12 +1599,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "日本至2月20日当周外资买进日股 4020亿日元，前值由14242亿日元修正为14280亿日元。",
+          "url": "https://flash.jin10.com/detail/20260227075002763800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "日本2月20日当周外资净买进日本股票 4020亿日元，前值 14242亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3059854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         }
       ]
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -1441,11 +1682,13 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 09时04分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -1549,6 +1792,39 @@
           "time_info": "[00时44分 ~ 01时51分]"
         },
         {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
           "url": "https://flash.jin10.com/detail/20260227025809636800",
           "source": "金十数据",
@@ -1573,6 +1849,17 @@
           "time_info": "[01时51分 ~ 02时37分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
           "title": "科技巨头2万亿美元豪赌AI",
           "url": "https://www.toutiao.com/trending/7611122303522311734/",
           "source": "今日头条",
@@ -1593,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时04分"
         },
         {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
@@ -1656,7 +1954,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1689,7 +1987,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
