@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:39:04.587521+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-02-27T15:39:21.765468+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 169,
+      "match_count": 173,
       "titles": [
         {
           "title": "男篮世界杯预选赛，中国男篮 87-80 逆转日本男篮，如何评价本场比赛？",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 15时39分]"
         },
         {
           "title": "世预赛中国男篮逆转战胜日本队",
@@ -68,11 +68,12 @@
             4,
             25,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 15时39分]"
         },
         {
           "title": "中国男篮战胜日本男篮",
@@ -86,11 +87,24 @@
             12,
             6,
             17,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 15时39分]"
+        },
+        {
+          "title": "FIBA竟称“中国男篮从日本偷走胜利”",
+          "url": "https://www.toutiao.com/trending/7610756058185318454/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时39分]"
         },
         {
           "title": "日本撞人族出没,女童惨遭肘击",
@@ -100,11 +114,12 @@
             3,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时51分 ~ 14时39分]"
+          "appearance_count": 17,
+          "time_info": "[01时51分 ~ 15时39分]"
         },
         {
           "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
@@ -120,17 +135,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 07时20分]"
-        },
-        {
-          "title": "FIBA竟称“中国男篮从日本偷走胜利”",
-          "url": "https://www.toutiao.com/trending/7610756058185318454/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时03分 ~ 14时39分]"
         },
         {
           "title": "日本队动作不当裁判吹郭士强技术犯规",
@@ -234,11 +238,12 @@
           "ranks": [
             16,
             17,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 15时39分]"
         },
         {
           "title": "乌友投奔日军,誓死保卫台湾",
@@ -249,11 +254,12 @@
             19,
             25,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 15时39分]"
         },
         {
           "title": "日本男篮主场裁判争议哨不断",
@@ -282,6 +288,39 @@
           "time_info": "[00时44分 ~ 05时24分]"
         },
         {
+          "title": "美国发动网攻侵占全球虚拟资产",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%8A%A8%E7%BD%91%E6%94%BB%E4%BE%B5%E5%8D%A0%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9F%E8%B5%84%E4%BA%A7%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时39分]"
+        },
+        {
+          "title": "美国发动网攻侵占全球虚拟资产",
+          "url": "https://www.toutiao.com/trending/7611027848742027290/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时39分]"
+        },
+        {
+          "title": "美国发动网攻侵占全球虚拟资产",
+          "url": "https://www.douyin.com/hot/2413038",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时39分]"
+        },
+        {
           "title": "为何美国（北约）没有像苏联那样研发出一种 130 毫米口径级别的加农炮或是远程火炮？",
           "url": "https://www.zhihu.com/question/1894391102779417734",
           "source": "知乎",
@@ -295,37 +334,17 @@
           "time_info": "[01时51分 ~ 06时26分]"
         },
         {
-          "title": "美国发动网攻侵占全球虚拟资产",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%8A%A8%E7%BD%91%E6%94%BB%E4%BE%B5%E5%8D%A0%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9F%E8%B5%84%E4%BA%A7%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时39分]"
-        },
-        {
-          "title": "美国发动网攻侵占全球虚拟资产",
-          "url": "https://www.toutiao.com/trending/7611027848742027290/",
+          "title": "媒体：日本男篮恶意伤人反吹中国犯规",
+          "url": "https://www.toutiao.com/trending/7610272703174000686/",
           "source": "今日头条",
           "ranks": [
-            4
+            5,
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时39分]"
-        },
-        {
-          "title": "美国发动网攻侵占全球虚拟资产",
-          "url": "https://www.douyin.com/hot/2413038",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时39分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时39分]"
         },
         {
           "title": "陈丽君台湾巡演人气爆棚",
@@ -334,18 +353,6 @@
           "ranks": [
             4,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时39分]"
-        },
-        {
-          "title": "媒体：日本男篮恶意伤人反吹中国犯规",
-          "url": "https://www.toutiao.com/trending/7610272703174000686/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            13
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -363,6 +370,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 05时24分]"
+        },
+        {
+          "title": "涉核军控协议，鲁比奥：美国会施压中国",
+          "url": "https://news.ifeng.com/c/8r5PUobxZ8j",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
@@ -431,6 +449,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2010656685698598178",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时39分]"
         },
         {
           "title": "乌克兰将首次通过立陶宛港口接收美国液化天然气",
@@ -505,7 +536,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -596,6 +627,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 05时24分]"
+        },
+        {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://www.cls.cn/detail/2296786",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
@@ -767,6 +810,19 @@
           "time_info": "[12时03分 ~ 13时44分]"
         },
         {
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时39分]"
+        },
+        {
           "title": "古巴外交部官员：自快艇事件发生以来，古巴一直与美国国务院和美国海岸警卫队保持联系。",
           "url": "https://flash.jin10.com/detail/20260227044030439800",
           "source": "金十数据",
@@ -817,30 +873,6 @@
           "time_info": "[00时44分 ~ 06时26分]"
         },
         {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://www.cls.cn/detail/2296786",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时39分]"
-        },
-        {
-          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/2010656685698598178",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时39分]"
-        },
-        {
           "title": "美国五角大楼发言人Parnell：国防部对Anthropic的要求是简单的，也是有共识的。",
           "url": "https://wallstreetcn.com/livenews/3059709",
           "source": "华尔街见闻-快讯",
@@ -854,18 +886,6 @@
           "time_info": "[02时37分 ~ 04时25分]"
         },
         {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时39分]"
-        },
-        {
           "title": "美国国防部长Hegseth将于周五前往Arkansas州的General Dynamics和L3Harris Technologies Inc.。",
           "url": "https://wallstreetcn.com/livenews/3059729",
           "source": "华尔街见闻-快讯",
@@ -877,6 +897,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 05时24分]"
+        },
+        {
+          "title": "为什么中国男篮能在缺少周琦的情况下逆转日本队？从落后 14 分到领先七分发生了什么？",
+          "url": "https://www.zhihu.com/question/2010567412026721687",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时39分]"
         },
         {
           "title": "阿曼：美国与伊朗今天的会谈结束，取得了重大进展。 经过征求（各自政府）意见之后，双方将迅速恢复磋商。 两国将于下周在维也纳举行工作层面的会谈。",
@@ -1009,17 +1041,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时37分]"
-        },
-        {
-          "title": "为什么中国男篮能在缺少周琦的情况下逆转日本队？从落后 14 分到领先七分发生了什么？",
-          "url": "https://www.zhihu.com/question/2010567412026721687",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee：希望确保通胀走势处于正轨之上。 如果通胀回落，利率今年可以下降更多。",
@@ -1351,7 +1372,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1365,6 +1386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "印度商务部长：正就贸易问题与美国进行对话，形势正在不断演变中。 印度商务部长谈美国关税：将保持观望，并确保印度的最大利益得到保护。",
+          "url": "https://wallstreetcn.com/livenews/3060054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "据美国财经媒体Semafor：Paypal(PYPL.O)目前没有出售自身的计划。",
@@ -1521,6 +1553,17 @@
           "time_info": "13时44分"
         },
         {
+          "title": "日经225指数收涨0.2%，报58850.27点，创历史新高。 日本东证指数收涨1.5%，报3938.68点。 韩国首尔综指收跌1%，报6244.13点。",
+          "url": "https://wallstreetcn.com/livenews/3060049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "美国30年期房贷利率自2022年来首次跌破6%",
           "url": "https://flash.jin10.com/detail/20260227010835558800",
           "source": "金十数据",
@@ -1574,6 +1617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
+        },
+        {
+          "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
+          "url": "https://www.zhihu.com/question/536760105",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美国至2月26日7年期国债竞拍-投标倍数 2.5，前值2.45。",
@@ -1997,7 +2051,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -2043,8 +2097,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 15时39分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -2060,8 +2114,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 15时39分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -2072,8 +2126,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时03分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时39分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -2099,8 +2153,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时03分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时39分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -2111,8 +2165,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时03分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时39分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -2121,11 +2175,37 @@
           "ranks": [
             18,
             15,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时03分 ~ 14时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 15时39分]"
+        },
+        {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            5,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时39分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
@@ -2140,29 +2220,30 @@
           "time_info": "[13时44分 ~ 14时39分]"
         },
         {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时39分]"
-        },
-        {
           "title": "硅谷“最贵华人”被OpenAI挖走",
           "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
           "source": "百度热搜",
           "ranks": [
             20,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时39分]"
+        },
+        {
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时39分]"
         },
         {
           "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
@@ -2201,17 +2282,17 @@
           "time_info": "[06时26分 ~ 07时20分]"
         },
         {
-          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
-          "url": "https://www.zhihu.com/question/2010325819092903282",
-          "source": "知乎",
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7,
-            10
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时39分]"
+          "time_info": "[13时44分 ~ 15时39分]"
         },
         {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
@@ -2250,18 +2331,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时25分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 14时39分]"
         },
         {
           "title": "中国AI调用量首次超过美国",
