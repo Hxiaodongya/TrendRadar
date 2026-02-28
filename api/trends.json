@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T11:08:57.872496+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-02-28T12:47:28.056103+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 190,
+      "match_count": 204,
       "titles": [
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时47分]"
         },
         {
           "title": "有美国入侵伊拉克时的味道了",
@@ -95,11 +95,12 @@
           "ranks": [
             11,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时47分]"
         },
         {
           "title": "美国1月PPI大超预期 三大期指集体走低 | 今夜看点",
@@ -108,11 +109,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时47分]"
         },
         {
           "title": "美国 伊朗",
@@ -181,8 +183,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时47分]"
         },
         {
           "title": "日本撞人族出没,女童惨遭肘击",
@@ -190,11 +192,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时47分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -248,6 +251,64 @@
           "time_info": "[01时25分 ~ 06时13分]"
         },
         {
+          "title": "美航母抵以色列 美伊战争风险升高",
+          "url": "https://www.toutiao.com/trending/7611553987921186347/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
+          "title": "美国再次推迟载人登月计划至2028年",
+          "url": "https://news.ifeng.com/c/8r6FmTwFhqI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
+          "title": "惊人相似！美重演伊拉克战争剧本？",
+          "url": "https://news.ifeng.com/c/8r5sRCXJ1kS",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
+          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
+          "title": "揭秘美国家黑客洗劫陈志虚拟币内幕",
+          "url": "https://www.toutiao.com/trending/7611722572937612826/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
           "title": "美国双航母已就位",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%8C%E8%88%AA%E6%AF%8D%E5%B7%B2%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -262,62 +323,28 @@
           "time_info": "[00时28分 ~ 07时16分]"
         },
         {
-          "title": "美航母抵以色列 美伊战争风险升高",
-          "url": "https://www.toutiao.com/trending/7611553987921186347/",
-          "source": "今日头条",
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
           "ranks": [
-            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
-          "title": "美国再次推迟载人登月计划至2028年",
-          "url": "https://news.ifeng.com/c/8r6FmTwFhqI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
-          "title": "惊人相似！美重演伊拉克战争剧本？",
-          "url": "https://news.ifeng.com/c/8r5sRCXJ1kS",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
-          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
-          "title": "揭秘美国家黑客洗劫陈志虚拟币内幕",
-          "url": "https://www.toutiao.com/trending/7611722572937612826/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
         },
         {
           "title": "美国能源信息署（EIA）：12月美国原油出口增至414.6万桶/日（11月为388.8万桶/日）；12月美国成品油出口总量增至351.3万桶/日，11月为335.1万桶/日；12月美国馏分油出口增至150.8万桶/日（11月为131.3万桶/日）；12月美国汽油出口降至90.3万桶/日，11月为102.3万桶/日。",
@@ -329,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "法国总统马克龙计划于四月访问日本。",
+          "url": "https://flash.jin10.com/detail/20260228123118770800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "法院文件显示，孩之宝公司已向美国提起诉讼，请求退还其向美国缴纳的所有《国际紧急经济权力法》关税。",
@@ -353,6 +391,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美国副国务卿表示支持巴基斯坦在阿富汗冲突中的立场。",
+          "url": "https://flash.jin10.com/detail/20260228122255893800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "前美国总统比尔·克林顿：对爱泼斯坦的所作所为并不知情。",
           "url": "https://wallstreetcn.com/livenews/3060435",
           "source": "华尔街见闻-快讯",
@@ -362,17 +411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "特朗普扬言：美国或“友好接管”古巴",
-          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
         },
         {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
@@ -395,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国俄勒冈州的一名联邦法官禁止移民和海关执法局（ICE）在该州进行没有合理理由的无证逮捕，称该机构的“拖网行动”违反了“明确且无争议”的法律。",
+          "url": "https://flash.jin10.com/detail/20260228120707867800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美国众议员南希·梅斯表示，商务部长卢特尼克应该向众议院监督委员会作证，回答关于他与爱泼斯坦的关系的问题。",
@@ -458,18 +507,6 @@
           "time_info": "[05时20分 ~ 07时16分]"
         },
         {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
           "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
           "url": "https://flash.jin10.com/detail/20260228051256394800",
           "source": "金十数据",
@@ -494,6 +531,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时18分 ~ 06时13分]"
+        },
+        {
+          "title": "美国金融板块周五再度爆发抛售潮 发生了什么？",
+          "url": "https://www.cls.cn/detail/2297867",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
         },
         {
           "title": "美国国务院：伊朗政权必须停止扣押人质，并立即释放所有在伊朗被不公正拘留的美国公民。伊朗采取措施将有助于解除美国当前对它的制裁指定及相关行动。",
@@ -672,6 +722,19 @@
           "time_info": "[07时16分 ~ 08时58分]"
         },
         {
+          "title": "埃及外长与美国特使通话 希望美伊谈判能够持续",
+          "url": "https://wallstreetcn.com/livenews/3060568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
           "title": "美国能源信息署（EIA）：12月美国石油产量下滑至大约1370万桶/日，创半年最低。",
           "url": "https://flash.jin10.com/detail/20260228030711427800",
           "source": "金十数据",
@@ -804,16 +867,17 @@
           "time_info": "[07时16分 ~ 08时58分]"
         },
         {
-          "title": "埃及外长与美国特使通话 希望美伊谈判能够持续",
-          "url": "https://wallstreetcn.com/livenews/3060568",
-          "source": "华尔街见闻-快讯",
+          "title": "美国英国加拿大印度紧急撤人",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%8B%B1%E5%9B%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%B0%E5%BA%A6%E7%B4%A7%E6%80%A5%E6%92%A4%E4%BA%BA",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            15
+            26,
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
         },
         {
           "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
@@ -868,6 +932,32 @@
           "time_info": "[02时26分 ~ 04时18分]"
         },
         {
+          "title": "日本围绕美国投资项目研究核工厂。（日本读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3060564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
+          "title": "从外围搞中国，美国又瞄上这个第三国",
+          "url": "https://news.ifeng.com/c/8r5wRrclpJ0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
           "title": "泽连斯基：俄罗斯是否准备结束战争，具体取决于美国",
           "url": "https://flash.jin10.com/detail/20260228044526289800",
           "source": "金十数据",
@@ -894,30 +984,6 @@
           "time_info": "[02时26分 ~ 04时18分]"
         },
         {
-          "title": "美国英国加拿大印度紧急撤人",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%8B%B1%E5%9B%BD%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%B0%E5%BA%A6%E7%B4%A7%E6%80%A5%E6%92%A4%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
-          "title": "美国金融板块周五再度爆发抛售潮 发生了什么？",
-          "url": "https://www.cls.cn/detail/2297867",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
           "title": "美国总统特朗普：不知为何，我更喜欢通过石油而不是人工智能工厂来赚钱。",
           "url": "https://flash.jin10.com/detail/20260228060327470800",
           "source": "金十数据",
@@ -928,6 +994,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 08时58分]"
+        },
+        {
+          "title": "Anthropic公司将把美国国防部告上法庭",
+          "url": "https://flash.jin10.com/detail/20260228105500085800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
         },
         {
           "title": "美国原油收涨约2.8%，纽约天然气2月累跌29%，中东原油期货累涨6.7%",
@@ -1013,6 +1091,18 @@
           "time_info": "[06时13分 ~ 07时16分]"
         },
         {
+          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
+          "url": "https://wallstreetcn.com/articles/3766388",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
           "title": "美国总统特朗普：感谢委内瑞拉，我们双方目前关系良好。",
           "url": "https://flash.jin10.com/detail/20260228055815726800",
           "source": "金十数据",
@@ -1037,28 +1127,16 @@
           "time_info": "[06时13分 ~ 07时16分]"
         },
         {
-          "title": "日本围绕美国投资项目研究核工厂。（日本读卖新闻）",
-          "url": "https://wallstreetcn.com/livenews/3060564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
-        },
-        {
-          "title": "从外围搞中国，美国又瞄上这个第三国",
-          "url": "https://news.ifeng.com/c/8r5wRrclpJ0",
-          "source": "凤凰网",
+          "title": "沙特媒体：大量美国公民离开伊拉克",
+          "url": "https://www.toutiao.com/trending/7611536347938340870/",
+          "source": "今日头条",
           "ranks": [
             9,
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
+          "time_info": "[11时08分 ~ 12时47分]"
         },
         {
           "title": "美国总统特朗普：36万桶委内瑞拉石油停在油轮里。",
@@ -1071,6 +1149,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 08时58分]"
+        },
+        {
+          "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
+          "url": "https://wallstreetcn.com/livenews/3060575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
         },
         {
           "title": "阿曼外长：与美国副总统万斯会面，讨论了美国与伊朗之间的持续谈判及迄今取得的进展。感谢美国官员的参与，并对外交进程表示乐观。",
@@ -1325,6 +1415,18 @@
           "time_info": "[02时26分 ~ 03时27分]"
         },
         {
+          "title": "美国要重演伊拉克战争剧本吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A6%81%E9%87%8D%E6%BC%94%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%98%E4%BA%89%E5%89%A7%E6%9C%AC%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，ICE棉花投机者将净空头头寸减少26508手，至48922手。",
           "url": "https://flash.jin10.com/detail/20260228043433113800",
           "source": "金十数据",
@@ -1360,15 +1462,48 @@
           "time_info": "[01时25分 ~ 01时26分]"
         },
         {
-          "title": "Anthropic公司将把美国国防部告上法庭",
-          "url": "https://flash.jin10.com/detail/20260228105500085800",
+          "title": "多国撤人航母抵以 美伊战争风险升高",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E6%92%A4%E4%BA%BA%E8%88%AA%E6%AF%8D%E6%8A%B5%E4%BB%A5+%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E9%A3%8E%E9%99%A9%E5%8D%87%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "私募信贷危机来了？美国银行股重挫",
+          "url": "https://wallstreetcn.com/articles/3766395",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美国总统特朗普：明尼苏达州自闭症补助金从2017年的1,099,946美元飙升至2024年的343,176,474美元，短短几年内增长了34,000%。这简直就是个天大的骗局。立即调查并逮捕骗子。更多索马里势力介入。加州的情况更糟。要平衡预算。",
+          "url": "https://flash.jin10.com/detail/20260228115311357800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时08分"
+          "time_info": "12时47分"
+        },
+        {
+          "title": "美国对伊朗提了4项要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BA%864%E9%A1%B9%E8%A6%81%E6%B1%82%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
@@ -1393,17 +1528,6 @@
           "time_info": "04时18分"
         },
         {
-          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
-          "url": "https://wallstreetcn.com/articles/3766388",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
           "title": "美国总统特朗普：已与普京通话，希望结束战争。我们希望与俄罗斯和乌克兰达成协议。",
           "url": "https://flash.jin10.com/detail/20260228020654949800",
           "source": "金十数据",
@@ -1415,15 +1539,15 @@
           "time_info": "02时26分"
         },
         {
-          "title": "沙特媒体：大量美国公民离开伊拉克",
-          "url": "https://www.toutiao.com/trending/7611536347938340870/",
-          "source": "今日头条",
+          "title": "中国男篮绝境逆转日本纪录片",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E7%BB%9D%E5%A2%83%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时08分"
+          "time_info": "12时47分"
         },
         {
           "title": "民调：同情巴勒斯坦人的美国人25年来首次多于同情以色列人的美国人",
@@ -1470,17 +1594,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
-          "url": "https://wallstreetcn.com/livenews/3060575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
           "title": "美国前总统克林顿在众议院小组委员会就与爱泼斯坦的关系作证。",
           "url": "https://flash.jin10.com/detail/20260228000729981800",
           "source": "金十数据",
@@ -1512,6 +1625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "美国航空航天局（NASA）：水星、金星、海王星、土星、天王星和木星将于周六出现罕见的“六星连珠”现象。",
+          "url": "https://flash.jin10.com/detail/20260228113805881800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
@@ -1567,6 +1691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国阴阳冬奥,岛国惨遭无视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351102&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%98%B4%E9%98%B3%E5%86%AC%E5%A5%A5%2C%E5%B2%9B%E5%9B%BD%E6%83%A8%E9%81%AD%E6%97%A0%E8%A7%86",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美国众议院议长约翰逊：在不到100天的时间里，民主党第三次将美国人的生命和生计置于危险之中——为了非法移民的辩护。民主党需要停止这些把戏，认真履行他们的职责。",
@@ -1657,6 +1792,17 @@
           "time_info": "04时18分"
         },
         {
+          "title": "美国国土安全部“停摆”进入第三周",
+          "url": "https://flash.jin10.com/detail/20260228111411957800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "英国《金融时报》近日爆料称，美国国防部正在寻求美国人工智能企业的合作，以研发出可以对中国的电网等关键基础设施实施攻击的智能化网络战工具。（环球时报）",
           "url": "https://wallstreetcn.com/livenews/3060391",
           "source": "华尔街见闻-快讯",
@@ -1718,7 +1864,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -1762,7 +1908,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -1839,7 +1985,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -1864,17 +2010,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美国要重演伊拉克战争剧本吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A6%81%E9%87%8D%E6%BC%94%E4%BC%8A%E6%8B%89%E5%85%8B%E6%88%98%E4%BA%89%E5%89%A7%E6%9C%AC%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
         },
         {
           "title": "市场消息：所有美国空军加油机已从卡塔尔乌代德空军基地撤离。",
@@ -1963,6 +2098,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "复盘中国男篮逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，COMEX白银期货投机者净多头头寸增加1822手，至7981手。",
@@ -2070,7 +2216,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -2130,6 +2276,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "撞人族是日本特有",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BA%BA%E6%97%8F%E6%98%AF%E6%97%A5%E6%9C%AC%E7%89%B9%E6%9C%89%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥将于3月2日至3日访问以色列，将讨论伊朗、黎巴嫩和加沙问题。",
           "url": "https://flash.jin10.com/detail/20260227233508959800",
           "source": "金十数据",
@@ -2158,7 +2315,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -2207,6 +2364,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美国企图取消中国最惠国待遇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%81%E5%9B%BE%E5%8F%96%E6%B6%88%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%83%A0%E5%9B%BD%E5%BE%85%E9%81%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "美国总统特朗普：伊朗最好聪明点，达成协议。",
           "url": "https://flash.jin10.com/detail/20260228014247967800",
           "source": "金十数据",
@@ -2243,7 +2411,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -2294,8 +2462,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时25分 ~ 11时08分]"
+          "appearance_count": 14,
+          "time_info": "[01时25分 ~ 12时47分]"
         },
         {
           "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
@@ -2303,11 +2471,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时47分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -2315,11 +2484,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时47分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -2370,22 +2540,12 @@
             9,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时19分 ~ 11时08分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
-          "url": "https://flash.jin10.com/detail/20260228110043453800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "appearance_count": 8,
+          "time_info": "[05时19分 ~ 12时47分]"
         },
         {
           "title": "中国AI调用量超越美国",
@@ -2402,37 +2562,27 @@
           "time_info": "[05时19分 ~ 08时58分]"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
-          "url": "https://flash.jin10.com/detail/20260228105851301800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
-          "url": "https://flash.jin10.com/detail/20260228105836118800",
-          "source": "金十数据",
+          "title": "中国AI跑出马年加速度",
+          "url": "https://www.douyin.com/hot/2414159",
+          "source": "抖音",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时08分"
+          "time_info": "12时47分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
-          "url": "https://flash.jin10.com/detail/20260228105824885800",
-          "source": "金十数据",
+          "title": "外媒爆料：美军想用AI攻击中国电网",
+          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
+          "source": "凤凰网",
           "ranks": [
-            4
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -2441,20 +2591,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时08分"
+          "time_info": "12时47分"
         },
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -2470,16 +2620,65 @@
           "time_info": "[02时26分 ~ 04时18分]"
         },
         {
-          "title": "外媒爆料：美军想用AI攻击中国电网",
-          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
-          "source": "凤凰网",
+          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
+          "url": "https://flash.jin10.com/detail/20260228110043453800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            5
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
+          "title": "AI算力需求驱动光纤行业步入景气周期",
+          "url": "https://wallstreetcn.com/livenews/3060569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
+          "url": "https://flash.jin10.com/detail/20260228105851301800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
+          "url": "https://flash.jin10.com/detail/20260228105836118800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
+          "url": "https://flash.jin10.com/detail/20260228105824885800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
         },
         {
           "title": "周五（2月27日），存储芯片与硬件供应链指数跌1.58%，报111.75点，本周累计下跌2.24%，2月份累计上涨7.84%，整体呈现出V形反转——2月4日显著回落、随后持续回升。 信息科技指数累跌1.38%，报272.08点。 人工智能（AI）赢家指数累跌1.34%，报287.55点。 AI软件先驱指数累跌8.95%，报98.02点。",
@@ -2494,16 +2693,16 @@
           "time_info": "[06时13分 ~ 07时16分]"
         },
         {
-          "title": "AI算力需求驱动光纤行业步入景气周期",
-          "url": "https://wallstreetcn.com/livenews/3060569",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            14
+            5,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
+          "time_info": "[11时08分 ~ 12时47分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -2518,6 +2717,19 @@
           "time_info": "[03时27分 ~ 04时18分]"
         },
         {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 12时47分]"
+        },
+        {
           "title": "微软考虑为Microsoft 365推出人工智能（AI）软件组合。 该公司可能会宣布大改软件组合。 微软可能会对用户收取高达99美元的月费。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3060540",
           "source": "华尔街见闻-快讯",
@@ -2530,16 +2742,28 @@
           "time_info": "[07时16分 ~ 08时58分]"
         },
         {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
           "ranks": [
-            13,
-            10
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 11时08分]"
+          "time_info": "[11时08分 ~ 12时47分]"
+        },
+        {
+          "title": "AI提供的虚拟微信号加到了真人",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时47分]"
         },
         {
           "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
@@ -2554,6 +2778,28 @@
           "time_info": "[08时58分 ~ 11时08分]"
         },
         {
+          "title": "英伟达计划推出新芯片以加快AI处理速度",
+          "url": "https://wallstreetcn.com/livenews/3060590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://wallstreetcn.com/livenews/3060587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -2565,26 +2811,15 @@
           "time_info": "08时58分"
         },
         {
-          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
-          "url": "https://www.zhihu.com/question/2010773992567481420",
-          "source": "知乎",
+          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
+          "url": "https://flash.jin10.com/detail/20260228110554688800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "AI提供的虚拟微信号加到了真人",
-          "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "time_info": "12时47分"
         },
         {
           "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
@@ -2598,6 +2833,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
+          "url": "https://www.zhihu.com/question/2009928728206149091",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
           "title": "强硬回应AI军用分歧：特朗普称Anthropic做错了，要求所有部门停止采用Anthropic的技术",
           "url": "https://wallstreetcn.com/livenews/3060501",
           "source": "华尔街见闻-快讯",
@@ -2607,6 +2853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "印度一公司拟利用英伟达GPU构建20亿美元AI中心并上市",
+          "url": "https://wallstreetcn.com/livenews/3060601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
