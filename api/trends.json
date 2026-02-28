@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T19:11:35.355361+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-02-28T20:23:14.228745+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争 日本 美国 军事冲突 台湾 台海",
-      "match_count": 283,
+      "match_count": 294,
       "titles": [
         {
           "title": "揭秘美国家黑客洗劫陈志虚拟币内幕",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时08分 ~ 19时11分]"
+        },
+        {
+          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 20时23分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -55,19 +69,6 @@
           "time_info": "[00时28分 ~ 07时16分]"
         },
         {
-          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 19时11分]"
-        },
-        {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
           "url": "https://wallstreetcn.com/articles/3766396",
           "source": "华尔街见闻",
@@ -77,8 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 20时23分]"
         },
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -150,6 +151,20 @@
           "time_info": "[08时58分 ~ 15时19分]"
         },
         {
+          "title": "私募信贷危机来了？美国银行股重挫",
+          "url": "https://wallstreetcn.com/articles/3766395",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 20时23分]"
+        },
+        {
           "title": "美国金融板块周五再度爆发抛售潮 发生了什么？",
           "url": "https://www.cls.cn/detail/2297867",
           "source": "财联社热门",
@@ -163,19 +178,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[08时58分 ~ 18时13分]"
-        },
-        {
-          "title": "私募信贷危机来了？美国银行股重挫",
-          "url": "https://wallstreetcn.com/articles/3766395",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时47分 ~ 19时11分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -239,6 +241,24 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 08时58分]"
+        },
+        {
+          "title": "美国阴阳冬奥,岛国惨遭无视",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351102&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%98%B4%E9%98%B3%E5%86%AC%E5%A5%A5%2C%E5%B2%9B%E5%9B%BD%E6%83%A8%E9%81%AD%E6%97%A0%E8%A7%86",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            15,
+            18,
+            22,
+            25,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 20时23分]"
         },
         {
           "title": "大量美国人离开伊拉克",
@@ -324,22 +344,29 @@
           "time_info": "[00时28分 ~ 07时16分]"
         },
         {
-          "title": "美国阴阳冬奥,岛国惨遭无视",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351102&amp;topic_name=%E7%BE%8E%E5%9B%BD%E9%98%B4%E9%98%B3%E5%86%AC%E5%A5%A5%2C%E5%B2%9B%E5%9B%BD%E6%83%A8%E9%81%AD%E6%97%A0%E8%A7%86",
+          "title": "美国出兵,联手以军炸伊朗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351135&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%85%B5%2C%E8%81%94%E6%89%8B%E4%BB%A5%E5%86%9B%E7%82%B8%E4%BC%8A%E6%9C%97",
           "source": "贴吧",
           "ranks": [
-            11,
-            12,
-            15,
-            18,
-            22,
-            25,
-            26,
-            30
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时23分]"
+        },
+        {
+          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
+          "url": "https://wallstreetcn.com/articles/3766388",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时47分 ~ 19时11分]"
+          "time_info": "[11时08分 ~ 20时23分]"
         },
         {
           "title": "美国建议美公民尽快离开以色列",
@@ -384,40 +411,69 @@
           "time_info": "[08时58分 ~ 14时23分]"
         },
         {
-          "title": "美国出兵,联手以军炸伊朗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351135&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%85%B5%2C%E8%81%94%E6%89%8B%E4%BB%A5%E5%86%9B%E7%82%B8%E4%BC%8A%E6%9C%97",
-          "source": "贴吧",
+          "title": "伊朗打击美国中东军事基地",
+          "url": "https://www.douyin.com/hot/2414519",
+          "source": "抖音",
           "ranks": [
-            2,
-            3
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 20时23分]"
+        },
+        {
+          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
+          "url": "https://www.zhihu.com/question/2011015637259028204",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            14,
+            6,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 20时23分]"
+        },
+        {
+          "title": "伊朗打击美国中东军事基地",
+          "url": "https://www.toutiao.com/trending/7611826417433575434/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时11分]"
+          "time_info": "[19时11分 ~ 20时23分]"
         },
         {
           "title": "滚动直播：美伊战争打响",
           "url": "https://www.toutiao.com/trending/7610792671250186303/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时23分]"
         },
         {
-          "title": "意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧",
-          "url": "https://wallstreetcn.com/articles/3766388",
-          "source": "华尔街见闻",
+          "title": "伊朗正在打击美国军事基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            9,
-            10
+            12,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 20时23分]"
         },
         {
           "title": "美国双航母已就位",
@@ -434,30 +490,16 @@
           "time_info": "[00时28分 ~ 07时16分]"
         },
         {
-          "title": "伊朗打击美国中东军事基地",
-          "url": "https://www.douyin.com/hot/2414519",
-          "source": "抖音",
+          "title": "伊朗正在打击美国军事基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
+            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
-        },
-        {
-          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
-          "url": "https://www.zhihu.com/question/2011015637259028204",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            14,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 20时23分]"
         },
         {
           "title": "美国英国加拿大印度紧急撤人",
@@ -472,6 +514,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时58分 ~ 14时23分]"
+        },
+        {
+          "title": "以色列称已对伊朗发动二次袭击，为什么是以色列而不是美国率先对伊朗发动打击？伊朗将如何回击？",
+          "url": "https://www.zhihu.com/question/2011083864420918918",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 20时23分]"
         },
         {
           "title": "美国能源信息署（EIA）：12月美国原油出口增至414.6万桶/日（11月为388.8万桶/日）；12月美国成品油出口总量增至351.3万桶/日，11月为335.1万桶/日；12月美国馏分油出口增至150.8万桶/日（11月为131.3万桶/日）；12月美国汽油出口降至90.3万桶/日，11月为102.3万桶/日。",
@@ -533,6 +589,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时47分 ~ 17时17分]"
+        },
+        {
+          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
+          "url": "https://www.zhihu.com/question/2011129557315511537",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 20时23分]"
         },
         {
           "title": "法院文件显示，孩之宝公司已向美国提起诉讼，请求退还其向美国缴纳的所有《国际紧急经济权力法》关税。",
@@ -623,15 +692,15 @@
           "time_info": "06时13分"
         },
         {
-          "title": "伊朗打击美国中东军事基地",
-          "url": "https://www.toutiao.com/trending/7611826417433575434/",
-          "source": "今日头条",
+          "title": "阿曼外交部长敦促美国“不要进一步卷入”，并表示“这并不是你们的战争”。",
+          "url": "https://flash.jin10.com/detail/20260228200757270800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时23分"
         },
         {
           "title": "美国众议员南希·梅斯表示，商务部长卢特尼克应该向众议院监督委员会作证，回答关于他与爱泼斯坦的关系的问题。",
@@ -673,9 +742,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
+        },
+        {
+          "title": "法国总统马克龙：美国、以色列与伊朗之间的战争爆发，将对国际和平与安全造成严重后果。",
+          "url": "https://flash.jin10.com/detail/20260228200723405800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "据四位贸易消息人士透露，受美国对伊朗袭击影响，数家主要石油公司和贸易商暂停通过霍尔木兹海峡运输石油和燃料。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3060847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国正从空中和海上打击伊朗",
@@ -1108,30 +1199,6 @@
           "time_info": "[07时16分 ~ 08时58分]"
         },
         {
-          "title": "伊朗正在打击美国军事基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
-        },
-        {
-          "title": "伊朗正在打击美国军事基地",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E6%89%93%E5%87%BB%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
-        },
-        {
           "title": "美国国防部长：自即日起，任何与美国军方有业务往来的承包商、供应商或合作伙伴不得与Anthropic开展任何商业活动。",
           "url": "https://flash.jin10.com/detail/20260228062022598800",
           "source": "金十数据",
@@ -1166,18 +1233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 08时58分]"
-        },
-        {
-          "title": "伊朗军队正在对美国中东地区的军事基地实施打击，战火会蔓延至其他国家吗？中东各国有何反应？",
-          "url": "https://www.zhihu.com/question/2011129557315511537",
-          "source": "知乎",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "撞人族是日本特有",
@@ -1263,20 +1318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 08时58分]"
-        },
-        {
-          "title": "以色列称已对伊朗发动二次袭击，为什么是以色列而不是美国率先对伊朗发动打击？伊朗将如何回击？",
-          "url": "https://www.zhihu.com/question/2011083864420918918",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时11分]"
         },
         {
           "title": "Anthropic：尚未收到来自美国国防部和白宫的信息。 不会被恐吓而改变立场。 将在法庭上挑战“供应链风险”这一认定。",
@@ -1625,6 +1666,17 @@
           "time_info": "[06时13分 ~ 07时16分]"
         },
         {
+          "title": "胡锡进：战争烈度空前，绝对你死我活",
+          "url": "https://news.ifeng.com/c/8r7OC8YDYPQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
           "title": "沙特媒体：大量美国公民离开伊拉克",
           "url": "https://www.toutiao.com/trending/7611536347938340870/",
           "source": "今日头条",
@@ -1901,6 +1953,17 @@
           "time_info": "[05时20分 ~ 06时13分]"
         },
         {
+          "title": "释疑｜边谈判边“磨刀”，美国若打击伊朗会盯上哪些目标？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667281",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，投机者将CBOT美国2年期国债期货的净空头头寸增加113628手，至1348036手；将美国5年期国债期货的净空头头寸削减92311手，至2064931手；将美国10年期国债期货的净空头头寸削减103833手，至774020手。",
           "url": "https://flash.jin10.com/detail/20260228043549402800",
           "source": "金十数据",
@@ -1923,6 +1986,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 03时27分]"
+        },
+        {
+          "title": "位于巴林的美国第五舰队服务中心遭导弹袭击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32672815",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，ICE棉花投机者将净空头头寸减少26508手，至48922手。",
@@ -2021,7 +2095,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -2065,7 +2139,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -2109,7 +2183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -2211,6 +2285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "四位贸易消息人士称，鉴于美国对伊朗发动袭击，多家石油巨头和贸易公司已暂停经由霍尔木兹海峡的石油及成品油运输。",
+          "url": "https://flash.jin10.com/detail/20260228200333443800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国30年期国债收益率跌至4.63%，创10月份以来新低。",
@@ -2329,7 +2414,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -2384,7 +2469,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -2648,7 +2733,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -2673,6 +2758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "日本航空：已取消东京羽田机场与多哈之间的航班，取消时间持续至3月3日。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3060835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "市场消息：所有美国空军加油机已从卡塔尔乌代德空军基地撤离。",
@@ -2728,6 +2824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "法国总统马克龙：美以与伊朗之间一旦爆发战争，将对和平与国际安全造成严重后果。",
+          "url": "https://flash.jin10.com/detail/20260228195815896800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）今天将进行额外会谈。",
@@ -3038,6 +3145,17 @@
           "time_info": "17时17分"
         },
         {
+          "title": "科索沃外交部支持美国总统特朗普对伊朗的打击。",
+          "url": "https://flash.jin10.com/detail/20260228195128867800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国2月芝加哥PMI 57.7，预期 52.1，前值 54。",
           "url": "https://wallstreetcn.com/livenews/3060379",
           "source": "华尔街见闻-快讯",
@@ -3113,6 +3231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "安保消息人士：伊拉克库尔德斯坦地区埃尔比勒市美国领事馆上空拦截多枚火箭弹。",
+          "url": "https://flash.jin10.com/detail/20260228194812886800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥将于3月2日至3日访问以色列，将讨论伊朗、黎巴嫩和加沙问题。",
@@ -3349,7 +3478,7 @@
     },
     {
       "keyword_group": "ai AI IDE 编辑器",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -3402,8 +3531,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时19分 ~ 19时11分]"
+          "appearance_count": 18,
+          "time_info": "[05时19分 ~ 20时23分]"
         },
         {
           "title": "中国AI跑出马年加速度",
@@ -3513,6 +3642,20 @@
           "time_info": "[08时58分 ~ 15时19分]"
         },
         {
+          "title": "AI冲击之下，新一轮“次贷危机”来了？",
+          "url": "https://wallstreetcn.com/articles/3766407",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时23分]"
+        },
+        {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
           "url": "https://wallstreetcn.com/articles/3766293",
           "source": "华尔街见闻",
@@ -3543,19 +3686,6 @@
           "time_info": "[11时08分 ~ 19时11分]"
         },
         {
-          "title": "AI冲击之下，新一轮“次贷危机”来了？",
-          "url": "https://wallstreetcn.com/articles/3766407",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时11分]"
-        },
-        {
           "title": "解读OpenAI获千亿美元投资背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
@@ -3567,8 +3697,22 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 20时23分]"
+        },
+        {
+          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
+          "url": "https://www.cls.cn/detail/2298037",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时23分 ~ 19时11分]"
+          "time_info": "[16时16分 ~ 20时23分]"
         },
         {
           "title": "中国AI调用量超越美国",
@@ -3734,20 +3878,6 @@
           "time_info": "[03时27分 ~ 04时18分]"
         },
         {
-          "title": "证监会外资座谈释放信号 财联社实探外资圈：对中国资产告别观望，主动增配！AI投资暗藏新逻辑",
-          "url": "https://www.cls.cn/detail/2298037",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时11分]"
-        },
-        {
           "title": "英伟达计划推出新芯片以加快AI处理速度",
           "url": "https://wallstreetcn.com/livenews/3060590",
           "source": "华尔街见闻-快讯",
@@ -3772,6 +3902,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 14时23分]"
+        },
+        {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时23分]"
         },
         {
           "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
@@ -3807,6 +3949,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时26分]"
+        },
+        {
+          "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
+          "url": "https://www.zhihu.com/question/2010359733668832775",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 20时23分]"
         },
         {
           "title": "摩根大通：高达1500亿美元CLO贷款面临来自人工智能（AI）的风险。",
@@ -3853,17 +4006,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
-          "url": "https://www.cls.cn/detail/2298126",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
         },
         {
           "title": "美国总统特朗普：就赚钱而言，相比众多人工智能（AI）工厂、我更喜欢石油。 就打压美国价格而言，降低能源成本是最重要的事情之一。",
